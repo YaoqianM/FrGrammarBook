@@ -1,0 +1,15 @@
+{
+  "name": "fr-grammar-book",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "python3 tools/build.py && node tools/render.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.56.0",
+    "@fontsource/source-serif-4": "^5.0.0",
+    "@fontsource/noto-sans-sc": "^5.0.0",
+    "@fontsource/noto-serif-sc": "^5.0.0",
+    "@fontsource/inter": "^5.0.0"
+  }
+}
