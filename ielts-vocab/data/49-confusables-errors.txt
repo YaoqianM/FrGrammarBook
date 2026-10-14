@@ -1,0 +1,156 @@
+@unit 49
+@title Confusing Words & Common Errors
+@zh 高级易混词与常见错误
+@level B2–C1 · 高分精修（重点单元）
+@intro 前面各单元已经辨析了几十组易混词（汇总见第 5 册“易混词速查表”）。本单元集中处理剩下的**高频陷阱**：拼写或读音相近的词、中文思维导致的搭配错误，以及 IELTS 写作中最常见的用词错误。每个词条的中文释义后面都直接点出“坑”在哪里。
+
+## 1 · Words that look or sound alike · 形近词与音近词
+
+- loose | adj. | 松的；宽松的 | a loose shirt; come loose | My shoes are too loose.
+  ipa: /luːs/
+  note: *loose* /luːs/（松的，形容词）vs. *lose* /luːz/（丢失；输，动词）。✗ *I don't want to loose the game.* → ✓ *lose*。
+- lay | v. | 放置；下（蛋）；铺设 | lay sth on the table; lay eggs | Lay the map on the table. // Hens lay eggs.
+  note: 经典难点：*lie – lay – lain*（躺，不及物）vs. *lay – laid – laid*（放置，及物，后面要有宾语）。*I lay in bed all morning*（我在床上躺了一上午，lie 的过去式）vs. *I laid the book on the desk*（我把书放在桌上）。另：*lie – lied – lied*（说谎）。
+- complement | v. / n. | 补充；与……相配；补足物 | complement each other | The wine complements the food perfectly. // Their skills complement each other. | W
+  ipa: /ˈkɒmplɪment/
+  note: *complement*（互补、相配）vs. *compliment*（赞美）——只差一个字母。记法：com**ple**ment 和 com**ple**te（完整）有关。
+- compliment | n. / v. | 赞美；恭维 | pay sb a compliment | She paid me a lovely compliment. | S
+  fam: complimentary (adj., 赞美的；免费赠送的)
+- stationary | adj. | 静止的；不动的 | a stationary car | The car was stationary when the bus hit it. | W
+  note: *station**a**ry*（静止的，a = standing still?）vs. *station**e**ry*（文具，e = envelopes）。
+- stationery | n. | 文具 | — | The shop sells books and stationery.
+- personnel | n. | 全体人员；人事部门 | military/medical personnel | All personnel must wear ID cards. | W
+  ipa: /ˌpɜːsəˈnel/
+  note: *personal* /ˈpɜːsənl/（个人的）vs. *personnel* /ˌpɜːsəˈnel/（人员，重音在最后）。
+- proceed | v. | 继续进行；前往 | proceed with sth; proceed to do sth | After the break, the meeting proceeded as planned. | W
+  ipa: /prəˈsiːd/
+  fam: procedure (n.) · process (n.)
+  note: *proceed*（继续进行）vs. *precede*（在……之前，见 Unit 38）。
+- eminent | adj. | 著名的；杰出的 | an eminent scientist | An eminent professor gave the opening speech. | W
+  note: *eminent*（著名的）vs. *imminent*（即将发生的，多为坏事）：*an imminent storm*。
+- imminent | adj. | 即将发生的；迫近的 | imminent danger; be imminent | Scientists warned that an eruption was imminent. | W
+- discrete | adj. | 分离的；离散的 | discrete stages/units | The process can be divided into discrete stages. | W
+  note: *discrete*（分开的、各自独立的，学术用语）vs. *discreet*（谨慎的、不张扬的）：*Please be discreet — don't tell anyone.*
+- discreet | adj. | 谨慎的；不张扬的 | — | He made a discreet enquiry about the job.
+- morale | n. | 士气；斗志 | boost/low morale | The win boosted the team's morale.
+  ipa: /məˈrɑːl/
+  note: *morale* /məˈrɑːl/（士气）vs. *moral* /ˈmɒrəl/（道德的，见 Unit 36）。
+- prosecute | v. | 起诉；检控 | be prosecuted for sth | Shoplifters will be prosecuted. | W
+  fam: prosecution (n.) · prosecutor (n.)
+  note: *prosecute*（依法起诉）vs. *persecute*（迫害，因种族、宗教等原因）。
+- elicit | v. | 引出；探出（反应、信息） | elicit a response/information | The question failed to elicit a response. | W
+  note: *elicit*（引出）vs. *illicit*（非法的、不正当的：*illicit drugs*）。
+- defuse | v. | 缓和（局势）；拆除（炸弹的）引信 | defuse a situation/tension | The teacher defused the argument with a joke. | W
+  note: *defuse*（缓和紧张局势）vs. *diffuse*（扩散、传播：*diffuse knowledge*；也作形容词“分散的”）。
+- formally | adv. | 正式地 | — | The new library was formally opened by the mayor. | W
+  note: *formally*（正式地）vs. *formerly*（以前、从前）：*Myanmar was formerly called Burma.*
+- formerly | adv. | 以前；从前 | — | The building was formerly a factory. | W
+- whether | conj. | 是否 | whether or not | I don't know whether it will rain.
+  note: *whether*（是否）vs. *weather*（天气）——同音不同义，拼写检查发现不了。
+- farther | adj. / adv. | 更远的（距离） | — | The station is farther than I thought.
+  note: *farther* 只用于物理距离；*further* 既可表示距离，又可表示“进一步的、更多的”：*further information*、*further research*。不确定时用 *further* 一般不会错。
+- further | adj. / adv. / v. | 更远；进一步的；促进 | further information/research/education; further your career | For further information, visit our website. | W
+- continual | adj. | 不断重复的；频繁的（有间断） | continual interruptions | I'm tired of your continual complaints. | W
+  note: *continual*（反复发生，中间有停顿）vs. *continuous*（持续不断、没有中断）：*continual phone calls*（电话一个接一个）vs. *continuous rain*（雨一直下）。
+- continuous | adj. | 连续的；不间断的 | continuous growth/improvement | The machine makes a continuous noise. | W
+- alternate | adj. / v. | 交替的；轮流；隔一个的 | on alternate days; alternate between A and B | We go swimming on alternate days. | W
+  ipa: /ɔːlˈtɜːnət/ (adj.) · /ˈɔːltəneɪt/ (v.)
+  note: *alternate*（交替的、隔一天的）vs. *alternative*（可替代的、另一种选择，见 Unit 39）。
+- respectfully | adv. | 恭敬地；尊重地 | — | The students listened respectfully. | W
+  note: *respectfully*（恭敬地）vs. *respectively*（分别地，见 Unit 41）——写作中常被混用！
+- classic | adj. / n. | 经典的；典型的；名著 | a classic example; a classic film | This is a classic example of poor planning.
+  note: *classic*（经典的、典型的）vs. *classical*（古典的、传统的：*classical music*、*classical Chinese*）。
+- classical | adj. | 古典的；经典的（传统形式） | classical music/literature | She plays classical piano.
+- electrical | adj. | 电的；与电有关的 | electrical appliances/engineering | He studies electrical engineering.
+  note: *electric*（用电的、电动的：*an electric car, an electric guitar*；也比喻“激动人心的”）vs. *electrical*（与电相关的总称：*electrical equipment*、*an electrical fault*）。
+- uninterested | adj. | 不感兴趣的 | uninterested in sth | He seemed completely uninterested in the lesson.
+  note: *uninterested*（不感兴趣的）vs. *disinterested*（公正无私的、无利害关系的：*a disinterested judge*）。现代口语中 *disinterested* 也常被用作“不感兴趣”，但正式写作中最好区分。
+- disinterested | adj. | 公正的；无私的 | disinterested advice | We need a disinterested person to settle the argument. | W
+- assure | v. | 向……保证；使确信 | assure sb that…; rest assured | I can assure you that the food is fresh. | W
+  fam: assurance (n.)
+  note: *assure*（向**人**保证）、*ensure*（确保**某事**发生，见 Unit 38）、*insure*（为……投保）。*I assure you that we will ensure your car is insured.*
+- everyday | adj. | 日常的；普通的 | everyday life; everyday objects | Smartphones have become part of everyday life.
+  note: *everyday*（一个词，形容词，放名词前）vs. *every day*（两个词，副词短语：每天）。✓ *I exercise every day.* ✓ *everyday activities*。✗ *I go to school everyday.*
+- maybe | adv. | 也许；可能 | — | Maybe we should leave earlier. | S
+  note: *maybe*（一个词，副词：也许）vs. *may be*（情态动词 + be：可能是）。*Maybe he is right* = *He may be right*。
+- altogether | adv. | 完全；总共；总之 | — | The new building is altogether different. // That will be 50 yuan altogether.
+  note: *altogether*（完全、总共）vs. *all together*（大家一起）：*Let's sing it all together.*
+- sometimes | adv. | 有时 | — | Sometimes I walk to school.
+  note: *sometimes*（有时）vs. *sometime*（某个时候：*Let's meet sometime next week*）vs. *some time*（一段时间：*It took some time to finish*）。
+
+@cmp advice · advise / practice · practise / licence · license
+advice | 名词（不可数）：建议，读 /ədˈvaɪs/ | She gave me some good advice.
+advise | 动词：建议，读 /ədˈvaɪz/ | I advise you to see a doctor.
+practice / practise | 英式：名词 practice，动词 practise | I need more practice. // I practise every day.
+licence / license | 英式：名词 licence，动词 license；美式两者都写 license | a driving licence
+note: 英式拼写规律：名词用 c，动词用 s（*advice/advise* 两种拼写在英美都适用）。
+@end
+
+## 2 · Collocation errors from Chinese thinking · 中文思维导致的搭配错误
+
+- lack | v. / n. | 缺乏；缺少 | lack sth; a lack of sth; for lack of | Many schools lack basic equipment. // There is a lack of affordable housing. | W
+  note: 动词 *lack* 直接带宾语：✗ *lack of money*（作动词时）→ ✓ *They lack money* / ✓ *a lack of money*（名词）。形容词 *be lacking in*：*He is lacking in confidence.*
+- marry | v. | 和……结婚 | marry sb; get married to sb | She married a doctor. // They got married last year.
+  note: ✗ *marry with sb* → ✓ *marry sb* / *get married to sb*。
+- enter | v. | 进入；参加（比赛） | enter a room/university/a competition | She entered university at 17.
+  note: 表示“进入”时直接带宾语：✗ *enter into the room* → ✓ *enter the room*（*enter into* 用于正式的“开始（谈判、协议）”：*enter into negotiations*）。
+- reach | v. | 到达；达到；够到 | reach a destination/an agreement/a decision | We reached the top of the mountain at noon.
+  note: ✗ *reach to the station* → ✓ *reach the station* / *arrive at the station* / *get to the station*。
+- contact | v. / n. | 联系；接触 | contact sb; be in contact with sb | Please contact us by email. // I lost contact with her after school.
+  note: 动词直接带宾语：✗ *contact with me* → ✓ *contact me*。名词才用 *with*：*keep in contact with sb*。
+- suggest | v. | 建议；表明；暗示 | suggest doing sth; suggest that sb (should) do sth | I suggest taking a taxi. // The teacher suggested that we start earlier.
+  note: 最常见错误之一：✗ *suggest sb to do sth* → ✓ *suggest that sb do / should do sth* 或 *suggest doing sth*。同类：*recommend*。但 *advise sb to do sth* 是正确的。
+- advise | v. | 建议；劝告；通知 | advise sb to do sth; advise against sth | Doctors advise people to eat less salt. | W
+  fam: adviser (n.) · advisory (adj.)
+- attend | v. | 出席；参加；上（学） | attend a meeting/class/school | Over 500 people attended the conference.
+  note: *attend* 直接带宾语：✗ *attend to the meeting*（*attend to* = 处理、照顾：*attend to a patient*）。“参加活动”可以用 *attend / take part in / participate in*，但“加入组织”用 *join*。
+- return | v. / n. | 返回；归还 | return home; return sth to sb | She returned to China after graduation.
+  note: *return* 已含“回”：✗ *return back* → ✓ *return* / *go back*。同类冗余：✗ *repeat again*、✗ *revert back*、✗ *the reason is because*（用 *the reason is that*）。
+- deny | v. | 否认；拒绝给予 | deny doing sth; deny sb sth | He denied stealing the money. // Many children are denied access to education. | W
+  fam: denial (n.)
+  note: *deny*（否认事实）vs. *refuse*（拒绝做某事：*refuse to help*）vs. *reject*（拒绝接受：*reject an offer*）。
+- refuse | v. | 拒绝 | refuse to do sth; refuse an offer | He refused to answer the question.
+  ipa: /rɪˈfjuːz/
+  note: 名词 *refuse* /ˈrefjuːs/ 是“垃圾”（正式）：*refuse collection*（垃圾收集）。
+- the reason why | phr. | ……的原因 | — | The reason why I chose this school is that it has a great library. | W
+  note: ✗ *The reason is because…*（重复）→ ✓ *The reason is that…*。
+- more and more | phr. | 越来越多 | — | More and more people are working from home.
+  note: 正确但被**严重过度使用**。写作中可替换为：*an increasing number of*、*a growing number of*、*increasingly*：*An increasing number of people work from home.*
+- with the development of | phr. | 随着……的发展 | — | With the development of technology, communication has become easier.
+  note: 中国学生作文开头的“万能句”，考官见过无数次。用一次不算错，但如果能具体说明是什么发展（*Since smartphones became widespread…*），效果好得多。
+
+@box warn 中国学生最常见的 15 个词汇错误（写作自查表）
+1. ✗ *informations / advices / researches / equipments / furnitures* → 不可数名词无复数
+2. ✗ *discuss about / emphasise on / mention about / consider about* → 及物动词直接带宾语
+3. ✗ *Although…, but…* / *Because…, so…* → 只用一个连接词
+4. ✗ *suggest sb to do* → *suggest that sb do / suggest doing*
+5. ✗ *the amount of people* → *the number of people*
+6. ✗ *learn knowledge* → *acquire / gain knowledge*
+7. ✗ *open/close the light* → *turn on/off the light*
+8. ✗ *I very like it* → *I really like it / I like it very much*
+9. ✗ *on the contrary*（表示对比）→ *in contrast / on the other hand*
+10. ✗ *peoples / childs / staffs* → *people / children / staff*
+11. ✗ *lose/loose, affect/effect, rise/raise* 混用
+12. ✗ *It is good for us to…*（滥用空主语）→ 用具体主语
+13. ✗ *despite of* → *despite / in spite of*
+14. ✗ *return back / repeat again* → 去掉冗余
+15. ✗ *a lot of / more and more / nowadays* 全文重复 → 同义替换
+@end
+
+@cmp bring · take · fetch
+bring | 带来（朝说话人方向） | Bring your homework tomorrow.
+take | 带走（离开说话人） | Take an umbrella with you.
+fetch | 去取来（去了再回来，英式） | Could you fetch me a glass of water?
+@end
+
+@cmp hear · listen · sound
+hear | 听到（被动接收，不需努力） | I heard a strange noise.
+listen | 听（主动、有意识地），listen to sth | I listen to music on the bus.
+sound | 听起来（感官动词 + 形容词） | That sounds great!
+@end
+
+@cmp lie · lay
+lie (lay, lain) | 躺；位于（不及物） | The cat is lying on the sofa. // The town lies in a valley.
+lay (laid, laid) | 放；下蛋；铺设（及物） | Please lay the plates on the table.
+lie (lied, lied) | 说谎 | He lied about his age.
+@end

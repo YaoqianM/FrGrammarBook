@@ -1,0 +1,96 @@
+@unit 48
+@title Natural Spoken English for the Speaking Test
+@zh 自然口语表达（口语考试专用）
+@level B2–C1 · 高分精修
+@intro 口语考试的词汇分数不靠“书面大词”，而靠**自然、准确、有变化**的表达：恰当的口语习语、短语动词，以及给自己思考时间的“缓冲语”。这一单元的所有表达都适合在口语中使用，但其中大部分**不适合**写进 Task 2 作文。请注意：习语用错比不用更糟，只挑你真正理解、能自然说出口的几个。
+
+@box warn 口语习语的使用原则
+1. **少而准**：一段回答里用一两个自然的习语就够了。2. **语境要对**：*It's raining cats and dogs* 这类过时或夸张的习语，母语者现在很少说，考官也不会加分。3. **不要背诵整段模板**：考官受过训练，能识别背诵的答案。
+@end
+
+## 1 · Buying time & organising ideas · 争取思考时间与组织表达
+
+- that's a tricky question | phr. | 这是个不好回答的问题 | — | That's a tricky question. I've never really thought about it before. | S
+- let me think | phr. | 让我想想 | — | Let me think… I'd probably choose my grandmother. | S
+- off the top of my head | phr. | 不假思索地；凭印象 | — | Off the top of my head, I'd say about twenty. | S
+- I'd say | phr. | 我会说；我觉得 | — | I'd say the biggest difference is the cost of living. | S
+- I reckon | phr. | 我估计；我认为（英式口语） | — | I reckon most people would agree. | S
+- the thing is | phr. | 问题是；关键是 | — | I'd love to travel more. The thing is, flights are so expensive. | S
+- what I mean is | phr. | 我的意思是 | — | What I mean is, it depends on the person. | S
+- to be fair | phr. | 说句公道话 | — | The food was a bit cold, but to be fair, the restaurant was very busy. | S
+- having said that | phr. | 话虽如此 | — | I love living in Shenzhen. Having said that, it's very expensive. | S
+  note: 口语中自然的让步转折，比 *however* 更口语化。同义：*that said*、*mind you*（英式）。
+- mind you | phr. | 不过；话说回来（英式口语） | — | It's a great phone. Mind you, it wasn't cheap. | S
+- at the end of the day | phr. | 归根结底；最终 | — | At the end of the day, it's your decision. | S
+- more often than not | phr. | 往往；多半 | — | More often than not, I take the metro to school. | S
+- every now and then | phr. | 偶尔；时不时 | — | I go hiking every now and then. | S
+- once in a blue moon | phr. | 千载难逢；极少 | — | I only eat fast food once in a blue moon. | S
+- back in the day | phr. | 以前；过去（怀旧语气） | — | Back in the day, my parents didn't have mobile phones. | S
+- it brings back memories | phr. | 勾起回忆 | bring back memories of | That song brings back memories of primary school. | S
+- it depends | phr. | 看情况 | It depends on… | It depends on how much time I have. | S
+
+## 2 · Likes, dislikes & feelings · 喜好与感受
+
+- not my cup of tea | phr. | 不合我的口味；不是我喜欢的 | — | Horror films aren't really my cup of tea. | S
+- right up my street | phr. | 正合我意（英式） | — | A job in game design would be right up my street. | S
+- go off | phr. v. | 不再喜欢；（食物）变质；（闹钟）响 | — | I used to love sushi, but I've gone off it. // The milk has gone off. | S
+- grow on | phr. v. | 越来越喜欢 | — | I didn't like the song at first, but it's grown on me. | S
+- get into | phr. v. | 开始喜欢；进入 | get into music/coding | I got into photography when I was twelve. | S
+- over the moon | phr. | 欣喜若狂 | — | I was over the moon when I passed the exam. | S
+- under the weather | phr. | 身体不舒服 | — | I'm feeling a bit under the weather today. | S
+- on cloud nine | phr. | 非常开心 | — | She's been on cloud nine since she won the competition. | S
+- down to earth | phr. | 实际的；朴实的 | — | Despite being famous, she's very down to earth. | S
+- the best of both worlds | phr. | 两全其美 | — | Living near the city and the sea gives me the best of both worlds. | S
+- a breath of fresh air | phr. | 令人耳目一新的人或事 | — | Our new teacher is a breath of fresh air. | S
+- no big deal | phr. | 没什么大不了的 | — | Don't worry about it — it's no big deal. | S
+- out of the question | phr. | 不可能的；不予考虑的 | — | Going abroad this year is out of the question. | S
+- it's worth a try | phr. | 值得一试 | — | I've never tried it, but it's worth a try. | S
+
+## 3 · Study, work & effort · 学习、工作与努力
+
+- hit the books | phr. | 用功读书 | — | I need to hit the books — exams start next week. | S
+- burn the midnight oil | phr. | 开夜车；熬夜工作或学习 | — | I burned the midnight oil to finish my project. | S
+- pull an all-nighter | phr. | 通宵（学习或工作） | — | I've never pulled an all-nighter — I need my sleep. | S
+- snowed under | phr. | 忙得不可开交 | be snowed under with work | I'm snowed under with homework this week. | S
+- up to my ears | phr. | 深陷于（工作等） | up to my ears in work | I'm up to my ears in revision. | S
+- a piece of cake | phr. | 小菜一碟 | — | The listening test was a piece of cake. | S
+- easier said than done | phr. | 说起来容易做起来难 | — | Getting up at six every day is easier said than done. | S
+- get the hang of | phr. | 掌握……的窍门；熟悉 | — | It took me a while to get the hang of the new software. | S
+- brush up on | phr. v. | 温习；重温（技能） | brush up on your French | I need to brush up on my maths before the exam. | S
+- go the extra mile | phr. | 付出额外努力 | — | Good teachers go the extra mile for their students. | S
+- think twice | phr. | 三思；慎重考虑 | — | I'd think twice before lending him money. | S
+- call it a day | phr. | 今天到此为止 | — | We've done enough — let's call it a day. | S
+- on the go | phr. | 忙个不停 | — | I've been on the go all day. | S
+- take it easy | phr. | 放松；别着急 | — | The doctor told me to take it easy for a few days. | S
+- in the same boat | phr. | 处境相同 | — | Don't worry — we're all in the same boat. | S
+- on the tip of my tongue | phr. | 话到嘴边（一时想不起） | — | His name is on the tip of my tongue. | S
+
+## 4 · People & social life · 人与社交
+
+- hit it off | phr. | 一见如故；相处融洽 | hit it off with sb | We hit it off immediately. | S
+- get on like a house on fire | phr. | 相处得非常好 | — | My sister and her roommate get on like a house on fire. | S
+- bump into | phr. v. | 偶遇 | — | I bumped into an old classmate at the airport. | S
+- drop by | phr. v. | 顺便拜访 | — | Feel free to drop by any time. | S
+- come round | phr. v. | 来访；苏醒；改变看法 | — | Some friends are coming round for dinner. // My parents finally came round to the idea. | S
+- fit in | phr. v. | 融入；适应 | fit in with sb | It took me a few months to fit in at my new school. | S
+- stick out | phr. v. | 显眼；伸出 | stick out like a sore thumb | In my bright jacket, I stuck out like a sore thumb. | S
+- chill out | phr. v. | 放松；冷静（口语） | — | At weekends I just chill out at home. | S
+- treat yourself | phr. | 犒劳自己 | treat yourself to sth | After the exams, I treated myself to a new pair of trainers. | S
+- be all ears | phr. | 洗耳恭听 | — | Tell me what happened — I'm all ears. | S
+- get a word in edgeways | phr. | 插上话（常用于否定） | — | She talked so much that I couldn't get a word in edgeways. | S
+- see eye to eye | phr. | 意见一致 | see eye to eye with sb on sth | My brother and I don't always see eye to eye. | S
+- give sb the benefit of the doubt | phr. | 姑且相信某人 | — | I'll give him the benefit of the doubt this time. | S
+- break the ice | phr. | 打破僵局；打破沉默 | — | The teacher played a game to break the ice. | S
+- word of advice | phr. | 一点忠告 | — | A word of advice: always back up your files. | S
+
+@cmp actually · in fact · really
+actually | 其实（纠正误解、表示意外） | I thought it would be boring, but it was actually great.
+in fact | 事实上（补充更强的信息，或纠正） | He's not lazy. In fact, he works harder than anyone.
+really | 真的；非常（强调） | I really enjoyed it.
+note: 中国学生口语中常过度使用 *actually*，几乎每句话都以它开头。它的核心作用是“与预期相反”，没有这层意思时不要用。
+@end
+
+@box ielts 口语 Part 2 示范（注意自然表达的密度）
+*I'd like to talk about my grandmother. We've always **got on like a house on fire**. **Back in the day**, she ran a small noodle shop, and she still **goes the extra mile** for everyone in the family. **To be fair**, she can be a bit stubborn, but **at the end of the day**, she's the person I look up to most.*
+——约 60 个词中只有 4 个习语，而且每个都用得自然。
+@end

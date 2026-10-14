@@ -1,0 +1,148 @@
+@unit 46
+@title Adjectives for Precise Expression
+@zh 精确表达的形容词
+@level C1 · 高分精修
+@intro *good, bad, big, important, interesting* 这些词没有错，但它们说得**不够具体**。*an important problem* 是“紧迫的”（*pressing*）、“根本的”（*fundamental*）、还是“影响深远的”（*far-reaching*）？本单元按“表达什么”分组，帮你选到最准确的形容词。原则：**先想清楚意思，再找词**——而不是先找难词再硬塞进句子。
+
+## 1 · Important & essential · 重要与必要
+
+* vital | adj. | 极其重要的；必不可少的；生命的 | vital for/to sth; play a vital role in | Clean water is vital for good health. | W
+  note: “重要”的精确替换：*vital / essential / crucial*（必不可少）、*fundamental*（根本的、基础的）、*key*（关键的，放名词前）、*pivotal*（起决定性作用的）、*significant*（意义重大的、数量可观的）、*paramount*（至高无上的，放 be 后）。搭配 *play a vital / crucial / key / pivotal role in* 是写作高频句型。
+- crucial | adj. | 至关重要的；决定性的 | crucial to/for sth; a crucial factor | Sleep is crucial to memory. | W
+  fam: crucially (adv., 句首：关键的是)
+- essential | adj. | 必不可少的；本质的 | essential for sth; it is essential that… | It is essential that every child learns to swim. | W
+  fam: essentially (adv., 本质上) · essence (n.)
+- fundamental | adj. / n. | 根本的；基础的；基本原则 | a fundamental change/right | Education is a fundamental human right. | W
+  fam: fundamentally (adv.)
+- pivotal | adj. | 关键的；起决定作用的 | a pivotal role/moment | Teachers play a pivotal role in children's development. | W
+- integral | adj. | 不可或缺的；构成整体所必需的 | an integral part of sth | Music is an integral part of the school curriculum. | W
+  ipa: /ˈɪntɪɡrəl/
+- indispensable | adj. | 必不可少的 | indispensable to/for sb | Smartphones have become indispensable in daily life. | W
+- paramount | adj. | 最重要的；至高无上的 | of paramount importance | Passenger safety is paramount. | W
+- significant | adj. | 重要的；显著的；（数量）相当大的 | a significant increase; play a significant role | There has been a significant rise in online shopping. | W
+  note: 已在本书“怎么读一个词条”中作为示例出现。注意 *significant* 在统计中指“统计学显著的”（*statistically significant*）——结果不太可能是偶然的，不一定是“很大”。
+- prominent | adj. | 显著的；重要的；著名的 | a prominent figure/role | She is a prominent scientist. // The building occupies a prominent position on the hill. | W
+  fam: prominence (n.)
+- urgent | adj. | 紧急的；急迫的 | an urgent need/problem | There is an urgent need for more doctors in rural areas. | W
+  fam: urgency (n.) · urgently (adv.)
+- pressing | adj. | 紧迫的；急迫的 | a pressing issue/problem/need | Climate change is one of the most pressing issues of our time. | W
+
+## 2 · Size, spread & duration · 规模、范围与持续
+
+- widespread | adj. | 广泛的；普遍的 | widespread support/concern/use | There is widespread concern about plastic pollution. | W
+- prevalent | adj. | 流行的；普遍存在的 | prevalent among sb | Obesity is more prevalent in urban areas. | W
+  fam: prevalence (n.)
+- pervasive | adj. | 无处不在的；遍布的（常含消极） | a pervasive influence | The influence of social media is pervasive. | W
+- ubiquitous | adj. | 无处不在的 | — | Smartphones are now ubiquitous. | W
+  ipa: /juːˈbɪkwɪtəs/
+- far-reaching | adj. | 影响深远的 | far-reaching consequences/changes | The decision will have far-reaching consequences. | W
+- profound | adj. | 深刻的；深远的；深奥的 | a profound effect/impact on sth | The internet has had a profound effect on education. | W
+  fam: profoundly (adv.)
+- unprecedented | adj. | 史无前例的；空前的 | on an unprecedented scale | The pandemic caused unprecedented disruption to education. | W
+  ipa: /ʌnˈpresɪdentɪd/
+  note: *un-*（不）+ *precedent*（先例）+ *-ed*。这个词在新闻中常被滥用——只有真正“前所未有”的事才适合用。
+- comprehensive | adj. | 全面的；综合的 | a comprehensive study/guide | The report gives a comprehensive overview of the problem. | W
+- thorough | adj. | 彻底的；周密的 | a thorough investigation/understanding | The police carried out a thorough investigation. | W
+  ipa: /ˈθʌrə/
+  note: 读音拼写都易错：*thorough* /ˈθʌrə/（彻底的）、*through* /θruː/（穿过）、*though* /ðəʊ/（虽然）、*thought* /θɔːt/（想）。
+- temporary | adj. | 临时的；暂时的 | a temporary job/solution | This is only a temporary solution. | W
+  fam: temporarily (adv.)
+- permanent | adj. | 永久的；长期的 | permanent damage; a permanent job | Too much noise can cause permanent hearing damage. | W
+- short-lived | adj. | 短暂的；短命的 | — | The improvement was short-lived. | W
+- lasting | adj. | 持久的 | a lasting impact/impression | Good teachers have a lasting impact on their students. | W
+- ongoing | adj. | 持续的；进行中的 | an ongoing debate/problem | The debate about AI in education is ongoing. | W
+- trivial | adj. | 琐碎的；不重要的 | a trivial matter | Don't waste time arguing about trivial things.
+- minor | adj. | 较小的；次要的；未成年人（n.） | a minor problem/injury | He suffered only minor injuries.
+
+## 3 · Quality of ideas & work · 观点与工作的质量
+
+- rigorous | adj. | 严格的；严谨的 | rigorous research/testing | New medicines go through rigorous testing. | W
+  ipa: /ˈrɪɡərəs/
+- meticulous | adj. | 一丝不苟的；极其细致的 | meticulous attention to detail | She is meticulous about checking her work. | W
+- superficial | adj. | 肤浅的；表面的 | a superficial understanding | Social media encourages superficial relationships. | W
+- simplistic | adj. | 过于简单化的 | a simplistic view | It is simplistic to blame video games for violence. | W
+  note: *simple*（简单的，中性或褒义）vs. *simplistic*（过于简单化的，贬义：忽略了复杂性）。批评一个观点时用 *simplistic*。
+- sophisticated | adj. | 复杂精密的；老练的；见多识广的 | sophisticated technology | Modern phones contain very sophisticated technology. | W
+- intricate | adj. | 错综复杂的；精细的 | intricate patterns/details | The carving shows intricate patterns. | W
+- explicit | adj. | 明确的；清楚的；露骨的 | explicit instructions | The rules should be explicit. | W
+  fam: explicitly (adv.)
+- implicit | adj. | 含蓄的；暗示的；内在的 | an implicit message | There was an implicit criticism in his words. | W
+  note: *explicit*（明说的）↔ *implicit*（暗含的）。阅读中常考作者“暗示”了什么（*implied / implicit*）。
+- vague | adj. | 模糊的；含糊的 | a vague answer/idea | His answer was too vague to be useful.
+- precise | adj. | 精确的；准确的 | precise measurements/instructions | Scientists need precise measurements. | W
+  fam: precision (n.) · precisely (adv.)
+- concise | adj. | 简明的；简洁的 | — | Keep your answers clear and concise. | W
+- contradictory | adj. | 相互矛盾的 | contradictory evidence/findings | The studies produced contradictory results. | W
+  fam: contradict (v.) · contradiction (n.)
+- pragmatic | adj. | 务实的；讲求实际的 | a pragmatic approach | We need a pragmatic approach rather than an ideal one. | W
+- realistic | adj. | 现实的；逼真的 | realistic goals | Set realistic goals for each week.
+  fam: unrealistic (adj.)
+- idealistic | adj. | 理想主义的 | — | His plans are rather idealistic. | W
+- radical | adj. | 根本的；激进的 | radical changes/ideas | The government is planning radical changes to the tax system. | W
+- drastic | adj. | 激烈的；严厉的；大幅度的 | drastic measures/action | Drastic action is needed to save the species. | W
+- subtle | adj. | 微妙的；细微的；不易察觉的 | a subtle difference | There is a subtle difference between the two words. | W
+  ipa: /ˈsʌtl/
+  note: *b* 不发音，/ˈsʌtl/。
+- robust | adj. | 强健的；稳健的；有力的 | robust evidence; a robust economy | The study provides robust evidence for the theory. | W
+- rigid | adj. | 僵硬的；死板的；严格的 | rigid rules | The school's rules are too rigid. | W
+- versatile | adj. | 多才多艺的；多功能的 | — | Bamboo is a versatile material. | W
+  ipa: /ˈvɜːsətaɪl/
+- distinct | adj. | 明显的；不同的；清楚的 | distinct from; a distinct possibility | There are three distinct groups. // Mandarin and Cantonese are distinct languages. | W
+- unique | adj. | 独特的；唯一的 | unique to sth | Each fingerprint is unique.
+  note: *unique* 是“唯一的、独一无二的”，严格来说不能加 *very*：✗ *very unique* → ✓ *truly unique / quite unique*（此处 quite = 完全）。
+- inherent | adj. | 内在的；固有的 | inherent risks; inherent in sth | There are risks inherent in any new technology. | W
+  ipa: /ɪnˈherənt/
+- intrinsic | adj. | 内在的；本质的 | intrinsic value/motivation | Learning has intrinsic value, not just economic value. | W
+- innate | adj. | 天生的；固有的 | an innate ability | Some researchers believe language ability is partly innate. | W
+  note: *innate*（天生的）↔ *acquired*（后天获得的）——与 *nature vs. nurture* 话题直接相关。
+
+## 4 · Good effects & bad effects · 好的影响与坏的影响
+
+- detrimental | adj. | 有害的；不利的 | detrimental to sth; a detrimental effect on | Lack of sleep is detrimental to health. | W
+  note: “有害的”的精确替换：*harmful*（通用）、*detrimental*（正式，对……不利）、*damaging*（造成损害的）、*adverse*（不利的，常与 *effects / conditions / impact* 搭配）、*counterproductive*（适得其反的）。
+- adverse | adj. | 不利的；有害的 | adverse effects/conditions/weather | The drug has no serious adverse effects. | W
+- damaging | adj. | 有害的；破坏性的 | — | The scandal was very damaging to the company. | W
+- counterproductive | adj. | 适得其反的；产生反效果的 | — | Punishing children too harshly can be counterproductive. | W
+- favourable | adj. | 有利的；赞同的 | favourable conditions; a favourable impression | The weather was favourable for planting. | W
+- conducive | adj. | 有助于……的；有益于……的 | conducive to sth | A quiet room is conducive to studying. | W
+  note: 只用于 *be conducive **to** sth*（to 是介词）：*an environment conducive to learning*。高级但非常实用的表达。
+- constructive | adj. | 建设性的；有益的 | constructive criticism/feedback | Teachers should give constructive feedback. | W
+- promising | adj. | 有希望的；有前途的 | a promising start/student | The early results are very promising. | W
+- encouraging | adj. | 令人鼓舞的 | — | The latest figures are encouraging. | W
+- alarming | adj. | 令人担忧的；惊人的 | at an alarming rate | Forests are disappearing at an alarming rate. | W
+- daunting | adj. | 令人生畏的；使人气馁的 | a daunting task/challenge | Learning a new language can seem daunting at first. | W
+- challenging | adj. | 有挑战性的；考验能力的 | a challenging job | The course is challenging but rewarding.
+- worthwhile | adj. | 值得做的；有价值的 | a worthwhile experience/cause | Volunteering is a worthwhile experience. | W
+- futile | adj. | 无效的；徒劳的 | a futile attempt | It's futile to argue with him. | W
+  ipa: /ˈfjuːtaɪl/
+- invaluable | adj. | 极其宝贵的；无价的 | invaluable experience/help | Her advice was invaluable. | W
+  note: 易错：*invaluable* = 极其宝贵（≠ 没有价值！）；*valueless / worthless* 才是“没有价值的”。同理 *priceless* = 无价之宝。
+- lucrative | adj. | 赚钱的；有利可图的 | a lucrative business/career | Tourism is a lucrative industry. | W
+- prestigious | adj. | 有声望的；享有盛誉的 | a prestigious university/award | She won a place at a prestigious university. | W
+  fam: prestige (n.)
+- renowned | adj. | 著名的；有声望的 | renowned for sth | The region is renowned for its tea. | W
+- notorious | adj. | 臭名昭著的；声名狼藉的 | notorious for sth | The road is notorious for accidents. | W
+  note: *famous / well-known / renowned*（好名声）vs. *notorious / infamous*（坏名声）。✗ *Shenzhen is notorious for its technology*（会被理解成“因科技而臭名远扬”）。
+- iconic | adj. | 标志性的；偶像的 | an iconic building/image | The Opera House is Sydney's most iconic building. | W
+- up-to-date | adj. | 最新的；现代的 | up-to-date information | Make sure your information is up-to-date.
+- appropriate | adj. | 适当的；恰当的 | appropriate for/to sth | Jeans are not appropriate for a job interview. | W
+  fam: inappropriate (adj.) · appropriately (adv.)
+- pertinent | adj. | 相关的；中肯的 | a pertinent question | She asked some very pertinent questions. | W
+- impartial | adj. | 公正的；不偏不倚的 | impartial advice | Judges must be impartial. | W
+- neutral | adj. | 中立的；中性的 | remain neutral | Switzerland remained neutral during the war. | W
+- arbitrary | adj. | 随意的；武断的 | an arbitrary decision | The rules seem completely arbitrary. | W
+  ipa: /ˈɑːbɪtrəri/
+- tedious | adj. | 冗长乏味的 | a tedious task | Copying data by hand is tedious work.
+- repetitive | adj. | 重复的；单调的 | repetitive tasks/jobs | Robots are good at repetitive tasks. | W
+- monotonous | adj. | 单调乏味的 | — | Factory work can be monotonous. | W
+
+@cmp valuable · invaluable · worthless
+valuable | 有价值的；贵重的 | valuable advice // a valuable ring
+invaluable | 极其宝贵的（比 valuable 更强） | Her experience was invaluable to the team.
+worthless | 毫无价值的 | The old coins turned out to be worthless.
+@end
+
+@box ielts 形容词升级：从“万能词”到“精确词”
+*a big problem* → *a pressing / serious / far-reaching problem* · *a good idea* → *a promising / constructive / feasible idea* · *a bad effect* → *a detrimental / adverse effect* · *very important* → *vital / crucial / of paramount importance* · *everywhere* → *widespread / ubiquitous / prevalent*
+注意：替换的前提是**意思真的匹配**。例如 *ubiquitous* 只能形容“到处都是的东西”，不能形容“重要的问题”。
+@end

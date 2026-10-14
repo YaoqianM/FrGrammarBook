@@ -1,0 +1,131 @@
+@unit 41
+@title Describing Trends & Changes
+@zh 描述趋势与变化（Task 1 核心）
+@level B2–C1 · 高分精修
+@intro IELTS 学术类写作 Task 1 要求你在 20 分钟内描述图表中的**变化、比较和主要特征**。这一单元提供描述“变化”的全部工具：动词、名词、副词、形容词，以及如何组合它们而不重复。比例与比较见 Unit 42。
+
+@box rule 描述变化的两种句型
+**句型 A（动词 + 副词）：** *Sales **rose sharply** in 2020.*
+**句型 B（形容词 + 名词）：** *There was **a sharp rise** in sales in 2020.*
+两种句型交替使用，可以避免重复，同时展示词汇和语法的多样性（*lexical resource* 和 *grammatical range*）。注意介词：*rise **by** 10%*（变化幅度）vs. *rise **to** 50%*（变化后的数值）vs. *a rise **of** 10%*（名词 + 幅度）vs. *a rise **in** sales*（名词 + 什么在变）。
+@end
+
+## 1 · Going up · 上升
+
+- rise | v. / n. | 上升；增加 | rise by/to; a rise in sth | The number of tourists rose by 15% in 2023. | W
+  note: 不规则变化：*rise – rose – risen*。*rise* 不及物（数据自己上升），*raise* 及物（某人提高某物），见 Unit 11。
+- increase | v. / n. | 增加；增长 | increase by/to; an increase in sth | The population increased from 2 million to 5 million. | W
+  ipa: /ɪnˈkriːs/ (v.) · /ˈɪŋkriːs/ (n.)
+- grow | v. | 增长；扩大 | grow steadily; grow by 5% | Online sales grew steadily throughout the decade. | W
+  fam: growth (n.)
+- climb | v. / n. | 攀升 | climb to; a steady climb | Prices climbed to a record high in July. | W
+- surge | v. / n. | 激增；猛涨 | a surge in demand | There was a surge in demand for masks in 2020. | W
+- rocket | v. | 飞涨；猛增 | — | House prices rocketed in the early 2000s. | W
+- jump | v. / n. | 跳升；骤增 | a jump in sth; jump to | Unemployment jumped to 10% in a single year. | W
+- double | v. | 翻倍 | — | The number of electric cars doubled between 2020 and 2022. | W
+  note: 倍数动词：*double*（翻一倍）、*triple*（变成三倍）、*quadruple*（变成四倍）、*halve*（减半）。也可说 *increase twofold / threefold*，或 *increase by 200%*（= triple，注意不是 double！）。
+- triple | v. | 增至三倍 | — | Coffee consumption tripled over the period. | W
+- upward trend | n. | 上升趋势 | show an upward trend | The figures show a clear upward trend. | W
+- reach a peak | phr. | 达到峰值 | reach a peak of; peak at | Visitor numbers reached a peak of 3 million in August. | W
+  note: 也可以直接用动词 *peak*：*Visitor numbers peaked at 3 million in August.* 注意介词 *at*。
+- hit a high | phr. | 达到高点 | hit a record high; hit an all-time high | Temperatures hit an all-time high last summer. | W
+
+## 2 · Going down · 下降
+
+- fall | v. / n. | 下降；减少 | fall by/to; a fall in sth | The birth rate fell to its lowest level in 2022. | W
+  note: 不规则：*fall – fell – fallen*。✗ *The number was fallen*（fall 不能用被动）。
+- decrease | v. / n. | 减少；降低 | decrease by/to; a decrease in sth | The number of smokers decreased significantly. | W
+  ipa: /dɪˈkriːs/ (v.) · /ˈdiːkriːs/ (n.)
+- drop | v. / n. | 下降；落下 | drop sharply; a drop in sth | Sales dropped sharply in the second quarter. | W
+- dip | v. / n. | 小幅下降；短暂下降 | a slight dip | There was a slight dip in sales in March. | W
+- plummet | v. | 暴跌；骤降 | — | Oil prices plummeted in 2020. | W
+  ipa: /ˈplʌmɪt/
+- plunge | v. / n. | 骤降；猛跌 | plunge to | The temperature plunged to −10°C overnight. | W
+- shrink | v. | 缩小；减少 | shrink by | The forest shrank by 20% over 30 years. | W
+  note: 不规则：*shrink – shrank – shrunk*。
+- halve | v. | 减半 | — | The cost of solar panels halved in five years. | W
+  ipa: /hɑːv/
+- downward trend | n. | 下降趋势 | — | Newspaper sales have followed a downward trend since 2000. | W
+- hit a low | phr. | 降至低点 | hit a record low; reach its lowest point | The temperature hit a low of 2°C in January. | W
+- bottom out | phr. v. | 降到最低点后不再下降 | — | House prices bottomed out in 2012 and then began to rise. | W
+
+## 3 · Staying the same or moving up and down · 平稳与波动
+
+- remain stable | phr. | 保持稳定 | remain stable at | The figure remained stable at around 40%. | W
+  note: 同义表达：*remain steady / constant / unchanged*、*stay the same*、*stabilise*。注意：*remain stable **at** 40%*。
+- stabilise | v. | 趋于稳定 | stabilise at | After falling for three years, prices stabilised at £200. | W
+  fam: stable (adj.)
+- plateau | n. / v. | 平稳期；达到稳定状态 | reach a plateau | Growth reached a plateau in 2018. | W
+  ipa: /ˈplætəʊ/
+- hover around | phr. | 在……附近徘徊 | hover around 50% | The unemployment rate hovered around 5% for most of the period. | W
+- fluctuate | v. | 波动；起伏不定 | fluctuate between A and B | The price of oil fluctuated between $60 and $90. | W
+  ipa: /ˈflʌktʃueɪt/
+  fam: fluctuation (n.)
+- erratic | adj. | 不稳定的；无规律的 | erratic changes | Rainfall was erratic throughout the year. | W
+- volatile | adj. | 易变的；不稳定的；易挥发的 | a volatile market | Cryptocurrency prices are extremely volatile. | W
+  ipa: /ˈvɒlətaɪl/
+- constant | adj. | 恒定的；持续不断的 | remain constant | The temperature remained constant throughout the experiment. | W
+  fam: constantly (adv.)
+- remain flat | phr. | 保持平稳；无变化 | — | Sales remained flat in the first quarter. | W
+
+## 4 · Speed & size of change · 变化的速度与幅度
+
+* sharp | adj. | 急剧的；剧烈的 | a sharp rise/fall; rise sharply | There was a sharp fall in sales after the price increase. | W
+  fam: sharply (adv.)
+  note: 程度从强到弱的大致顺序：**dramatic / sharp / steep / substantial / considerable / significant**（大幅）→ **moderate**（中等）→ **slight / marginal / modest**（小幅）。速度：**rapid / sudden**（快）vs. **gradual / steady**（慢而稳）。别把每个变化都写成 *dramatic*——图表中真正剧烈的变化往往只有一两个。
+- dramatic | adj. | 急剧的；显著的；戏剧性的 | a dramatic increase | There was a dramatic increase in online learning in 2020. | W
+  fam: dramatically (adv.)
+- steep | adj. | 急剧的；陡峭的 | a steep decline | The graph shows a steep decline in coal use. | W
+  fam: steeply (adv.)
+- substantial | adj. | 大量的；相当大的 | a substantial increase | There was a substantial increase in investment. | W
+  fam: substantially (adv.)
+- considerable | adj. | 相当大的 | a considerable amount of; considerably higher | Considerable progress has been made. | W
+  fam: considerably (adv.)
+- moderate | adj. | 中等的；适度的 | a moderate increase | Prices showed a moderate increase. | W
+- slight | adj. | 轻微的；细小的 | a slight fall/difference | There was a slight fall in the number of visitors. | W
+  fam: slightly (adv.)
+- marginal | adj. | 微小的；边缘的 | a marginal increase | The difference between the two groups was marginal. | W
+  fam: marginally (adv.)
+- gradual | adj. | 逐渐的 | a gradual decline | There was a gradual decline in birth rates. | W
+  fam: gradually (adv.)
+- steady | adj. | 稳定的；平稳的 | a steady rise; steady growth | The population showed steady growth. | W
+  fam: steadily (adv.)
+- rapid | adj. | 迅速的 | rapid growth | The city experienced rapid growth in the 1990s. | W
+  fam: rapidly (adv.)
+- sudden | adj. | 突然的 | a sudden drop | A sudden drop in temperature damaged the crops.
+- consistent | adj. | 一贯的；持续的；一致的 | consistent growth | The company has shown consistent growth for ten years. | W
+  fam: consistently (adv.)
+- overall | adj. / adv. | 总体的；总体上 | the overall trend; overall, … | Overall, the number of students rose over the period. | W
+  note: Task 1 必须有一个 **overview**（总体概述），通常以 *Overall,* 或 *In general,* 开头，概括最主要的趋势或对比，**不写具体数字**。缺少 overview 会直接影响 Task Achievement 分数。
+
+## 5 · Time & reference words · 时间与参照表达
+
+- over the period | phr. | 在此期间 | over the period shown; over the 20-year period | Car ownership rose steadily over the period. | W
+- throughout | prep. | 在整个……期间 | throughout the year/period | Prices remained high throughout the decade. | W
+- subsequently | adv. | 随后；之后 | — | Sales fell in 2019 and subsequently recovered. | W
+  fam: subsequent (adj.)
+- thereafter | adv. | 此后 | — | The figure peaked in 2015 and declined thereafter. | W
+- respectively | adv. | 分别地 | — | The figures for Japan and Korea were 20% and 25% respectively. | W
+  note: *respectively* 用来按顺序对应两组信息：*A and B were 20% and 25% respectively* = A 是 20%，B 是 25%。顺序必须一致。
+- approximately | adv. | 大约 | approximately 30% | Approximately half of the students walked to school. | W
+  note: 同义：*about, around, roughly, nearly*（差一点到）、*just over / just under*（略高于/略低于）、*almost*。Task 1 中给出近似值时非常有用。
+- projected | adj. | 预计的；预测的 | the projected figures | The population is projected to reach 10 billion by 2060. | W
+  fam: project (v.) · projection (n.)
+  note: 图表中带有未来年份时，要用预测语言：*is projected/expected/predicted to…*、*is likely to…*、*will probably…*。
+- by the end of | phr. | 到……末为止 | — | By the end of the period, the figure had doubled. | W
+  note: *by + 时间点* 常与过去完成时或将来完成时连用：*By 2020, sales **had** doubled.*
+- in comparison with | phr. | 与……相比 | — | In comparison with 2010, the figure was much lower. | W
+- from … to … | phr. | 从……到…… | — | The number rose from 200 in 1990 to 800 in 2020. | W
+
+@cmp by · to · of · at（数据介词）
+by | 变化的幅度 | Sales rose by 20%.
+to | 变化后的数值 | Sales rose to 500 units.
+of | 名词 + 幅度/数值 | a rise of 20% // a peak of 500
+at | 停留或达到某个数值 | Sales peaked at 500. // remained stable at 40%
+@end
+
+@box ielts Task 1 示范句
+*The number of international students **rose steadily** from 50,000 in 2000 **to** 120,000 in 2015, **before falling slightly** to 110,000 in 2020.*
+*There was **a dramatic increase in** smartphone ownership, which **tripled** over the period.*
+*Coal consumption **remained relatively stable at** around 40% until 2010, **after which** it **declined sharply**.*
+@end

@@ -40,7 +40,6 @@
 - simulate | v. | 模拟；假装 | simulate conditions | The computer simulated the effects of rising sea levels. | W
   fam: simulation (n.)
 - categorise | v. | 分类 | categorise sth as/into | The animals were categorised according to their diet. | W
-  fam: category (n.)
 - rank | v. / n. | 排名；等级 | be ranked first; rank among | The university is ranked among the top 50 in the world.
 
 ## 2 · Showing & explaining · 显示与说明
@@ -158,7 +157,6 @@
 - perceive | v. | 感知；察觉；认为 | perceive sth as | Many people perceive maths as difficult. | W
   fam: perception (n.) · perceptive (adj.)
 - presume | v. | 假定；推测 | — | I presume you've already eaten. | W
-  fam: presumably (adv.)
 - neglect | v. / n. | 忽视；疏于照顾 | neglect your health/studies | Some parents neglect their children's emotional needs. | W
 - retain | v. | 保留；保持；记住 | retain information/staff | Regular review helps you retain new vocabulary. | W
   fam: retention (n.)

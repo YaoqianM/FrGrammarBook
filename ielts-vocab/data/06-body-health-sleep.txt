@@ -52,7 +52,7 @@
   fam: treat (v.)
 - cure | n. / v. | 治愈；疗法 | a cure for cancer | There is no cure for the common cold.
   note: *treat* 是“治疗”（过程），*cure* 是“治愈”（结果）。医生可以 treat 一种病，却不一定能 cure 它。
-- recover | v. | 康复；恢复；找回 | recover from an illness | It took him two weeks to recover from flu.
+- recover | v. | 康复；恢复；找回；（数据）回升 | recover from an illness; a gradual recovery | It took him two weeks to recover from flu. // Sales recovered to 2019 levels by 2022.
   fam: recovery (n.)
 - get better | phr. | 好转；康复 | — | I hope you get better soon. | S
 - bandage | n. | 绷带 | — | The nurse put a bandage on my knee.

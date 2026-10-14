@@ -1,0 +1,204 @@
+@unit 51
+@title Word Formation II: Latin & Greek Roots
+@zh 构词法（二）：拉丁与希腊词根
+@level C1–C2 · 高分精修
+@intro 学术英语中大约一半以上的词汇来自拉丁语和希腊语（经由法语等语言进入英语）。认识二三十个高频词根，就能在阅读中**猜出大量生词的大致意思**。本单元每组以一个词根开头，列出前面各单元**尚未收录**的代表词；已学过的同根词会在规律框中提到，帮助你把整套书的词汇串起来。
+
+@box tip 词根的正确用法
+词根帮助你**猜测和记忆**，但不能代替查词典：很多词的意思已经和词根有了距离（*nice* 来自拉丁语“无知的”）。建议的做法：读到生词 → 用词根猜一个大致意思 → 用上下文验证 → 查词典确认。
+@end
+
+## 1 · Seeing, hearing & speaking · 看、听、说
+
+@box rule spect / vis, vid（看） · aud（听） · dict（说）
+**spect：** *perspective*（U39）、*spectator*（U8）、*in retrospect*（U35）、*inspect, prospect, spectacle*
+**vis / vid：** *visible*、*evident*（U50）、*revise*（U7）、*vision, visual*
+**aud：** *audience*（U8）、*audible, audit*
+**dict：** *predict*（U13）、*contradictory*（U46）、*dictate, verdict*
+@end
+
+- inspect | v. | 检查；视察 | inspect a building/a school | Officials inspect restaurants to make sure they are clean. | W
+  fam: inspection (n.) · inspector (n.)
+- prospect | n. | 前景；可能性；希望 | job prospects; the prospect of sth | Graduates face good job prospects in engineering. // The prospect of moving abroad excited her. | W
+  fam: prospective (adj., 未来的；可能的)
+- spectacle | n. | 壮观景象；场面；（复数）眼镜 | — | The fireworks were an amazing spectacle.
+  fam: spectacular (adj.)
+- introspection | n. | 内省；反省 | — | Writing a diary encourages introspection. | W
+- vision | n. | 视力；远见；愿景 | a clear vision for the future | The company has a clear vision for the future. | W
+- visual | adj. | 视觉的 | visual aids/learners | Some students are visual learners. | W
+  fam: visualise (v.)
+- audible | adj. | 听得见的 | barely audible | His voice was barely audible. | W
+  fam: inaudible (adj.)
+- audit | n. / v. | 审计；审查 | an energy audit | The company carries out an annual audit. | W
+- dictate | v. | 口述；命令；支配；决定 | dictate a letter; dictate terms | Fashion trends are often dictated by celebrities. | W
+  fam: dictation (n.) · dictator (n.)
+- verdict | n. | （陪审团的）裁决；判断；结论 | reach a verdict | The jury returned a verdict of not guilty. | W
+  note: *ver-*（真实）+ *dict*（说）= “说出真相”。同根：*verify*（U38）。
+
+## 2 · Carrying, sending & throwing · 搬运、发送与投掷
+
+@box rule port / fer（携带） · mit, miss（送） · ject（扔）
+**port：** *import / export*（U33）、*transport, portable, deport*
+**fer：** *infer*（U38）、*transfer, refer, defer*
+**mit / miss：** *admit*（U50）、*emit*（U19）、*submit, transmit, omit, dismiss*
+**ject：** *reject, inject, object*（U11）
+@end
+
+- portable | adj. | 便携的 | a portable charger | A portable charger is useful when travelling.
+- deport | v. | 驱逐出境 | be deported to | He was deported for working illegally. | W
+  fam: deportation (n.)
+- transfer | v. / n. | 转移；转学；调动；转账 | transfer money/knowledge; transfer to a new school | She transferred to a school in Guangzhou. // Skills learned in one subject can transfer to others.
+  ipa: /trænsˈfɜː/ (v.) · /ˈtrænsfɜː/ (n.)
+- refer | v. | 提到；指的是；查阅；转介 | refer to sth; refer sb to sb | What does "it" refer to in this sentence? // The doctor referred her to a specialist.
+  fam: referral (n.)
+- defer | v. | 推迟；延期；遵从 | defer a decision/payment | She deferred her university place for a year. | W
+- submit | v. | 提交；呈递；屈服 | submit an application/essay | All essays must be submitted by Friday. | W
+  fam: submission (n.)
+- transmit | v. | 传送；传播；传染 | transmit data/a disease | Mosquitoes transmit malaria. | W
+  fam: transmission (n.)
+- omit | v. | 省略；遗漏 | — | Important details were omitted from the report. | W
+  fam: omission (n.)
+- dismiss | v. | 不予考虑；解雇；解散 | dismiss an idea as… | He dismissed the idea as unrealistic. // The class was dismissed early. | W
+  fam: dismissal (n.) · dismissive (adj.)
+- reject | v. | 拒绝；拒收；不接受 | reject an offer/idea/application | The council rejected the plan. | W
+  fam: rejection (n.)
+- inject | v. | 注射；注入（资金、活力） | inject money into sth | The government injected billions into the economy. | W
+  fam: injection (n.)
+- trajectory | n. | 轨迹；发展轨道 | career trajectory | The trajectory of the rocket was carefully calculated. | W
+
+## 3 · Building, pulling & turning · 建造、拉动与转动
+
+@box rule struct（建造） · tract（拉） · vert, vers（转）
+**struct：** *construction*（U20）、*infrastructure*（U19）、*destruction, obstruct*
+**tract：** *extract*（U30）、*attractive*（U2）、*distract*（U7）、*contract, subtract*
+**vert / vers：** *convert*（U50）、*introvert*（U15）、*versatile*（U46）、*diverse*（U23）、*reverse, divert*
+@end
+
+- destruction | n. | 破坏；毁灭 | the destruction of forests | The destruction of rainforests threatens many species. | W
+  fam: destroy (v.) · destructive (adj.)
+- obstruct | v. | 阻碍；阻挡 | obstruct the view/traffic | A fallen tree obstructed the road. | W
+  fam: obstruction (n.)
+- contract | n. / v. | 合同；收缩；感染（疾病） | sign a contract; contract a disease | She signed a two-year contract. // Metal contracts as it cools. | W
+  ipa: /ˈkɒntrækt/ (n.) · /kənˈtrækt/ (v.)
+- subtract | v. | 减去 | subtract A from B | If you subtract 5 from 12, you get 7.
+- traction | n. | 牵引力；（想法）获得支持 | gain traction | The idea is gaining traction among young voters. | W
+- reverse | v. / adj. / n. | 倒转；扭转；相反的 | reverse a decision/trend; in reverse order | It may be too late to reverse the damage. | W
+  fam: reversible (adj.)
+- divert | v. | 转移；使转向；转移注意力 | divert attention/traffic/funds | Traffic was diverted because of the accident. | W
+  fam: diversion (n.)
+
+## 4 · Going & following · 行进与跟随
+
+@box rule cede, ceed, cess（走） · sequ, secu（跟随） · pend（悬挂）
+**cede / ceed / cess：** *precede*（U38）、*proceed*（U49）、*exceed*（U42）、*access*（U19）、*recession*（U33）、*succeed, concede*
+**sequ：** *consequence*（U36）、*sequence*（U39）、*subsequently*（U41）、*consecutive*
+**pend：** *depend*（U12）、*suspend*（U38）、*pending, appendix*
+@end
+
+- succeed | v. | 成功；接替 | succeed in doing sth; succeed sb as | She succeeded in passing the exam. // He succeeded his father as head of the company.
+  fam: success (n.) · successful (adj.) · succession (n.) · successive (adj.)
+  note: 词族陷阱：*successful*（成功的）vs. *successive*（连续的：*three successive wins*）。
+- concede | v. | 承认（不情愿地）；让步；失（分） | concede that…; concede defeat | He conceded that he had made a mistake. | W
+  fam: concession (n.)
+- consecutive | adj. | 连续的 | for three consecutive years | Sales have risen for five consecutive years. | W
+- pending | adj. / prep. | 待定的；在……之前 | — | The decision is pending further investigation. | W
+- appendix | n. | 附录；阑尾 | — | The full data is in the appendix. | W
+
+## 5 · Life, earth, time & study · 生命、地球、时间与学科
+
+@box rule bio（生命） · geo（地球） · chron（时间） · -logy（学科）
+**bio：** *biology*（U7）、*biodiversity*（U21）、*antibiotic*（U31）、*biography*
+**geo：** *geography*（U7）、*geothermal*（U30）、*geology*
+**chron：** *chronic*（U31）、*chronological*（U35）、*synchronise*
+**-logy / log：** *logic*（U13）、*psychology, sociology, ecology, analogy*
+@end
+
+- biography | n. | 传记 | — | I'm reading a biography of Steve Jobs.
+  fam: biographer (n.) · biographical (adj.)
+- geology | n. | 地质学；地质 | — | She studied geology at university.
+  fam: geologist (n.) · geological (adj.)
+- synchronise | v. | 同步 | synchronise sth with sth | The app synchronises your files across all your devices. | W
+- psychology | n. | 心理学；心理 | child psychology | She wants to study psychology. // Advertisers understand consumer psychology.
+  ipa: /saɪˈkɒlədʒi/
+  fam: psychologist (n.) · psychological (adj.)
+  note: *psych-*（心灵）开头的词 p 不发音：*psychology, psychiatrist /saɪˈkaɪətrɪst/, psychic*。
+- sociology | n. | 社会学 | — | Sociology is the study of human society.
+  fam: sociologist (n.) · sociological (adj.)
+- ecology | n. | 生态学；生态 | — | The dam has changed the ecology of the river.
+  fam: ecological (adj.) · ecologist (n.)
+- analogy | n. | 类比；比喻 | draw an analogy between A and B | The teacher drew an analogy between the heart and a pump. | W
+  ipa: /əˈnælədʒi/
+
+## 6 · Feeling, believing & trusting · 感觉、相信与信任
+
+@box rule path（感受） · cred（相信） · fid（信任）
+**path：** *empathy*（U15）、*sympathy*（U15 易混框）、*apathy, pathetic*
+**cred：** *credit*（U11）、*credibility*（U39）、*incredible, credentials*
+**fid：** *confident*（U2）、*confidential*
+@end
+
+- apathy | n. | 冷漠；漠不关心 | voter apathy | Political apathy among young people is a concern. | W
+  ipa: /ˈæpəθi/
+  fam: apathetic (adj.)
+- pathetic | adj. | 可悲的；可怜的；差劲的 | — | That was a pathetic excuse. | S
+- incredible | adj. | 难以置信的；极好的 | — | The view from the top was incredible. | S
+- credentials | n. | 资历；资格证书；凭证 | academic credentials | She has excellent credentials for the job. | W
+- confidential | adj. | 机密的；保密的 | confidential information | All personal information will be kept confidential. | W
+
+## 7 · Good, bad, many & one · 好坏多少
+
+@box rule bene（好）· mal（坏）· mono（一）· poly / multi（多）· omni / pan（全部）· equi（相等）
+**bene：** *benefit*（U34）、*benevolent* · **mal：** *malnutrition*（U32）、*malfunction, malicious*
+**mono：** *monopoly*（U33）、*monotonous*（U46）、*monologue* · **poly：** *polygon* · **pan / omni：** *pandemic*（U31）、*omnivore*（U21）、*panorama*
+**equi：** *equivalent*（U42）、*equity*（U39）、*equilibrium, equator*
+@end
+
+- benevolent | adj. | 仁慈的；慈善的 | — | The school was founded by a benevolent businessman. | W
+- malfunction | n. / v. | 故障；失灵 | — | A computer malfunction delayed the flight. | W
+- malicious | adj. | 恶意的；怀恶意的 | malicious software/gossip | Malicious software can steal your data. | W
+- monologue | n. | 独白；长篇大论 | — | The play begins with a long monologue.
+- panorama | n. | 全景；概述 | — | The hotel offers a panorama of the city. | W
+  fam: panoramic (adj.)
+- equilibrium | n. | 平衡；均衡 | — | The ecosystem is in a delicate equilibrium. | W
+- equator | n. | 赤道 | — | Singapore lies just north of the equator.
+- equate | v. | 把……等同起来 | equate A with B | Many people equate success with money. | W
+
+## 8 · Land, water, hand & foot · 土地、水、手与脚
+
+@box rule terr（土地）· aqua, hydro（水）· manu（手）· ped（脚）· corp（身体）· nov（新）· sol（单独）
+**terr：** *territory, terrain* · **aqua / hydro：** *aquatic*（U21）、*hydroelectric*（U30）、*aquarium*
+**manu：** *manual*（U17）、*manufacturing*（U33）、*manipulate*（U22）、*manuscript* · **ped：** *pedestrian*（U9）
+**nov：** *novel*（U11）、*innovation*（U37）、*renovate*（U20）、*novice* · **sol：** *solar*（U30）、*solitary*
+@end
+
+- territory | n. | 领土；领域；地盘 | — | The tiger needs a large territory to hunt. | W
+  fam: territorial (adj.)
+- terrain | n. | 地形；地势 | rough/mountainous terrain | The vehicle can drive over rough terrain. | W
+- aquarium | n. | 水族馆；鱼缸 | — | We saw sharks at the aquarium.
+- manuscript | n. | 手稿；原稿 | — | The museum holds manuscripts that are over 1,000 years old. | W
+- corporate | adj. | 公司的；企业的 | corporate culture/responsibility | Corporate social responsibility is now a priority for many companies. | W
+  fam: corporation (n.)
+- novice | n. | 新手；初学者 | — | The course is designed for complete novices. | W
+- solitary | adj. | 独自的；孤独的；单个的 | a solitary life | Tigers are solitary animals. | W
+  fam: solitude (n.)
+
+## 9 · Other high-value roots · 其他高频词根
+
+- capture | v. / n. | 捕获；夺取；记录（图像、情感） | capture attention/the moment | The photo captures the beauty of the city. // The police captured the thief. | W
+  note: *cap / cept / ceive*（拿、取）：*capture, capacity*（U39）、*concept*（U39）、*perceive*（U38）、*exception, intercept*。
+- exception | n. | 例外 | with the exception of; make an exception | With the exception of maths, all her grades improved. | W
+  fam: exceptional (adj., 杰出的) · exceptionally (adv.)
+- autocracy | n. | 独裁统治 | — | Power in an autocracy is held by a single person. | W
+  note: *-cracy*（统治）：*democracy*（人民统治，U34）、*bureaucracy*（官僚统治，U34）、*autocracy*（独裁）。
+- cyclical | adj. | 周期性的；循环的 | cyclical changes | The economy goes through cyclical ups and downs. | W
+  note: *cycl*（圆、循环）：*recycle*（U29）、*bicycle*、*cyclone*（气旋，U10 台风辨析）。
+- incision | n. | 切口 | — | The surgeon made a small incision. | W
+  note: *cis / cide*（切、杀）：*precise*（U46）、*decisive*（U36）、*pesticide*（U32）、*incision*。
+- macroeconomics | n. | 宏观经济学 | — | Macroeconomics studies the economy as a whole. | W
+  note: *macro-*（大）↔ *micro-*（小）：*microscope*（U27）、*microeconomics*（研究个人和企业的经济学）。
+- telecommunications | n. | 电信 | the telecommunications industry | Shenzhen is home to major telecommunications companies. | W
+  note: *tele-*（远）：*telescope, telephone, television, telecommuting*（远程办公）。
+
+@box ielts 词根帮你做阅读
+阅读遇到 *The species is **terrestrial**, unlike its **aquatic** relatives.* 即使没见过 *terrestrial*，从 *terr*（土地）和后面的对比 *aquatic*（水生的）也能推出：“陆生的”。这就是词根 + 上下文的威力。
+@end

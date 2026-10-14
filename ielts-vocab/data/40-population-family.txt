@@ -45,7 +45,7 @@
   note: *paternity leave* = 陪产假（父亲休的假）；*parental leave* = 育儿假（父母都可休）。
 - paternity leave | n. | 陪产假 | — | More fathers are taking paternity leave.
 - marriage | n. | 婚姻；婚礼 | — | People are getting married later than in the past.
-  fam: marry (v.) · married (adj.)
+  fam: married (adj.)
 - divorce | n. / v. | 离婚 | get divorced; the divorce rate | The divorce rate has risen in many countries.
 - cohabit | v. | 同居 | — | More couples cohabit before marriage. | W
   fam: cohabitation (n.)

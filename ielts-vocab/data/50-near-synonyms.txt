@@ -1,0 +1,162 @@
+@unit 50
+@title Advanced Precision: Near-synonym Sets
+@zh 近义词精辨：选对“那一个”词
+@level C1–C2 · 高分精修
+@intro 英语中很少有完全相同的同义词。*reduce, curb, cut, slash, alleviate* 都和“减少”有关，但它们的**强度、对象和语气**各不相同。本单元按意义分组，每组开头的重点词条说明组内差异。目标不是背更多词，而是在需要时**选对那一个**。
+
+## 1 · Change · 改变
+
+* adjust | v. | 调整；适应 | adjust to sth; adjust the temperature | It took me a few weeks to adjust to the new school. // Adjust your seat before driving.
+  fam: adjustment (n.)
+  note: “改变”的精确选择：**adjust**（小幅调整以适应）、**modify**（局部修改以改进）、**alter**（改变某部分，中性）、**amend**（正式修订文件、法律）、**convert**（改变形式或用途）、**transform**（彻底改变面貌）、**overhaul**（全面检修、彻底改革系统）、**revamp**（翻新、改进外观或结构）。
+- convert | v. | 转换；改变（形式、用途）；使皈依 | convert A into B | The old factory was converted into an art centre. | W
+  ipa: /kənˈvɜːt/
+  fam: conversion (n.) · convertible (adj.)
+- amend | v. | 修改；修订（法律、文件） | amend a law/contract | The law was amended to protect online privacy. | W
+  fam: amendment (n.)
+- overhaul | v. / n. | 彻底检修；全面改革 | overhaul the system | The government plans to overhaul the tax system. | W
+  ipa: /ˌəʊvəˈhɔːl/ (v.) · /ˈəʊvəhɔːl/ (n.)
+- revamp | v. / n. | 改造；翻新；改进 | revamp a website/service | The museum has been revamped to attract younger visitors. | W
+
+## 2 · Increase & strengthen · 增加与加强
+
+* boost | v. / n. | 促进；提高；增强 | boost the economy/sales/confidence | Tourism has boosted the local economy. // Winning gave her confidence a boost. | W
+  note: **boost**（提升，常用于经济、信心、销量，积极）、**enhance**（提高质量、价值）、**bolster**（支撑、加强已有但较弱的东西）、**intensify**（加剧、强化——可积极可消极）、**escalate**（逐步升级，多指冲突、紧张局势，消极）、**accelerate**（加速）、**amplify**（放大、增强声音或影响）。
+- bolster | v. | 支撑；加强；提高 | bolster confidence/support/the economy | The new evidence bolsters their argument. | W
+  ipa: /ˈbəʊlstə/
+- intensify | v. | 加强；加剧 | intensify efforts/competition | Competition between the two companies has intensified. | W
+  fam: intense (adj.) · intensity (n.) · intensive (adj.)
+- escalate | v. | 逐步升级；加剧 | escalate into sth | The argument escalated into a fight. | W
+  fam: escalation (n.)
+- accelerate | v. | 加速；促进 | accelerate growth/change | The pandemic accelerated the shift to online shopping. | W
+  ipa: /əkˈseləreɪt/
+  fam: acceleration (n.)
+- amplify | v. | 放大；增强 | amplify sound/a message | Social media can amplify false information. | W
+
+## 3 · Reduce & limit · 减少与限制
+
+* reduce | v. | 减少；降低 | reduce costs/pollution/the risk of | Cycling to work reduces your carbon footprint.
+  fam: reduction (n.)
+  note: **reduce**（减少，最通用）、**cut**（削减，口语、新闻常用）、**slash**（大幅削减，新闻用语，语气强）、**curb**（遏制、控制不良的东西）、**curtail**（缩减、限制，正式）、**alleviate / ease**（缓解痛苦、问题）、**lessen**（减轻程度）、**minimise**（降到最低，见 Unit 36）。
+- curb | v. / n. | 遏制；控制；路缘 | curb spending/pollution/inflation | The government introduced new measures to curb air pollution. | W
+- curtail | v. | 缩减；限制（正式） | curtail spending/freedom | The war curtailed economic growth. | W
+- slash | v. | 大幅削减；砍 | slash prices/costs | Shops slashed prices after Christmas. | W
+- alleviate | v. | 减轻；缓解（痛苦、问题） | alleviate poverty/pain/congestion | New roads may alleviate traffic congestion in the short term. | W
+  ipa: /əˈliːvieɪt/
+- ease | v. / n. | 缓解；减轻；容易 | ease the pain/pressure; with ease | The medicine eased her pain. // She passed the test with ease. | W
+- lessen | v. | 减少；减轻 | lessen the impact/risk | Planting trees can lessen the effects of flooding. | W
+- restrict | v. | 限制；约束 | restrict access/the number of | The city restricts the number of new cars each year. | W
+
+## 4 · Damage & destroy · 损害与破坏
+
+* devastate | v. | 摧毁；使极度震惊 | be devastated by sth | The earthquake devastated the city. // She was devastated by the news. | W
+  fam: devastating (adj.) · devastation (n.)
+  note: 破坏程度：**spoil**（弄糟、宠坏，程度轻）< **damage**（损坏）< **ruin**（毁掉、使无法挽回）< **wreck**（严重破坏、毁坏，口语）< **devastate / destroy**（彻底摧毁）。*devastated* 用于人时 = 极度悲痛。
+- ruin | v. / n. | 毁坏；毁掉；废墟 | ruin sb's life/plans | The rain ruined our picnic.
+- wreck | v. / n. | 毁坏；破坏；残骸 | — | The storm wrecked dozens of boats. | S
+- spoil | v. | 破坏；宠坏；（食物）变质 | spoil a child; spoil the view | The new building spoils the view of the sea. // Don't spoil your little brother.
+- undermine trust | phr. | 破坏信任 | — | Fake news undermines trust in the media. | W
+- erode | v. | 侵蚀；逐渐削弱 | erode confidence/trust | Waves have eroded the cliffs. // Repeated scandals have eroded public trust. | W
+  fam: erosion (n.)
+
+## 5 · Look & see · 看
+
+* glance | v. / n. | 匆匆一看；瞥 | glance at sth; at a glance | She glanced at her watch. | S
+  note: **glance**（快速一瞥）、**glimpse**（瞥见，常是偶然、不完整地看到）、**stare**（盯着看，常带惊讶或无礼）、**gaze**（凝视，常带欣赏或思考）、**peer**（眯眼细看，看不清时）、**scrutinise**（仔细审查）、**observe**（观察，学术常用）。
+- glimpse | n. / v. | 一瞥；瞥见 | catch a glimpse of | We caught a glimpse of the dolphins.
+- stare | v. / n. | 盯着看；凝视 | stare at sb/sth | It's rude to stare at people.
+- gaze | v. / n. | 凝视；注视 | gaze at/into sth | She gazed at the stars for hours.
+- scrutinise | v. | 仔细审查；详细检查 | scrutinise data/a document | Journalists scrutinised the minister's statement. | W
+  fam: scrutiny (n.)
+
+## 6 · Say & tell · 说
+
+* remark | v. / n. | 说；评论；谈论 | remark on/that…; a rude remark | He remarked that the room was cold. // She made a few remarks about the weather.
+  note: “说”的精确选择：**remark / comment**（随口评论）、**state**（正式陈述）、**declare**（郑重宣布）、**announce**（公开宣布）、**insist**（坚持说）、**admit**（承认，常是不情愿的）、**disclose**（披露原本保密的信息）、**claim**（声称，见 Unit 27）。
+- comment | v. / n. | 评论；发表意见 | comment on sth; no comment | He refused to comment on the rumours.
+- declare | v. | 宣布；声明；申报（海关） | declare war; declare that… | The government declared a state of emergency. | W
+  fam: declaration (n.)
+- announce | v. | 宣布；通告 | announce a plan/decision | The school announced that classes would start later.
+  fam: announcement (n.)
+- insist | v. | 坚持（说/要求） | insist on sth/doing sth; insist that… | She insisted on paying for dinner. // He insisted that he was innocent.
+  note: *insist that sb (should) do sth*（坚决要求某人做）：*The doctor insisted that I rest.*
+- admit | v. | 承认；准许进入 | admit (to) doing sth; admit that… | He admitted making a mistake. // Children under 12 are not admitted.
+  fam: admission (n.)
+- disclose | v. | 披露；揭露 | disclose information | Companies must disclose how they use personal data. | W
+  fam: disclosure (n.)
+
+## 7 · Think & regard · 认为与看待
+
+* regard | v. / n. | 把……视为；尊重；关心 | regard A as B; with regard to; in this regard | Many people regard him as the best player in history. | W
+  note: “把 A 看作 B”的几种说法：*regard A as B* / *see A as B* / *view A as B* / *consider A (to be) B* / *deem A B*（最正式，法律文件常用）/ *perceive A as B*（主观感知）。注意只有 *consider* 和 *deem* 可以不用 as。
+- deem | v. | 认为；视为（正式） | be deemed (to be) sth | The building was deemed unsafe. | W
+- view | v. / n. | 看待；观点；景色 | view A as B; in my view; take the view that… | Many people view the policy as unfair. // In my view, the plan will fail. | W
+
+## 8 · Help & get · 帮助与获得
+
+- assist | v. | 协助；帮助（正式） | assist sb with sth/in doing sth | Volunteers assisted the elderly with their shopping. | W
+  fam: assistance (n.) · assistant (n.)
+- aid | n. / v. | 援助；帮助；辅助工具 | in aid of; hearing aid; first aid | The money will be used to aid flood victims. | W
+- attain | v. | 达到；获得（正式，常指经过努力） | attain a goal/level | Few athletes attain such a high level. | W
+  fam: attainment (n.)
+- secure | v. / adj. | 获得（经过努力）；使安全；安全的 | secure a job/funding/a place | She secured a place at a top university. | W
+  note: 动词 *secure* = 努力后成功获得：*secure funding / a contract / a victory*，是写作中替代 *get* 的好词。
+
+## 9 · Need & involve · 需要与牵涉
+
+- require | v. | 需要；要求 | require sb to do sth; be required to | The job requires good communication skills. | W
+  note: 已作为 *requirement* 的词族在 Unit 17 出现；“需要”的正式程度：*need*（通用）< *require*（正式）< *necessitate*（使成为必要，非常正式）。
+- necessitate | v. | 使成为必要 | — | Rising sea levels will necessitate new flood defences. | W
+- entail | v. | 牵涉；需要；使必要 | entail doing sth | The job entails a lot of travel. | W
+
+## 10 · Start, stop & try · 开始、停止与尝试
+
+- commence | v. | 开始（正式） | — | The ceremony will commence at 10 a.m. | W
+- embark on | phr. v. | 着手；开始（新的、重要的事情） | embark on a career/journey/project | She embarked on a new career as a nurse. | W
+- cease | v. | 停止；终止（正式） | cease to exist; cease operations | The factory ceased production in 2015. | W
+  ipa: /siːs/
+- halt | v. / n. | 停止；暂停 | bring sth to a halt; halt production | Work on the bridge was halted because of safety concerns. | W
+- terminate | v. | 终止；结束（合同等） | terminate a contract | The company terminated his contract. | W
+- discontinue | v. | 停止生产；中断 | — | This model has been discontinued. | W
+- attempt | n. / v. | 尝试；企图 | make an attempt to do sth; attempt to do sth | The rescue team made several attempts to reach the climbers. | W
+- endeavour | n. / v. | 努力；尽力（正式） | endeavour to do sth | We will endeavour to answer all emails within 24 hours. | W
+  ipa: /ɪnˈdevə/
+- strive | v. | 努力；奋斗 | strive for/to do sth | We should all strive for a fairer society. | W
+- seek | v. | 寻求；寻找；试图 | seek help/advice/to do sth | Many people seek advice online before seeing a doctor. | W
+
+## 11 · Clear & strange · 明显与奇怪
+
+- obvious | adj. | 明显的；显而易见的 | — | The answer seems obvious now.
+  fam: obviously (adv.)
+- evident | adj. | 明显的；显然的 | It is evident that… | It is evident that the policy has failed. | W
+- manifest | v. / adj. | 显现；表明；明显的 | manifest itself in sth | Stress can manifest itself in physical symptoms. | W
+- peculiar | adj. | 奇怪的；特有的 | peculiar to sth | There's a peculiar smell in here. // This custom is peculiar to the region.
+- bizarre | adj. | 怪异的；离奇的 | — | It was a bizarre coincidence. | S
+  ipa: /bɪˈzɑː/
+- eccentric | adj. / n. | 古怪的；古怪的人 | — | My uncle is a bit eccentric — he talks to his plants. | S
+
+## 12 · Size · 大小
+
+- tiny | adj. | 极小的 | — | The phone has a tiny camera.
+- compact | adj. | 小巧的；紧凑的 | a compact car | The flat is small but compact.
+- vast | adj. | 巨大的；辽阔的 | a vast amount/area | China covers a vast area. | W
+- immense | adj. | 巨大的；极大的 | immense pressure/value | The project has immense potential. | W
+- enormous | adj. | 巨大的 | an enormous amount | The new stadium is enormous.
+- massive | adj. | 巨大的；大规模的 | a massive increase | There has been a massive increase in online sales. | S
+- colossal | adj. | 巨大的；庞大的 | a colossal waste of money | The project was a colossal waste of money. | W
+
+## 13 · Danger & difficulty · 危险与困难
+
+- perilous | adj. | 危险的；冒险的 | a perilous journey | Migrants make perilous journeys across the sea. | W
+  fam: peril (n.)
+- precarious | adj. | 不稳定的；不安全的 | a precarious position/situation | Many gig workers are in a precarious financial position. | W
+  ipa: /prɪˈkeəriəs/
+- dire | adj. | 极其严重的；可怕的 | dire consequences; in dire need of | The hospital is in dire need of more staff. | W
+- grave | adj. / n. | 严重的；严肃的；坟墓 | grave concern/danger | The report expressed grave concern about water pollution. | W
+- severe | adj. | 严重的；严厉的；恶劣的 | severe weather/punishment | The region suffered a severe drought.
+  fam: severity (n.) · severely (adv.)
+
+@box ielts 近义词替换：先确认三件事
+1. **强度**相同吗？（*dislike* ≠ *hate*；*reduce* ≠ *slash*）2. **对象**合适吗？（*alleviate pain* ✓，*alleviate prices* ✗）3. **语域**一致吗？（*commence* 只用于正式场合；口语说 *start*）
+IELTS 阅读的“同义替换”题也基于这三点：原文 *slashed* 对应题目中的 *cut significantly*，而不是 *reduced slightly*。
+@end

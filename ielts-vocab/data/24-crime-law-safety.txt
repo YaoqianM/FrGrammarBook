@@ -93,7 +93,6 @@ note: ✗ *Someone robbed my phone* → ✓ *Someone stole my phone* / *I was ro
 - CCTV | n. | 闭路电视监控（closed-circuit television） | CCTV cameras | The thief was caught on CCTV.
 - patrol | v. / n. | 巡逻 | on patrol | Police officers patrol the streets at night.
 - security | n. | 安全；保安；保障 | national security; job security; security guards | Airport security has become much stricter.
-  fam: secure (adj./v.)
 - safety | n. | 安全（不受伤害） | road safety; for your own safety | For your own safety, please wear a helmet.
 - hazard | n. | 危险；危害 | a fire hazard; health hazards | Wet floors are a safety hazard.
   fam: hazardous (adj.)

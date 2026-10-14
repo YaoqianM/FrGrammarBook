@@ -1,0 +1,97 @@
+@unit 42
+@title Data, Proportions & Comparisons
+@zh 数据、比例与比较（Task 1 核心）
+@level B2–C1 · 高分精修
+@intro 很多 Task 1 图表没有“时间变化”，只有**比例和对比**：饼图、表格、某一年的柱状图。这时你需要的是描述份额、排名、倍数和差异的词汇。本单元还会帮你分清 *amount / number*、*percentage / per cent* 这些容易丢分的细节。
+
+## 1 · Data & charts · 数据与图表
+
+- data | n. | 数据；资料 | collect/analyse data; the data shows/show | The data shows a clear difference between the two groups. | W
+  ipa: /ˈdeɪtə/
+  note: *data* 原是 *datum* 的复数。现代英语中，*the data shows* 和 *the data show* 都被接受；学术写作中两种都常见，保持全文一致即可。
+- statistics | n. | 统计数字；统计学 | official statistics; statistics show that… | Statistics show that women live longer than men. | W
+  fam: statistic (n., 一个统计数字) · statistical (adj.) · statistically (adv.)
+- survey | n. / v. | 调查；民意测验；勘测 | carry out a survey; survey 1,000 people | A survey of 1,000 teenagers found that most used social media daily. | W
+  ipa: /ˈsɜːveɪ/ (n.) · /səˈveɪ/ (v.)
+- respondent | n. | 受访者；调查对象 | — | Over 60% of respondents said they preferred online shopping. | W
+- bar chart | n. | 柱状图 | — | The bar chart compares the number of students in five countries.
+- line graph | n. | 折线图 | — | The line graph shows changes in temperature over a year.
+- pie chart | n. | 饼图 | — | The pie chart shows how household income is spent.
+- diagram | n. | 图解；示意图 | — | The diagram shows how paper is recycled.
+  note: Task 1 的流程图（*process diagram*）和地图（*map*）题使用的是另一套语言：被动语态（*is collected, is transported*）和顺序词（*first, then, after that, finally*）。
+- axis | n. | 坐标轴（复数 axes） | the vertical/horizontal axis | The vertical axis shows the price in dollars. | W
+  ipa: /ˈæksɪs/
+- category | n. | 类别；种类 | in the 18–25 age category | Spending on food was the largest category. | W
+- average | n. / adj. / v. | 平均数；平均的；平均达到 | on average; above/below average; average 30 hours | On average, students spend 3 hours a day online. // Sales averaged 500 units a week. | W
+  note: 统计中的“平均”：*mean*（算术平均数）、*median*（中位数）、*mode*（众数）。收入数据常用 *median*，因为少数极高收入会拉高 *mean*。
+- median | n. / adj. | 中位数 | median income | The median household income rose by 3%. | W
+- total | n. / adj. / v. | 总数；总的；总计 | in total; a total of | A total of 2,000 people took part. // Sales totalled 5 million. | W
+- per annum | adv. | 每年（正式） | — | The company grows by 8% per annum. | W
+- quantity | n. | 数量 | in large quantities | Large quantities of plastic end up in the sea. | W
+- negligible | adj. | 微不足道的；可忽略的 | a negligible amount | The difference between the two figures was negligible. | W
+  ipa: /ˈneɡlɪdʒəbl/
+- minimal | adj. | 最小的；极少的 | minimal impact/cost | The new rules had minimal impact on sales. | W
+
+@cmp amount · number · quantity
+number | 可数名词：the number of students/cars | The number of cars has increased.
+amount | 不可数名词：the amount of money/water/time | The amount of plastic waste has increased.
+quantity | 两者皆可，较正式，常用于货物、物质 | a large quantity of rice/oranges
+note: ✗ *the amount of people* → ✓ *the number of people*。这是 Task 1 最常见的扣分点之一。另外：*fewer* + 可数，*less* + 不可数（*fewer cars, less traffic*）。
+@end
+
+## 2 · Proportions & shares · 比例与份额
+
+- percentage | n. | 百分比；百分率 | a high percentage of; the percentage of sth | The percentage of people living in cities has risen. | W
+  note: *percentage* 是名词，前面不跟具体数字：✗ *20 percentage* → ✓ *20 per cent / 20%*。✓ *a higher percentage*；✓ *rose by 5 percentage points*（从 20% 到 25% 是上升了 5 个百分点，但增长率是 25%）。
+- per cent | n. / adv. | 百分之……（美式 percent） | 20 per cent | Twenty per cent of the students walk to school. | W
+- percentage point | n. | 百分点 | — | Unemployment fell by two percentage points, from 8% to 6%. | W
+- fraction | n. | 分数；一小部分 | a fraction of | Only a fraction of plastic is recycled. | W
+  note: Task 1 常用分数代替百分比，避免重复：*a quarter*（25%）、*a third*（约 33%）、*half*、*two-thirds*、*three-quarters*、*nearly a fifth*（约 19%）。
+- ratio | n. | 比例；比率 | the ratio of A to B; in a ratio of 2:1 | The ratio of students to teachers is 20 to 1. | W
+  ipa: /ˈreɪʃiəʊ/
+- rate | n. | 比率；速度；费用 | the unemployment rate; at a rate of | The unemployment rate fell to 4%. // The population is growing at a rate of 1% a year. | W
+- the largest share | phr. | 最大的份额 | a share of; a growing share | China accounts for the largest share of global solar panel production. | W
+- account for | phr. v. | ① 占（比例） ② 解释；说明……的原因 | account for 30% of sth | Young people account for 40% of online shoppers. // Poor diet may account for the rise in obesity. | W
+  note: **IELTS 最高价值短语动词之一**。义①（占比）在 Task 1 中极为常用：*Coal accounted for over half of electricity generation.* 义②（解释原因）常见于阅读和 Task 2：*How can we account for this change?* 注意 *account for* 不能用被动表示占比。
+- represent | v. | 代表；表示；占（比例） | represent 25% of | Tourism represents about 10% of the country's GDP. | W
+  fam: representative (n./adj.) · representation (n.)
+- the vast majority | phr. | 绝大多数 | — | The vast majority of respondents used a smartphone. | W
+- the remainder | n. | 剩余部分；其余 | — | Sixty per cent of the budget went on salaries, and the remainder on equipment. | W
+- a quarter | phr. | 四分之一 | — | A quarter of all households own a dog. | W
+- proportionally | adv. | 按比例地 | — | Spending on health rose proportionally with the ageing population. | W
+
+## 3 · Comparing · 比较
+
+* compared with | phr. | 与……相比 | compared with/to | Compared with 2010, far more people now shop online. | W
+  note: *compared **with*** 用于比较两者的异同（Task 1 最常用）；*compared **to*** 传统上用于“比作、比喻”，但现代英语中两者常可互换。另一种表达：*in comparison with*（见 Unit 41）。
+- exceed | v. | 超过；超出 | exceed expectations/the limit | Demand for electricity exceeded supply. | W
+  fam: excess (n.) · excessive (adj.)
+- surpass | v. | 超过；胜过 | — | In 2015, online sales surpassed in-store sales for the first time. | W
+- overtake | v. | 超过；赶上 | — | China overtook the US as the world's largest car market in 2009. | W
+  note: 2009 年中国超过美国成为全球最大汽车市场——这是常被引用的事实。图表中两条线交叉的地方，用 *overtake* 或 *surpass* 最自然。
+- outnumber | v. | 在数量上超过 | — | Women outnumbered men in the university by two to one. | W
+- lag behind | phr. v. | 落后于 | — | Rural areas still lag behind cities in internet access. | W
+- trail | v. / n. | 落后；小道；踪迹 | trail behind | Spain trailed behind France in visitor numbers. | W
+- the highest | phr. | 最高的 | the highest proportion/figure | Japan had the highest life expectancy of the five countries. | W
+- followed by | phr. | 其次是 | — | Food was the largest expense, followed by housing and transport. | W
+  note: 描述排名的好用结构：*A was the largest category, followed by B (25%) and C (20%).*
+- twice as … as | phr. | 是……的两倍 | twice as many/much/high as | Men were twice as likely as women to smoke. | W
+  note: 倍数比较：*twice / three times / half as + 形容词/副词 + as*：*three times as expensive as*。也可用 *three times more expensive than*，但 *as…as* 更准确。
+- as many as | phr. | 多达 | — | As many as 5,000 people attended the event. | W
+  note: *as many as / as much as / as high as* 用于强调数字之大；*as few as / as little as* 强调数字之小。
+- similar | adj. | 类似的；相似的 | similar to sth; a similar pattern | The two countries had similar figures. | W
+  fam: similarity (n.) · similarly (adv.)
+- identical | adj. | 完全相同的 | identical to/with sth | The figures for 2019 and 2020 were almost identical. | W
+- equivalent | adj. / n. | 相等的；相当的；对应物 | equivalent to sth; the equivalent of | One kilogram is roughly equivalent to 2.2 pounds. | W
+- relatively | adv. | 相对地；比较地 | relatively high/low/small | The number of cyclists remained relatively low. | W
+- comparatively | adv. | 相对地；比较而言 | comparatively few | Comparatively few people used public transport. | W
+- considerably higher | phr. | 高得多 | — | The figure for Germany was considerably higher than that for Italy. | W
+  note: 比较级前的程度副词：*much / far / significantly / considerably / substantially*（大得多）；*slightly / a little / marginally*（略微）。✗ *very higher* → ✓ *much higher*。另外注意 *that for / those for*：比较的是“数据”而不是“国家”本身。
+- the gap between | phr. | ……之间的差距 | narrow/widen the gap between A and B | The gap between male and female salaries narrowed slightly. | W
+- by far | phr. | 显然；……得多（修饰最高级、比较级） | by far the largest | Cars were by far the most popular form of transport. | W
+
+@box ielts Task 1：避免重复的“替换链”
+同一个数据可以用多种方式表达，交替使用：
+*30% of students* = *nearly a third of students* = *the proportion of students was 30%* = *students accounted for 30%* = *three in ten students*。
+同时注意：**不要把所有数据都写进去**——选择主要特征（最高、最低、最大变化、明显对比）进行描述和比较。
+@end

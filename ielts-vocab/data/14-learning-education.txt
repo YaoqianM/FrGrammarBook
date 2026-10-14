@@ -68,7 +68,7 @@
 - master | v. / n. | 掌握；精通；硕士；大师 | master a skill; master's degree | It takes years to master a musical instrument.
   fam: mastery (n.)
 - comprehend | v. | 理解（正式） | — | Some students struggle to comprehend complex texts. | W
-  fam: comprehension (n.) · comprehensible (adj.) · comprehensive (adj., 全面的)
+  fam: comprehension (n.) · comprehensible (adj.)
   note: 词族陷阱：*comprehensible* = 可理解的；*comprehensive* = 全面的、综合的（a comprehensive study）。
 - rote learning | n. | 死记硬背 | — | Critics say the system relies too much on rote learning. | W
 - cram | v. | 临时抱佛脚；塞满 | cram for an exam | I stayed up all night cramming for my history test. | S
@@ -97,11 +97,10 @@
   fam: literate (adj.) · illiterate (adj.) · illiteracy (n.)
 - numeracy | n. | 计算能力 | literacy and numeracy | Basic numeracy is essential for everyday life. | W
 - attendance | n. | 出勤；出席人数 | school attendance; attendance rate | Attendance is compulsory for all lessons.
-  fam: attend (v.)
 - discipline | n. / v. | 纪律；学科；训练；惩罚 | school discipline; academic disciplines | Teachers need good discipline in the classroom. // Physics and chemistry are related disciplines.
   ipa: /ˈdɪsəplɪn/
 - class size | n. | 班级人数 | reduce class sizes | Smaller class sizes allow teachers to give more individual attention.
-- peer | n. | 同龄人；同辈 | peer pressure; peer review | Teenagers are strongly influenced by their peers.
+- peer | n. / v. | 同龄人；同辈；（v.）眯眼细看 | peer pressure; peer review; peer into sth | Teenagers are strongly influenced by their peers. // He peered into the dark room.
   note: *peer pressure*（同伴压力）和学术中的 *peer review*（同行评审）都是高频搭配。
 
 @cmp teach · educate · train · instruct

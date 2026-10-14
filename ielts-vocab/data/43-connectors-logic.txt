@@ -1,0 +1,127 @@
+@unit 43
+@title Connectors & Logical Relationships
+@zh 逻辑连接词与衔接
+@level B2–C1 · 高分精修（重点单元）
+@intro 连接词是阅读中“读懂作者意图”的路标，也是写作中 *Coherence and Cohesion*（连贯与衔接）的核心。但请注意：**高分不来自堆砌连接词**。考官的评分描述明确指出，机械地、过度地使用连接词（如每句话都以 *Moreover / Furthermore* 开头）反而会扣分。本单元重点是：每个连接词**表达什么逻辑关系、用在什么位置、后面接什么**。
+
+@box warn 三类连接词的语法位置
+**副词类**（however, therefore, moreover, nevertheless…）：连接两个句子，通常放句首加逗号，或用分号连接：*It was expensive; **however**, it was worth it.* ✗ *It was expensive, however it was worth it.*（逗号拼接是常见语法错误）
+**连词类**（although, whereas, while, because, unless…）：后面接完整从句：*Although it was expensive, it was worth it.*
+**介词类**（despite, in spite of, due to, because of…）：后面接名词或动名词：*Despite the cost, it was worth it.* ✗ *Despite it was expensive…*
+@end
+
+## 1 · Contrast & concession · 对比与让步
+
+* however | adv. | 然而；但是 | — | Online learning is flexible. However, it requires a lot of self-discipline. | W
+  note: *however* 是副词，不是连词：不能像 *but* 那样用逗号直接连接两个句子。可放在句首、句中（*It is, however, expensive.*）或用分号连接。口语中 *but* 更自然。
+- nevertheless | adv. | 尽管如此；然而 | — | The plan was risky. Nevertheless, the company decided to go ahead. | W
+  note: *nevertheless / nonetheless* 比 *however* 更强调“尽管有前面的情况，结果仍然……”，适合让步论证。
+- nonetheless | adv. | 尽管如此 | — | The evidence is limited; nonetheless, it is worth considering. | W
+- although | conj. | 虽然；尽管 | — | Although the car is old, it runs well.
+  note: 中文说“虽然……但是……”，英语里 *although* 和 *but* **不能同时使用**：✗ *Although it rained, but we went out.* → ✓ *Although it rained, we went out.*
+- even though | conj. | 即使；尽管（语气比 although 强） | — | Even though he studied hard, he failed the exam.
+- though | conj. / adv. | 虽然；不过（口语常放句末） | — | It was a good film. The ending was a bit sad, though. | S
+- whereas | conj. | 而；然而（对比两个事实） | — | Some people prefer cities, whereas others prefer the countryside. | W
+  note: *whereas / while* 用于平行对比两件事（A 如此，而 B 如此），在 Task 1 比较数据时特别好用：*Sales rose in Asia, whereas they fell in Europe.*
+- while | conj. | 而；虽然；当……时 | — | While some students enjoy group work, others find it stressful. | W
+- despite | prep. | 尽管 | despite sth/doing sth; despite the fact that | Despite the rain, the match continued. // Despite having little money, they were happy. | W
+  note: ✗ *despite of* → ✓ *despite* 或 *in spite of*。后接名词、动名词或 *the fact that* + 从句。
+- in spite of | prep. | 尽管 | — | In spite of the high cost, many families choose private schools. | W
+- yet | conj. / adv. | 然而；但是；还 | — | The task seemed simple, yet nobody could solve it. | W
+- in contrast | phr. | 相比之下；与此相反 | in contrast to/with | In contrast, rural areas saw a decline in population. | W
+  note: *in contrast*（单独作连接副词）vs. *in contrast to sth*（作介词短语）：*In contrast to cities, villages are quiet.* *by contrast* 意思相近，用法同 *in contrast*。
+- conversely | adv. | 相反地；反过来说 | — | Higher prices reduce demand; conversely, lower prices increase it. | W
+- on the contrary | phr. | 恰恰相反（否定前面的说法） | — | The test wasn't easy. On the contrary, it was the hardest one this year. | W
+  note: 易错：*on the contrary* 不是“另一方面”，而是**否定前句**、提出相反的事实。对比两种不同的事物应该用 *in contrast* 或 *on the other hand*。
+- admittedly | adv. | 诚然；无可否认 | — | Admittedly, the plan is expensive, but the long-term benefits are clear. | W
+  note: 让步论证的标志词：先承认对方有道理的部分，再转折。同类：*It is true that…*、*Granted,…*、*Of course,…*。
+- granted | adv. / conj. | 诚然；就算 | — | Granted, technology has some disadvantages, but it has improved our lives in many ways. | W
+
+## 2 · Addition & example · 递进与举例
+
+- moreover | adv. | 此外；而且（正式） | — | The policy is unfair. Moreover, it is very expensive. | W
+  note: *moreover / furthermore* 用于补充**更有力**的论点，语气正式。日常写作中 *also / in addition* 往往更自然。不要连续两句都用 *Moreover*。
+- furthermore | adv. | 此外；而且 | — | Exercise improves mood. Furthermore, it helps you sleep better. | W
+- in addition | phr. | 此外；另外 | in addition to sth/doing sth | In addition to teaching, she does research. | W
+  note: *in addition to* 中 to 是介词：✓ *In addition to studying, he works part-time.*
+- additionally | adv. | 另外；此外 | — | Additionally, students can borrow laptops from the library. | W
+- besides | adv. / prep. | 而且；除……之外（还有） | — | I don't want to go out — it's too cold. Besides, I'm tired. | S
+  note: *besides* = 除……之外**还有**（包括在内）；*except* = 除……之外（不包括）。*Besides English, she speaks French*（她会英语和法语）vs. *Everyone came except Tom*（Tom 没来）。
+- what is more | phr. | 更重要的是；而且 | — | The hotel was cheap. What is more, it was close to the beach. | S W
+- not only … but also | phr. | 不仅……而且 | — | Exercise is good not only for the body but also for the mind. | W
+  note: 句首倒装：*Not only **does** exercise improve health, but it also reduces stress.*——用得准确是高级语法的体现，但不要为了“炫技”而强行使用。
+- as well as | phr. | 以及；和……一样 | — | She speaks Japanese as well as English.
+- for instance | phr. | 例如 | — | Some jobs, for instance nursing and teaching, are hard to automate. | W
+- such as | phr. | 例如；诸如（后接名词） | — | Fruits such as oranges and kiwis are rich in vitamin C.
+  note: ✗ *such as* 后接完整句子 → 用 *for example*。✗ *such as … etc.*（重复）。
+- namely | adv. | 即；也就是 | — | Two countries, namely China and India, account for a third of the world's population. | W
+- in particular | phr. | 尤其；特别 | — | Young people, in particular, are affected by the housing crisis. | W
+- notably | adv. | 尤其；显著地 | — | Several countries, notably Denmark and Germany, have invested heavily in wind power. | W
+- in other words | phr. | 换句话说 | — | The project failed to meet its targets. In other words, it was a failure. | W
+- that is to say | phr. | 也就是说 | — | He's a vegan — that is to say, he doesn't eat any animal products. | W
+- indeed | adv. | 确实；实际上（用于强调或补充） | — | The results were impressive. Indeed, they exceeded all expectations. | W
+
+## 3 · Cause, result & purpose · 因果与目的
+
+- therefore | adv. | 因此；所以 | — | The roads were icy; therefore, many schools were closed. | W
+- thus | adv. | 因此；这样 | — | Prices fell, thus making the product more popular. | W
+  note: *thus* 常后接分词短语表示结果：*…, thus reducing costs*。注意不要把 *thus* 和 *this* 混淆。
+- hence | adv. | 因此；由此 | — | The material is light and strong — hence its popularity in aircraft design. | W
+  note: *hence* 后面常直接跟名词短语（省略谓语）：*hence the name*（名字由此而来）。
+- as a consequence | phr. | 因此；结果 | as a consequence of sth | As a consequence of the drought, food prices rose. | W
+- accordingly | adv. | 相应地；因此 | — | The weather changed, and we adjusted our plans accordingly. | W
+- due to | prep. | 由于；因为 | due to sth; be due to | The flight was delayed due to bad weather. | W
+  note: 传统语法中 *due to* 只能放在 be 动词后（*The delay was due to fog*），句首用 *owing to*。现代英语已普遍接受 *due to* 放句首，写作中两种都可以。
+- owing to | prep. | 由于；因为 | — | Owing to a lack of funding, the project was cancelled. | W
+- as | conj. | 因为；由于（原因已知） | — | As it was getting late, we decided to go home.
+- given that | phr. | 考虑到；鉴于 | — | Given that she had no experience, she did very well. | W
+- so that | phr. | 以便；为了 | — | Speak clearly so that everyone can understand. | W
+- in order to | phr. | 为了 | in order (not) to do sth | In order to reduce traffic, the city built more bike lanes. | W
+- so as to | phr. | 为了；以便 | so as (not) to do sth | We left early so as not to miss the train. | W
+- with this in mind | phr. | 考虑到这一点 | — | Many students work part-time. With this in mind, universities should offer flexible timetables. | W
+
+## 4 · Condition · 条件
+
+- unless | conj. | 除非；如果不 | — | You won't pass unless you study harder.
+  note: *unless* = *if … not*。✗ *unless you don't study*（双重否定）。
+- provided that | phr. | 假如；只要（也说 providing that） | — | You can borrow my bike, provided that you return it tomorrow. | W
+- as long as | phr. | 只要 | — | You can stay as long as you're quiet. | S
+- even if | phr. | 即使 | — | Even if it rains, the event will go ahead.
+  note: *even if*（即使：假设的情况，可能发生也可能不发生）vs. *even though*（尽管：已经是事实）。
+- in case | phr. | 以防；万一 | — | Take an umbrella in case it rains.
+- on condition that | phr. | 在……条件下 | — | He agreed to help on condition that his name was kept secret. | W
+
+## 5 · Organising a text · 组织篇章
+
+- firstly | adv. | 首先 | — | Firstly, I will discuss the advantages of online learning. | W
+  note: 列举顺序：*Firstly / First of all / To begin with → Secondly / Next → Finally / Lastly*。注意 *At first* ≠ *Firstly*：*At first* = 起初（后来情况变了）：*At first I hated it, but now I love it.*
+- lastly | adv. | 最后（列举中的最后一点） | — | Lastly, we need to consider the cost. | W
+- to begin with | phr. | 首先；起初 | — | To begin with, the plan is too expensive. | W
+- regarding | prep. | 关于；至于 | — | Regarding your question, I will reply by Friday. | W
+  note: 同义：*with regard to / in regard to / as regards / concerning / as for*。*As for…* 常用于转向一个新话题：*As for the cost, it is reasonable.*
+- with regard to | phr. | 关于 | — | With regard to housing, the city needs more affordable homes. | W
+- as for | phr. | 至于 | — | As for me, I prefer studying in the library. | S
+- the former | phr. | 前者 | — | Of the two options, the former is cheaper but the latter is faster. | W
+  note: *the former … the latter*（前者……后者）在写作中可避免重复两个长名词，但只能用于**两个**事物。
+- the latter | phr. | 后者 | — | Cities offer jobs and entertainment, and the latter is especially attractive to young people. | W
+- ultimately | adv. | 最终；归根结底 | — | Ultimately, the decision depends on cost. | W
+  fam: ultimate (adj.)
+- in conclusion | phr. | 总之；最后（结论段开头） | — | In conclusion, the benefits of the policy outweigh its drawbacks. | W
+  note: 结论段常用：*In conclusion / To conclude / To sum up / All things considered*。✗ *In a word*（中式表达，意为“一句话”，作为结论段开头不自然）。
+- all in all | phr. | 总而言之 | — | All in all, it was a successful year. | S
+- in short | phr. | 简言之 | — | In short, we need more teachers. | S W
+- prior to | prep. | 在……之前（正式） | — | Prior to the 1990s, few people owned a computer. | W
+- simultaneously | adv. | 同时 | — | The app translates speech simultaneously. | W
+- instead | adv. | 代替；反而 | instead of sth/doing sth | Instead of driving, try cycling to work.
+- rather than | phr. | 而不是 | — | We should focus on prevention rather than cure. // I decided to walk rather than take the bus. | W
+- apart from | phr. | 除……之外（= except 或 besides） | — | Apart from the weather, it was a perfect holiday.
+
+@cmp on the other hand · in contrast · on the contrary
+on the other hand | 引出同一问题的另一个方面（常与 on the one hand 配合） | Phones are useful. On the other hand, they can be distracting.
+in contrast | 对比两个不同的事物 | Cities are growing. In contrast, villages are shrinking.
+on the contrary | 否定前面的说法，强调“事实正好相反” | He isn't lazy. On the contrary, he works very hard.
+@end
+
+@box ielts 衔接的高级方法：不只靠连接词
+考官更看重的衔接手段包括：**代词指代**（*this, these, such*）、**名词复述**（*This problem…, This approach…*）、**同义替换**（*cars → vehicles → private transport*）。例如：*Many cities are building more roads. **This approach**, however, often makes **congestion** worse.*
+@end

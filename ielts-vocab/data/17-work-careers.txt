@@ -26,7 +26,6 @@
   fam: intern (n.)
 - reference | n. | 推荐信；参考；提及 | a letter of reference; with reference to | My former manager gave me an excellent reference.
 - requirement | n. | 要求；必要条件 | meet the requirements; entry requirements | A degree is a basic requirement for this job.
-  fam: require (v.)
 - shortlist | n. / v. | 候选名单；把……列入候选名单 | be shortlisted for | Five candidates were shortlisted for the job.
 
 @cmp work · job · career · profession

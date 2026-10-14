@@ -1,0 +1,121 @@
+@unit 47
+@title Advanced Collocations & Fixed Expressions
+@zh 高级搭配与固定表达
+@level C1 · 高分精修（重点单元）
+@intro IELTS 词汇评分标准中的高分描述包括“能使用不常见的词汇，并对风格和搭配有意识”。**搭配**正是母语者听起来“自然”的原因：英语说 *pose a threat*（构成威胁），而不是 *make a threat*；说 *a heated debate*，而不是 *a hot debate*。本单元把最有价值的高级搭配整块交给你——请把每个表达当作“一个词”来记。
+
+## 1 · Verb + noun · 动词 + 名词
+
+* pose a threat | phr. | 构成威胁 | pose a threat to sth; pose a risk/challenge/problem/question | Rising sea levels pose a serious threat to coastal cities. | W
+  note: *pose* 的宾语几乎固定：*a threat, a risk, a danger, a challenge, a problem, a question*。✗ *make a threat to*（意思变成“发出威胁”）。
+- meet the needs of | phr. | 满足……的需要 | meet demand/targets/requirements/expectations | The school must meet the needs of all its students. | W
+  note: *meet* 的高频宾语：*needs, demand, requirements, standards, targets, expectations, a deadline*。✗ *satisfy a deadline*。
+- fulfil your potential | phr. | 充分发挥潜力 | fulfil a dream/an ambition/a promise/a role | Good schools help every child fulfil their potential. | W
+- draw attention to | phr. | 引起对……的注意 | — | The campaign drew attention to the problem of food waste. | W
+- draw a distinction | phr. | 区分；划清界限 | draw a distinction between A and B | It is important to draw a distinction between facts and opinions. | W
+- bridge the gap | phr. | 弥合差距 | bridge the gap between A and B | Free online courses can help bridge the gap between rich and poor students. | W
+- strike a balance | phr. | 取得平衡 | strike a balance between A and B | Governments must strike a balance between growth and environmental protection. | W
+  note: 写作中讨论两方面观点时的理想结论动词：*The key is to strike a balance between…*
+- set an example | phr. | 树立榜样 | set a good example to/for sb | Parents should set a good example for their children. | S W
+- set a precedent | phr. | 开创先例 | — | The court's decision set an important precedent. | W
+- gain access to | phr. | 获得……的机会/权限 | — | More rural children have gained access to education. | W
+- gain popularity | phr. | 受到欢迎；流行起来 | — | Electric scooters have gained popularity in recent years. | W
+- place emphasis on | phr. | 强调；重视 | place great/too much emphasis on | Some schools place too much emphasis on exam results. | W
+- lay the foundation for | phr. | 为……打下基础 | — | Early reading lays the foundation for future learning. | W
+- pave the way for | phr. | 为……铺平道路 | — | The invention of the transistor paved the way for modern computers. | W
+- shed light on | phr. | 阐明；使清楚 | — | The new study sheds light on how memories are formed. | W
+- give rise to | phr. | 引起；导致 | — | The growth of cities gave rise to new social problems. | W
+- take into account | phr. | 考虑到；把……考虑在内 | take sth into account | We must take the cost into account. // Taking everything into account, the plan is a good one. | W
+  note: 也说 *take into consideration*。注意词序：*take sth into account* 或 *take into account sth*（宾语很长时放后面）：*take into account the needs of elderly people*。
+- take sth for granted | phr. | 认为……理所当然 | — | We often take clean water for granted. | S W
+- take steps to | phr. | 采取措施 | take steps to do sth | The government has taken steps to reduce pollution. | W
+- take precedence over | phr. | 优先于 | — | Safety should take precedence over profit. | W
+- exert pressure | phr. | 施加压力 | exert pressure/influence on sb | Parents sometimes exert too much pressure on their children. | W
+- exercise caution | phr. | 谨慎行事 | — | Investors should exercise caution. | W
+- run the risk of | phr. | 冒……的风险 | — | Students who don't sleep enough run the risk of poor exam results. | W
+- reap the benefits | phr. | 获得好处；收获成果 | reap the benefits of sth | Countries that invest in education reap the benefits for decades. | W
+- carry weight | phr. | 有分量；有影响力 | — | His opinion carries a lot of weight in the scientific community. | W
+- hold the view that | phr. | 持有……的观点 | — | Many experts hold the view that homework should be limited. | W
+- hold sb responsible | phr. | 认为某人应负责 | hold sb responsible for sth | Parents should be held responsible for their children's behaviour. | W
+- come under criticism | phr. | 受到批评 | come under fire/pressure | The plan has come under criticism from environmental groups. | W
+- make allowances for | phr. | 体谅；考虑到 | — | Teachers should make allowances for students with learning difficulties. | W
+- achieve a goal | phr. | 实现目标 | achieve an aim/objective/target | Setting small targets helps you achieve your goals.
+- address a concern | phr. | 处理担忧 | address concerns about sth | The company addressed customers' concerns about privacy. | W
+- raise concerns | phr. | 引起担忧 | raise concerns about sth | The report raises serious concerns about water quality. | W
+- voice an opinion | phr. | 表达意见 | voice concern/support | Students were given the chance to voice their opinions. | W
+
+## 2 · Adjective + noun · 形容词 + 名词
+
+- a heated debate | phr. | 激烈的辩论 | — | The new law sparked a heated debate. | W
+- a vicious circle | phr. | 恶性循环 | — | Poverty and poor health can create a vicious circle. | W
+  note: 反义：*a virtuous circle*（良性循环）。注意不说 *a bad circle*。
+- a growing concern | phr. | 日益增长的担忧 | — | Childhood obesity is a growing concern. | W
+- a major concern | phr. | 主要担忧 | — | Cost is a major concern for most families. | W
+- a stark contrast | phr. | 鲜明的对比 | in stark contrast to | The modern city stands in stark contrast to the old village. | W
+- a narrow margin | phr. | 微弱的差距 | win by a narrow margin | The proposal was approved by a narrow margin. | W
+- a wide range of | phr. | 各种各样的；范围广泛的 | — | The library offers a wide range of books and magazines. | W
+  note: *a wide/broad range of* 是写作高频表达，后面接复数名词：*a wide range of activities / factors / opinions*。
+- a high priority | phr. | 优先事项 | a top/low priority | Road safety should be a top priority. | W
+- a heavy price | phr. | 沉重的代价 | pay a heavy price for | The country paid a heavy price for its rapid growth. | W
+- a fine line | phr. | 细微的界限 | a fine line between A and B | There is a fine line between confidence and arrogance. | W
+- a double standard | phr. | 双重标准 | — | It's a double standard to punish students for using phones while teachers use them freely. | W
+- a common misconception | phr. | 常见的误解 | — | It is a common misconception that bats are blind. | W
+  note: 这是一个经典的例子：蝙蝠并不瞎，许多种类视力不错，同时使用回声定位。
+  fam: misconception (n.)
+- a level playing field | phr. | 公平竞争的环境 | — | Free education creates a level playing field for all children. | W
+- a steep learning curve | phr. | 需要快速学习很多东西的过程 | — | Starting a new job involves a steep learning curve. | S W
+- first-hand experience | phr. | 第一手经验；亲身经历 | — | Internships give students first-hand experience of work. | W
+- long-term effects | phr. | 长期影响 | — | We don't yet know the long-term effects of the new drug. | W
+- short-term gain | phr. | 短期利益 | short-term gains, long-term costs | Cutting down forests offers short-term gain but long-term damage. | W
+- a means to an end | phr. | 达到目的的手段 | — | For many students, exams are just a means to an end. | W
+- strong opposition | phr. | 强烈的反对 | — | The plan faced strong opposition from local residents. | W
+- vested interests | phr. | 既得利益 | — | Vested interests may resist reform. | W
+- a mixed blessing | phr. | 有利也有弊的事 | — | Tourism is a mixed blessing for small islands. | S W
+
+## 3 · Adverb + adjective · 副词 + 形容词
+
+- closely linked | phr. | 紧密相关的 | closely linked to/with sth | Poverty and crime are closely linked. | W
+- inextricably linked | phr. | 密不可分的 | — | Economic growth and energy use are inextricably linked. | W
+- deeply rooted | phr. | 根深蒂固的 | deeply rooted in sth | These traditions are deeply rooted in local culture. | W
+- widely recognised | phr. | 被广泛认可的 | — | It is widely recognised that sleep is important for learning. | W
+- fully aware | phr. | 完全意识到的 | fully aware of sth | Most smokers are fully aware of the risks. | W
+- readily available | phr. | 容易获得的 | — | Fast food is cheap and readily available. | W
+- strongly influenced | phr. | 受到强烈影响的 | — | Teenagers are strongly influenced by their peers. | W
+- heavily dependent | phr. | 严重依赖的 | heavily dependent on sth | The economy is heavily dependent on tourism. | W
+- painfully aware | phr. | 痛苦地意识到的 | — | She was painfully aware of her mistake. | W
+- bitterly disappointed | phr. | 极其失望的 | — | The team was bitterly disappointed to lose the final. | S
+
+## 4 · Prepositional expressions · 介词短语
+
+- at stake | phr. | 处于危险中；成败攸关 | — | With so many jobs at stake, the government must act quickly. | W
+- in the long run | phr. | 从长远来看 | — | Investing in education pays off in the long run. | W
+- on the rise | phr. | 在上升；在增加 | — | Online fraud is on the rise. | W
+- in the wake of | phr. | 在……之后（尤指作为其后果） | — | In the wake of the floods, many families lost their homes. | W
+- at the heart of | phr. | 在……的核心 | — | Trust is at the heart of any good relationship. | W
+- in line with | phr. | 与……一致；符合 | in line with expectations/rules | The results were in line with our predictions. | W
+- with a view to | phr. | 为了；以……为目的 | with a view to doing sth | He is studying French with a view to working in Canada. | W
+- on behalf of | phr. | 代表 | — | I'd like to thank you on behalf of the whole school. | W
+- at the expense of | phr. | 以……为代价 | — | Fast growth often comes at the expense of the environment. | W
+- for the sake of | phr. | 为了……的缘故 | — | They moved to the countryside for the sake of their children's health. | W
+- in the absence of | phr. | 在缺乏……的情况下 | — | In the absence of clear rules, people do what they like. | W
+- in response to | phr. | 作为对……的回应 | — | The school changed its policy in response to complaints. | W
+- on the grounds that | phr. | 以……为理由 | on the grounds of | The plan was rejected on the grounds that it was too expensive. | W
+- in the face of | phr. | 面对（困难、危险） | — | She remained calm in the face of danger. | W
+- to the detriment of | phr. | 有损于 | — | He worked long hours, to the detriment of his health. | W
+
+## 5 · Idiomatic images · 形象化固定表达
+
+- the tip of the iceberg | phr. | 冰山一角 | — | The reported cases are only the tip of the iceberg. | S W
+- a drop in the ocean | phr. | 沧海一粟；杯水车薪 | — | The money raised was a drop in the ocean compared with what was needed. | S
+- food for thought | phr. | 引人深思的东西 | — | The documentary gave me a lot of food for thought. | S
+- a blessing in disguise | phr. | 因祸得福；塞翁失马 | — | Failing the exam was a blessing in disguise — it made me work harder. | S
+- the bottom line | phr. | 最重要的事实；底线 | — | The bottom line is that we can't afford it. | S
+- a wake-up call | phr. | 警钟 | — | The floods were a wake-up call for the government. | S W
+- a slippery slope | phr. | 滑坡；危险的开端 | — | Some argue that allowing one exception is a slippery slope. | W
+- a grey area | phr. | 灰色地带；模糊领域 | — | The use of AI in exams is still a grey area. | S W
+
+@box ielts 搭配是“自然度”的关键
+同样的意思，搭配决定了听起来是否地道：
+✗ *do a crime* → ✓ *commit a crime* · ✗ *make a research* → ✓ *conduct/carry out research* · ✗ *big rain* → ✓ *heavy rain* · ✗ *learn knowledge* → ✓ *acquire/gain knowledge* · ✗ *open your eyes*（开阔眼界）→ ✓ *broaden your horizons* · ✗ *increase awareness*（可以）→ 更地道：*raise awareness*
+学新词时，一定要同时记它的“常用伙伴”。
+@end

@@ -1,0 +1,118 @@
+@unit 44
+@title Argument, Evidence & Evaluation
+@zh 论证、证据与评价
+@level C1 · 高分精修（重点单元）
+@intro IELTS 写作 Task 2 本质上是一篇**论证**：提出立场、给出理由、用证据支持、回应反对意见、得出结论。本单元提供完成每一步的精确词汇，并帮助你在阅读中识别作者的态度——作者是在**陈述事实**、**引用别人的观点**，还是在**表达自己的评价**？
+
+## 1 · Taking a position · 表明立场
+
+* stance | n. | 立场；态度 | take a stance on sth; a firm stance | The government has taken a strong stance on air pollution. | W
+  note: 表达“立场”的词：*stance*（对某问题的公开态度）、*position*（正式立场）、*standpoint / viewpoint / perspective*（看问题的角度）。写作开头可以说：*This essay will argue that…*，比 *I think…* 更学术。
+- standpoint | n. | 立场；观点 | from an economic standpoint | From a practical standpoint, the idea is difficult to implement. | W
+- assert | v. | 断言；坚持；维护 | assert that… | The author asserts that technology has made us less patient. | W
+  fam: assertion (n.)
+- contend | v. | 主张；声称；竞争 | contend that…; contend with | Some economists contend that higher taxes would harm growth. | W
+  fam: contention (n.)
+  note: 引述别人观点的动词（*reporting verbs*）有不同的“态度色彩”：中性 *state, argue, suggest, point out*；坚定 *assert, contend, maintain, insist*；保留 *claim, allege*（暗示作者不一定同意）。阅读题经常通过这些动词考查作者态度。
+- propose | v. | 提议；提出；求婚 | propose that…; propose a solution | The committee proposed that the school day should start later. | W
+  fam: proposal (n.)
+- advocate | v. / n. | 提倡；拥护者 | advocate (doing) sth; an advocate of/for | Many doctors advocate a plant-based diet. // She is a strong advocate of free education. | W
+  ipa: /ˈædvəkeɪt/ (v.) · /ˈædvəkət/ (n.)
+- proponent | n. | 支持者；倡导者 | proponents of sth | Proponents of nuclear power argue that it is clean and reliable. | W
+- opponent | n. | 反对者；对手 | opponents of sth | Opponents of the plan say it is too expensive. | W
+- oppose | v. | 反对 | be opposed to sth/doing sth | Many residents oppose the new airport. // I'm strongly opposed to animal testing. | W
+  fam: opposition (n.) · opposed (adj.)
+- in favour of | phr. | 赞成；支持 | be in favour of sth/doing sth | Most students are in favour of a longer lunch break. | W
+- by and large | phr. | 总体上；大体上 | — | By and large, the policy has been successful. | W
+- on balance | phr. | 总的来说；权衡之后 | — | On balance, I believe the advantages outweigh the disadvantages. | W
+- all things considered | phr. | 全面考虑之后 | — | All things considered, it was the right decision. | W
+- it could be argued that | phr. | 可以认为；有人可能会说 | — | It could be argued that homework teaches children self-discipline. | W
+  note: 这是引出观点（尤其是你不完全同意的观点）的经典句型，语气客观谨慎。类似：*It is often argued that… / Some would argue that…*
+
+## 2 · Reasons & evidence · 理由与证据
+
+- reasoning | n. | 推理；论证；理由 | the reasoning behind sth | I don't follow your reasoning. | W
+- premise | n. | 前提；假设 | be based on the premise that… | The argument is based on the premise that people always act rationally. | W
+  ipa: /ˈpremɪs/
+  note: 复数 *premises* 还有“（企业的）房屋、场所”的意思：*No smoking on the premises.*
+- counterargument | n. | 反驳的论点；反方观点 | — | A strong essay considers counterarguments and responds to them. | W
+- substantiate | v. | 证实；证明 | substantiate a claim | The writer fails to substantiate her claims with evidence. | W
+- cite | v. | 引用；举出（例子） | cite an example/a source/a study | The author cites several studies to support his argument. | W
+  note: 易混同音词：*cite*（引用）、*site*（地点；网站）、*sight*（视力；景象）——都读 /saɪt/。
+- anecdotal | adj. | 传闻的；轶事的（证据不够系统） | anecdotal evidence | The claim is based only on anecdotal evidence. | W
+  fam: anecdote (n.)
+  note: *anecdotal evidence*（个人经历、个别故事）的说服力弱于 *empirical / statistical evidence*。写作中用个人例子没有问题，但不要把它当作普遍结论。
+- evidence-based | adj. | 以证据为基础的；循证的 | evidence-based policy/medicine | Governments should make evidence-based decisions. | W
+- case in point | phr. | 恰当的例子；例证 | — | Many cities have reduced pollution. Beijing is a case in point. | W
+- illustrative | adj. | 说明性的；作为例证的 | an illustrative example | The following example is purely illustrative. | W
+- draw a conclusion | phr. | 得出结论 | draw conclusions from sth | It is too early to draw any firm conclusions. | W
+  fam: conclusion (n.) · conclude (v.)
+- it stands to reason | phr. | 理所当然；显而易见 | it stands to reason that… | It stands to reason that people who exercise are healthier. | S
+- it goes without saying | phr. | 不言而喻 | — | It goes without saying that safety must come first. | S
+
+## 3 · Judging arguments · 评价论证
+
+* compelling | adj. | 令人信服的；引人入胜的 | compelling evidence/argument/reason | There is compelling evidence that smoking causes cancer. | W
+  note: 评价论证强度的形容词：强 —— *compelling, convincing, persuasive, sound, solid, well-founded*；弱 —— *weak, unconvincing, flawed, questionable, dubious, far-fetched*。用这些词评价观点，是 Task 2 展示批判性思维的好方法。
+- sound | adj. | 合理的；可靠的；健康的 | sound reasoning/advice; a sound argument | The idea is based on sound scientific principles. | W
+- well-founded | adj. | 有根据的；理由充分的 | well-founded concerns/fears | Their fears turned out to be well-founded. | W
+- plausible | adj. | 似乎合理的；貌似可信的 | a plausible explanation | It's a plausible explanation, but we need more evidence. | W
+  fam: implausible (adj.)
+- far-fetched | adj. | 牵强的；不太可能的 | — | The idea that robots will replace all teachers seems far-fetched. | S W
+- flawed | adj. | 有缺陷的；有瑕疵的 | a flawed argument/study | The study was flawed because the sample was too small. | W
+  fam: flaw (n.)
+- fallacy | n. | 谬误；谬论 | a common fallacy | It's a fallacy that you need to be good at maths to learn coding. | W
+  ipa: /ˈfæləsi/
+- dubious | adj. | 可疑的；靠不住的 | dubious claims | The advert makes some dubious claims about the product. | W
+  ipa: /ˈdjuːbiəs/
+- questionable | adj. | 可疑的；有问题的 | — | The value of such tests is questionable. | W
+- debatable | adj. | 有争议的；值得商榷的 | — | Whether the policy will work is debatable. | W
+- contentious | adj. | 有争议的；引起争论的 | a contentious issue | Immigration is a contentious issue in many countries. | W
+- sweeping statement | n. | 以偏概全的说法；笼统的概括 | make a sweeping statement | Saying that all teenagers are lazy is a sweeping statement. | W
+- generalisation | n. | 概括；泛化 | a broad/sweeping generalisation | It's a generalisation to say that older people dislike technology. | W
+  fam: generalise (v.)
+- oversimplify | v. | 过分简化 | — | The article oversimplifies a very complex problem. | W
+  fam: oversimplification (n.)
+- overstate | v. | 夸大；言过其实 | overstate the case/the importance of | The importance of this research cannot be overstated. | W
+  note: *cannot be overstated* = 怎么强调都不为过（= 非常重要）。反义：*understate*。
+- refute | v. | 驳斥；证明……是错误的 | refute a claim/an argument | Scientists have refuted the claim that vaccines cause autism. | W
+  note: 这是有据可查的科学结论：1998 年发表的声称疫苗导致自闭症的论文已被撤稿，作者被吊销行医执照，之后大量大型研究均未发现两者有关联。
+- rebut | v. | 反驳 | rebut an argument | The minister rebutted the criticism in a long speech. | W
+  fam: rebuttal (n.)
+- counter | v. / n. | 反驳；对抗；柜台 | counter an argument | He countered that the plan would create jobs. | W
+- dispute | v. / n. | 对……提出质疑；争论；争端 | dispute a claim; a trade dispute | Few scientists dispute that the climate is changing. | W
+- challenge | v. / n. | 质疑；挑战 | challenge an assumption/a view | The study challenges the idea that multitasking saves time. | W
+- outweigh | v. | 比……更重要；超过 | the benefits outweigh the costs | In my view, the benefits of tourism outweigh the drawbacks. | W
+  note: Task 2 “利大于弊还是弊大于利”题型的核心词：*Do the advantages outweigh the disadvantages?* 回答时直接使用：*I believe the advantages clearly outweigh the disadvantages.*
+- merit | n. / v. | 优点；价值；值得 | the merits of sth; on its merits | Each proposal should be judged on its merits. // Both arguments have some merit. | W
+- drawback | n. | 缺点；不利条件 | a major drawback | The main drawback of electric cars is their limited range. | W
+- downside | n. | 不利方面；缺点 | the downside of sth | The downside of living in the city is the noise. | S
+- valid point | phr. | 有道理的观点 | make a valid point | You make a valid point, but I see things differently. | S W
+- weak | adj. | 弱的；无说服力的 | a weak argument | Without evidence, the argument is weak.
+
+## 4 · Useful argument frames · 论证框架表达
+
+- there is no denying that | phr. | 不可否认 | — | There is no denying that the internet has changed the world. | W
+- it is widely believed that | phr. | 人们普遍认为 | — | It is widely believed that a university degree guarantees a good job. | W
+- to some degree | phr. | 在某种程度上 | — | To some degree, success depends on luck. | W
+- from my perspective | phr. | 在我看来 | — | From my perspective, the government should invest more in public transport. | W
+- the case for | phr. | 支持……的理由 | the case for/against sth | The case for banning junk food advertising is strong. | W
+- play devil's advocate | phr. | 故意唱反调（以引发讨论） | — | Let me play devil's advocate: what if the plan actually works? | S
+
+@cmp claim · argue · state · suggest · point out
+state | 陈述（中性，事实性） | The report states that crime fell by 10%.
+argue | 论证（有理由支持的观点） | The author argues that homework is unnecessary.
+claim | 声称（暗示可能不对） | The company claims its product is safe.
+suggest | 提出、暗示（较谨慎） | The study suggests a link between sleep and memory.
+point out | 指出（通常是正确、重要的事实） | She pointed out that the data was out of date.
+note: 写作中引述观点时选对动词，能体现你对这个观点的态度——这也是 IELTS 阅读 *Yes/No/Not Given* 题的关键线索。
+@end
+
+@box ielts Task 2 论证段落模板（不是背诵模板，而是逻辑结构）
+**观点句：** *One compelling argument in favour of … is that …*
+**解释：** *This is because … / In other words, …*
+**证据/例子：** *For instance, … / A case in point is …*
+**回应反方：** *Admittedly, … However, …*
+**小结：** *Therefore, … / This suggests that …*
+记住：**结构**可以学，**语言**每次要根据题目自己组织。照搬背诵的句子会被考官识别并扣分。
+@end

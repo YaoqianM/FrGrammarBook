@@ -70,7 +70,7 @@
 - implication | n. | 含义；可能的影响；牵连 | have implications for sth | The findings have important implications for teachers. | W
   note: *implications* 在学术中常指“（研究结果）对……的意义或潜在影响”。
 - significance | n. | 重要性；意义 | of great significance; statistical significance | The discovery is of great historical significance. | W
-  fam: significant (adj.) · significantly (adv.) · insignificant (adj.)
+  fam: significantly (adv.) · insignificant (adj.)
 - phenomenon | n. | 现象（复数 phenomena） | a natural/social phenomenon | Social media addiction is a relatively new phenomenon. | W
   ipa: /fəˈnɒmɪnən/
 - tendency | n. | 倾向；趋势 | a tendency to do sth | Teenagers have a tendency to stay up late. | W
@@ -92,9 +92,9 @@
 - ambiguity | n. | 模棱两可；歧义 | — | There is some ambiguity in the wording of the rule. | W
   fam: ambiguous (adj.)
 - stability | n. | 稳定性 | economic/political stability | Investors look for political stability. | W
-  fam: stable (adj.) · stabilise (v.) · instability (n.)
+  fam: stable (adj.) · instability (n.)
 - consistency | n. | 一致性；连贯性；（液体的）浓度 | — | Consistency is important when you learn a language. | W
-  fam: consistent (adj.) · inconsistent (adj.)
+  fam: inconsistent (adj.)
 - coherence | n. | 连贯性；条理性 | — | Coherence and cohesion are part of the IELTS writing criteria. | W
   fam: coherent (adj.)
   note: IELTS 写作四项评分标准之一是 *Coherence and Cohesion*（连贯与衔接）：观点是否有逻辑顺序、段落是否清楚、连接词是否恰当。

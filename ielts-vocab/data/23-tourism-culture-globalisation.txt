@@ -50,7 +50,6 @@
 - ethnic | adj. | 种族的；民族的 | ethnic groups; ethnic minorities | China has 56 recognised ethnic groups.
   fam: ethnicity (n.)
 - minority | n. | 少数；少数民族 | a minority of; ethnic minorities | Only a minority of students walk to school.
-  fam: minor (adj.)
   note: *a minority of* ↔ *the majority of*：*The majority of people own a phone, but a minority still prefer letters.*
 - majority | n. | 大多数 | the vast majority of | The vast majority of students passed the test.
 - diversity | n. | 多样性；多元化 | cultural diversity | London is famous for its cultural diversity.

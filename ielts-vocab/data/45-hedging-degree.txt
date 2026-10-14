@@ -1,0 +1,114 @@
+@unit 45
+@title Hedging, Certainty & Degree
+@zh 语气缓和、确定性与程度表达
+@level C1 · 高分精修
+@intro 中国学生写作中一个常见问题是**说得太绝对**：*Everyone knows… / This will definitely… / All young people…* 学术英语非常重视**分寸**：根据证据强弱选择 *may / is likely to / tends to / definitely*。这种技巧叫 *hedging*（语气缓和）。本单元同时整理“程度副词”，帮助你精确地说出“有点”“相当”“极其”。
+
+@box rule 确定性的“刻度尺”
+**确定：** *certainly, undoubtedly, clearly, definitely, there is no doubt that*
+**很可能：** *probably, is likely to, in all likelihood, it is highly probable that*
+**可能：** *may, might, could, possibly, perhaps, it is possible that*
+**不太可能：** *is unlikely to, it is doubtful whether*
+写作中最常用的是中间两档。只有在证据非常充分时（*Smoking causes cancer*）才用“确定”一档。
+@end
+
+## 1 · Probability & certainty · 可能性与确定性
+
+* likely | adj. / adv. | 可能的；很可能 | be likely to do sth; It is likely that…; highly likely | Prices are likely to rise next year. // It is highly likely that the plan will be approved. | W
+  note: *likely* 是形容词：✓ *He is likely to win.* ✓ *It is likely that he will win.* ✗ *He likely to win.* 美式英语中也可作副词（*He will likely win*），英式中更常说 *He will probably win*。
+- probably | adv. | 很可能；大概 | — | The meeting will probably finish late. | S
+- possibly | adv. | 可能；也许 | — | This is possibly the best book I've ever read.
+- perhaps | adv. | 也许；或许 | — | Perhaps the government should consider a different approach. | W
+- apparently | adv. | 显然；据说（看来） | — | Apparently, the shop is closing next month. | S
+  note: *apparently* 在英式口语中常表示“听说、据说”（信息来自别人），而不是“明显地”。“明显地”用 *clearly / obviously*。
+- seemingly | adv. | 表面上；看似 | a seemingly simple task | It was a seemingly simple question, but nobody could answer it. | W
+- presumably | adv. | 大概；想必 | — | Presumably, the results will be published next year. | W
+- undoubtedly | adv. | 无疑地 | — | The internet is undoubtedly one of the greatest inventions of all time. | W
+- certainly | adv. | 当然；肯定 | — | It is certainly true that cities face serious problems. | W
+- evidently | adv. | 明显地；显然 | — | Evidently, the policy has not worked. | W
+- inevitably | adv. | 不可避免地；必然地 | — | Inevitably, some students will find the course difficult. | W
+- it is doubtful whether | phr. | ……是值得怀疑的 | — | It is doubtful whether the new law will reduce crime. | W
+- in all likelihood | phr. | 十有八九；很可能 | — | In all likelihood, prices will continue to rise. | W
+- a growing body of evidence | phr. | 越来越多的证据 | — | A growing body of evidence suggests that exercise improves learning. | W
+  note: *body of evidence / research* = 一系列证据或研究。这个表达比 *many studies* 更学术，同时避免了说“已经证明”。
+- it is generally accepted that | phr. | 人们普遍接受…… | — | It is generally accepted that education reduces poverty. | W
+- as far as I know | phr. | 据我所知 | — | As far as I know, the exam hasn't changed. | S
+- appear | v. | 似乎；显得；出现 | appear to be; It appears that… | The problem appears to be getting worse. | W
+  fam: apparent (adj.)
+  note: *appear / seem to* 是最常用的 hedging 动词：*The results appear to show…*（结果似乎显示……），把“断言”变成“观察”。
+- tend to | phr. | 倾向于；往往 | — | People tend to spend more when they pay by card. | W
+  note: *tend to* 把绝对的说法变成“普遍趋势”：*Teenagers are lazy*（以偏概全）→ *Teenagers tend to sleep later than adults*（有研究支持的趋势）。
+
+## 2 · Generalising carefully · 谨慎地概括
+
+- generally | adv. | 一般地；通常；普遍地 | generally speaking | Generally speaking, older people use social media less. | W
+- typically | adv. | 通常；典型地 | — | Students typically spend four years at university. | W
+  fam: typical (adj.)
+- largely | adv. | 主要地；在很大程度上 | — | The project's success was largely due to good teamwork. | W
+- mainly | adv. | 主要地 | — | The audience was mainly made up of teenagers.
+- mostly | adv. | 大部分；主要是 | — | The students were mostly from Asia.
+- predominantly | adv. | 主要地；占主导地 | — | The area is predominantly residential. | W
+  fam: predominant (adj.)
+- primarily | adv. | 主要地；首要地 | — | The course is designed primarily for beginners. | W
+  fam: primary (adj.)
+- in most cases | phr. | 在大多数情况下 | — | In most cases, the problem can be solved quickly. | W
+- to a certain extent | phr. | 在一定程度上 | — | I agree with this view to a certain extent. | W
+- for the most part | phr. | 大部分；在很大程度上 | — | For the most part, the students enjoyed the course. | W
+- with few exceptions | phr. | 除少数例外 | — | With few exceptions, the reviews were positive. | W
+- broadly speaking | phr. | 大体上说 | — | Broadly speaking, there are two types of learners. | W
+
+## 3 · Degree words · 程度副词
+
+* fairly | adv. | 相当；还算 | fairly good/easy | The test was fairly easy. | S
+  note: 程度大致从弱到强：*slightly*（稍微）< *a bit / a little*（有点，口语）< *fairly*（还算、相当，偏中性积极）< *quite*（英式：相当；有时=还可以）< *rather*（相当，常带“出乎意料”或消极）< *very* < *extremely / highly*（极其）< *completely / utterly*（完全，用于“极限”形容词）。英式 *quite good* 往往只是“还不错”，不是“非常好”。
+- rather | adv. | 相当；颇；宁愿 | rather difficult | The exam was rather difficult. // I'd rather stay at home.
+- quite | adv. | 相当；完全 | quite good; quite right | The film was quite good, but not great. // You're quite right. | S
+  note: *quite* 的两个意思：+ 普通形容词 = 相当（*quite good*）；+ 极限形容词 = 完全（*quite right / quite impossible*）。
+- somewhat | adv. | 有点；稍微（正式） | — | The results were somewhat disappointing. | W
+- extremely | adv. | 极其；非常 | — | The situation is extremely serious. | W
+- highly | adv. | 非常；高度地（常与特定形容词搭配） | highly likely/effective/recommended | The book is highly recommended. | W
+  note: *highly* 有固定搭配：*highly likely, highly effective, highly successful, highly qualified, highly unusual*。✗ *highly happy*（用 *very happy*）。
+- deeply | adv. | 深深地；非常（常与情感词搭配） | deeply concerned/moved | I was deeply moved by the film. | W
+- utterly | adv. | 完全地；彻底地 | utterly impossible/ridiculous | The idea is utterly ridiculous. | S
+- entirely | adv. | 完全地；全部地 | entirely different; not entirely | I don't entirely agree with you. | W
+  note: *not entirely / not completely* 是表达“部分不同意”的礼貌方式：*I'm not entirely convinced.*
+- barely | adv. | 几乎不；仅仅 | barely enough | I could barely hear him. // We barely had enough money for food. | S
+- hardly | adv. | 几乎不 | hardly ever; hardly any | I hardly ever eat meat. // There's hardly any milk left.
+  note: *hardly* ≠ *hard*：*He works hard*（努力）vs. *He hardly works*（几乎不工作）。*hardly* 本身是否定，不要再加 not。
+- nearly | adv. | 几乎；差不多 | nearly all; not nearly | Nearly all the students passed. // It's not nearly as good as the first film.
+  note: *not nearly* = 远远不（*not nearly enough* = 远远不够）。
+- sufficiently | adv. | 足够地；充分地 | — | The problem has not been sufficiently researched. | W
+  fam: sufficient (adj.) · insufficient (adj.)
+- reasonably | adv. | 相当地；合理地 | reasonably priced; reasonably well | The hotel was clean and reasonably priced. | W
+  fam: reasonable (adj.)
+- increasingly | adv. | 越来越多地 | increasingly popular/important | Online learning is becoming increasingly popular. | W
+- excessively | adv. | 过度地 | — | Some children use screens excessively. | W
+  fam: excessive (adj.)
+- particularly | adv. | 特别；尤其 | — | The policy is particularly important for young families. | W
+- specifically | adv. | 特别地；明确地；具体来说 | — | The course is specifically designed for international students. | W
+- practically | adv. | 几乎；实际上 | — | Practically everyone has a smartphone now. | S
+
+## 4 · Commenting adverbs · 评论性副词
+
+- surprisingly | adv. | 令人惊讶地 | — | Surprisingly, the cheaper phone performed better. | W
+- interestingly | adv. | 有趣的是 | — | Interestingly, the number of male nurses has doubled. | W
+- unfortunately | adv. | 不幸地；遗憾地 | — | Unfortunately, the museum was closed. | S
+- ideally | adv. | 理想情况下 | — | Ideally, students should sleep at least eight hours a night. | W
+- frankly | adv. | 坦白地说 | — | Frankly, I think the idea is a waste of money. | S
+- personally | adv. | 就个人而言；亲自 | — | Personally, I prefer reading paper books. | S
+  note: 口语中 *Personally, I…* 是自然表达个人观点的方式；写作中可以用，但不要每段都用。
+- understandably | adv. | 可以理解地 | — | Understandably, parents are worried about online safety. | W
+- regrettably | adv. | 遗憾地 | — | Regrettably, the project has been cancelled. | W
+
+@cmp hard · hardly · barely · scarcely
+hard | 努力地；猛烈地 | She works hard.
+hardly | 几乎不（否定） | She hardly works.
+barely | 仅仅；勉强（刚够） | I barely passed the exam.
+scarcely | 几乎不（较正式） | I could scarcely believe my eyes.
+@end
+
+@box ielts 把绝对化表达改成“学术分寸”
+✗ *Social media makes teenagers depressed.* → ✓ *Excessive use of social media **may contribute to** depression in **some** teenagers.*
+✗ *Everyone wants to live in a big city.* → ✓ *Many young people **tend to** prefer city life.*
+✗ *This will solve the problem.* → ✓ *This **is likely to** ease the problem **to some extent**.*
+@end
