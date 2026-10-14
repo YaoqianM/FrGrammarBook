@@ -25,3 +25,7 @@ pip install markdown pypdf
 ```
 
 Set `CHROMIUM_PATH` if Chromium isn't at `/opt/pw-browsers/chromium-1194/chrome-linux/chrome`.
+
+## Companion project · 法语知识阅读库
+
+[`library/`](library/README.md) is a separate, long-running project: a French reading library (A1–C1, B2 focus, Canada/Quebec context) built from short knowledge articles rather than grammar chapters. Volume 1 is out: 📗 [`library/法语单词有意思_第一册.pdf`](library/法语单词有意思_第一册.pdf) — 47 short articles on French words (false friends, English↔French spelling patterns, word histories, Quebec everyday vocabulary), with a vocabulary index.
