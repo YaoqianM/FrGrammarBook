@@ -1,0 +1,91 @@
+@unit 4
+@title Daily Life, Home & Time
+@zh 日常生活、家居与时间
+@level A2–B1 · 基础升级
+@intro IELTS 口语 Part 1 的常见问题：*What do you usually do at weekends? Do you live in a house or a flat?* 这些问题不难，但需要你能**自然、具体**地描述日常生活。本单元还整理了英语里最容易用错的时间表达。
+
+## 1 · Routines & habits · 作息与习惯
+
+* routine | n. / adj. | 日常惯例；常规的 | a daily routine; a routine check | My morning routine starts at 6:30. | S
+  note: *routine* 作名词指“每天固定的一套流程”；作形容词指“例行的、常规的”（a routine medical check）。口语 Part 1 回答“你每天做什么”时，可以说 *My daily routine is pretty simple…*
+- habit | n. | 习惯 | a good/bad habit; get into the habit of doing sth | Reading before bed is a good habit.
+  fam: habitual (adj.)
+- wake up | phr. v. | 醒来 | wake up early | I usually wake up before my alarm goes off. | S
+- get up | phr. v. | 起床 | get up at seven | What time do you get up on weekdays? | S
+- oversleep | v. | 睡过头 | — | I overslept and missed the bus.
+- commute | v. / n. | 通勤；通勤路程 | a long commute; commute to work | My father commutes to Nanshan every day.
+- chore | n. | 家务杂事；琐事 | household chores; do the chores | Washing the dishes is my least favourite chore. | S
+- tidy | adj. / v. | 整洁的；整理 | tidy up your room | Please tidy your desk before you leave.
+- messy | adj. | 凌乱的 | a messy room | My brother's bedroom is always messy. | S
+- do the laundry | phr. | 洗衣服 | — | I do the laundry on Sundays. | S
+- do the washing-up | phr. | 洗碗（英式） | — | It's your turn to do the washing-up. | S
+- take out the rubbish | phr. | 倒垃圾（美式 trash/garbage） | — | Can you take out the rubbish? | S
+- water the plants | phr. | 给植物浇水 | — | Remember to water the plants while I'm away.
+- iron | v. / n. | 熨（衣服）；铁；熨斗 | iron a shirt | I never iron my T-shirts.
+  ipa: /ˈaɪən/
+  note: 注意读音：*iron* /ˈaɪən/，**r 不发音**（英式）。它既是“铁”，也是“熨斗、熨衣服”。
+- spare time | phr. | 空闲时间 | in my spare time | What do you do in your spare time? | S
+- weekday | n. | 工作日 | on weekdays | On weekdays I don't have much free time.
+- lie in | phr. v. | 睡懒觉（英式） | have a lie-in | I love having a lie-in on Saturday mornings. | S
+- stay up late | phr. | 熬夜 | — | I stayed up late to finish my project. | S
+- nap | n. / v. | 小睡；打盹 | take a nap; a short nap | My grandfather takes a nap after lunch.
+
+## 2 · Around the home · 家里
+
+- flat | n. | 公寓（英式；美式 apartment） | a two-bedroom flat | We live in a flat on the 20th floor.
+- furniture | n. | 家具（不可数） | a piece of furniture | We bought some new furniture for the living room.
+  note: *furniture* 不可数：✗ *furnitures* / ✗ *a furniture* → ✓ *some furniture / a piece of furniture*。
+- appliance | n. | 家用电器 | household/electrical appliances | Modern appliances save us a lot of time.
+- fridge | n. | 冰箱（正式 refrigerator） | in the fridge | Put the milk back in the fridge.
+- microwave | n. / v. | 微波炉；用微波炉加热 | microwave a meal | I usually microwave leftovers for lunch.
+- washing machine | n. | 洗衣机 | — | The washing machine is in the bathroom.
+- air conditioning | n. | 空调（系统） | turn on the air conditioning | In Shenzhen, air conditioning is essential in summer.
+- balcony | n. | 阳台 | on the balcony | We dry our clothes on the balcony.
+- neighbour | n. | 邻居 | next-door neighbour | Our neighbours are very friendly.
+  fam: neighbourhood (n.)
+- cosy | adj. | 舒适温馨的（美式 cozy） | a cosy room | Our living room is small but cosy. | S
+- spacious | adj. | 宽敞的 | a spacious kitchen | The new library is bright and spacious.
+- crowded | adj. | 拥挤的 | a crowded room/train | The metro is very crowded at rush hour.
+- comfortable | adj. | 舒适的；舒服的 | a comfortable chair; feel comfortable | This sofa is really comfortable.
+  ipa: /ˈkʌmftəbl/
+  note: 读音常错：*comfortable* 通常读作三个音节 /ˈkʌmf-tə-bl/，中间的 *or* 基本不发音。同类：*vegetable* /ˈvedʒtəbl/、*interesting* /ˈɪntrəstɪŋ/。
+- convenient | adj. | 方便的；便利的 | convenient for sb; a convenient location | Is Monday convenient for you?
+  fam: convenience (n.) · inconvenient (adj.)
+- pet | n. | 宠物 | keep a pet | Do you have any pets? | S
+- plug in | phr. v. | 插上电源 | plug in your phone | Don't forget to plug in your laptop.
+- switch off | phr. v. | 关掉（电器） | switch off the lights | Switch off the lights when you leave the room. | S
+
+## 3 · Time expressions · 时间表达
+
+* on time vs. in time | phr. | 准时 vs. 及时 | arrive on time; just in time | The train left on time. // We got to the station just in time to catch the train.
+  note: **on time** = 按照规定时间，准时，不早也不晚；**in time** = 在最后期限之前，来得及（常与 *just* 连用，或 *in time for sth / to do sth*）。
+- at the moment | phr. | 此刻；目前 | — | I'm quite busy at the moment. | S
+- these days | phr. | 如今；最近 | — | These days, most people pay by phone. | S
+- nowadays | adv. | 如今（与过去对比） | — | Nowadays, few people send letters.
+  note: *nowadays* 常用来和过去对比，在作文开头被**严重滥用**（*Nowadays, with the development of society…*）。偶尔用没问题，但不要每篇都这样开头。
+- recently | adv. | 最近；近来 | — | I've recently started learning the guitar.
+- lately | adv. | 最近（常用于完成时，多为持续的情况） | — | Have you been sleeping well lately?
+- eventually | adv. | 最终；终于（经过一段时间或困难） | — | After three attempts, he eventually passed his driving test.
+  note: 三个“终于”：*eventually* 强调经过很长时间或很多困难之后才发生；*finally* 也用于列举中的“最后一点”；*at last* 带有“终于等到了”的强烈情绪。
+- in the end | phr. | 最后；终究 | — | We argued for hours, but in the end we agreed. | S
+- at last | phr. | 终于（长久等待后，带情感） | — | At last, the holidays are here!
+- from time to time | phr. | 有时；偶尔 | — | I still visit my old school from time to time. | S
+- once in a while | phr. | 偶尔 | — | It's fine to eat fast food once in a while. | S
+- for ages | phr. | 很久 | — | I haven't seen her for ages! | S
+- in advance | phr. | 提前；预先 | book in advance | You should book tickets in advance.
+- in the meantime | phr. | 与此同时；在此期间 | — | The doctor will see you soon. In the meantime, please fill in this form.
+- the day after tomorrow | phr. | 后天 | — | The results will come out the day after tomorrow.
+- fortnight | n. | 两星期（英式） | a fortnight's holiday | I'll be away for a fortnight.
+- deadline | n. | 截止日期 | meet/miss a deadline | The deadline for the essay is next Friday.
+- schedule | n. / v. | 日程；时间表；安排 | a busy schedule; be scheduled for | I have a very busy schedule this week.
+  ipa: /ˈʃedjuːl/ (UK) · /ˈskedʒuːl/ (US)
+- punctual | adj. | 准时的；守时的 | — | Our teacher is always punctual.
+- postpone | v. | 推迟；延期 | postpone sth until… | The match was postponed because of the storm.
+  note: *postpone* = *put off*（推迟到以后）；*cancel* = 取消（不再进行）。
+- spend … on | phr. | 在……上花费（时间、金钱） | spend money on clothes | How much time do you spend on homework?
+
+@cmp during vs. for vs. while
+during | + 名词：在……期间（什么时候） | I fell asleep during the film.
+for | + 一段时间：持续多久 | I slept for two hours.
+while | + 句子：当……的时候 | I fell asleep while I was watching the film.
+@end

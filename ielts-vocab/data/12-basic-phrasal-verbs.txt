@@ -1,0 +1,97 @@
+@unit 12
+@title Everyday Phrasal Verbs
+@zh 日常短语动词
+@level A2–B1 · 基础升级
+@intro 短语动词（动词 + 小词）是英语口语自然度的关键，也是听力的难点，因为它们读得快、意思又常常无法从字面猜出。本单元精选最常用的一批。更正式、更学术的短语动词见第二册 Unit 25 和第四册 Unit 48。
+
+@box rule 小词的“方向感”
+很多短语动词的意思来自小词的方向感：**up** = 完成、增加、出现（*use up, speed up, turn up*）；**down** = 减少、停止、写下（*slow down, break down, write down*）；**out** = 出来、完全、找到（*find out, sell out, work out*）；**off** = 离开、取消、断开（*set off, call off, turn off*）；**on** = 继续、接通（*carry on, turn on*）。这不是万能规则，但能帮你猜出很多意思。
+@end
+
+## 1 · Daily actions · 日常动作
+
+- turn on/off | phr. v. | 打开/关掉（电器、水龙头） | turn off the lights | Could you turn off the TV? | S
+- turn up/down | phr. v. | 调大/调小（音量、温度） | turn the music down | Please turn the volume down — I'm studying. | S
+- put on | phr. v. | 穿上；戴上；增加（体重） | put on a jacket; put on weight | Put on your coat — it's cold outside. | S
+  note: *put on* 是“穿上”的动作；*wear* 是“穿着”的状态。*I put on my coat* vs. *I'm wearing a coat*。“脱下”是 *take off*。
+- take off | phr. v. | 脱下；（飞机）起飞；（事业）迅速成功 | The plane took off; Her career took off | The plane took off on time. // His business really took off last year. | S
+- try on | phr. v. | 试穿 | try on a pair of shoes | Can I try these jeans on? | S
+- pick up | phr. v. | 捡起；接（人）；（不经意地）学会 | pick sb up from school; pick up a language | My mum picks me up at five. // I picked up some Cantonese from my friends. | S
+  note: *pick up a language/skill* = 在生活中自然地学会（不是刻意学习），口语中非常地道。
+- drop off | phr. v. | 让……下车；把……送到；打瞌睡 | drop sb off at school | Dad drops me off at school every morning. | S
+- throw away | phr. v. | 扔掉 | throw away rubbish | Don't throw away plastic bottles — recycle them. | S
+- put away | phr. v. | 把……收起来；放回原处 | put your toys away | Put your books away before dinner. | S
+- clean up | phr. v. | 打扫干净 | clean up the mess | Let's clean up after the party. | S
+- fill in | phr. v. | 填写（表格）；替代某人工作 | fill in a form | Please fill in this application form. | S
+- write down | phr. v. | 写下；记下 | write down the number | Write down any new words you hear. | S
+- look after | phr. v. | 照顾 | look after a baby/pet | My grandmother looks after my little brother. | S
+- look for | phr. v. | 寻找 | — | I'm looking for my keys. | S
+- find out | phr. v. | 查明；发现（信息、事实） | find out the truth; find out about sth | I want to find out more about the course. | S
+  note: *find* = 找到（具体的东西）；*find out* = 打听到、弄清楚（信息）。✗ *find out my keys* → ✓ *find my keys*；✓ *find out what time the shop opens*。
+- go out | phr. v. | 外出（娱乐）；（灯、火）熄灭 | go out with friends | We usually go out on Friday evenings. | S
+- stay in | phr. v. | 待在家里 | stay in and watch TV | I'm tired — I think I'll stay in tonight. | S
+- come back | phr. v. | 回来 | come back home | When are you coming back from Beijing? | S
+- set off | phr. v. | 出发；引发（警报等） | set off early; set off an alarm | We set off at six to avoid the traffic.
+- run into | phr. v. | 偶遇；撞上；遇到（困难） | run into an old friend; run into problems | I ran into my old teacher at the supermarket. | S
+- come across | phr. v. | 偶然发现；给人……印象 | come across an article; come across as friendly | I came across an interesting article about sleep. // He comes across as quite shy.
+
+## 2 · Plans & problems · 计划与问题
+
+- put off | phr. v. | 推迟；使反感 | put off doing sth | Stop putting off your homework! | S
+- call off | phr. v. | 取消 | call off a match | The match was called off because of the rain. | S
+- carry on | phr. v. | 继续 | carry on doing sth | Carry on reading until the bell rings. | S
+- go on | phr. v. | 继续；发生 | What's going on?; go on doing | What's going on? Why is everyone laughing? | S
+- set up | phr. v. | 建立；创立；安装 | set up a company; set up a computer | She set up her own online shop at 16.
+- break down | phr. v. | （机器）出故障；（谈判）破裂；（情绪）崩溃 | break down on the way; talks broke down | The car broke down on the way to the airport. | S
+- sort out | phr. v. | 解决；整理 | sort out a problem | Don't worry — we'll sort it out. | S
+- figure out | phr. v. | 弄明白；想出 | figure out how to do sth | I can't figure out how this machine works. | S
+- come up with | phr. v. | 想出（主意、方案） | come up with an idea/solution | Our group came up with a great idea for the project. | S
+  note: 写作中想表达“提出方案”，*come up with a solution* 比 ✗ *think out a method* 自然得多；更正式时可用 *propose / devise a solution*。
+- get over | phr. v. | 从（疾病、失望）中恢复；克服 | get over a cold; get over a shock | It took me a week to get over the flu. | S
+- end up | phr. v. | 最终（处于某种状态） | end up doing sth; end up in | We got lost and ended up in the wrong town. | S
+- turn out | phr. v. | 结果是；原来是 | It turns out that… | The test turned out to be easier than I expected. | S
+- turn into | phr. v. | 变成 | turn into a butterfly | The caterpillar turned into a butterfly.
+- show up | phr. v. | 出现；露面（口语） | — | Only five people showed up to the meeting. | S
+- point out | phr. v. | 指出 | point out a mistake | My teacher pointed out several mistakes in my essay.
+- work on | phr. v. | 致力于；从事；改进 | work on a project; work on your pronunciation | I'm working on my speaking skills.
+- give back | phr. v. | 归还 | give sth back to sb | Can you give me back my pen? | S
+- hold on | phr. v. | 稍等；抓紧 | Hold on a minute | Hold on, I'll get a pen. | S
+- hurry up | phr. v. | 赶快 | — | Hurry up or we'll miss the bus! | S
+- slow down | phr. v. | 放慢；减速 | — | Slow down — you're walking too fast! | S
+- watch out | phr. v. | 当心；小心 | watch out for sth | Watch out! There's a car coming. | S
+- run away | phr. v. | 逃跑；离家出走 | run away from home | The thief ran away when he saw the police.
+
+## 3 · People & relationships · 人际关系
+
+- grow up | phr. v. | 长大；成熟起来 | grow up in a small town | I grew up in Shenzhen. | S
+  note: *grow up* 是不及物的：✗ *My grandmother grew me up* → ✓ *My grandmother **brought me up***。
+- bring up | phr. v. | 抚养；提出（话题） | bring up children; bring up a topic | She was brought up by her grandparents. // Don't bring up that topic at dinner.
+  note: 被动语态 *be brought up by* 很常用；*upbringing* (n.) = 成长环境、教养。
+- get along | phr. v. | 相处（美式常用；英式常用 get on） | get along with sb | Do you get along with your brother? | S
+- fall out | phr. v. | 吵翻；闹翻 | fall out with sb over sth | I fell out with my best friend over a silly joke. | S
+- make up | phr. v. | 和好；编造；构成 | make up with sb; make up a story; make up 30% | We argued, but we made up the next day. // Women make up 60% of the class. | S
+  note: *make up* 有三个重要义：和好（make up with sb）、编造（make up an excuse）、**构成**（学术义：*Students make up half of the population*）。第三个义在 IELTS 图表作文中很有用。
+- look up to | phr. v. | 尊敬；仰慕 | look up to sb as a role model | I've always looked up to my older sister. | S
+- let sb down | phr. v. | 让某人失望 | — | I promised to help, and I won't let you down. | S
+- count on | phr. v. | 依靠；指望 | You can count on me | You can always count on her in a crisis. | S
+- depend on | phr. v. | 取决于；依赖 | It depends on…; depend on sb for sth | It depends on the weather. // Many old people depend on their children. | S
+  fam: dependent (adj.) · independent (adj.) · dependence (n.)
+- rely on | phr. v. | 依靠；信赖 | rely on sb/sth for sth | Many students rely on their phones for information.
+- join in | phr. v. | 参加（正在进行的活动） | join in the fun | Everyone joined in the singing. | S
+- show off | phr. v. | 炫耀 | show off sth | He's always showing off his new phone. | S
+- turn down | phr. v. | 拒绝（邀请、提议） | turn down an offer/invitation | She turned down the job offer. | S
+- ask sb out | phr. | 约某人出去 | — | He was too shy to ask her out. | S
+- call back | phr. v. | 回电话 | call sb back later | I'm busy now — can I call you back? | S
+- hang up | phr. v. | 挂断电话；挂起 | hang up on sb | She hung up before I could say goodbye. | S
+
+@cmp look for · find · find out
+look for | 寻找（过程） | I'm looking for my phone.
+find | 找到（结果） | I found it under the sofa.
+find out | 查明、得知（信息） | I found out that the shop was closed.
+@end
+
+@box tip 短语动词放宾语的位置
+如果宾语是**代词**，必须放在动词和小词中间：✓ *Turn it off.* ✗ *Turn off it.* · ✓ *Pick me up.* ✗ *Pick up me.*
+如果宾语是名词，两种位置一般都可以：*Turn off the light / Turn the light off.*
+（*look after, look for, deal with, get over* 这类“不可分”的短语动词除外：✓ *look after her*。）
+@end

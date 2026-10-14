@@ -1,0 +1,87 @@
+@unit 7
+@title School Life & Studying
+@zh 校园生活与学习
+@level A2–B1 · 基础升级
+@intro 你每天都在学校，但能用英语准确说出“补考”“挂科”“请假”“复习”吗？本单元收录校园生活最常用的词，并纠正几组高频误用（*learn / study*、*lesson / class / course*）。教育政策等更正式的词汇见第二册 Unit 14。
+
+## 1 · Subjects & people · 科目与人
+
+- subject | n. | 科目；主题；主语 | my favourite subject; change the subject | My favourite subject is physics.
+- maths | n. | 数学（英式；美式 math） | — | Maths is compulsory for all students.
+- physics | n. | 物理（单数动词） | — | Physics is harder than I expected.
+  note: *physics, maths, economics, politics, news* 以 -s 结尾，但作学科或单个概念时通常接**单数动词**：*Physics **is** interesting.*
+- chemistry | n. | 化学 | — | We did an experiment in chemistry today.
+- biology | n. | 生物学 | — | Biology is the study of living things.
+- geography | n. | 地理 | — | In geography we're learning about volcanoes.
+- literature | n. | 文学；文献 | English literature | She wants to study literature at university.
+  note: 在学术语境中 *literature* 也指“某领域的研究文献”（the scientific literature）。
+- PE | n. | 体育课（physical education） | — | We have PE twice a week.
+- headteacher | n. | 校长（英式；美式 principal） | — | The headteacher gave a speech at the opening ceremony.
+- classmate | n. | 同班同学 | — | My classmates helped me when I was ill.
+- tutor | n. / v. | 家庭教师；导师；辅导 | a private tutor | Many students in Shenzhen have a private tutor.
+- graduate | n. / v. | 毕业生；毕业 | graduate from university | She graduated from Peking University in 2019.
+  ipa: /ˈɡrædʒuət/ (n.) · /ˈɡrædʒueɪt/ (v.)
+  fam: graduation (n.)
+  note: 名词结尾读 /-ət/，动词结尾读 /-eɪt/。同类词还有 *estimate, separate, approximate*。
+- semester | n. | 学期（一年两个学期） | the spring semester | The new semester starts in September.
+  note: 英国学校多用 *term*（一年三个 terms），美国和许多大学用 *semester*。
+
+## 2 · Learning actions · 学习行为
+
+* learn vs. study | v. | 学会 vs. 学习、研究 | learn to swim; study for an exam | I studied French for two years, but I didn't learn much.
+  note: **study** 强调“学习的过程、在学某门课”（study history, study for a test）；**learn** 强调“学会、获得知识或技能”（learn a new word, learn to swim）。可以 study 很久却没 learn 到东西。
+- revise | v. | 复习（英式）；修改 | revise for an exam | I need to revise for my chemistry test.
+  fam: revision (n.)
+  note: 英式英语中 *revise* = 考前复习（美式说 *review*）。它的另一个意思是“修改”（revise an essay）。
+- memorise | v. | 记住；背诵 | memorise new words | It's hard to memorise a whole list of words.
+  fam: memory (n.)
+- concentrate | v. | 集中注意力 | concentrate on sth | I can't concentrate when the TV is on.
+  fam: concentration (n.)
+- focus on | phr. | 专注于；以……为重点 | focus on the main points | This lesson focuses on listening skills.
+- look up | phr. v. | （在词典、网上）查找 | look up a word | Look up any new words in a dictionary. | S
+- go over | phr. v. | 复习；仔细检查 | go over your notes | Let's go over the answers together. | S
+- hand in | phr. v. | 交（作业等） | hand in your homework | Please hand in your essays by Friday.
+- practise | v. | 练习（英式动词；名词 practice） | practise speaking | You need to practise every day.
+  note: 英式拼写区分：动词 *practise*，名词 *practice*（同 *advise / advice*、*license / licence* 的思路）。美式两者都写 *practice*。
+- improve | v. | 提高；改善 | improve your English | Reading every day will improve your vocabulary.
+  fam: improvement (n.)
+- explain | v. | 解释；说明 | explain sth to sb | Could you explain this question to me?
+  note: 常见错误：✗ *explain me the question* → ✓ *explain the question **to** me*。
+  fam: explanation (n.)
+- understand | v. | 理解；懂 | fully understand | I don't understand this grammar point.
+- make notes | phr. | 做笔记（尤指整理、总结） | — | I make notes on each chapter before the exam.
+- skip class | phr. | 逃课 | — | He was punished for skipping class. | S
+- by heart | phr. | 凭记忆；背下来 | learn sth by heart | We had to learn the poem by heart.
+- distracted | adj. | 分心的 | get distracted by sth | It's easy to get distracted by your phone.
+  fam: distract (v.) · distraction (n.)
+
+## 3 · Tests & results · 考试与成绩
+
+- exam | n. | 考试（examination） | take/sit an exam; pass/fail an exam | I'm taking my English exam next week.
+  note: “参加考试”是 *take* / *sit* an exam（英），不是 ✗ *join an exam*。
+- quiz | n. | 小测验 | a vocabulary quiz | We have a short quiz every Monday.
+- mark | n. / v. | 分数（英式）；批改；标记 | get full marks; mark homework | I got full marks in the spelling test.
+  note: 英式说 *marks*（得分），美式更常说 *grades / points*。“满分”= *full marks*。
+- grade | n. / v. | 成绩等级；年级（美式）；评分 | get good grades | She got an A grade in maths.
+- score | n. / v. | 得分；分数 | a high score; score 90 | What was your IELTS score?
+- pass | v. / n. | 通过；及格 | pass a test | Did you pass your driving test?
+- fail | v. | 不及格；失败 | fail an exam; fail to do sth | He failed the exam, but he'll try again.
+  fam: failure (n.)
+- retake | v. / n. | 重考；补考 | retake an exam | If you fail, you can retake the test in August.
+- cheat | v. / n. | 作弊；欺骗 | cheat in/on an exam | Students who cheat will get zero.
+- report | n. | （学生）成绩报告单；报告 | a school report | My school report was better this term.
+- certificate | n. | 证书 | receive a certificate | Everyone who finishes the course gets a certificate.
+- assignment | n. | 作业；任务 | complete an assignment | The history assignment is due on Monday.
+- due | adj. | 到期的；预定的 | be due on Friday | The essay is due tomorrow.
+- feedback | n. | 反馈意见（不可数） | give/get feedback on sth | My teacher gave me useful feedback on my essay.
+
+@cmp lesson · class · course · lecture
+lesson | 一节课（教学单位）；教训 | We have four lessons this morning. // That was a lesson to me.
+class | 一节课；（一起上课的）班级 | Our class has 45 students.
+course | 课程（一系列课） | I'm doing an online course in programming.
+lecture | （大学里的）讲座、讲课 | The lecture was about black holes.
+@end
+
+@box warn 写作和口语里的“学校”冠词
+*go to school / be at school* —— 当学生上学（不加 the）；*go to the school* —— 去学校这栋楼（比如家长去开会）。同理：*go to bed*、*be in hospital*（英）、*go to university*。
+@end

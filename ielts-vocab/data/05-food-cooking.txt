@@ -1,0 +1,91 @@
+@unit 5
+@title Food, Cooking & Eating Out
+@zh 食物、烹饪与外出就餐
+@level A2–B1 · 基础升级
+@intro 食物是 IELTS 口语的高频话题（*What's your favourite food? Do you like cooking?*）。只说 *delicious* 是不够的：本单元帮你描述**味道、口感、做法和饮食习惯**。更学术的营养与粮食安全词汇见第三册 Unit 32。
+
+## 1 · Taste & texture · 味道与口感
+
+- taste | n. / v. | 味道；品尝；尝起来 | taste good; a sweet taste | This soup tastes a bit salty.
+  note: 感官动词 *taste / smell / look / sound / feel* 后面接**形容词**，不接副词：✓ *It tastes good.* ✗ *It tastes well.*
+- flavour | n. | 风味；口味（美式 flavor） | a strong flavour; ice cream flavours | What's your favourite ice cream flavour?
+- delicious | adj. | 美味的 | absolutely delicious | The dumplings were absolutely delicious.
+  note: *delicious* 本身已经是“非常好吃”，所以通常不说 *very delicious*，而说 *absolutely delicious* 或 *really delicious*。
+- tasty | adj. | 好吃的；可口的（口语） | a tasty snack | That was a really tasty meal. | S
+- spicy | adj. | 辣的；加香料的 | spicy food | Hunan food is famous for being spicy.
+- sour | adj. | 酸的 | a sour taste | Lemons are very sour.
+- bitter | adj. | 苦的；痛苦的 | a bitter taste; bitter disappointment | Black coffee is too bitter for me.
+- savoury | adj. | 咸味的；咸香的（与甜相对） | savoury snacks | I prefer savoury snacks to sweet ones.
+- bland | adj. | 清淡无味的（多为贬义） | bland food | The hospital food was rather bland.
+- greasy | adj. | 油腻的 | greasy food | I try to avoid greasy food before exams.
+- crispy | adj. | 酥脆的 | crispy fried chicken | I love crispy roast duck.
+- tender | adj. | （肉）嫩的；温柔的 | tender meat | The beef was so tender.
+- chewy | adj. | 有嚼劲的；难嚼的 | chewy noodles | These noodles are nice and chewy.
+- fresh | adj. | 新鲜的 | fresh fruit; fresh air | Buy fresh vegetables from the market.
+- rotten | adj. | 腐烂的 | rotten eggs | Throw away that rotten apple.
+- mouth-watering | adj. | 令人垂涎的 | mouth-watering dishes | The menu was full of mouth-watering dishes. | S
+
+## 2 · Cooking · 烹饪
+
+- recipe | n. | 食谱；（做某事的）秘诀 | follow a recipe; a recipe for success | My grandmother never follows a recipe.
+  ipa: /ˈresəpi/
+  note: 读音：*recipe* /ˈresəpi/ 是三个音节，结尾 e 要读出来。*a recipe for disaster* 是常用比喻：“必然导致灾难的做法”。
+- ingredient | n. | （烹饪）原料；成分；要素 | main ingredients; a key ingredient of success | The main ingredients are rice, eggs and spring onions.
+- boil | v. | 煮沸；用水煮 | boil water; boiled eggs | Boil the noodles for three minutes.
+- fry | v. | 油煎；油炸 | fried rice; stir-fry | My dad fried some eggs for breakfast.
+- stir-fry | v. / n. | 炒；炒菜 | stir-fry vegetables | Stir-fry the beef with garlic and ginger.
+- steam | v. / n. | 蒸；蒸汽 | steamed fish; steamed buns | Cantonese people often steam fish.
+- roast | v. / adj. | 烤（肉、蔬菜，用烤箱或明火） | roast chicken; roast duck | We roasted a chicken for dinner.
+- bake | v. | 烘焙（面包、蛋糕） | bake a cake | My sister loves baking cookies.
+- grill | v. / n. | 烧烤；烤架 | grilled fish | Grilled food is healthier than fried food.
+- chop | v. | 切碎；剁 | chop onions | Chop the carrots into small pieces.
+- mix | v. | 混合；搅拌 | mix A with B | Mix the flour with the eggs.
+- add | v. | 加入 | add salt; add sth to sth | Add a little sugar to the sauce.
+- heat | v. / n. | 加热；热量 | heat the oil; on a low heat | Heat the oil in a pan.
+- leftovers | n. | 剩菜（常用复数） | eat leftovers | We had leftovers for lunch. | S
+- home-made | adj. | 自制的；家里做的 | home-made bread | Nothing beats home-made dumplings. | S
+- cuisine | n. | 菜系；烹饪风格 | Cantonese cuisine; local cuisine | Cantonese cuisine is famous for dim sum. | W
+  ipa: /kwɪˈziːn/
+  note: *cuisine* 指一个地区的菜式、烹饪风格（French cuisine），比 *food* 正式。读 /kwɪˈziːn/，重音在后。
+- dish | n. | 一道菜；盘子 | a traditional dish; a side dish; wash the dishes | Mapo tofu is my favourite Sichuan dish.
+
+## 3 · Meals & eating habits · 用餐与饮食习惯
+
+- meal | n. | 一餐；饭 | a three-course meal; have a meal | We have our main meal in the evening.
+- snack | n. / v. | 零食；吃零食 | a healthy snack; snack on fruit | I usually have a snack after school.
+- diet | n. | 饮食；节食 | a balanced diet; go on a diet | A balanced diet includes plenty of vegetables.
+  note: *diet* 首先指“日常饮食”（the Chinese diet、a healthy diet），不一定是“减肥”。“节食”说 *be/go on a diet*。
+- vegetarian | n. / adj. | 素食者；素食的 | a vegetarian dish | My cousin has been a vegetarian for years.
+- vegetable | n. | 蔬菜 | fresh vegetables; root vegetables | Eat more vegetables and less sugar.
+  ipa: /ˈvedʒtəbl/
+- portion | n. | 一份（食物）；部分 | a large portion; portion size | Restaurant portions in the US are often huge.
+- appetite | n. | 胃口；食欲；欲望 | have a good appetite; lose your appetite | Exercise gives me a big appetite.
+- starving | adj. | 饿极了（口语夸张） | I'm starving! | What's for dinner? I'm starving! | S
+- full | adj. | 吃饱了的 | I'm full | No more for me, thanks — I'm full. | S
+- skip a meal | phr. | 不吃（某顿饭） | skip breakfast | Skipping breakfast can make it hard to concentrate.
+- junk food | n. | 垃圾食品 | eat too much junk food | Junk food is cheap but unhealthy.
+- fast food | n. | 快餐 | a fast-food restaurant | Fast food is popular with busy office workers.
+- processed food | n. | 加工食品 | highly processed food | Processed food often contains a lot of salt.
+- takeaway | n. | 外卖（英式；美式 takeout） | order a takeaway | Let's order a takeaway tonight. | S
+- deliver | v. | 递送；交付；实现（承诺） | deliver food; deliver a speech | Food delivery apps deliver meals in 30 minutes.
+  fam: delivery (n.)
+- eat out | phr. v. | 在外面吃饭 | — | We eat out about once a week. | S
+- order | v. / n. | 点（菜）；订购；顺序；命令 | order food; in order | Are you ready to order?
+- menu | n. | 菜单 | on the menu | Is there anything vegetarian on the menu?
+- bill | n. | 账单（英式；美式 check） | ask for the bill; split the bill | Can we have the bill, please? | S
+- tip | n. / v. | 小费；给小费；小窍门 | leave a tip; a useful tip | In the UK, people usually leave a tip of about 10%.
+- reservation | n. | 预订；保留意见 | make a reservation | I've made a reservation for six people.
+- picky | adj. | 挑剔的（尤指挑食） | a picky eater | My little brother is a picky eater. | S
+- sweet tooth | phr. | 爱吃甜食 | have a sweet tooth | I have a real sweet tooth — I love cakes. | S
+- sugary | adj. | 含糖多的 | sugary drinks | Sugary drinks are bad for your teeth.
+
+@cmp cook · cooker · chef
+cook | 动词：做饭；名词：厨师（尤指家里或普通餐馆） | My dad is a good cook.
+cooker | 炉灶（厨房电器），**不是人** | We have a gas cooker.
+chef | 专业厨师（尤指餐馆主厨） | He works as a chef in a hotel.
+@end
+
+@box ielts 口语示范：Do you like cooking?
+*Not really, to be honest. I'm not a great **cook**, but I can make a few simple **dishes** like **stir-fried** tomatoes and eggs. My mum is the real cook in our family — her **home-made** dumplings are **mouth-watering**.*
+（具体菜名 + 一个准确形容词，就足够自然。）
+@end

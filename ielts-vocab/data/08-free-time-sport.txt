@@ -1,0 +1,97 @@
+@unit 8
+@title Free Time, Sport & Hobbies
+@zh 休闲、运动与爱好
+@level A2–B1 · 基础升级
+@intro 爱好与休闲几乎每场 IELTS 口语考试都会碰到。本单元重点是**动词搭配**（*play / go / do* + 运动）以及描述“为什么喜欢”的表达。
+
+## 1 · Hobbies & leisure · 爱好与休闲
+
+- hobby | n. | 爱好 | take up a hobby | My main hobby is photography.
+- leisure | n. | 闲暇；休闲 | leisure time; leisure activities | Many people spend their leisure time online.
+  ipa: /ˈleʒə/ (UK) · /ˈliːʒər/ (US)
+- pastime | n. | 消遣；娱乐 | a popular pastime | Fishing is a popular pastime in the countryside.
+- interest | n. / v. | 兴趣；使感兴趣；利息 | have an interest in sth; share interests | We share an interest in science fiction.
+- take up | phr. v. | 开始从事（爱好、运动）；占用（时间、空间） | take up the guitar; take up space | I took up chess when I was ten. | S
+  note: *take up* 两个高频义：开始一项新爱好（take up yoga）；占用（The desk takes up too much space.）。
+- be into | phr. | 喜欢；对……着迷（口语） | be really into music | I'm really into Japanese anime at the moment. | S
+- passionate | adj. | 热爱的；充满激情的 | passionate about sth | He's passionate about football.
+  fam: passion (n.)
+- collect | v. | 收集 | collect stamps | My uncle collects old coins.
+  fam: collection (n.) · collector (n.)
+- photography | n. | 摄影 | — | She got interested in photography after a trip to Tibet.
+  ipa: /fəˈtɒɡrəfi/
+  note: 重音会移动：*PHOtograph* /ˈfəʊtəɡrɑːf/ → *phoTOgraphy* /fəˈtɒɡrəfi/ → *photoGRAphic* /ˌfəʊtəˈɡræfɪk/。听力中认不出这类词，常常就是因为重音变了。
+- board game | n. | 桌游；棋盘游戏 | play board games | We play board games at family gatherings.
+- instrument | n. | 乐器；仪器 | play a musical instrument | Can you play any instruments?
+- craft | n. | 手工艺；手艺 | arts and crafts | Paper-cutting is a traditional Chinese craft.
+- relaxing | adj. | 令人放松的 | — | Gardening is very relaxing.
+- unwind | v. | 放松（尤指工作学习之后） | unwind after a long day | Listening to music helps me unwind. | S
+  ipa: /ʌnˈwaɪnd/
+- hang out | phr. v. | 闲逛；一起玩（口语） | hang out with friends | At weekends I usually hang out with my friends. | S
+- get together | phr. v. | 聚会；相聚 | — | Our family gets together every Spring Festival. | S
+- binge-watch | v. | 一口气看完（剧集） | binge-watch a series | I binge-watched the whole series in two days. | S
+
+## 2 · Sport · 运动
+
+* play / go / do + sport | phr. | 运动的三种搭配 | play football; go swimming; do yoga | I play basketball, go swimming and do karate.
+  note: **play** + 球类或对抗性比赛（play tennis, play chess）；**go** + -ing 形式的活动（go running, go skiing, go hiking）；**do** + 不用球、非团体的项目或泛指运动（do yoga, do judo, do athletics, do exercise）。
+- athlete | n. | 运动员 | a professional athlete | Top athletes train for hours every day.
+  ipa: /ˈæθliːt/
+  fam: athletic (adj.) · athletics (n.)
+- team | n. | 队；团队 | team sports; a football team | Do you prefer team sports or individual sports?
+- teamwork | n. | 团队合作 | — | Basketball teaches you the value of teamwork.
+- coach | n. / v. | 教练；训练；长途汽车（英） | a football coach | Our coach makes us run five kilometres.
+- referee | n. | 裁判（足球、篮球等） | — | The referee blew the whistle.
+- match | n. | 比赛（尤指球类，英式） | a football match; win/lose a match | Did you watch the match last night?
+- competition | n. | 比赛；竞争 | enter a competition; fierce competition | She won a national maths competition.
+  fam: compete (v.) · competitive (adj.) · competitor (n.)
+- tournament | n. | 锦标赛 | a tennis tournament | Our school hosted a basketball tournament.
+- championship | n. | 锦标赛；冠军称号 | win the championship | China won the women's volleyball championship.
+- score a goal | phr. | 进球 | — | He scored two goals in the second half.
+- beat | v. | 打败（对手） | beat sb 3–1 | We beat the other team 3–1.
+  note: *win* 后面接比赛、奖品（win a match, win a prize）；*beat* 后面接对手（beat a team）。✗ *We won them* → ✓ *We beat them.*
+- draw | n. / v. | 平局；打平 | end in a draw | The match ended in a 2–2 draw.
+- train | v. | 训练；培训 | train hard; train for a marathon | She's training for the city marathon.
+  fam: training (n.) · trainer (n.)
+- stadium | n. | 体育场 | a football stadium | The new stadium holds 60,000 people.
+- gym | n. | 健身房；体育馆 | go to the gym | I go to the gym after school.
+- marathon | n. | 马拉松；耗时很久的活动 | run a marathon | Doing all my homework was a real marathon!
+- spectator | n. | （体育比赛）观众 | — | Thousands of spectators watched the race.
+- extreme sports | n. | 极限运动 | — | Extreme sports like skydiving are not for me.
+- physical activity | n. | 体育活动；身体活动 | — | Children need at least an hour of physical activity a day. | W
+- warm up | phr. v. | 热身 | — | Always warm up before you start running.
+- give it a go | phr. | 试一试 | — | I've never tried rock climbing, but I'd love to give it a go. | S
+
+## 3 · Entertainment & culture · 娱乐与文化活动
+
+- entertainment | n. | 娱乐 | a form of entertainment | Television is a cheap form of entertainment.
+  fam: entertain (v.) · entertaining (adj.)
+- concert | n. | 音乐会；演唱会 | go to a concert | I went to my first concert last summer.
+- exhibition | n. | 展览 | an art exhibition | There's a dinosaur exhibition at the museum.
+  ipa: /ˌeksɪˈbɪʃn/
+  note: 读音：*exhibition* 中 h 不发音，/ˌeksɪˈbɪʃn/；动词 *exhibit* /ɪɡˈzɪbɪt/。
+- performance | n. | 表演；表现；性能 | give a performance; academic performance | The band gave an amazing performance.
+  fam: perform (v.) · performer (n.)
+- audience | n. | 观众；听众 | a large audience; target audience | The audience clapped for five minutes.
+  note: *audience* 指观看演出、节目的一群人（集体名词）；*spectators* 多指观看体育比赛的观众；*viewers* 是电视观众。
+- show | n. | 演出；节目 | a TV show; a talent show | Did you see the talent show?
+- series | n. | 系列；连续剧（单复数同形） | a TV series; a series of events | This series has three seasons.
+- documentary | n. | 纪录片 | a documentary about sth | I watched a documentary about ocean life.
+- genre | n. | （文艺作品的）类型 | a film genre | Science fiction is my favourite genre.
+  ipa: /ˈʒɒnrə/
+- plot | n. | 情节 | a complicated plot | The plot was hard to follow.
+- recommend | v. | 推荐；建议 | highly recommend | I highly recommend this book.
+  fam: recommendation (n.)
+  note: 常见错误：✗ *recommend you to read* 在正式语中不地道 → ✓ *I recommend **reading** it.* / *I recommend **that** you read it.*
+- fan | n. | 迷；粉丝；扇子 | a huge fan of sth | I'm a huge fan of Marvel films. | S
+
+@cmp play · game · match
+play | 动词：玩、参加比赛；名词：戏剧 | We went to see a play.
+game | 游戏；一场比赛（尤指美式） | Let's play a game.
+match | 一场比赛（英式，尤指足球、网球） | We lost the match.
+@end
+
+@box ielts 回答“为什么喜欢”——给出具体理由
+*I'm really into hiking because it helps me **unwind** after a busy week, and it's a good way to **keep fit** without going to the gym.*
+一个爱好 + 两个具体理由（放松 / 健康 / 社交 / 学到东西），比“because it is interesting”有效得多。
+@end

@@ -1,0 +1,165 @@
+/* IELTS vocabulary series — derived from ../../tools/style.css (French grammar book). */
+@page { size: A4; margin: 17mm 17mm 17mm 17mm; }
+@page :first { margin: 0; }
+
+:root {
+  --ink: #1d2433;
+  --muted: #5d6779;
+  --line: #e1e5ec;
+  --soft: #f5f7fa;
+  --zh: #2c3445;
+  --ex: #3c5a7d;
+}
+
+html { font-size: 10.3pt; }
+body {
+  margin: 0; color: var(--ink); background: #fff;
+  font-family: "Source Serif 4", "Noto Serif SC", serif;
+  line-height: 1.48;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+p { margin: 0 0 0.55em; }
+ul, ol { margin: 0.2em 0 0.6em; padding-left: 1.4em; }
+li { margin: 0.12em 0; }
+strong, b { font-weight: 700; color: #11192a; }
+em { font-style: italic; }
+small { font-size: 0.85em; }
+.zh, :lang(zh) { font-family: "Noto Sans SC", sans-serif; }
+.mark { position: absolute; font-size: 2px; color: #fff; letter-spacing: 0; font-family: "DejaVu Sans", sans-serif; }
+h1, h2, h3, .hw-col { position: relative; }
+
+/* headings */
+h1, h2, h3, h4 { font-family: "Inter", "Noto Sans SC", sans-serif; color: var(--vc); line-height: 1.25; break-after: avoid; }
+article.unit, article.toc, article.front, article.appendix, article.hb { break-before: page; }
+h1 { font-size: 1.95rem; font-weight: 800; margin: 0 0 0.2em; }
+h1 small { display: block; font-family: "Noto Sans SC", sans-serif; font-size: 0.52em; font-weight: 500; color: var(--muted); margin-top: 0.25em; }
+h1.plain { font-size: 1.55rem; padding-bottom: 0.3em; border-bottom: 3px solid var(--va); margin-bottom: 0.7em; }
+h2 { font-size: 1.12rem; font-weight: 700; margin: 1.25em 0 0.5em; padding: 3px 0 3px 9px; border-left: 4px solid var(--va); background: linear-gradient(90deg, var(--soft), #fff 70%); }
+h3 { font-size: 1rem; font-weight: 700; margin: 1em 0 0.35em; }
+
+.unit-top { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+.unit-no { font-family: "Inter", sans-serif; font-weight: 800; letter-spacing: 0.14em; font-size: 0.78rem; color: #fff; background: var(--vc); padding: 2px 8px; border-radius: 3px; }
+.level { font-family: "Inter", sans-serif; font-size: 0.72rem; font-weight: 700; color: var(--vc); border: 1px solid var(--vc); border-radius: 3px; padding: 1px 6px; }
+.stats { font-family: "Inter", "Noto Sans SC", sans-serif; font-size: 0.78rem; color: var(--muted); padding-bottom: 6px; border-bottom: 3px solid var(--va); margin-bottom: 8px; }
+.intro { font-family: "Noto Sans SC", sans-serif; font-size: 0.9rem; color: #3b4456; background: var(--soft); border-radius: 6px; padding: 8px 11px; margin: 0.5em 0 0.6em; line-height: 1.6; }
+
+/* entries */
+.entry { break-inside: avoid; border-bottom: 1px solid var(--line); padding: 4px 0 4px; }
+.entry .row { display: grid; grid-template-columns: 31% 1fr; column-gap: 10px; }
+.hw-col { line-height: 1.3; }
+.id { display: inline-block; min-width: 2.6em; font-family: "Inter", sans-serif; font-size: 0.62rem; color: #9aa3b2; vertical-align: 1px; }
+.hw { font-family: "Inter", sans-serif; font-weight: 700; font-size: 0.98rem; color: #121a2b; }
+.pos { font-style: italic; font-size: 0.8rem; color: var(--muted); margin-left: 4px; }
+.ipa { display: block; padding-left: 2.6em; font-family: "DejaVu Sans", sans-serif; font-size: 0.7rem; color: #6a7487; }
+.tag { display: inline-block; font-family: "Noto Sans SC", sans-serif; font-size: 0.6rem; font-weight: 700; border-radius: 3px; padding: 0 4px; margin-left: 4px; vertical-align: 1px; line-height: 1.45; }
+.tag-s { background: #e3f3e8; color: #1e6b3a; }
+.tag-w { background: #e6ecf8; color: #2a4a86; }
+.body-col { font-size: 0.9rem; }
+.zhdef { font-family: "Noto Sans SC", sans-serif; color: var(--zh); font-weight: 500; }
+.col { font-family: "Inter", "Noto Sans SC", sans-serif; font-size: 0.82rem; color: #26324a; }
+.k { display: inline-block; font-family: "Noto Sans SC", sans-serif; font-size: 0.64rem; color: #fff; background: #9aa6b8; border-radius: 2px; padding: 0 3px; margin-right: 5px; vertical-align: 1px; line-height: 1.4; }
+.col .k { background: var(--vc); opacity: 0.85; }
+.exs { font-style: italic; color: var(--ex); line-height: 1.38; }
+.exs b { font-style: italic; color: #11192a; }
+.fam { font-family: "Inter", "Noto Sans SC", sans-serif; font-size: 0.8rem; color: #4a5468; }
+.fam .k { background: #b58a3c; }
+.note { font-family: "Noto Sans SC", sans-serif; font-size: 0.82rem; color: #3a4252; line-height: 1.55; margin-top: 2px; }
+.note em, .note i { font-family: "Source Serif 4", serif; }
+
+.entry.featured { border: 1px solid #d8dde7; border-left: 4px solid var(--va); border-radius: 6px; background: #fbfbfd; padding: 6px 10px 7px; margin: 7px 0; }
+.entry.featured .hw { font-size: 1.12rem; color: var(--vc); }
+.star { font-family: "Noto Sans SC", sans-serif; font-size: 0.64rem; font-weight: 700; color: var(--va); filter: brightness(0.8); letter-spacing: 0.05em; margin-bottom: 1px; }
+.entry.featured .note { border-top: 1px dashed #dfe3ea; padding-top: 3px; margin-top: 4px; }
+
+/* compare boxes */
+.cmp { break-inside: avoid; background: #f6f3fb; border: 1px solid #ddd2ef; border-radius: 7px; padding: 7px 11px 5px; margin: 10px 0; }
+.cmp-head .label { display: block; font-family: "Noto Sans SC", sans-serif; font-size: 0.7rem; font-weight: 700; color: #5b3a92; }
+.cmp-head .title { display: block; font-family: "Inter", sans-serif; font-weight: 700; font-size: 1rem; color: #2a1d48; margin: 1px 0 4px; }
+.cmp table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+.cmp td { border-top: 1px solid #e3daf1; padding: 3px 5px; vertical-align: top; font-family: "Noto Sans SC", sans-serif; }
+.cmp td.w { width: 22%; font-family: "Inter", sans-serif; font-weight: 700; color: #3e2a6b; }
+.cmp td.x { width: 40%; font-family: "Source Serif 4", serif; font-style: italic; color: var(--ex); }
+.cmp p { font-family: "Noto Sans SC", sans-serif; font-size: 0.82rem; margin: 4px 0 2px; color: #3a3350; }
+
+/* boxes */
+.box { border-radius: 7px; padding: 7px 11px 4px; margin: 10px 0; break-inside: avoid; border: 1px solid; font-family: "Noto Sans SC", sans-serif; font-size: 0.88rem; }
+.box-head { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.02em; margin-bottom: 0.25em; }
+.box-head .icon { margin-right: 5px; }
+.box-head .title { display: block; font-size: 1.3em; margin-top: 1px; color: var(--ink); }
+.box-body p, .box-body li { line-height: 1.6; }
+.box-body em { font-family: "Source Serif 4", serif; }
+.box-body p:last-child, .box-body ul:last-child { margin-bottom: 0.35em; }
+.box table { font-size: 0.85rem; margin: 0.3em 0 0.5em; }
+.box.tip   { background: #edf7ef; border-color: #c4e2cb; } .box.tip .box-head   { color: #24683a; }
+.box.warn  { background: #fcefef; border-color: #efc7c7; } .box.warn .box-head  { color: #9b2a2a; }
+.box.ielts { background: #eef3fb; border-color: #c6d5ee; } .box.ielts .box-head { color: #1f3a68; }
+.box.memo  { background: #fdf6e9; border-color: #f0dcb5; } .box.memo .box-head  { color: #8a5a12; }
+.box.rule  { background: #ebf6f7; border-color: #bfe0e4; } .box.rule .box-head  { color: #19676f; }
+
+/* tables (front matter, handbook) */
+table { border-collapse: collapse; width: 100%; margin: 0.5em 0 0.9em; font-size: 0.86rem; }
+tr { break-inside: avoid; }
+thead { display: table-header-group; }
+th { background: var(--vc); color: #fff; font-family: "Inter", "Noto Sans SC", sans-serif; font-weight: 600; font-size: 0.78rem; text-align: left; padding: 4px 6px; }
+td { border-bottom: 1px solid var(--line); padding: 3.5px 6px; vertical-align: top; font-family: "Noto Sans SC", sans-serif; }
+td small { color: var(--muted); font-family: "Inter", sans-serif; }
+tr:nth-child(even) td { background: #f8f9fb; }
+
+/* quiz */
+.quiz { break-inside: avoid-page; margin-top: 14px; border: 1.5px dashed #c9cfda; border-radius: 8px; padding: 2px 12px 6px; font-size: 0.9rem; }
+.quiz h2 { border: 0; background: none; padding-left: 0; margin: 0.6em 0 0.3em; }
+.qh { font-family: "Noto Sans SC", sans-serif; font-weight: 700; color: var(--vc); margin: 0.5em 0 0.25em; }
+.bank { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 4px; }
+.bank span { font-family: "Inter", sans-serif; font-size: 0.8rem; border: 1px solid #c9cfda; border-radius: 12px; padding: 0 8px; }
+.quiz li { margin: 0.18em 0; }
+.blank { display: inline-block; width: 6.5em; border-bottom: 1px solid #555; margin: 0 2px; }
+.two { columns: 2; column-gap: 20px; font-family: "Noto Sans SC", sans-serif; }
+.two li { break-inside: avoid; }
+.hint { font-family: "Inter", sans-serif; color: #8a93a3; margin-left: 6px; letter-spacing: 0.04em; }
+.ak { font-size: 0.82rem; margin-bottom: 6px; break-inside: avoid; font-family: "Inter", "Noto Sans SC", sans-serif; }
+
+/* indexes */
+.index { columns: 2; column-gap: 16px; font-size: 0.76rem; }
+.ix { display: flex; align-items: baseline; break-inside: avoid; line-height: 1.38; }
+.ix .w { font-family: "Inter", sans-serif; font-weight: 600; }
+.ix .z { font-family: "Noto Sans SC", sans-serif; color: var(--muted); margin-left: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 40%; }
+.ix .d { flex: 1; border-bottom: 1px dotted #c3c9d4; margin: 0 3px; min-width: 6px; }
+.ix .r { font-family: "Inter", sans-serif; color: #5d6779; white-space: nowrap; font-size: 0.92em; }
+.ix-letter { font-family: "Inter", sans-serif; font-weight: 800; color: var(--vc); font-size: 1rem; margin: 6px 0 2px; break-after: avoid; border-bottom: 1px solid var(--line); }
+.index3 { columns: 3; column-gap: 12px; }
+
+/* toc */
+.toc a { display: flex; align-items: baseline; text-decoration: none; color: var(--ink); font-size: 0.88rem; margin: 0.08em 0; }
+.toc a .dots { flex: 1; border-bottom: 1px dotted #aab2c0; margin: 0 5px; transform: translateY(-3px); }
+.toc a .p { font-family: "Inter", sans-serif; font-size: 0.8rem; color: var(--muted); min-width: 1.6em; text-align: right; }
+.toc a.toc-ch { font-family: "Inter", sans-serif; font-weight: 700; color: var(--vc); margin-top: 0.55em; }
+.toc a.toc-ch .tz { font-family: "Noto Sans SC", sans-serif; font-weight: 500; color: var(--muted); font-size: 0.9em; margin-left: 4px; }
+.toc a.toc-sec { padding-left: 1.6em; font-size: 0.8rem; color: #3f485a; }
+.toc a.toc-part { font-family: "Noto Sans SC", sans-serif; font-weight: 700; color: var(--va); margin-top: 0.8em; }
+
+/* front matter */
+.front { font-family: "Noto Sans SC", sans-serif; font-size: 0.9rem; }
+.front p, .hb p { line-height: 1.65; }
+.front table.series td { font-size: 0.8rem; }
+.legend li { line-height: 1.6; }
+.hb { font-family: "Noto Sans SC", sans-serif; font-size: 0.9rem; }
+.hb h2 { break-after: avoid; }
+
+/* cover */
+.cover { height: 297mm; width: 210mm; box-sizing: border-box; padding: 30mm 22mm 24mm; background: var(--c); color: #fff; display: flex; flex-direction: column; break-after: page; position: relative; overflow: hidden; }
+.cover::before { content: ""; position: absolute; inset: 0; background: linear-gradient(160deg, rgba(255,255,255,.08) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,.28) 100%); }
+.cover > * { position: relative; }
+.cover .bar { height: 7px; width: 80px; background: var(--a); margin-bottom: 20mm; border-radius: 2px; }
+.cover .kicker { font-family: "Inter", sans-serif; letter-spacing: 0.16em; text-transform: uppercase; font-size: 0.78rem; color: rgba(255,255,255,.75); }
+.cover .ctitle { font-family: "Inter", sans-serif; font-weight: 800; font-size: 3.3rem; line-height: 1.05; margin: 0.3em 0 0.25em; max-width: 150mm; }
+.cover .czh { font-family: "Noto Serif SC", serif; font-weight: 700; font-size: 1.55rem; line-height: 1.5; color: var(--a); }
+.cover .clevel { display: inline-block; align-self: flex-start; margin-top: 8mm; font-family: "Inter", sans-serif; font-weight: 700; font-size: 1rem; border: 2px solid var(--a); color: #fff; padding: 3px 12px; border-radius: 20px; }
+.cover .cscope { font-family: "Noto Sans SC", sans-serif; font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,.88); margin-top: 8mm; max-width: 135mm; }
+.cover .big { position: absolute; right: 12mm; top: 120mm; font-family: "Source Serif 4", serif; font-size: 13rem; font-weight: 700; color: rgba(255,255,255,.07); }
+.cover .path { margin-top: auto; display: flex; gap: 5px; flex-wrap: wrap; font-family: "Noto Sans SC", sans-serif; }
+.cover .path span { border: 1px solid rgba(255,255,255,.4); border-radius: 20px; padding: 3px 10px; font-size: 0.75rem; }
+.cover .path span.on { background: var(--a); border-color: var(--a); color: #1a1a1a; font-weight: 700; }
+.cover .foot { font-family: "Inter", "Noto Sans SC", sans-serif; font-size: 0.75rem; line-height: 1.7; color: rgba(255,255,255,.7); margin-top: 8mm; }
+
+.keep { break-inside: avoid; }
+.pb { break-before: page; }

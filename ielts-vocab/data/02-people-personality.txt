@@ -1,0 +1,120 @@
+@unit 2
+@title People, Appearance & Personality
+@zh 人物、外貌与性格
+@level A2–B1 · 基础升级
+@intro IELTS 口语 Part 2 经常要求你描述一个人：a teacher who influenced you, a friend you admire……只会说 *nice* 和 *good* 是不够的。本单元给你一套**准确、自然**的描述工具，并指出几组中国学生最常混淆的形容词。
+
+## 1 · Describing appearance · 描述外貌
+
+- appearance | n. | 外貌；出现 | physical appearance; make an appearance | Don't judge people by their appearance. | W
+- good-looking | adj. | 好看的（男女都可用） | a good-looking young man | Both of her brothers are very good-looking. | S
+- attractive | adj. | 有吸引力的；（主意、条件）诱人的 | an attractive offer; physically attractive | The job offers an attractive salary.
+- slim | adj. | 苗条的（褒义） | slim and fit | She is tall and slim.
+  note: 描述身材时，*slim* 是褒义；*thin* 中性偏消极（可能显得不健康）；*skinny* 口语、常带贬义。说别人胖时，*overweight* 比 *fat* 礼貌得多。
+- overweight | adj. | 超重的 | slightly overweight | Doctors say many children are now overweight.
+- medium height | phr. | 中等身高 | of medium height | He's of medium height with short dark hair. | S
+- well-built | adj. | 身材健壮的 | a tall, well-built man | The guard was tall and well-built.
+- curly | adj. | 卷曲的（头发） | curly hair | She has long curly hair.
+- straight | adj. | （头发）直的；笔直的 | straight hair; a straight line | My sister has straight black hair.
+- bald | adj. | 秃顶的 | go bald | My grandfather went bald in his forties.
+- in his/her twenties | phr. | 二十多岁 | in her early/late thirties | The new teacher is probably in her late twenties. | S
+- look like | phr. | 长得像；看起来像 | look just like sb | You look just like your mother. | S
+- take after | phr. v. | （长相、性格）像（父母等长辈） | take after your father | I take after my dad — we're both quiet. | S
+- resemble | v. | 像；与……相似（正式，不加 to） | closely resemble | The twins closely resemble each other. | W
+- elderly | adj. | 年长的（比 old 礼貌） | elderly people; an elderly relative | The bus has special seats for elderly passengers.
+- teenager | n. | 青少年（13–19 岁） | a typical teenager | Most teenagers in my class have a smartphone.
+
+## 2 · Positive character · 积极性格
+
+* personality | n. | 个性；性格 | a strong personality; personality traits | She has a warm, friendly personality.
+  note: **personality** 指一个人整体给人的感觉（外向、幽默……）；**character** 更强调道德品质（诚实、勇敢）。*She has a lot of personality* = 她很有个性魅力；*a man of good character* = 品行端正的人。
+- character | n. | 品格；性格；（小说等中的）人物 | strength of character; the main character | Honesty is an important part of his character.
+- outgoing | adj. | 外向的；爱交际的 | an outgoing personality | She's very outgoing and makes friends easily. | S
+- sociable | adj. | 好交际的；合群的 | a sociable person | Our cat is surprisingly sociable.
+- easy-going | adj. | 随和的；脾气好的 | relaxed and easy-going | My uncle is easy-going — nothing makes him angry. | S
+- cheerful | adj. | 快活的；开朗的 | a cheerful smile | She is always cheerful in the morning.
+- generous | adj. | 慷慨的；大方的 | generous with money/time | It was generous of you to share your notes.
+  fam: generosity (n.)
+- honest | adj. | 诚实的；坦率的 | to be honest | To be honest, I didn't understand the question. | S
+  ipa: /ˈɒnɪst/
+  fam: honesty (n.) · dishonest (adj.)
+- reliable | adj. | 可靠的；可信赖的 | a reliable friend; reliable information | He's very reliable — he never forgets a deadline.
+  fam: reliability (n.) · rely on (v.)
+- responsible | adj. | 有责任心的；负责的 | be responsible for sth | She is a responsible student who always finishes her work.
+  fam: responsibility (n.) · irresponsible (adj.)
+- hard-working | adj. | 勤奋的 | a hard-working student | My parents are both very hard-working. | S
+- patient | adj. / n. | 有耐心的；病人 | be patient with sb | Our coach is very patient with beginners.
+  fam: patience (n.) · impatient (adj.)
+- confident | adj. | 自信的；有把握的 | feel confident about sth | I feel more confident about speaking English now.
+  fam: confidence (n.) · self-confident (adj.)
+- brave | adj. | 勇敢的 | a brave decision | It was brave of her to speak in front of the whole school.
+- curious | adj. | 好奇的 | be curious about sth | Young children are naturally curious about the world.
+  fam: curiosity (n.)
+- creative | adj. | 有创造力的 | a creative solution | Our art teacher encourages us to be creative.
+- ambitious | adj. | 有抱负的；（计划）宏大的 | an ambitious plan | She is ambitious and wants to become a surgeon.
+  fam: ambition (n.)
+- modest | adj. | 谦虚的；（数量）不大的 | a modest increase | He's very modest about his success.
+- humble | adj. | 谦逊的；卑微的 | a humble attitude | Despite his fame, he stayed humble.
+- caring | adj. | 体贴的；关心他人的 | a caring family | She's a caring person who always helps others.
+- considerate | adj. | 体贴的；为他人着想的 | considerate of others | It was considerate of you to call.
+- thoughtful | adj. | 体贴的；深思熟虑的 | a thoughtful gift; a thoughtful answer | What a thoughtful present!
+- mature | adj. | 成熟的 | mature for his age | She is very mature for a fourteen-year-old.
+  fam: maturity (n.) · immature (adj.)
+- independent | adj. | 独立的；自主的 | financially independent | Living at school helped me become more independent.
+  fam: independence (n.)
+- open-minded | adj. | 思想开明的；愿意接受新观点 | open-minded about new ideas | Travel can make people more open-minded.
+- optimistic | adj. | 乐观的 | optimistic about the future | I'm optimistic that we'll win.
+  fam: optimism (n.) · optimist (n.)
+- organised | adj. | 有条理的 | well organised | You need to be organised to manage so many subjects.
+  note: 英式拼写 *organised*，美式 *organized*；IELTS 两种都接受，但一篇文章里要统一。
+- determined | adj. | 有决心的；坚定的 | determined to succeed | She was determined to pass the exam.
+  fam: determination (n.)
+- loyal | adj. | 忠诚的 | a loyal friend | Dogs are famously loyal to their owners.
+  fam: loyalty (n.)
+- sense of humour | phr. | 幽默感 | a good sense of humour | My best friend has a great sense of humour. | S
+
+## 3 · Negative character · 消极性格
+
+- selfish | adj. | 自私的 | selfish behaviour | It's selfish to eat all the snacks yourself.
+- rude | adj. | 粗鲁的；无礼的 | be rude to sb | It's rude to look at your phone while someone is talking.
+- arrogant | adj. | 傲慢的；自大的 | arrogant behaviour | He's talented, but rather arrogant.
+- stubborn | adj. | 固执的；倔强的 | as stubborn as a mule | My little brother is too stubborn to say sorry.
+- lazy | adj. | 懒惰的 | too lazy to do sth | I felt too lazy to go to the gym.
+- bossy | adj. | 爱指使人的；专横的 | a bossy older sister | Nobody likes working with a bossy group leader. | S
+- moody | adj. | 喜怒无常的 | moody teenagers | He can be moody in the morning.
+- impatient | adj. | 不耐烦的；急切的 | impatient with sb; impatient to do sth | Don't be impatient — the bus will come.
+- careless | adj. | 粗心的 | a careless mistake | I lost marks because of careless mistakes.
+- pessimistic | adj. | 悲观的 | pessimistic about sth | Some experts are pessimistic about the economy.
+- narrow-minded | adj. | 心胸狭窄的；思想保守的 | narrow-minded views | It's narrow-minded to judge people by where they come from.
+- mean | adj. | 吝啬的（英）；刻薄的 | be mean to sb | Don't be mean to your little sister. | S
+  note: 作形容词时，英式英语里 *mean* 常指“小气、吝啬”，美式更常指“刻薄、不友善”。它最常见的用法其实是动词“意味着”（What does this word mean?）。
+
+@cmp sensible vs. sensitive
+sensible | 明智的；理智的；实用的 | It's sensible to save some money. // sensible shoes
+sensitive | 敏感的；体贴的；（话题）敏感的 | She's sensitive to criticism. // a sensitive topic
+note: 记法：*sensible* 和 sense（常识）有关 → 有头脑；*sensitive* 和 sensitivity（感受）有关 → 感觉灵敏。
+@end
+
+@cmp childish vs. childlike
+childish | 幼稚的（贬义，用于成年人或大孩子） | Stop being so childish!
+childlike | 孩子般纯真的（褒义） | She looked at the snow with childlike wonder.
+@end
+
+## 4 · Family & relationships · 家人与关系
+
+- relative | n. | 亲戚 | a close/distant relative | We visit our relatives during Spring Festival.
+- sibling | n. | 兄弟姐妹（统称） | have two siblings | Do you have any siblings? | S
+- only child | phr. | 独生子女 | grow up as an only child | As an only child, I spent a lot of time with my grandparents.
+- twin | n. | 双胞胎之一 | identical twins | My cousins are identical twins.
+- generation | n. | 一代人；代 | the younger generation; three generations | Three generations live in one flat.
+- get on well with | phr. | 与……相处融洽 | get on well with your classmates | I get on well with my roommate. | S
+- role model | n. | 榜样 | a positive role model | My older cousin is my role model.
+- admire | v. | 钦佩；欣赏 | admire sb for sth | I admire her for her courage.
+  fam: admiration (n.) · admirable (adj.)
+- describe | v. | 描述 | describe sb as… | How would you describe your best friend? | S
+  fam: description (n.) · descriptive (adj.)
+
+@box ielts 描述人：从“nice”升级
+口语 Part 2 描述人物时，用 **一个准确的形容词 + 一个具体例子** 比堆五个形容词更有说服力：
+*She's incredibly **patient** — she once spent an hour explaining a maths problem to me after school.*
+@end

@@ -1,0 +1,106 @@
+@unit 6
+@title Body, Health & Sleep
+@zh 身体、健康与睡眠
+@level A2–B1 · 基础升级
+@intro 本单元是健康话题的“地基”：身体部位、常见症状、看病和睡眠。后续的第三册 Unit 31 会在此基础上加入医疗体系与公共卫生等学术词汇。
+
+## 1 · Symptoms & illness · 症状与疾病
+
+- symptom | n. | 症状 | common symptoms; show symptoms of | A sore throat is a common symptom of a cold.
+- illness | n. | 疾病（较一般、可指持续一段时间的病） | a serious illness; mental illness | He missed a month of school because of illness.
+- disease | n. | 疾病（有具体名称、可传染或影响器官的） | heart disease; infectious diseases | Malaria is a disease spread by mosquitoes.
+  note: **disease** 多指有医学名称的具体疾病（heart disease, a rare disease）；**illness** 侧重“生病的状态或时期”；口语中轻微的不舒服常说 *I'm not feeling well* 或 *I'm ill/sick*。
+- headache | n. | 头痛 | have a headache; a bad headache | Too much screen time gives me a headache.
+- stomach ache | n. | 胃痛；肚子疼 | — | I've got a stomach ache.
+  ipa: /ˈstʌmək eɪk/
+- sore throat | n. | 喉咙痛 | have a sore throat | I have a sore throat and a runny nose.
+- fever | n. | 发烧 | have a high fever | The child had a fever of 39 degrees.
+- temperature | n. | 体温；温度 | take sb's temperature; have a temperature | You have a temperature — you should stay in bed.
+  note: *have a temperature* 在英式口语中就是“发烧”的意思。注意拼写 temp-**er**-a-ture。
+- cough | n. / v. | 咳嗽 | a bad cough | He's had a cough for a week.
+  ipa: /kɒf/
+- sneeze | v. / n. | 打喷嚏 | — | Cover your mouth when you sneeze.
+- runny nose | phr. | 流鼻涕 | — | I've got a runny nose. | S
+- dizzy | adj. | 头晕的 | feel dizzy | I felt dizzy after standing up too quickly.
+- pain | n. | 疼痛；痛苦 | in pain; back pain | She was in a lot of pain after the fall.
+  fam: painful (adj.) · painless (adj.)
+- ache | n. / v. | （持续的）疼痛；隐隐作痛 | My legs ache | My legs ache after running.
+  ipa: /eɪk/
+- hurt | v. / adj. | 弄伤；疼；受伤的 | hurt your leg; get hurt | I hurt my ankle playing basketball.
+- injury | n. | 伤；受伤 | a serious injury; a sports injury | He missed the match because of an injury.
+  fam: injure (v.) · injured (adj.)
+- allergic | adj. | 过敏的 | allergic to peanuts | I'm allergic to cats.
+  ipa: /əˈlɜːdʒɪk/
+  fam: allergy (n.) /ˈælədʒi/
+  note: 名词 *allergy* /ˈælədʒi/ 重音在第一音节；形容词 *allergic* /əˈlɜːdʒɪk/ 重音移到第二音节。加 *-ic* 后重音通常落在 *-ic* 前一个音节：*economy → economic*，*photograph → photographic*。
+- infection | n. | 感染 | an ear infection; a risk of infection | The cut became red because of an infection.
+  fam: infect (v.) · infectious (adj.)
+- catch | v. | ① 染上（疾病） ② 赶上（车） ③ 接住；抓住 | catch flu; catch the last bus | Wash your hands so you don't catch anything. // We just caught the last train.
+- virus | n. | 病毒 | a virus spreads | The flu virus spreads easily in winter.
+  ipa: /ˈvaɪrəs/
+
+## 2 · Getting treatment · 看病与治疗
+
+- see a doctor | phr. | 看医生 | — | You should see a doctor about that cough. | S
+- check-up | n. | 体检 | a regular check-up | I go for a dental check-up twice a year.
+- medicine | n. | 药；医学 | take medicine; study medicine | Take this medicine three times a day.
+  note: “吃药”是 *take medicine*，不是 ✗ *eat medicine*。
+- pill | n. | 药丸；药片 | take a pill | Swallow the pill with water.
+- pharmacy | n. | 药店（美式也说 drugstore；英式也说 chemist's） | — | You can buy cold medicine at the pharmacy.
+- prescription | n. | 处方 | write a prescription | You need a prescription for antibiotics.
+- treatment | n. | 治疗；对待 | receive treatment; medical treatment | She is receiving treatment for a back injury.
+  fam: treat (v.)
+- cure | n. / v. | 治愈；疗法 | a cure for cancer | There is no cure for the common cold.
+  note: *treat* 是“治疗”（过程），*cure* 是“治愈”（结果）。医生可以 treat 一种病，却不一定能 cure 它。
+- recover | v. | 康复；恢复；找回 | recover from an illness | It took him two weeks to recover from flu.
+  fam: recovery (n.)
+- get better | phr. | 好转；康复 | — | I hope you get better soon. | S
+- bandage | n. | 绷带 | — | The nurse put a bandage on my knee.
+- emergency | n. | 紧急情况 | in an emergency; emergency services | In an emergency, call 120.
+- ambulance | n. | 救护车 | call an ambulance | An ambulance arrived within ten minutes.
+
+## 3 · Staying fit · 保持健康
+
+- fit | adj. / v. | 健康强壮的；合身；适合 | keep fit; stay fit | Swimming is a great way to keep fit. | S
+  fam: fitness (n.)
+- work out | phr. v. | 健身；算出；想出办法 | work out at the gym | I work out three times a week. | S
+  note: *work out* 有三个高频义：健身（I work out every day）；计算（work out the answer）；想明白、解决（work out a solution）；事情“有好结果”（Things will work out）。
+- healthy | adj. | 健康的；有益健康的 | a healthy lifestyle; healthy food | Walking to school is a healthy habit.
+  fam: health (n.) · unhealthy (adj.) · healthily (adv.)
+- in good shape | phr. | 身体状况好 | stay in good shape | My grandpa is 80 but still in good shape. | S
+- muscle | n. | 肌肉 | build muscle; muscle strength | Weight training helps build muscle.
+  ipa: /ˈmʌsl/
+- stretch | v. / n. | 伸展；拉伸 | stretch before running | Always stretch before you exercise.
+- energy | n. | 精力；能量 | full of energy; energy levels | I don't have the energy to go out tonight.
+  ipa: /ˈenədʒi/
+  fam: energetic (adj.)
+- weight | n. | 体重；重量 | lose/put on weight | He has put on weight since he stopped playing football.
+  ipa: /weɪt/
+  fam: weigh (v.)
+- breathe | v. | 呼吸 | breathe deeply | Breathe in slowly through your nose.
+  ipa: /briːð/
+  fam: breath (n.) /breθ/ · breathless (adj.)
+  note: 动词 *breathe* /briːð/（结尾有 e，读长音），名词 *breath* /breθ/。*take a deep breath*（深呼吸）。
+- heart rate | n. | 心率 | raise your heart rate | Running raises your heart rate.
+
+## 4 · Sleep · 睡眠
+
+- fall asleep | phr. | 入睡；睡着 | fall asleep quickly | I fell asleep in front of the TV. | S
+- asleep | adj. | 睡着的（只放在 be 动词后） | fast asleep | The baby is fast asleep.
+  note: *asleep*、*awake*、*alive*、*alone*、*afraid* 这些 a- 开头的形容词一般不放在名词前：✗ *an asleep baby* → ✓ *a sleeping baby*。
+- awake | adj. | 醒着的 | stay awake; wide awake | I was so excited that I was wide awake at 5 a.m.
+- get enough sleep | phr. | 睡眠充足 | — | Teenagers need to get enough sleep to learn well.
+- sleepy | adj. | 困倦的 | feel sleepy | I always feel sleepy after lunch. | S
+- yawn | v. / n. | 打哈欠 | — | He kept yawning during the lecture.
+- nightmare | n. | 噩梦；可怕的经历 | have a nightmare | Travelling during the Spring Festival rush can be a nightmare. | S
+- insomnia | n. | 失眠（症） | suffer from insomnia | Stress can cause insomnia. | W
+- jet lag | n. | 时差反应 | suffer from jet lag | I had terrible jet lag after flying to London.
+- body clock | n. | 生物钟 | — | Teenagers' body clocks make them want to sleep later.
+  note: 这是有研究支持的说法：青春期时，人体分泌褪黑素（melatonin）的时间会推迟，所以青少年自然倾向于晚睡晚起。一些学者因此主张中学推迟上课时间。
+
+@cmp hurt · injure · damage · harm
+hurt | 使（人或身体部位）受伤或疼痛；口语最常用；也可指伤感情 | I hurt my back. // Her words hurt me.
+injure | 使（人）受伤，多用于事故报道 | Two people were injured in the accident.
+damage | 损坏（物体），不用于人 | The storm damaged several buildings.
+harm | 伤害（人、动物、环境），较正式 | These chemicals can harm wildlife.
+@end

@@ -1,0 +1,106 @@
+@unit 1
+@title Everyday Verbs, Used Precisely
+@zh 高频动词的精确用法
+@level A2–B1 · 基础升级
+@intro make、do、take、get 这些词你早就认识，但英语母语者真正厉害的地方在于**和谁搭配**。中文说“做决定”“做作业”都是“做”，英语却分成 *make a decision* 和 *do homework*。本单元不再解释这些动词本身，而是把最常用的**动词 + 名词**整块交给你。
+
+## 1 · make or do? · 造出来 vs. 去完成
+
+* make a decision | phr. | 做决定 | make an important decision; make a final decision | We need to make a decision by Friday. | S W
+  note: **规律：** *make* 多指“创造出一个原本没有的结果”（决定、计划、噪音、错误），*do* 多指“完成一项活动或任务”（作业、家务、工作、研究）。这不是百分之百的规则，但能帮你猜对大部分搭配。
+- make a mistake | phr. | 犯错 | make the same mistake again | Everyone makes mistakes when they learn a language. | S
+- make progress | phr. | 取得进步（不可数，不说 a progress） | make rapid progress; make progress in English | She has made great progress in maths this term. | S W
+- make an effort | phr. | 努力；尽力 | make a real effort to do sth | He made an effort to speak only English in class. | S
+- make a difference | phr. | 产生（积极）影响；有作用 | make a big difference to sb/sth | Small changes in your diet can make a real difference. | S W
+- make sense | phr. | 有道理；讲得通；（让人）明白 | It makes sense to…; make sense of sth | Your explanation makes sense to me. | S
+- make a plan | phr. | 制订计划 | make plans for the weekend | Let's make a plan before we start the project. | S
+- make friends | phr. | 交朋友（复数 friends） | make friends with sb | It's easy to make friends at summer camp. | S
+- make money | phr. | 挣钱 | make money from sth | The company makes money by selling advertising. | S
+- make an excuse | phr. | 找借口 | make excuses for being late | Stop making excuses and start working. | S
+- make a suggestion | phr. | 提建议 | make a useful suggestion | Can I make a suggestion? | S
+- make a choice | phr. | 做出选择 | make the right choice; a difficult choice to make | You have to make a choice between the two clubs. | S
+- make a complaint | phr. | 投诉 | make a complaint about sth to sb | She made a complaint about the noise. | S
+- make an appointment | phr. | 预约（医生、面谈等） | make an appointment with a doctor | I'd like to make an appointment for Monday. | S
+- make room for | phr. | 腾出空间（给……） | make room for new ideas | We moved the desk to make room for a bookshelf. | S
+- make the most of | phr. | 充分利用 | make the most of an opportunity | Make the most of your time at university. | S
+* do homework | phr. | 做作业 | do your homework; do some homework | I always do my homework before dinner. | S
+  note: homework、housework 都是**不可数名词**：不说 *a homework / homeworks*，要说 *a piece of homework* 或 *some homework*。
+- do research | phr. | 做研究；做调查（research 不可数） | do research on/into sth | Scientists are doing research into new vaccines. | W
+- do the housework | phr. | 做家务 | share the housework | My brother and I take turns to do the housework. | S
+- do your best | phr. | 尽最大努力 | try to do your best | Don't worry about the result — just do your best. | S
+- do harm | phr. | 造成伤害 | do more harm than good; do harm to sth | Too much screen time can do harm to your eyes. | W
+- do sb a favour | phr. | 帮某人一个忙 | Could you do me a favour? | Could you do me a favour and close the window? | S
+- do business | phr. | 做生意 | do business with sb | Many local firms do business with Hong Kong. | S W
+- do exercise | phr. | 锻炼（也说 take/get exercise） | do regular exercise | Doctors recommend doing exercise at least three times a week. | S
+
+## 2 · take, have, get · 三个“万能动词”
+
+* take part in | phr. | 参加；参与（活动、比赛） | take part in a competition; take an active part in | More than 300 students took part in the science fair. | S W
+  note: **take part in** 强调“亲身参与其中”；**join** 多指“加入一个组织或团体”（join a club）；**attend** 指“出席”（attend a meeting / a lecture），更正式，且**不加 to**。
+- take place | phr. | 发生；举行（多指计划好的事） | take place every year | The final will take place in Shenzhen in June. | W
+- take a break | phr. | 休息一下 | take a short break | Let's take a ten-minute break. | S
+- take notes | phr. | 记笔记 | take notes in class | It's useful to take notes while you listen. | S
+- take responsibility for | phr. | 承担责任 | take full responsibility for sth | Teenagers should take responsibility for their own learning. | W
+- take action | phr. | 采取行动 | take immediate action; take action against | Governments must take action to reduce pollution. | W
+- take advantage of | phr. | 利用（机会）；占……的便宜 | take advantage of a chance | Take advantage of the library while you are at school. | S W
+  note: 中性义：“充分利用”（take advantage of an opportunity）；贬义：“占便宜、利用别人”（He took advantage of her kindness.）。看宾语是“机会”还是“人”。
+- take care of | phr. | 照顾；处理 | take care of a pet; take care of the details | Who will take care of your cat during the holiday? | S
+- take a risk | phr. | 冒险 | take a calculated risk | Sometimes you have to take a risk to succeed. | S
+- take time | phr. | 需要时间；慢慢来 | It takes time to…; take your time | Learning a language takes time. | S
+- take sth seriously | phr. | 认真对待 | take a problem seriously | You should take your health seriously. | S
+- have a look | phr. | 看一看 | have a quick look at sth | Can I have a look at your notes? | S
+- have fun | phr. | 玩得开心（fun 不可数） | have a lot of fun | We had so much fun at the beach. | S
+- have trouble doing sth | phr. | 做某事有困难 | have trouble sleeping | Many students have trouble remembering new words. | S
+- have an impact on | phr. | 对……产生影响 | have a huge impact on | Social media has a strong impact on how teenagers see themselves. | W
+- have a conversation | phr. | 交谈；对话 | have a long conversation with sb | I had a conversation with my teacher about my goals. | S
+- get used to | phr. | 逐渐习惯（+ 名词 / doing） | get used to living alone | It took me a month to get used to the new school. | S
+  note: **get/be used to doing** = 习惯于做（to 是介词）；**used to do** = 过去常常做（现在不了）。*I used to walk to school.* 与 *I'm used to walking to school.* 意思完全不同。
+- get ready | phr. | 做好准备 | get ready for an exam | Hurry up and get ready — the bus leaves in ten minutes. | S
+- get rid of | phr. | 摆脱；扔掉 | get rid of bad habits | I finally got rid of my old phone. | S
+- get in touch with | phr. | 与……取得联系 | get in touch with sb by email | Please get in touch with us if you have any questions. | S
+- get the chance | phr. | 得到机会 | get the chance to travel | I hope I get the chance to study abroad. | S
+
+## 3 · give, keep, pay, catch, run · 其他高频组合
+
+- give advice | phr. | 给建议（advice 不可数） | give sb some advice; a piece of advice | My aunt gave me some good advice about choosing a university. | S
+- give sb a hand | phr. | 帮某人一把 | give me a hand with sth | Can you give me a hand with these boxes? | S
+- give a presentation | phr. | 做演示汇报 | give a presentation on sth | Each group will give a presentation on climate change. | S W
+- give up | phr. v. | 放弃；戒掉 | give up smoking; never give up | Don't give up — you're almost there! | S
+- keep a promise | phr. | 遵守诺言 | keep/break a promise | He always keeps his promises. | S
+- keep in touch | phr. | 保持联系 | keep in touch with old friends | Let's keep in touch after graduation. | S
+- keep calm | phr. | 保持冷静 | keep calm under pressure | Try to keep calm during the exam. | S
+- keep track of | phr. | 记录；跟踪了解 | keep track of your spending | This app helps you keep track of your sleep. | S
+- pay attention to | phr. | 注意；关注 | pay close attention to details | Pay attention to the instructions. | S W
+- pay a visit | phr. | 拜访；参观 | pay a visit to sb/somewhere | We paid a visit to the science museum. | S
+- pay the price | phr. | 付出代价 | pay a high price for sth | If you don't sleep enough, you'll pay the price the next day. | S W
+- catch a cold | phr. | 感冒 | catch a bad cold | I caught a cold after getting wet in the rain. | S
+- catch sb's attention | phr. | 吸引某人的注意 | catch the reader's attention | A good title catches the reader's attention. | S W
+- catch up with | phr. | 赶上 | catch up with the class | After being ill, she worked hard to catch up with her classmates. | S
+- run a business | phr. | 经营生意 | run a small business | Her parents run a restaurant in Futian. | S
+- run out of | phr. | 用完；耗尽 | run out of time/money | We ran out of time before the last question. | S
+- break a record | phr. | 打破纪录 | break the world record | She broke the school record for the 100 metres. | S
+- break the rules | phr. | 违反规则 | break school rules | Players who break the rules will be sent off. | S
+- set a goal | phr. | 设定目标 | set realistic goals | Set a clear goal for each study session. | S W
+- save time | phr. | 节省时间 | save time and money | Online shopping can save time. | S
+- spend time | phr. | 花时间（+ doing / on sth） | spend time with family; spend time reading | I spend too much time on my phone. | S
+- waste time | phr. | 浪费时间 | waste time on sth | Don't waste time worrying about things you can't change. | S
+- tell the truth | phr. | 说实话 | to tell (you) the truth | To tell the truth, I didn't enjoy the film. | S
+- tell the difference | phr. | 分辨出差别 | tell the difference between A and B | Can you tell the difference between the twins? | S
+
+@cmp say · tell · speak · talk
+say | 说出具体的话；后面直接跟内容，不能直接跟人 | She said (that) she was tired.
+tell | 告诉某人；后面通常直接跟人，或固定搭配 tell the truth/a story | She told me (that) she was tired.
+speak | 讲（语言）；正式发言 | Do you speak French? // He spoke at the meeting.
+talk | 聊天、交谈，强调双向交流 | We talked about our holiday plans.
+note: 常见错误：✗ *She said me…* ✓ *She told me… / She said to me…*；✗ *speak English very well* 没问题，但 ✗ *talk English* 不自然。
+@end
+
+@box warn 不可数名词：前面不加 a，后面不加 s
+**advice, information, homework, housework, research, progress, furniture, equipment, knowledge, evidence, luggage, fun, news** 在英语里通常不可数。
+需要“一条/一件”时用量词：*a piece of advice*, *a piece of information*, *a piece of evidence*。
+这是中国学生作文中出现频率极高的错误之一，也是 IELTS 写作语法准确性的扣分点。
+@end
+
+@box ielts 搭配让表达“自然”
+IELTS 写作和口语的词汇评分标准都提到了 **collocation（搭配）**。与其背一个生僻词，不如用准一个搭配：*make progress*、*take action*、*have an impact on* 比生硬地堆砌难词更能体现语言的自然度。
+@end

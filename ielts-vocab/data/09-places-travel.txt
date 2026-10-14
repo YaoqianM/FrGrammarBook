@@ -1,0 +1,88 @@
+@unit 9
+@title Places, Travel & Getting Around
+@zh 地点、出行与旅行
+@level A2–B1 · 基础升级
+@intro 本单元是“城市与出行”“旅游”两个大话题的基础层：问路、交通工具、旅行准备和住宿。第二册 Unit 19（城市交通）和 Unit 23（旅游与全球化）会在此基础上展开。
+
+## 1 · Places & directions · 地点与方向
+
+- downtown | adv. / n. | 市中心（美式；英式 city centre） | go downtown | Let's take the metro downtown.
+- city centre | n. | 市中心（英式） | in the city centre | The hotel is right in the city centre.
+- suburb | n. | 郊区（住宅区） | live in the suburbs | Many families move to the suburbs for more space.
+  fam: suburban (adj.)
+- countryside | n. | 乡村；农村（不可数，总称） | in the countryside | My grandparents live in the countryside.
+- local | adj. / n. | 当地的；本地人 | local people; the locals | Ask a local for directions.
+- landmark | n. | 地标；里程碑 | a famous landmark | Ping An Finance Centre is a famous landmark in Shenzhen.
+- square | n. | 广场；正方形 | the main square | There's a market in the town square.
+- shopping centre | n. | 购物中心（美式 mall） | — | The new shopping centre has a cinema.
+- direction | n. | 方向；（复数）指路 | ask for directions; in the opposite direction | Could you give me directions to the station?
+- turn left/right | phr. | 向左/右转 | — | Turn left at the traffic lights.
+- go straight on | phr. | 一直往前走 | — | Go straight on for about 200 metres.
+- opposite | prep. / adj. | 在……对面；相反的 | opposite the bank | The bus stop is opposite the library.
+- next to | prep. | 在……旁边 | — | The café is next to the bookshop.
+- on the corner | phr. | 在拐角处 | on the corner of A and B | There's a bakery on the corner.
+- crossroads | n. | 十字路口（单复数同形） | at the crossroads | Turn right at the crossroads.
+- pedestrian | n. / adj. | 行人；步行的 | a pedestrian crossing; pedestrian zone | This street is for pedestrians only.
+- within walking distance | phr. | 步行可到 | — | The school is within walking distance of my home. | S
+
+## 2 · Transport · 交通工具
+
+- by bus/train/car | phr. | 乘坐（交通方式，不加冠词） | go by bus | I go to school by bus. | S
+  note: *by + 交通工具* 不加冠词（by bus, by train, by bike）；但步行是 *on foot*。说某一辆具体的车则用 *on the bus / in my dad's car*。
+- on foot | phr. | 步行 | — | It takes ten minutes on foot.
+- public transport | n. | 公共交通 | use public transport | Shenzhen has excellent public transport.
+- metro | n. | 地铁（英式也说 underground / tube；美式 subway） | take the metro | The metro is the fastest way to get around.
+- platform | n. | 站台；（网络）平台；讲台 | on platform 3 | The train leaves from platform 3.
+- passenger | n. | 乘客 | — | The bus was full of passengers.
+- fare | n. | 车费；票价 | bus fare; pay the fare | Metro fares in Shenzhen are quite cheap.
+  note: *fare* 指交通费用；*fee* 指服务费、学费等（school fees）；*fine* 是罚款。三者都是“费”，但不能混用。
+- ticket | n. | 票 | a single/return ticket | A return ticket to Guangzhou, please.
+- timetable | n. | 时刻表；课程表（英） | the train timetable | Check the timetable before you leave.
+- delay | n. / v. | 延误；推迟 | a long delay; be delayed | Our flight was delayed by two hours.
+- miss | v. | 错过；想念；没打中 | miss the bus | Hurry, or you'll miss the train!
+- get on/off | phr. v. | 上/下（公交、火车、飞机） | get off at the next stop | Get off at the third stop.
+  note: 公交、火车、飞机、自行车用 *get on / get off*；小汽车、出租车用 *get in / get out of*。
+- traffic jam | n. | 交通堵塞 | be stuck in a traffic jam | We were stuck in a traffic jam for an hour.
+- rush hour | n. | 高峰时间 | during rush hour | Avoid driving during rush hour.
+- give sb a lift | phr. | 让某人搭便车（英；美式 ride） | — | Can you give me a lift to the station? | S
+- vehicle | n. | 车辆；交通工具；手段 | electric vehicles | Shenzhen has thousands of electric vehicles.
+  ipa: /ˈviːəkl/
+  note: 读音 /ˈviːəkl/，h 不发音。*vehicle* 也有比喻义：“表达或传播的手段”（Language is a vehicle for culture.）。
+
+## 3 · Travel & holidays · 旅行与假期
+
+- trip | n. | （短途）旅行；出行 | a school trip; a business trip | We went on a day trip to Huizhou.
+- holiday | n. | 假期；度假（英；美式 vacation） | on holiday; go on holiday | We went on holiday to Hainan.
+- destination | n. | 目的地 | a popular tourist destination | Yunnan is a popular destination for tourists.
+- sightseeing | n. | 观光 | go sightseeing | We spent the morning sightseeing.
+- tourist attraction | n. | 旅游景点 | a major tourist attraction | The Great Wall is China's most famous tourist attraction.
+- souvenir | n. | 纪念品 | buy souvenirs | I bought a souvenir for my best friend.
+  ipa: /ˌsuːvəˈnɪə/
+- backpack | n. / v. | 背包；背包旅行 | go backpacking | After university, he went backpacking around Europe.
+- luggage | n. | 行李（不可数） | carry-on luggage | How much luggage are you taking?
+  note: *luggage / baggage* 不可数：✗ *luggages* → ✓ *two pieces of luggage*。
+- pack | v. | 收拾（行李）；打包 | pack your bags | Have you packed for the trip yet?
+- passport | n. | 护照 | renew your passport | Don't forget your passport!
+- visa | n. | 签证 | apply for a visa | You need a visa to visit some countries.
+- book | v. | 预订 | book a hotel/flight | I've booked a room for two nights.
+  fam: booking (n.)
+- accommodation | n. | 住处；住宿 | find accommodation | Accommodation in big cities is expensive.
+  note: 拼写：**两个 c，两个 m** —— a-cc-o-mm-odation。英式中通常不可数。
+- hostel | n. | 青年旅舍；宿舍 | a youth hostel | Hostels are cheap places to stay.
+- check in/out | phr. v. | 办理入住/退房；办理登机 | check in at the airport | We have to check out by 12 o'clock.
+- abroad | adv. | 在国外；到国外 | go abroad; study abroad | I'd like to study abroad one day.
+  note: *abroad* 是副词：✗ *go to abroad* → ✓ *go abroad*。同类：*go home, go downtown, go overseas*。
+- overseas | adj. / adv. | 海外的；在海外 | overseas students; travel overseas | Many overseas students study in the UK.
+- explore | v. | 探索；考察 | explore the city | We spent the day exploring the old town.
+  fam: exploration (n.) · explorer (n.)
+- breathtaking | adj. | 令人惊叹的（尤指景色） | breathtaking views | The view from the mountain was breathtaking. | S
+- crowded with tourists | phr. | 挤满游客 | — | The beach was crowded with tourists. | S
+- off the beaten track | phr. | 人迹罕至的；不落俗套的 | — | I prefer places that are off the beaten track. | S
+
+@cmp travel · trip · journey · tour
+travel | 不可数、泛指 | Air travel is getting cheaper.
+trip | 一次出行，有去有回 | How was your trip to Xi'an?
+journey | 路途本身（从 A 到 B 的过程） | The train journey took six hours.
+tour | 参观多处的游览 | We went on a tour of the old town.
+note: ✗ *a travel* → ✓ *a trip*。*Travel broadens the mind.*（旅行开阔眼界）中的 travel 是不可数名词。
+@end

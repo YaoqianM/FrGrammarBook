@@ -1,0 +1,113 @@
+@unit 11
+@title Common Words with Many Meanings
+@zh 常见多义词
+@level B1 · 基础升级（重点单元）
+@intro 阅读中最危险的不是生词，而是**“熟词生义”**：你以为认识 *address*、*issue*、*figure*，结果在文章里它们的意思完全不同。IELTS 阅读特别喜欢考这类词。本单元每个词都按“最常见 → 学术语境中重要”的顺序列出义项，例句一一对应。
+
+@box tip 怎么学这一单元
+不要试图一次记住所有义项。先读例句，再遮住中文，看能否从**上下文**推断出意思。阅读时遇到熟词却读不通的句子，第一反应应该是：“这个词是不是有另一个意思？”
+@end
+
+## 1 · Nouns that change meaning · 名词
+
+* issue | n. / v. | ① 问题；议题 ② （杂志）一期 ③ 发行；发布 | a key issue; raise an issue; issue a statement | Climate change is a global issue. // Have you read the latest issue of the magazine? // The government issued a warning about the heat.
+  note: 写作中 *issue* 是“问题”的首选词之一：它中性、正式，指“需要讨论或解决的议题”，比 *problem* 少一点负面感（*an important issue* 不一定是坏事）。
+* matter | n. / v. | ① 事情；问题 ② 物质 ③ 要紧；有关系 | a personal matter; It doesn't matter | We need to discuss this matter in private. // All matter is made of atoms. // It doesn't matter if you're a little late. | S
+  note: 口语高频：*What's the matter?*（怎么了？）、*It doesn't matter*（没关系）、*as a matter of fact*（事实上）、*no matter what/how*（无论……）。
+* case | n. | ① 情况；实例 ② 病例 ③ 案件 ④ 箱子；盒子 ⑤ 论据 | in this case; in case of fire; a pencil case; make a case for | In some cases, students learn faster online. // There have been 50 new cases of flu. // The police are investigating the case. // She made a strong case for longer holidays.
+  note: 学术写作重要用法：*make a (strong) case for sth* = 为某事提出（有力的）论证；*in case* = 以防万一（*Take an umbrella in case it rains.*）。
+* point | n. / v. | ① 观点；要点 ② 时刻；阶段 ③ 分数 ④ 意义；目的 ⑤ 指向 | make a point; at this point; There's no point (in) doing… | That's a good point. // At that point, I decided to give up. // There's no point in worrying about it. | S
+  note: *What's the point?* = 这有什么意义？*There's no point (in) doing sth* = 做某事没有意义。*to the point* = 切题、简洁。
+* figure | n. / v. | ① 数字；数据 ② 人物 ③ 身材 ④ 图表 ⑤ 认为；想出 | sales figures; a key figure; see Figure 2 | The figures show a sharp rise in sales. // Confucius is an important figure in Chinese history. // I couldn't figure out the answer.
+  note: IELTS 写作 Task 1 中 *figure* 常指“数字”（*The figure rose to 40%*）；图表标题中的 *Figure 1* 则是“图 1”。*figure out* = 弄明白、想出（口语）。
+- state | n. / v. | ① 状态 ② 国家；（美国等的）州 ③ 陈述；说明 | a state of shock; state schools; state your opinion | The house was in a terrible state. // The report states that most teenagers sleep less than eight hours.
+  fam: statement (n.)
+  note: *state school*（英）= 公立学校；*the state* 可以指“政府、国家权力”（state funding）。
+- account | n. / v. | ① 账户 ② 描述；叙述 ③ 考虑 | a bank account; a detailed account of; take sth into account | I opened a bank account. // He gave a detailed account of the accident.
+  note: 动词短语 *account for* 在学术英语中极其重要（“占……比例；解释……的原因”），见第四册 Unit 42。
+- means | n. | 方法；手段（单复数同形）；财力 | a means of transport; by means of; by no means | The bike is my main means of transport. // By no means is this problem easy.
+  note: *means* 永远带 s，单复数同形：*a means / many means*。*by no means* = 绝不（*This is by no means easy*）。动词 *mean*（意味着；打算）则是另一个词：*I didn't mean to hurt you.*
+- practice | n. | ① 练习 ② 实践；惯例；做法 ③ （医生、律师的）诊所/事务所 | in practice; common practice; put sth into practice | It's common practice to tip in America. // The idea sounds good, but it won't work in practice.
+  note: *in theory … in practice* 是写作中的经典对比结构：“理论上……实际上……”。
+- record | n. / v. | ① 记录；纪录 ② 唱片 ③ 录制；记录 | a world record; keep a record of; record a video | She holds the national record. // Keep a record of what you spend.
+  ipa: /ˈrekɔːd/ (n.) · /rɪˈkɔːd/ (v.)
+  note: **重音规律**：很多双音节词作名词时重音在前，作动词时重音在后：*REcord / reCORD, PREsent / preSENT, OBject / obJECT, INcrease / inCREASE, CONtrast / conTRAST, PROgress / proGRESS*。
+- present | n. / adj. / v. | ① 礼物 ② 现在 ③ 出席的 ④ 呈现；提交 | at present; be present at; present a report | All students were present at the meeting. // At present, we have no plans to move. // Each group will present its findings.
+  ipa: /ˈpreznt/ (n./adj.) · /prɪˈzent/ (v.)
+- term | n. | ① 学期 ② 术语 ③ （复数）条件；条款 ④ 期限 | in terms of; on good terms with; in the long term | What does this technical term mean? // In terms of price, the second phone is better. // I'm on good terms with my neighbours.
+  note: *in terms of* 是学术写作中非常好用的“角度”表达：“就……而言；从……方面来看”。*in the short/long term* = 短期/长期来看。
+- sense | n. / v. | ① 感官 ② 意义；含义 ③ 意识；感觉 ④ 察觉 | a sense of smell; a sense of humour; in a sense; common sense | Dogs have a strong sense of smell. // In a sense, we are all learners. // I sensed that something was wrong.
+- sentence | n. / v. | ① 句子 ② 判决；刑期 ③ 判刑 | a prison sentence; be sentenced to | He was sentenced to ten years in prison.
+- capital | n. / adj. | ① 首都 ② 大写字母 ③ 资本 ④ 死刑的 | capital letters; capital investment; capital punishment | Start a sentence with a capital letter. // You need capital to start a business.
+- current | adj. / n. | ① 当前的 ② （水、气、电）流 | current events; the current situation; ocean currents | The current situation is quite serious. // Strong currents make swimming here dangerous.
+  fam: currently (adv.) · currency (n., 货币)
+- credit | n. / v. | ① 信用；赊账 ② 赞扬；功劳 ③ 学分 | a credit card; take credit for; give sb credit for | He took all the credit for our work. // You need 120 credits to graduate.
+- feature | n. / v. | ① 特征；特色 ② 专题报道 ③ 以……为特色；由……主演 | a key feature; feature in | The phone's best feature is its camera. // The film features a famous actor.
+- party | n. | ① 聚会 ② 政党 ③ （协议、诉讼等的）一方 | throw a party; political parties; both parties | Both parties agreed to the contract.
+- object | n. / v. | ① 物体 ② 目标 ③ 宾语 ④ 反对 | object to sth / to doing sth | A strange object appeared in the sky. // Many residents objected to the new road.
+  ipa: /ˈɒbdʒɪkt/ (n.) · /əbˈdʒekt/ (v.)
+  fam: objection (n.) · objective (adj./n.)
+- sign | n. / v. | ① 标志；迹象 ② 签名 | show signs of; a good sign; sign a contract | There are signs that the economy is improving. // Please sign here.
+  fam: signature (n.) · signal (n.)
+- change | n. / v. | ① 变化；改变 ② 零钱 ③ 换（车、衣服） | Keep the change; change trains | Here's your change. // You need to change trains at Futian.
+- table | n. / v. | ① 桌子 ② 表格 ③ 提出（议案，英） | the table below shows | The table below shows the population of five cities.
+- power | n. / v. | ① 力量；权力 ② 电力 ③ 功率；能力 ④ 为……提供动力 | come to power; a power cut; solar-powered | There was a power cut last night. // The car is powered by electricity.
+  fam: powerful (adj.)
+- deal | n. / v. | ① 交易；协议 ② 大量（a great deal of） ③ 处理（deal with） | make a deal; a great deal of; It's a deal | We got a good deal on our flights. // A great deal of research has been done on sleep. | S
+- face | n. / v. | ① 脸 ② 面对；面临 | face a problem; face the fact that; be faced with | Many cities face serious water shortages. // We have to face the fact that we lost.
+- hand | n. / v. | ① 手 ② 帮助 ③ 递给 | on the one hand… on the other hand; hand sth to sb; at hand | On the one hand, phones are useful; on the other hand, they are distracting. // Could you hand me that book?
+  note: *on the other hand* 用于对比**同一问题的两个方面**；如果只是补充信息，应该用 *also / in addition*，不要用 *on the other hand*。
+
+## 2 · Verbs that change meaning · 动词
+
+* address | v. / n. | ① 地址 ② 演讲 ③ 处理；解决（问题） ④ 对……讲话；称呼 | address a problem/issue; a public address | What's your email address? // The government must address the housing problem. // The president addressed the nation on TV.
+  note: IELTS 阅读与写作中 *address* 最常见的意思是“**处理、着手解决**”：*address an issue / a problem / a concern*。这是“熟词生义”的代表词。
+* run | v. | ① 跑 ② 经营；管理 ③ （机器）运行 ④ （公交）运营 ⑤ 持续；（数据）达到 | run a company; run smoothly; run late | The buses run every ten minutes. // The play runs for three hours. // The app won't run on my old phone.
+- cover | v. / n. | ① 覆盖；遮盖 ② 涉及；包括 ③ 报道 ④ 支付（费用） ⑤ 封面 | cover a topic; cover the cost; cover a story | The course covers grammar and vocabulary. // The insurance covers the cost of treatment. // Many journalists covered the event.
+  fam: coverage (n.)
+- raise | v. / n. | ① 举起；提高 ② 提出（问题） ③ 养育 ④ 筹集（资金） ⑤ 加薪（美） | raise a question; raise awareness; raise money; raise children | The article raises some important questions. // We raised 5,000 yuan for charity.
+  note: *raise* 是及物动词（**raise sth**：提高某物），*rise* 是不及物动词（**sth rises**：某物上升）。✗ *The price raised* → ✓ *The price rose* / *They raised the price*。
+- stand | v. / n. | ① 站立 ② 忍受（can't stand） ③ 位于 ④ 立场 ⑤ 货摊 | stand for; take a stand on; can't stand | I can't stand the noise. // UN stands for the United Nations. // The temple stands on a hill.
+- settle | v. | ① 定居 ② 解决（争端） ③ 安顿下来 | settle down; settle in; settle an argument | His family settled in Shenzhen in the 1990s. // It took a week to settle into the new school.
+  fam: settlement (n.) · settler (n.)
+- bear | v. / n. | ① 熊 ② 忍受 ③ 承担（费用、责任） ④ 带有；具有 ⑤ 记住（bear in mind） | can't bear; bear the cost; bear in mind | Bear in mind that the exam starts at eight. // Who will bear the cost of repairs?
+- appreciate | v. | ① 欣赏；重视 ② 感激 ③ 理解；意识到 ④ 升值 | I really appreciate your help | I really appreciate your help. // Few people appreciate how difficult the job is. // Property values have appreciated rapidly.
+  fam: appreciation (n.)
+- apply | v. | ① 申请 ② 应用；适用 ③ 涂；敷 | apply for a job; apply to sb/sth; apply knowledge | I'm going to apply for a summer course. // This rule applies to all students. // Apply the cream twice a day.
+  fam: application (n.) · applicant (n.)
+- concern | n. / v. | ① 担心；关切 ② 关系到；涉及 ③ 公司（少用） | a major concern; concern about sth; as far as I'm concerned | There is growing concern about plastic pollution. // The story concerns a family in 1950s Shanghai.
+  fam: concerned (adj.) · concerning (prep.)
+  note: *be concerned about* = 担心；*be concerned with* = 与……有关、关注于；*as far as I'm concerned* = 就我而言（口语中表达个人看法）。
+- develop | v. | ① 发展；开发 ② 养成（习惯）；产生 ③ 患上（疾病） ④ 冲洗（照片） | develop a habit; develop skills; developing countries | She developed an interest in coding. // He developed a cough.
+  fam: development (n.) · developed (adj.) · developing (adj.)
+- support | v. / n. | ① 支持 ② 养活；供养 ③ 证实；支撑（观点） | financial support; support a family; support an argument | The evidence supports this theory. // He works two jobs to support his family.
+- mind | n. / v. | ① 头脑；思想 ② 介意 ③ 照看；当心 | Do you mind if…?; change your mind; keep in mind; Mind the gap | Do you mind if I open the window? // I changed my mind. // Mind your head! | S
+  note: 礼貌问句 *Do you mind if I…?* 回答“可以”时要说 *No, not at all* / *No, go ahead*（因为 mind = 介意）。
+- spot | n. / v. | ① 地点 ② 斑点 ③ 发现；认出 | a tourist spot; on the spot; spot a mistake | Can you spot the difference? // This is a popular spot for photos. | S
+
+## 3 · Adjectives & small words · 形容词和小词
+
+- fine | adj. / n. / v. | ① 好的；不错 ② 细的；精细的 ③ 晴朗的 ④ 罚款 | fine sand; a parking fine; be fined | I'm fine, thanks. // He was fined 200 yuan for running a red light.
+- fair | adj. / n. | ① 公平的 ② 相当的；尚可的 ③ 浅色的（皮肤、头发） ④ 集市；博览会 | a fair amount of; a job fair; a book fair | It's not fair! // There's a fair amount of traffic today. // We went to a job fair.
+- firm | adj. / n. | ① 坚固的；坚定的 ② 公司 | a firm belief; a law firm | She works for a law firm. // He's very firm with his students.
+- novel | n. / adj. | ① 小说 ② 新颖的；新奇的 | a novel idea; a novel approach | Scientists found a novel way to clean seawater.
+  note: 学术语境中 *novel* 常作形容词“新颖的”：*a novel solution*, *a novel virus*（新型病毒）。
+- odd | adj. | ① 奇怪的 ② 奇数的 ③ 不成对的 ④ 零星的 | odd numbers; odd jobs; the odd one out | That's odd — the door was locked. // Numbers like 1, 3 and 5 are odd. // Find the odd one out.
+- plain | adj. / n. | ① 简单的；朴素的 ② 清楚的；明白的 ③ 平原 | plain English; plain yoghurt | Write in plain English. // The North China Plain is very flat.
+- kind | n. / adj. | ① 种类 ② 友好的；仁慈的 | all kinds of; kind of (口语：有点) | We sell all kinds of books. // I'm kind of tired. | S
+- right | adj. / n. / adv. | ① 对的 ② 右边 ③ 权利 ④ 正好；就 | human rights; right now; right away; the right to vote | Everyone has the right to education. // I'll do it right away.
+- free | adj. / v. | ① 自由的 ② 免费的 ③ 空闲的 ④ 没有……的（-free） | free of charge; sugar-free; set sb free | Entry is free. // Are you free on Saturday? // This drink is sugar-free.
+- light | n. / adj. / v. | ① 光 ② 轻的 ③ 浅色的 ④ 点燃 | light blue; a light meal; light a fire; in light of | I had a light lunch. // In light of the new evidence, the plan was changed.
+- still | adv. / adj. | ① 仍然 ② 不过；尽管如此 ③ 静止的；不动的 | keep still; still water | Keep still while I take the photo. // It was raining. Still, we enjoyed the trip.
+- even | adv. / adj. | ① 甚至 ② （用于比较级）更加 ③ 平坦的 ④ 偶数的 | even better; even numbers; even if/though | This one is even better. // Even if it rains, we'll go.
+- last | adj. / v. | ① 最后的 ② 上一个的 ③ 持续 | The meeting lasted two hours; last but not least | The film lasted three hours. // Last but not least, I'd like to thank my parents.
+- close | adj. / v. / adv. | ① 关闭 ② 近的；亲密的 ③ 仔细的 | a close friend; pay close attention; close to | My school is close to the metro station. // Pay close attention to the instructions.
+  ipa: /kləʊs/ (adj.) · /kləʊz/ (v.)
+- minute | n. / adj. | ① 分钟 ② （复数）会议记录 ③ 极小的；细微的 | in minute detail | The scientist examined the cells in minute detail.
+  ipa: /ˈmɪnɪt/ (n.) · /maɪˈnjuːt/ (adj.)
+- well | adv. / n. / adj. | ① 好地 ② 井 ③ 健康的 | as well as; well-known; may as well | We might as well walk — the bus is late. // The village gets water from a well.
+- rest | n. / v. | ① 休息 ② 剩余部分（the rest of） | the rest of the day; take a rest | I'll do the rest of my homework tomorrow.
+
+@box ielts 熟词生义：阅读必查清单
+读到下面这些词却觉得句子“读不通”时，先想想它们的第二个意思：**address**（处理）、**issue**（发行/问题）、**figure**（数字/人物）、**novel**（新颖的）、**case**（论据/病例）、**appreciate**（升值/理解）、**bear**（承担）、**capital**（资本）、**party**（一方）、**minute**（极小的）、**state**（陈述）、**firm**（公司）。
+@end

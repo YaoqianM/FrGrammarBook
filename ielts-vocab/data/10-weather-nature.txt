@@ -1,0 +1,93 @@
+@unit 10
+@title Weather, Nature & Landscapes
+@zh 天气、自然与地貌
+@level A2–B1 · 基础升级
+@intro 深圳有台风、回南天和漫长的夏天——你可以用英语描述它们吗？本单元覆盖天气、季节、地貌和常见自然灾害，为第三册的环境与气候单元打基础。
+
+## 1 · Weather · 天气
+
+- weather forecast | n. | 天气预报 | check the weather forecast | The weather forecast says it will rain tomorrow.
+- humid | adj. | 潮湿的；湿热的 | hot and humid | Shenzhen is hot and humid in summer.
+  ipa: /ˈhjuːmɪd/
+  fam: humidity (n.)
+- damp | adj. | 潮湿的（常令人不舒服） | damp clothes; a damp room | In spring, the walls in our flat feel damp.
+  note: *humid* 多指空气潮湿闷热；*damp* 指物体或房间“有点湿、返潮”（多为不舒服）；*wet* 是“湿的”（被水弄湿）。广东的“回南天”可以描述为：*The air is so humid that the floors and walls get damp.*
+- mild | adj. | 温和的；轻微的 | a mild winter; a mild illness | Winters in Shenzhen are mild.
+- freezing | adj. | 极冷的；冰冻的 | freezing cold | It's freezing outside — wear a coat! | S
+- boiling | adj. | 极热的（口语） | boiling hot | It's boiling today. | S
+- chilly | adj. | 寒冷的；凉飕飕的 | a chilly morning | It gets chilly in the evenings.
+- breeze | n. | 微风 | a cool sea breeze | A gentle breeze came from the sea.
+- shower | n. | 阵雨；淋浴 | scattered showers | There will be showers in the afternoon.
+- pour | v. | 倾倒；（雨）倾盆而下 | It's pouring (with rain) | It's pouring — take an umbrella. | S
+- drizzle | n. / v. | 毛毛雨；下毛毛雨 | light drizzle | It's only drizzling, so let's walk.
+- thunderstorm | n. | 雷雨 | a heavy thunderstorm | Summer afternoons often bring thunderstorms.
+- lightning | n. | 闪电 | be struck by lightning | Lightning lit up the sky.
+  note: 拼写注意：*lightning*（闪电）没有 e；*lightening* 是 lighten（变亮/变轻）的 -ing 形式。
+- fog | n. | 雾 | thick fog | Flights were cancelled because of thick fog.
+  fam: foggy (adj.)
+- typhoon | n. | 台风（西北太平洋） | a typhoon warning | Schools closed when the typhoon hit Shenzhen.
+  note: 同一种热带风暴在不同海域名称不同：西北太平洋叫 *typhoon*，大西洋和东北太平洋叫 *hurricane*，印度洋和南太平洋叫 *cyclone*。
+- degree | n. | 度（温度、角度）；程度；学位 | 30 degrees; to some degree; a degree in law | It was 35 degrees yesterday.
+- season | n. | 季节 | the rainy season; dry season | The rainy season lasts from April to September.
+  fam: seasonal (adj.)
+- sunny spell | n. | 短暂晴天 | sunny spells | Sunny spells are expected this afternoon.
+
+## 2 · Landscapes · 地貌与自然景观
+
+- landscape | n. | 风景；地貌；（某领域的）格局 | a beautiful landscape; the political landscape | Guilin's landscape is famous all over the world.
+- scenery | n. | 风景（不可数） | beautiful scenery | We stopped to enjoy the scenery.
+  note: *scenery* 不可数（✗ *sceneries*），指一个地区的自然风景总体；*view* 是从某个位置看到的景色（a view of the sea）。
+- coast | n. | 海岸 | on the coast; the east coast | Shenzhen is on the south coast of China.
+  fam: coastal (adj.)
+- shore | n. | 岸；滨 | on the shore | We walked along the shore.
+- bay | n. | 海湾 | Shenzhen Bay | We cycled along Shenzhen Bay Park.
+- island | n. | 岛 | — | Hainan is a tropical island in the South China Sea.
+  ipa: /ˈaɪlənd/
+  note: *island* 中 s 不发音 /ˈaɪlənd/。
+- peninsula | n. | 半岛 | — | Leizhou Peninsula is in the south of Guangdong.
+- valley | n. | 山谷 | a river valley | The village lies in a green valley.
+- hill | n. | 小山；丘陵 | climb a hill | We climbed the hill behind our school.
+- peak | n. | 山顶；顶峰；高峰期 | the peak of a mountain; peak hours | Wutong Mountain's peak is about 944 metres high.
+- cliff | n. | 悬崖 | — | Don't stand too close to the edge of the cliff.
+- cave | n. | 洞穴 | — | Bats live in the cave.
+- waterfall | n. | 瀑布 | — | Huangguoshu Waterfall is one of the largest in Asia.
+- stream | n. | 小溪；流（数据、人等） | a mountain stream | A small stream runs through the park.
+- lake | n. | 湖 | — | We went boating on the lake.
+- desert | n. | 沙漠 | the Gobi Desert | Very few plants grow in the desert.
+  ipa: /ˈdezət/
+  note: *desert* /ˈdezət/（沙漠）vs. *dessert* /dɪˈzɜːt/（甜点）。记法：甜点人人想多吃一份，所以 *dessert* 有**两个 s**。
+- rainforest | n. | 雨林 | tropical rainforest | Rainforests are home to millions of species.
+- jungle | n. | 丛林 | — | Tigers live in the jungle.
+- soil | n. | 土壤 | rich soil; soil quality | This soil is good for growing rice.
+- rock | n. | 岩石；摇滚乐 | — | The beach was covered in rocks.
+- tide | n. | 潮汐；潮流 | high/low tide | You can walk to the island at low tide.
+- wildlife | n. | 野生动物（总称，不可数） | protect wildlife | The park is rich in wildlife.
+- natural beauty | phr. | 自然美景 | an area of natural beauty | Tourists come to enjoy the island's natural beauty.
+
+## 3 · Natural disasters · 自然灾害
+
+- natural disaster | n. | 自然灾害 | — | Earthquakes are among the most deadly natural disasters.
+- earthquake | n. | 地震 | a major earthquake | The earthquake destroyed many buildings.
+- flood | n. / v. | 洪水；淹没 | heavy floods | Heavy rain caused floods in the south.
+  ipa: /flʌd/
+  fam: flooding (n.)
+- drought | n. | 干旱 | a severe drought | The drought destroyed the farmers' crops.
+  ipa: /draʊt/
+  note: 读音 /draʊt/，和 *out* 押韵，不要读成 /drɔːt/。
+- landslide | n. | 山体滑坡；（选举中的）压倒性胜利 | — | Heavy rain triggered a landslide.
+- volcano | n. | 火山 | an active volcano | The volcano last erupted more than a hundred years ago.
+  fam: volcanic (adj.) · erupt (v.) · eruption (n.)
+- tsunami | n. | 海啸 | — | The earthquake caused a huge tsunami.
+- wildfire | n. | 野火 | — | Wildfires spread quickly in hot, dry weather.
+- heatwave | n. | 热浪 | — | Europe suffered a heatwave last summer.
+- shelter | n. / v. | 避难所；庇护 | take shelter; seek shelter | We took shelter from the storm in a shop.
+- survive | v. | 幸存；挺过 | survive an earthquake | Few buildings survived the earthquake.
+  fam: survival (n.) · survivor (n.)
+- warning | n. | 警告；预警 | issue a warning; an early warning system | The government issued a typhoon warning.
+- damage | n. / v. | 损坏；损害 | cause serious damage | The storm caused serious damage to the coast.
+  note: 名词 *damage*（损坏）不可数：✗ *a damage / damages*（*damages* 复数形式在法律上指“赔偿金”）。
+
+@box tip 描述天气的好句型
+*It's been pouring all morning.* · *We had a heatwave last week — it was over 38 degrees.* · *It's freezing in the north, but here it's quite mild.*
+天气是 IELTS 口语 Part 1 的常见题；具体的温度、季节和感受会让回答更生动。
+@end

@@ -1,0 +1,111 @@
+@unit 3
+@title Feelings & Emotions
+@zh 情绪与感受
+@level A2–B1 · 基础升级
+@intro 学生描述情绪时最常见的问题有两个：一是只会 *happy / sad / angry*；二是把 *-ed* 和 *-ing* 形容词混用（✗ *I am boring*）。本单元先解决这两个问题，再给你一组描述情绪“程度”的词。
+
+@box rule -ed 还是 -ing？
+**-ed 形容词**描述“人的感受”：*I'm bored / interested / tired / confused.*
+**-ing 形容词**描述“引起这种感受的事物”：*The lesson is boring / interesting / tiring / confusing.*
+所以 *I'm boring* 的意思是“我这个人很无聊”——大概不是你想说的。
+@end
+
+## 1 · Positive feelings · 积极情绪
+
+- delighted | adj. | 非常高兴的 | delighted to hear/see | I was delighted to hear your good news.
+- thrilled | adj. | 激动的；兴奋不已的 | thrilled with the result | She was thrilled to win first prize. | S
+- excited | adj. | 兴奋的；激动的 | excited about sth | The kids are excited about the trip.
+  fam: exciting (adj.) · excitement (n.)
+- relieved | adj. | 松了一口气的；宽慰的 | relieved to hear that… | I was relieved when the exam was over.
+  fam: relief (n.)
+- proud | adj. | 自豪的；骄傲的 | be proud of sb/sth | My parents are proud of my progress.
+  fam: pride (n.)
+- grateful | adj. | 感激的 | grateful to sb for sth | I'm grateful to my teacher for her help.
+  fam: gratitude (n.)
+- satisfied | adj. | 满意的 | satisfied with the result | Are you satisfied with your score?
+  fam: satisfaction (n.) · satisfying (adj.) · dissatisfied (adj.)
+- content | adj. | 满足的；知足的 | content with a simple life | He is content with what he has.
+  ipa: /kənˈtent/
+  note: 形容词 *content*（知足的）重音在第二个音节 /kənˈtent/；名词 *content*（内容）重音在第一个音节 /ˈkɒntent/。拼写一样，读音和意思都不同。
+- calm | adj. | 平静的；镇静的 | stay calm | She stayed calm during the emergency.
+- relaxed | adj. | 放松的 | feel relaxed | I feel more relaxed after a walk.
+  fam: relaxing (adj.) · relaxation (n.)
+- in a good mood | phr. | 心情好 | in a cheerful/positive mood | You're in a good mood today! | S
+- enthusiastic | adj. | 热情的；热衷的 | enthusiastic about sth | The students were enthusiastic about the project.
+  fam: enthusiasm (n.)
+- amazed | adj. | 惊讶的；惊叹的 | amazed at/by sth | I was amazed by how fast she learned.
+  fam: amazing (adj.)
+- amused | adj. | 被逗乐的 | be amused by sth | The teacher looked amused by our story.
+  note: *amused* 是“觉得好笑的”；*amusing* 是“有趣的、好笑的”（事物）。*It was an amusing story.*
+
+## 2 · Negative feelings · 消极情绪
+
+- upset | adj. / v. | 难过的；心烦的；使难过 | be upset about sth | She was upset about losing her phone. | S
+  ipa: /ʌpˈset/
+- disappointed | adj. | 失望的 | disappointed with/about sth | I was disappointed with my result.
+  fam: disappointing (adj.) · disappointment (n.)
+- frustrated | adj. | 沮丧的；受挫的（努力了却没结果） | feel frustrated | I get frustrated when my computer is slow.
+  fam: frustrating (adj.) · frustration (n.)
+  note: *frustrated* 不只是“失望”，而是“想做却做不到、受阻”的烦躁感。卡在一道题上半小时，这种感觉就是 *frustrated*。
+- annoyed | adj. | 恼火的；烦的 | annoyed with sb / about sth | He was annoyed with his brother for using his phone.
+  fam: annoying (adj.) · annoyance (n.)
+- furious | adj. | 狂怒的 | furious with sb | Dad was furious when he saw the broken window.
+- anxious | adj. | 焦虑的；担忧的；渴望的 | anxious about the exam | Many students feel anxious before exams.
+  fam: anxiety (n.)
+- nervous | adj. | 紧张的 | nervous about speaking in public | I always get nervous before a test. | S
+- worried | adj. | 担心的 | worried about sb/sth | My mum gets worried if I come home late.
+- stressed | adj. | 有压力的；紧张的 | stressed out | I'm stressed out about my exams. | S
+  fam: stress (n./v.) · stressful (adj.)
+- scared | adj. | 害怕的 | scared of spiders | My little brother is scared of the dark. | S
+- terrified | adj. | 非常害怕的 | terrified of heights | She's terrified of flying.
+- embarrassed | adj. | 尴尬的；难为情的 | feel embarrassed | I felt embarrassed when I fell over in the canteen.
+  fam: embarrassing (adj.) · embarrassment (n.)
+  note: 注意拼写：**两个 r，两个 s** —— e-m-b-a-**rr**-a-**ss**-e-d。
+- ashamed | adj. | 羞愧的（因做错事） | ashamed of yourself | He was ashamed of lying to his parents.
+- jealous | adj. | 嫉妒的 | jealous of sb | She was jealous of her sister's new bike.
+  ipa: /ˈdʒeləs/
+- lonely | adj. | 孤独的；寂寞的 | feel lonely | He felt lonely when he first moved to a new city.
+  fam: loneliness (n.)
+  note: *lonely* 是“感到孤独”（消极）；*alone* 是“独自一人”（客观事实，不一定难过）。*I live alone, but I'm not lonely.*
+- miserable | adj. | 痛苦的；悲惨的 | feel miserable | The rainy weather made everyone miserable.
+- confused | adj. | 困惑的 | confused about sth | I'm confused about the homework.
+  fam: confusing (adj.) · confusion (n.)
+- bored | adj. | 感到无聊的 | bored with sth | I get bored with the same routine.
+  fam: boring (adj.) · boredom (n.)
+- exhausted | adj. | 筋疲力尽的 | completely exhausted | I was exhausted after the race.
+- homesick | adj. | 想家的 | feel homesick | Students studying abroad often feel homesick at first.
+- fed up | adj. | 受够了的；厌烦的 | be fed up with sth | I'm fed up with this rain! | S
+- guilty | adj. | 内疚的；有罪的 | feel guilty about sth | I feel guilty about not calling my grandmother.
+  fam: guilt (n.)
+
+## 3 · Talking about emotions · 表达情绪
+
+- emotion | n. | 情绪；情感 | show your emotions; strong emotions | It's healthy to talk about your emotions.
+  fam: emotional (adj.) · emotionally (adv.)
+- mood | n. | 心情；情绪 | in a bad mood; mood swings | Exercise can improve your mood.
+- cheer up | phr. v. | 振作起来；使高兴 | cheer sb up | Cheer up — it's not the end of the world! | S
+- calm down | phr. v. | 冷静下来 | calm sb down | Take a deep breath and calm down. | S
+- lose your temper | phr. | 发脾气 | lose your temper with sb | My dad rarely loses his temper.
+- burst into tears | phr. | 突然大哭 | | She burst into tears when she heard the news.
+- cope with | phr. | 应付；处理 | cope with stress/pressure | Everyone needs ways to cope with stress.
+- deal with | phr. v. | 处理；应对 | deal with a problem | How do you deal with exam pressure?
+- express | v. | 表达 | express your feelings/opinions | Some people find it hard to express their feelings.
+  fam: expression (n.) · expressive (adj.)
+- look forward to | phr. | 期待；盼望（to 是介词 + doing） | look forward to meeting you | I'm looking forward to the summer holiday.
+  note: 常见错误：✗ *look forward to see you* → ✓ *look forward to **seeing** you*。这里的 to 是介词，后接名词或动名词。
+- can't stand | phr. | 无法忍受 | can't stand doing sth | I can't stand waiting in long queues. | S
+- be keen on | phr. | 热衷于；喜欢 | be keen on football | I'm not very keen on horror films. | S
+- be fond of | phr. | 喜爱 | be fond of animals | My grandmother is very fond of her garden.
+- mixed feelings | phr. | 复杂的心情；百感交集 | have mixed feelings about sth | I have mixed feelings about moving to a new school. | S
+
+@cmp afraid · scared · frightened · terrified
+afraid | 害怕的；只能放在 be 动词后（不说 an afraid boy）；也用于礼貌地说坏消息 | I'm afraid I can't come.
+scared | 口语最常用 | Are you scared of snakes?
+frightened | 受到惊吓的；稍正式 | The frightened child hid behind his mother.
+terrified | 程度最强：吓坏了 | I was terrified when the lights went out.
+@end
+
+@cmp alone · lonely
+alone | 独自地（客观状态） | I like walking alone.
+lonely | 孤独的（主观感受） | He felt lonely in the big city.
+@end
