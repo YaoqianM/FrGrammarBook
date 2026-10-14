@@ -92,7 +92,7 @@
 @end
 
 - sustainable | adj. | 可持续的 | sustainable development/growth | We need more sustainable ways of producing food. | W
-  fam: sustain (v.) · sustainability (n.)
+  fam: sustainability (n.)
   note: **-able / -ible** = 可以被……的：*sustainable*（可持续的）、*renewable*（可再生的）、*visible*（可见的）、*accessible*（可到达的）。
 - harmless | adj. | 无害的 | — | Most spiders are harmless to humans.
   note: **-ful** = 充满……的；**-less** = 没有……的：*harmful / harmless, useful / useless, careful / careless, meaningful / meaningless*。注意 *priceless* = 无价的（极其珍贵），不是“没有价格”。

@@ -1,0 +1,85 @@
+@unit 40
+@title Population, Ageing & Family Life
+@zh 人口、老龄化与家庭
+@level B2–C1 · 高级应用
+@intro 人口老龄化、低生育率、家庭结构变化是许多国家（包括中国）面临的重大议题，也是 IELTS 写作 Task 1 图表和 Task 2 议论文的常见话题：*What problems does an ageing population cause? Should elderly people live with their families or in care homes?*
+
+## 1 · Population · 人口
+
+* demographic | adj. / n. | 人口统计的；（特定）人群 | demographic change; a young demographic | Demographic change will affect the economy for decades. // The app is popular with a younger demographic. | W
+  fam: demography (n.) · demographer (n.)
+  note: *demographics*（复数）指某个人群的构成特征（年龄、性别、收入等）：*the demographics of social media users*。*demo-* = 人民（同族：*democracy*）。
+- population growth | n. | 人口增长 | rapid population growth | Rapid population growth puts pressure on resources. | W
+- birth rate | n. | 出生率 | a falling birth rate | Many developed countries have very low birth rates. | W
+- death rate | n. | 死亡率 | — | The death rate fell as healthcare improved. | W
+- fertility rate | n. | 生育率 | — | A fertility rate of about 2.1 children per woman keeps a population stable. | W
+  note: 2.1 被称为 *replacement level*（更替水平）：每位女性平均生育 2.1 个孩子，人口才能在不考虑移民的情况下保持稳定（多出的 0.1 用来弥补部分儿童在成年前夭折等因素）。
+- ageing population | n. | 老龄化人口（美式 aging） | — | An ageing population means fewer workers supporting more retired people. | W
+- senior citizen | n. | 老年人（礼貌说法） | — | Senior citizens can travel free on buses in many cities.
+- dependency ratio | n. | 抚养比 | — | A high dependency ratio puts pressure on public finances. | W
+  note: 抚养比 = 非劳动年龄人口（儿童和老人）与劳动年龄人口之比。老龄化会使抚养比上升，这是讨论养老金压力时的关键概念。
+- longevity | n. | 长寿；寿命 | — | Improved healthcare has increased longevity. | W
+  ipa: /lɒnˈdʒevəti/
+- centenarian | n. | 百岁老人 | — | Japan has more than 90,000 centenarians.
+  note: 日本的百岁老人数量已超过 9 万人（日本厚生劳动省 2023–2024 年数据），且逐年增加。
+- overpopulation | n. | 人口过剩 | — | Some people believe overpopulation is the root cause of many environmental problems. | W
+- densely populated | adj. | 人口稠密的 | — | Shenzhen is one of the most densely populated cities in China. | W
+- sparsely populated | adj. | 人口稀少的 | — | Tibet is sparsely populated. | W
+- census | n. | 人口普查 | carry out a census | China carries out a national census every ten years.
+- shrinking population | n. | 人口减少 | — | Japan and South Korea have shrinking populations. | W
+- labour shortage | n. | 劳动力短缺 | — | An ageing population can lead to labour shortages. | W
+- migrant worker | n. | 外来务工人员；农民工 | — | Millions of migrant workers helped build Shenzhen. | W
+- baby boom | n. | 生育高峰 | the post-war baby boom | There was a baby boom after the Second World War.
+  fam: baby boomer (n., 婴儿潮一代)
+- household | n. / adj. | 家庭；户；家用的 | household income; household chores | The average household size has fallen. | W
+
+## 2 · Family structures · 家庭结构
+
+- single-parent family | n. | 单亲家庭 | — | The number of single-parent families has increased.
+- dual-income | adj. | 双收入的 | a dual-income family | In dual-income families, grandparents often help with childcare.
+- stay-at-home parent | n. | 全职在家的父母 | — | Fewer women choose to be stay-at-home parents than in the past.
+- childcare | n. | 托儿服务；儿童照料 | affordable childcare | The high cost of childcare is one reason people have fewer children. | W
+- parenting | n. | 养育子女；育儿方式 | parenting style | Different cultures have different parenting styles.
+- upbringing | n. | 养育；教养；成长环境 | a strict upbringing | His strict upbringing made him very disciplined.
+- maternity leave | n. | 产假 | — | She is on maternity leave until next year.
+  note: *paternity leave* = 陪产假（父亲休的假）；*parental leave* = 育儿假（父母都可休）。
+- paternity leave | n. | 陪产假 | — | More fathers are taking paternity leave.
+- marriage | n. | 婚姻；婚礼 | — | People are getting married later than in the past.
+  fam: marry (v.) · married (adj.)
+- divorce | n. / v. | 离婚 | get divorced; the divorce rate | The divorce rate has risen in many countries.
+- cohabit | v. | 同居 | — | More couples cohabit before marriage. | W
+  fam: cohabitation (n.)
+- empty nest | n. | 空巢 | empty-nest parents | Many parents feel lonely when their children leave — they call it "empty nest syndrome".
+- filial piety | n. | 孝道 | — | Filial piety is a core value in Confucian culture. | W
+  ipa: /ˌfɪliəl ˈpaɪəti/
+- intergenerational | adj. | 代际的 | intergenerational living | Intergenerational living can benefit both grandparents and grandchildren. | W
+- bring up children | phr. | 抚养孩子 | — | Grandparents often help to bring up children in China. | S
+- start a family | phr. | 开始生孩子；成家 | — | Many young couples delay starting a family for financial reasons. | S
+
+## 3 · Ageing & care · 养老
+
+- care home | n. | 养老院（也说 nursing home） | live in a care home | Some elderly people move into care homes when they need full-time care.
+- elderly care | n. | 养老服务 | — | Demand for elderly care is growing rapidly. | W
+- retirement age | n. | 退休年龄 | raise the retirement age | Many countries are raising the retirement age. | W
+  note: 中国从 2025 年 1 月起开始渐进式延迟法定退休年龄，用 15 年时间逐步完成。
+- frail | adj. | 虚弱的；脆弱的 | frail elderly people | My grandmother is becoming frail.
+  fam: frailty (n.)
+- dementia | n. | 痴呆症 | — | Dementia affects memory and thinking. | W
+  ipa: /dɪˈmenʃə/
+- age-related | adj. | 与年龄相关的 | age-related diseases | Age-related diseases put pressure on health systems. | W
+- active ageing | n. | 积极老龄化 | — | Active ageing encourages older people to stay healthy and involved in society. | W
+- burden | n. / v. | 负担；使负重担 | a financial burden; a burden on sb | Caring for elderly parents can be a heavy burden. // The pension system is a growing burden on taxpayers. | W
+  note: 写作中谈老龄化时 *a burden on the economy / the healthcare system* 很常用，但别忘了另一面：老年人也通过照顾孙辈、志愿服务、消费等对社会做出 *contribution*。
+- respect for the elderly | phr. | 尊敬老人 | — | Respect for the elderly is an important value in many Asian cultures. | W
+- wisdom and experience | phr. | 智慧与经验 | — | Older workers bring wisdom and experience to a company. | S W
+
+@cmp elderly · old · senior · aged
+old | 最普通，直接说老人可能显得不礼貌 | an old man // How old are you?
+elderly | 礼貌、正式的“年长的” | elderly people
+senior | 礼貌；常用于 senior citizens / seniors（美） | discounts for seniors
+aged | 用于年龄表达 aged 65（读 /eɪdʒd/）；the aged 老人（/ˈeɪdʒɪd/，较正式） | people aged over 65
+@end
+
+@box ielts 写作：老龄化社会的挑战与对策
+挑战：*a rising dependency ratio*、*pressure on pension systems and healthcare*、*labour shortages*。对策：*raise the retirement age gradually*、*encourage active ageing*、*invest in elderly care*、*attract skilled immigrants*、*use automation to fill labour gaps*。Task 1 图表常给出年龄结构（*age structure*）或人口预测数据，描述趋势见第四册 Unit 41。
+@end

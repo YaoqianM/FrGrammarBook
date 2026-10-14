@@ -1,0 +1,128 @@
+@unit 39
+@title Abstract Nouns for Academic English
+@zh 学术抽象名词
+@level C1 · 高级应用（重点单元）
+@intro 学术英语喜欢把“动作”和“性质”变成名词（名词化，*nominalisation*）：不说 *because people are aware*，而说 *because of greater awareness*。抽象名词能让句子更紧凑、更客观——但也更难读懂。本单元精选在 IELTS 阅读和写作中最“扛事”的抽象名词，每个都配上它最常用的搭配。
+
+@box rule 名词化：学术写作的“压缩”技巧
+*Prices increased rapidly, which worried consumers.* → *The rapid **increase** in prices caused **concern** among consumers.*
+*If cities grow, they need more water.* → *Urban **growth** creates greater **demand** for water.*
+名词化后，句子的主语从“人”变成了“概念”，语气更客观。但不要过度使用，否则文章会变得沉重难读。
+@end
+
+## 1 · Ideas & ways of thinking · 观念与思维方式
+
+* approach | n. / v. | 方法；途径；接近 | a new/different approach to sth; take an approach | We need a new approach to the problem of traffic. | W
+  note: 介词陷阱：*an approach **to** sth*（to 是介词，后接名词或动名词）：*an approach to teaching / to solving the problem*。✗ *an approach of solving*。作动词时不加 to：*approach the problem*。
+- concept | n. | 概念 | the concept of sth; a basic concept | The concept of time is hard to explain to young children. | W
+  fam: conceptual (adj.) · conceive (v.)
+- notion | n. | 观念；看法 | the notion that…; reject the notion | Many people reject the notion that money brings happiness. | W
+- perspective | n. | 视角；观点；透视 | from a different perspective; put sth into perspective | From an economic perspective, the plan makes sense. | W
+  note: *put sth into perspective* = 客观地看待某事（看清它真正的重要程度）：*Talking to my grandmother put my problems into perspective.*
+- insight | n. | 洞察；深刻理解 | gain/provide insight into sth | The book provides insight into life in ancient China. | W
+  fam: insightful (adj.)
+- rationale | n. | 基本原理；理由 | the rationale behind/for sth | Can you explain the rationale behind this decision? | W
+  ipa: /ˌræʃəˈnɑːl/
+- framework | n. | 框架；体系 | a legal/theoretical framework | The agreement provides a framework for future cooperation. | W
+- paradox | n. | 悖论；自相矛盾的事 | — | It's a paradox that we have more ways to communicate but feel more lonely. | W
+  fam: paradoxical (adj.) · paradoxically (adv.)
+- irony | n. | 讽刺；具有讽刺意味的情况 | the irony is that… | The irony is that the fitness app made him sit on the sofa all day. | W
+  fam: ironic (adj.) · ironically (adv.)
+- criterion | n. | 标准；准则（复数 criteria） | meet the criteria | Price is not the only criterion for choosing a school. | W
+  ipa: /kraɪˈtɪəriən/
+  note: 单数 *criterion*，复数 *criteria*。✗ *a criteria* 是很常见的错误。同类：*phenomenon → phenomena*。
+- preference | n. | 偏好；优先 | a preference for sth; in preference to | Many people have a preference for working from home.
+  fam: prefer (v.) · preferable (adj.)
+- alternative | n. / adj. | 可供选择的事物；替代的 | an alternative to sth; alternative energy | Cycling is a cheap alternative to driving.
+  note: *an alternative **to** sth*。副词 *alternatively* 在写作中可引出另一种方案：*Alternatively, the government could…*
+
+## 2 · Scope & scale · 范围与程度
+
+- factor | n. | 因素；要素 | a key/major factor in sth; a combination of factors | Cost is a major factor in choosing a university. // Several factors contribute to obesity. | W
+  note: 写作中 *a number of factors* / *a range of factors* 是讨论复杂原因的好开头：*Obesity is caused by a range of factors, including diet, lack of exercise and genetics.*
+
+- aspect | n. | 方面 | every aspect of life; an important aspect | Technology affects every aspect of our lives. | W
+- extent | n. | 程度；范围 | to some extent; to a large extent; the extent of | I agree with this view to some extent. // The extent of the damage was shocking. | W
+  note: IELTS 写作经典题型 *To what extent do you agree or disagree?* 回答时可用 *to a large/great extent*（在很大程度上）、*to some/a certain extent*（在一定程度上）、*to a limited extent*。
+- scope | n. | 范围；机会；余地 | the scope of the study; scope for improvement | There is plenty of scope for improvement. // This topic is beyond the scope of the essay. | W
+- scale | n. / v. | 规模；比例；等级；鳞 | on a large scale; the scale of the problem | Deforestation is happening on a massive scale. | W
+- dimension | n. | 维度；方面；尺寸 | a new dimension; the social dimension of | The internet has added a new dimension to education. | W
+- magnitude | n. | 巨大；重要性；（地震）震级 | the magnitude of the problem | Few people understand the magnitude of the challenge. | W
+- capacity | n. | 能力；容量；身份 | the capacity to do sth; full capacity | The stadium has a capacity of 50,000. // Humans have a great capacity to adapt. | W
+- potential | n. / adj. | 潜力；潜在的 | reach your full potential; potential risks | Every child has the potential to succeed. // We must consider the potential risks. | W
+  fam: potentially (adv.)
+- threshold | n. | 门槛；阈值；起点 | above/below the threshold | The tax threshold was raised. // She has a high pain threshold. | W
+  ipa: /ˈθreʃhəʊld/
+- proportion | n. | 比例；部分 | a large proportion of | A large proportion of students live on campus. | W
+- constraint | n. | 限制；约束 | time/financial constraints | Because of budget constraints, the project was delayed. | W
+- limitation | n. | 局限；限制 | the limitations of the study | Every study has its limitations. | W
+  fam: limit (n./v.)
+  note: 写作中承认局限（*One limitation of this approach is…*）是批判性思维的体现，在论证中加分。
+- barrier | n. | 障碍；屏障 | a barrier to sth; language barriers | Cost is a major barrier to higher education. | W
+  note: *a barrier **to** sth*（to 是介词）：*barriers to entry*、*barriers to learning*。
+
+## 3 · Results & effects · 结果与影响
+
+- impact | n. / v. | 影响；冲击 | have a significant impact on; the impact of sth on sth | Social media has had a huge impact on politics. | W
+  ipa: /ˈɪmpækt/ (n.) · /ɪmˈpækt/ (v.)
+  note: *impact* 作名词时比 *effect* 更强调“冲击力大”；作动词（*impact sth*）在美式商业英语中很常见，但一些英式写作者认为不够正式，写作中用 *affect* 更稳妥。
+- outcome | n. | 结果；结局 | a positive outcome; the outcome of sth | Nobody can predict the outcome of the election. | W
+- implication | n. | 含义；可能的影响；牵连 | have implications for sth | The findings have important implications for teachers. | W
+  note: *implications* 在学术中常指“（研究结果）对……的意义或潜在影响”。
+- significance | n. | 重要性；意义 | of great significance; statistical significance | The discovery is of great historical significance. | W
+  fam: significant (adj.) · significantly (adv.) · insignificant (adj.)
+- phenomenon | n. | 现象（复数 phenomena） | a natural/social phenomenon | Social media addiction is a relatively new phenomenon. | W
+  ipa: /fəˈnɒmɪnən/
+- tendency | n. | 倾向；趋势 | a tendency to do sth | Teenagers have a tendency to stay up late. | W
+  fam: tend (v.)
+  note: 动词 *tend to do sth* = 倾向于、往往会，是写作中避免“绝对化”的好工具：*Older people tend to be less comfortable with technology.*（比 *Older people are…* 更谨慎）。
+- pattern | n. | 模式；规律；图案 | patterns of behaviour; sleep patterns | Researchers found a clear pattern in the data. | W
+- mechanism | n. | 机制；机械装置 | a defence mechanism; the mechanism behind sth | Scientists still don't fully understand the mechanism behind this disease. | W
+  ipa: /ˈmekənɪzəm/
+- function | n. / v. | 功能；作用；运作 | perform a function | The main function of the heart is to pump blood.
+- contribution | n. | 贡献；捐款；促成因素 | make a contribution to sth | She made an important contribution to physics. | W
+- commitment | n. | 承诺；投入；献身 | a commitment to sth/doing sth; make a commitment | The company has a strong commitment to reducing waste. | W
+  fam: commit (v.) · committed (adj.)
+  note: *commitment **to** doing sth*（to 是介词）。动词 *commit* 有“犯（罪）”（commit a crime）和“承诺”（commit to sth）两个义。
+
+## 4 · Qualities of systems & ideas · 系统与观念的性质
+
+- complexity | n. | 复杂性 | the complexity of the problem | People often underestimate the complexity of climate science. | W
+  fam: complex (adj.)
+- ambiguity | n. | 模棱两可；歧义 | — | There is some ambiguity in the wording of the rule. | W
+  fam: ambiguous (adj.)
+- stability | n. | 稳定性 | economic/political stability | Investors look for political stability. | W
+  fam: stable (adj.) · stabilise (v.) · instability (n.)
+- consistency | n. | 一致性；连贯性；（液体的）浓度 | — | Consistency is important when you learn a language. | W
+  fam: consistent (adj.) · inconsistent (adj.)
+- coherence | n. | 连贯性；条理性 | — | Coherence and cohesion are part of the IELTS writing criteria. | W
+  fam: coherent (adj.)
+  note: IELTS 写作四项评分标准之一是 *Coherence and Cohesion*（连贯与衔接）：观点是否有逻辑顺序、段落是否清楚、连接词是否恰当。
+- credibility | n. | 可信度；信誉 | lose credibility | The scandal damaged the company's credibility. | W
+  fam: credible (adj.)
+- equity | n. | 公平；公正；股本 | equity in education | Equity in education means giving every child what they need to succeed. | W
+  note: *equality*（平等：每个人得到相同的东西）vs. *equity*（公平：根据需要分配，使结果更公平）。教育政策中这个区别很重要。
+- autonomy | n. | 自主权；自治 | give sb more autonomy | Teachers need more autonomy in the classroom. | W
+  ipa: /ɔːˈtɒnəmi/
+  fam: autonomous (adj.)
+- hierarchy | n. | 等级制度；层级 | a social hierarchy | Some companies have a very strict hierarchy. | W
+  ipa: /ˈhaɪərɑːki/
+  fam: hierarchical (adj.)
+- transition | n. / v. | 过渡；转变 | the transition from A to B; make the transition | The transition from school to university can be difficult. | W
+- sequence | n. | 顺序；序列；一连串 | in sequence; a sequence of events | The sequence of events is still unclear.
+- abstract | adj. / n. | 抽象的；摘要 | abstract ideas/art; read the abstract | Young children find abstract ideas hard to understand.
+  note: 学术义：*abstract* 作名词指学术论文开头的“摘要”。
+- the status quo | n. | 现状 | maintain/challenge the status quo | Some people prefer to maintain the status quo. | W
+  ipa: /ˌsteɪtəs ˈkwəʊ/
+
+@cmp effect · impact · influence · consequence
+effect | 效果、影响（最中性、最常用） | The medicine had no effect.
+impact | 强有力的影响、冲击 | The impact of the crisis was huge.
+influence | （对人的思想、行为的）间接影响 | Parents have a big influence on children.
+consequence | 后果（多为消极，常是行动的结果） | He had to face the consequences of his actions.
+@end
+
+@box ielts 写作：用抽象名词写主题句
+*There are several **factors** behind this **trend**.* · *This **approach** has a number of **limitations**.* · *The **extent** of the problem is often underestimated.* · *The **implications** of this change are far-reaching.*
+一个好的主题句往往以抽象名词为核心，接下来的句子再用具体例子展开。
+@end

@@ -42,7 +42,7 @@ note: *a historic day* = 具有历史意义的一天；*a historical event* = �
   fam: ancestral (adj.)
 - descendant | n. | 后代；后裔 | a direct descendant of | He claims to be a descendant of Confucius.
 - origin | n. | 起源；出身 | the origins of sth; country of origin | The origins of the festival go back 2,000 years.
-  fam: original (adj.) · originate (v.) · originally (adv.)
+  fam: originate (v.) · originally (adv.)
 - legacy | n. | 遗产；遗留影响 | leave a legacy | The Olympics left a lasting legacy for the city. | W
   note: *legacy* 不仅指金钱遗产，更常指“留给后世的影响”：*the legacy of colonialism*、*the Olympic legacy*。
 - monument | n. | 纪念碑；遗迹 | an ancient monument | The monument was built to remember the war.

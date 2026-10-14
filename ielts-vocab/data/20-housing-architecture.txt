@@ -64,7 +64,6 @@
 - exterior | n. / adj. | 外部；外观 | — | The exterior of the house needs painting.
 - layout | n. | 布局；版面设计 | the layout of a flat | I like the layout of our new flat — the kitchen is next to the living room.
 - functional | adj. | 实用的；功能性的 | — | The building is functional rather than beautiful.
-  fam: function (n./v.)
 - aesthetic | adj. / n. | 美学的；审美的 | aesthetic value | Some people care more about the aesthetic value of buildings than their function. | W
   ipa: /iːsˈθetɪk/
   fam: aesthetics (n.)

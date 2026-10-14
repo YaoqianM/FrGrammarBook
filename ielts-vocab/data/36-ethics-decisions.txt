@@ -1,0 +1,113 @@
+@unit 36
+@title Ethics, Risk & Decision-making
+@zh 伦理、风险与决策
+@level B2–C1 · 高级应用
+@intro 伦理问题没有标准答案，所以特别适合 IELTS 写作的“讨论双方观点”题型：*Is it acceptable to test medicines on animals? Should scientists be allowed to edit human genes? Is it ever right to break the law?* 本单元帮助你精确地谈论**对与错、风险与取舍、个人与集体**。
+
+## 1 · Right & wrong · 对与错
+
+* ethical | adj. | 伦理的；合乎道德的 | ethical issues/concerns; ethical behaviour | Genetic engineering raises serious ethical questions. | W
+  fam: ethics (n.) · unethical (adj.) · ethically (adv.)
+  note: **ethical** 多用于职业、科学、商业等领域的规范（*ethical business practices*）；**moral** 更侧重个人的是非观念和良知（*a moral duty*）。两者常可互换，但 *ethics* 更像“一套规则”，*morals* 更像“个人信念”。
+- moral | adj. / n. | 道德的；寓意 | a moral duty; moral values; the moral of the story | We have a moral duty to help people in need. // The moral of the story is that honesty pays.
+  fam: morality (n.) · immoral (adj.) · morally (adv.)
+  note: 词族陷阱：*immoral*（不道德的）≠ *amoral*（不涉及道德的、没有是非观念的）。
+- principle | n. | 原则；原理 | in principle; on principle; basic principles | I agree with the plan in principle, but not in detail. // He refused on principle.
+  note: *principle*（原则）≠ *principal*（主要的；校长）。*in principle* = 原则上（但实际可能有问题），写作中表达让步很有用。
+- integrity | n. | 正直；诚实；完整性 | personal integrity; academic integrity | Academic integrity means never copying other people's work. | W
+- fairness | n. | 公平 | — | Fairness is important in any competition.
+- justice | n. | 正义；公正；司法 | social justice; the justice system | Many people are fighting for social justice.
+  fam: just (adj.) · injustice (n.)
+- obligation | n. | 义务；责任 | a moral/legal obligation; be under no obligation | Companies have an obligation to protect their customers' data. | W
+  fam: oblige (v.) · obligatory (adj.)
+- conscience | n. | 良心；良知 | a guilty conscience; a clear conscience | My conscience wouldn't let me lie to her.
+  ipa: /ˈkɒnʃəns/
+  note: 拼写与读音都常错：*conscience* /ˈkɒnʃəns/（良心）vs. *conscious* /ˈkɒnʃəs/（有意识的）。
+- acceptable | adj. | 可接受的；合意的 | socially acceptable | Is it acceptable to eat while someone is talking to you?
+  fam: accept (v.) · acceptance (n.) · unacceptable (adj.)
+- legitimate | adj. | 合法的；正当的；合理的 | a legitimate concern/reason | Parents have legitimate concerns about online safety. | W
+  ipa: /lɪˈdʒɪtɪmət/
+- justify | v. | 证明……正当；为……辩护 | justify a decision; justify the cost | How can we justify spending so much on space exploration? | W
+  fam: justification (n.) · justifiable (adj.)
+- condemn | v. | 谴责；判（刑） | condemn sth as…; be condemned to | Leaders around the world condemned the attack. | W
+  ipa: /kənˈdem/
+  fam: condemnation (n.)
+- approve | v. | 赞成；批准 | approve of sth/sb; approve a plan | My parents don't approve of my staying up late. // The plan was approved by the council.
+  fam: approval (n.) · disapprove (v.)
+  note: *approve **of** sth* = 赞成、认可（态度）；*approve sth*（无 of）= 正式批准（a plan, a budget）。
+- the greater good | phr. | 更大的利益；公众利益 | for the greater good | Some freedoms may be limited for the greater good. | W
+- the end justifies the means | phr. | 只要目的正当，可以不择手段 | — | Not everyone believes that the end justifies the means. | W
+- whistle-blower | n. | 告密者；揭发者（揭露机构内部不当行为的人） | — | The whistle-blower revealed that the company had hidden safety problems.
+- conflict of interest | n. | 利益冲突 | — | A judge should not hear a case involving a family member — it's a conflict of interest. | W
+- altruism | n. | 利他主义；无私 | — | Volunteering is an example of altruism. | W
+  ipa: /ˈæltruɪzəm/
+  fam: altruistic (adj.)
+- selfless | adj. | 无私的 | a selfless act | Firefighters show selfless courage.
+- self-interest | n. | 私利；自身利益 | act out of self-interest | Some people only help others out of self-interest. | W
+- sacrifice | n. / v. | 牺牲；献祭 | make sacrifices; sacrifice sth for sth | Her parents made many sacrifices for her education.
+  ipa: /ˈsækrɪfaɪs/
+
+## 2 · Science & ethics · 科学伦理
+
+- genetic engineering | n. | 基因工程 | — | Genetic engineering could cure some inherited diseases. | W
+- gene editing | n. | 基因编辑 | — | Gene editing tools like CRISPR have made it easier to change DNA. | W
+  note: CRISPR 基因编辑技术的发现者 Jennifer Doudna 和 Emmanuelle Charpentier 获得了 2020 年诺贝尔化学奖。编辑**人类胚胎**基因则在大多数国家受到严格限制，是伦理讨论的焦点。
+- cloning | n. | 克隆 | — | Dolly the sheep was the first mammal cloned from an adult cell.
+  fam: clone (v./n.)
+  note: 克隆羊多莉于 1996 年在英国苏格兰诞生。
+- designer baby | n. | 设计婴儿（经基因选择或改造的婴儿） | — | Critics fear that gene editing could lead to designer babies. | W
+- informed consent | n. | 知情同意 | — | Researchers must obtain informed consent from all participants. | W
+- invasion of privacy | n. | 侵犯隐私 | — | Many people see facial recognition as an invasion of privacy. | W
+- tamper with | phr. | 篡改；乱动 | tamper with nature/evidence | Some people believe we should not tamper with nature.
+- play God | phr. | 扮演上帝（指人类越权操控生命或自然） | — | Critics accuse scientists of playing God. | W
+
+## 3 · Risk & uncertainty · 风险与不确定性
+
+- risk | n. / v. | 风险；冒……的风险 | at risk; a high risk of; risk doing sth | Smokers are at greater risk of heart disease. // He risked his life to save the child.
+  fam: risky (adj.)
+  note: 常用结构：*be at risk (of sth)*（处于……的风险中）、*run the risk of*（冒……的风险）、*reduce/minimise the risk of*。写作中谈健康、安全、科技时非常高频。
+- uncertainty | n. | 不确定性；不确定的事 | economic uncertainty | There is a lot of uncertainty about the future of the job market. | W
+  fam: uncertain (adj.) · certainty (n.)
+- gamble | n. / v. | 冒险；赌博 | take a gamble; gamble on sth | Starting a business is always a gamble. | S
+- danger | n. | 危险；威胁 | in danger; a danger to sth | The bridge is in danger of collapsing.
+- minimise | v. | 使减到最少 | minimise the risk/impact | We must minimise the risk of accidents. | W
+  note: 反义：*maximise*（使最大化）：*maximise profits / benefits*。
+- worst-case scenario | n. | 最坏的情况 | — | In the worst-case scenario, the project will be delayed by a year. | W
+- err on the side of caution | phr. | 宁可过于谨慎 | — | When it comes to children's safety, it's better to err on the side of caution. | W
+- precautionary principle | n. | 预防原则 | — | According to the precautionary principle, new chemicals should be proved safe before they are used. | W
+  note: 环境与公共卫生政策中的原则：在科学证据尚不完全时，如果某事可能造成严重伤害，就应采取预防措施。
+
+## 4 · Making decisions · 做决策
+
+- weigh up | phr. v. | 权衡 | weigh up the pros and cons | Weigh up the advantages and disadvantages before you decide. | S W
+- pros and cons | n. | 利弊 | the pros and cons of sth | Let's discuss the pros and cons of online learning. | S
+- trade-off | n. | 权衡取舍；折中 | a trade-off between A and B | There is often a trade-off between price and quality. | W
+  note: *trade-off* 是高级写作词汇：表示“得到一样东西，就要放弃另一样”。*the trade-off between economic growth and environmental protection*。
+- opportunity cost | n. | 机会成本 | — | The opportunity cost of studying all weekend is time with your friends. | W
+  note: 经济学概念：做出一个选择时，所放弃的最好的其他选择的价值。
+- cost-benefit analysis | n. | 成本效益分析 | — | The government carried out a cost-benefit analysis of the new railway. | W
+- dilemma | n. | 困境；两难 | face a dilemma; a moral dilemma | Doctors often face difficult moral dilemmas.
+  ipa: /dɪˈlemə/
+- consequence | n. | 后果；结果；重要性 | as a consequence; serious consequences; face the consequences | Every decision has consequences.
+  fam: consequently (adv.)
+  note: *consequences* 往往带有消极意味（*face the consequences*）；中性的“结果”用 *result* 或 *outcome*。
+- deliberate | adj. / v. | 故意的；深思熟虑的；仔细考虑 | a deliberate attempt; deliberate on sth | The fire was started deliberately. // The jury deliberated for two days.
+  ipa: /dɪˈlɪbərət/ (adj.) · /dɪˈlɪbəreɪt/ (v.)
+  fam: deliberately (adv.) · deliberation (n.)
+- hasty | adj. | 匆忙的；草率的 | a hasty decision | Don't make hasty decisions when you're angry.
+- gut feeling | n. | 直觉 | — | I had a gut feeling that something was wrong. | S
+- second-guess | v. | 事后批评；猜测（别人的想法） | — | Stop second-guessing yourself — trust your decision. | S
+- irreversible decision | phr. | 不可逆转的决定 | — | Some irreversible decisions deserve more time and thought. | W
+- decisive | adj. | 果断的；决定性的 | a decisive leader; a decisive moment | A good leader needs to be decisive.
+  fam: decision (n.) · decide (v.) · indecisive (adj.)
+
+@cmp principle · principal
+principle | 原则；原理（名词） | the principles of democracy
+principal | 主要的（形容词）；校长（名词） | the principal reason // the school principal
+note: 记法：*princip**le*** 和 *ru**le***（规则）都以 -le 结尾。
+@end
+
+@box ielts 写作：用“让步 + 反驳”讨论伦理问题
+*Admittedly, animal testing has led to important medical breakthroughs. **However**, this does not necessarily justify causing suffering when alternative methods are available.*
+先承认对方观点的合理部分（*Admittedly / It is true that*），再提出自己的立场——这比简单地说“我同意/不同意”更有说服力（连接词见第四册 Unit 43）。
+@end

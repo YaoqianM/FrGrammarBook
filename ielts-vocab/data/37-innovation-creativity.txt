@@ -1,0 +1,95 @@
+@unit 37
+@title Innovation, Creativity & Problem-solving
+@zh 创新、创造力与解决问题
+@level B2–C1 · 高级应用
+@intro 深圳因“创新”而闻名。本单元覆盖**发明与创新、解决问题、知识产权与艺术创作**。IELTS 写作常问 *Is creativity something that can be taught? Should governments fund the arts? Do inventions always make life better?*
+
+## 1 · Innovation & invention · 创新与发明
+
+* innovation | n. | 创新；新发明；新方法 | technological innovation; a culture of innovation | Shenzhen has become a centre of innovation. | W
+  fam: innovate (v.) · innovative (adj.) · innovator (n.)
+  note: **invention** = 发明（创造出一个以前不存在的东西，如电话）；**innovation** 范围更广 = 创新（包括对已有事物的新改进、新用法、新商业模式，如移动支付）。很多重要的创新并不是全新的发明。
+- invent | v. | 发明；编造 | invent a machine; invent an excuse | Alexander Graham Bell is usually credited with inventing the telephone.
+  fam: invention (n.) · inventor (n.) · inventive (adj.)
+  note: *invent*（发明：以前没有）vs. *discover*（发现：本来存在，只是被找到）。*Edison invented the light bulb*（虽然他其实是改进了已有的灯泡）；*Fleming discovered penicillin*。
+- pioneer | n. / v. | 先驱；开拓者；开创 | a pioneer of/in sth; pioneer a new technique | She was a pioneer in computer science.
+  fam: pioneering (adj.)
+- groundbreaking | adj. | 开创性的 | groundbreaking research | His groundbreaking work changed our understanding of the brain. | W
+- ingenious | adj. | 巧妙的；有独创性的 | an ingenious idea/solution | What an ingenious way to save water! | W
+  ipa: /ɪnˈdʒiːniəs/
+  fam: ingenuity (n.)
+  note: 易混：*ingenious*（巧妙的）vs. *genuine*（真正的）vs. *ingenuous*（天真坦率的，少用）。
+- prototype | n. | 原型；样机 | build/develop a prototype | The engineers tested a prototype of the new robot. | W
+- patent | n. / v. | 专利；取得专利 | apply for a patent; hold a patent | The company holds thousands of patents.
+- research and development | n. | 研究与开发（R&D） | invest in R&D | Huawei spends a large share of its revenue on research and development. | W
+- feasible | adj. | 可行的 | technically/economically feasible | Is it feasible to build a city on Mars? | W
+  ipa: /ˈfiːzəbl/
+  fam: feasibility (n.)
+- viable | adj. | 可行的；能存活的；能盈利的 | a viable alternative/option | Electric cars are now a viable alternative to petrol cars. | W
+  fam: viability (n.)
+  note: *feasible* 侧重“技术上能不能做到”；*viable* 侧重“能不能长期持续、在经济上能否成功”。
+- venture | n. / v. | （商业）冒险；企业；冒险去 | a business venture; venture capital | The new venture was a great success.
+- incubator | n. | 孵化器；保育箱 | a business incubator | The incubator helps young entrepreneurs start companies.
+- tech hub | n. | 科技中心 | — | Shenzhen is often called China's leading tech hub.
+- copyright | n. | 版权 | copyright law; breach of copyright | Copying films without permission breaks copyright law.
+- intellectual property | n. | 知识产权 | protect intellectual property | Patents and copyright protect intellectual property. | W
+- plagiarism | n. | 抄袭；剽窃 | — | Universities treat plagiarism as a serious offence. | W
+  ipa: /ˈpleɪdʒərɪzəm/
+  fam: plagiarise (v.)
+- imitate | v. | 模仿；仿效 | — | Children learn by imitating adults.
+  fam: imitation (n.)
+- copycat | n. / adj. | 模仿者；抄袭的 | a copycat product | The company was accused of making copycat products. | S
+- refine | v. | 改进；精炼 | refine a design/method | The team spent months refining the design.
+  fam: refinement (n.) · refined (adj.)
+- spin-off | n. | 副产品；衍生品 | — | Many everyday products are spin-offs from space research.
+  note: 常被引用的例子：记忆泡沫床垫（memory foam）最早源自美国航天局（NASA）资助的研究。
+
+## 2 · Creativity · 创造力
+
+- creativity | n. | 创造力 | encourage creativity | Some people argue that exams kill creativity. | W
+- original | adj. | 原创的；新颖的；原来的 | an original idea | Her designs are very original.
+- originality | n. | 独创性 | — | The judges were impressed by the originality of his work. | W
+- brainstorm | v. / n. | 集思广益；头脑风暴 | brainstorm ideas | Let's brainstorm ideas for the school project. | S
+- spark | v. / n. | 引发；激发；火花 | spark interest/debate | The documentary sparked a debate about plastic pollution. | W
+- stimulate | v. | 刺激；激发；促进 | stimulate creativity/growth | Travel can stimulate the imagination. | W
+  fam: stimulus (n., pl. stimuli) · stimulation (n.)
+- foster | v. / adj. | 培养；促进；寄养（的） | foster creativity/innovation; a foster family | Good teachers foster a love of learning. | W
+- lateral thinking | n. | 横向思维；创造性思维 | — | Lateral thinking helps you find unexpected solutions. | W
+- unconventional | adj. | 非传统的；不落俗套的 | an unconventional approach | She has an unconventional teaching style.
+  fam: convention (n.)
+- conventional | adj. | 传统的；常规的 | conventional methods/medicine | Conventional farming uses chemical fertilisers.
+- mainstream | adj. / n. | 主流的；主流 | mainstream culture; enter the mainstream | Electric cars are becoming mainstream. | W
+- visionary | adj. / n. | 有远见的（人） | a visionary leader | Many people see him as a visionary.
+- masterpiece | n. | 杰作 | — | The *Mona Lisa* is a masterpiece of Renaissance art.
+- craftsmanship | n. | 手艺；工艺 | fine craftsmanship | The furniture shows excellent craftsmanship.
+- sculpture | n. | 雕塑 | — | There is a huge sculpture in the city square.
+- compose | v. | 作（曲）；组成 | compose music; be composed of | Mozart composed his first music at the age of five. // The committee is composed of ten members.
+  fam: composer (n.) · composition (n.)
+  note: *be composed of* = 由……组成（= *consist of / be made up of*），学术写作常用。
+- artistic | adj. | 艺术的；有艺术天赋的 | artistic talent/freedom | She comes from a very artistic family.
+
+## 3 · Solving problems · 解决问题
+
+- problem-solving | n. / adj. | 解决问题（的） | problem-solving skills | Employers value problem-solving skills. | W
+- solution | n. | 解决办法；溶液 | find a solution to sth | We need to find a solution to the traffic problem.
+  fam: solve (v.)
+  note: 介词：*a solution **to** a problem*，✗ *a solution of/for the problem*（for 偶尔可见，但 to 最标准）。
+- resolve | v. / n. | 解决；决心 | resolve a problem/conflict | The two sides met to resolve their differences. | W
+  fam: resolution (n.)
+- obstacle | n. | 障碍 | overcome obstacles; an obstacle to sth | Lack of money is the main obstacle to progress.
+- setback | n. | 挫折；阻碍 | suffer a setback | The project suffered a major setback when funding was cut.
+- workaround | n. | 变通办法 | find a workaround | We couldn't fix the bug, but we found a workaround. | S
+- trial run | n. | 试运行 | — | The new bus route had a trial run last month.
+- step-by-step | adj. | 循序渐进的；分步骤的 | a step-by-step guide | Follow the step-by-step instructions.
+- root cause | n. | 根本原因 | tackle the root causes of | We must tackle the root causes of poverty, not just the symptoms. | W
+- quick fix | n. | 权宜之计；速效办法 | there is no quick fix | There is no quick fix for climate change. | S W
+
+@cmp invent · discover · create
+invent | 发明（创造新东西） | Who invented the computer?
+discover | 发现（本来存在的东西） | Marie Curie discovered radium.
+create | 创造（泛指，包括艺术、工作岗位等） | The project will create 500 jobs.
+@end
+
+@box ielts 写作：创造力能被教出来吗？
+支持：*creativity can be nurtured through open-ended projects*、*schools can encourage questioning and experimentation*。反对：*some people have a natural talent*、*exam-oriented systems leave little room for creativity*。可以举例：*hands-on projects*、*interdisciplinary learning*（跨学科学习）。
+@end

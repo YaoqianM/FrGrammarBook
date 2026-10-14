@@ -1,0 +1,194 @@
+@unit 38
+@title High-value Academic Verbs
+@zh 高价值学术动词
+@level B2–C1 · 高级应用（重点单元）
+@intro 学术文章的“骨架”是动词：研究者 *investigate*、数据 *indicate*、因素 *contribute to*、结果 *vary*。本单元收录在学术阅读中出现频率最高、在写作中最值得主动使用的动词（部分参考了 Coxhead 的学术词表 AWL 的高频部分）。每个词都给出最典型的搭配——**学术动词的价值几乎全在搭配上**。
+
+@box tip 学这一单元的方法
+1. 先记**宾语**：*conduct* 什么？→ *research, a survey, an experiment*。2. 再记**句型**：*attribute A to B*、*distinguish between A and B*。3. 最后才是中文意思。只记中文，写作时仍然不会用。
+@end
+
+## 1 · Researching & analysing · 研究与分析
+
+* analyse | v. | 分析 | analyse data/results; analyse the causes of sth | The researchers analysed data from 5,000 students. | W
+  ipa: /ˈænəlaɪz/
+  fam: analysis (n., pl. analyses) · analytical (adj.) · analyst (n.)
+  note: 英式 *analyse*，美式 *analyze*。名词复数 *analyses* /əˈnæləsiːz/。写作中 *a detailed analysis of*、*careful analysis shows that…* 都是高频表达。
+- assess | v. | 评估；评定 | assess the impact/risk/quality of sth | It is difficult to assess the long-term effects of the policy. | W
+  fam: assessment (n.)
+- evaluate | v. | 评价；评估（价值、效果） | evaluate the effectiveness of sth | Teachers evaluate students' progress every term. | W
+  fam: evaluation (n.)
+  note: *assess* 侧重“判断程度、数量、风险”；*evaluate* 侧重“判断价值、效果的好坏”。两者常可互换。
+- investigate | v. | 调查；研究 | investigate the causes/effects of | Scientists are investigating why bee numbers are falling. | W
+  fam: investigation (n.)
+- conduct | v. / n. | 进行；实施；指挥；行为 | conduct research/a survey/an experiment | The survey was conducted in 2023. | W
+  ipa: /kənˈdʌkt/ (v.) · /ˈkɒndʌkt/ (n.)
+- examine | v. | 检查；审查；研究 | examine the evidence | This essay will examine the advantages of online learning. | W
+- identify | v. | 识别；确定；认同 | identify the causes/problems; identify with sb | The study identified three main risk factors. | W
+  fam: identification (n.)
+- monitor | v. / n. | 监测；监控；显示器 | monitor progress/air quality | Doctors monitored the patients closely. | W
+- estimate | v. / n. | 估计；估算 | It is estimated that…; a rough estimate | It is estimated that 2 billion people lack safe drinking water. | W
+  ipa: /ˈestɪmeɪt/ (v.) · /ˈestɪmət/ (n.)
+  note: 句型 *It is estimated that…* 是学术写作中引入数据的经典方式，比 *People think that…* 正式准确得多。
+- quantify | v. | 量化 | — | It is hard to quantify the value of a good education. | W
+- obtain | v. | 获得；得到（正式） | obtain information/permission | Permission must be obtained before taking photos. | W
+- compile | v. | 汇编；编纂 | compile a list/report/data | The data was compiled from government sources. | W
+- interpret | v. | 解释；理解；口译 | interpret data/results; interpret sth as | The results can be interpreted in different ways. | W
+  fam: interpretation (n.) · interpreter (n.)
+- verify | v. | 核实；证实 | verify information/facts | Always verify information before sharing it. | W
+  fam: verification (n.)
+- simulate | v. | 模拟；假装 | simulate conditions | The computer simulated the effects of rising sea levels. | W
+  fam: simulation (n.)
+- categorise | v. | 分类 | categorise sth as/into | The animals were categorised according to their diet. | W
+  fam: category (n.)
+- rank | v. / n. | 排名；等级 | be ranked first; rank among | The university is ranked among the top 50 in the world.
+
+## 2 · Showing & explaining · 显示与说明
+
+* indicate | v. | 表明；显示；指出 | indicate that…; as indicated in the table | The data indicates that sales rose in winter. | W
+  fam: indication (n.) · indicator (n.)
+  note: *indicate* 是描述研究结果和图表最常用的中性动词之一。近义词强弱：*suggest*（较弱）< *indicate* < *show / demonstrate*（较强）< *prove*（最强）（见 Unit 27）。
+- demonstrate | v. | 证明；展示；示威 | demonstrate that…; demonstrate a skill | The experiment demonstrated that plants need light to grow. | W
+  fam: demonstration (n.)
+- illustrate | v. | 说明；阐明；配插图 | illustrate a point; be illustrated by | This example illustrates how important trust is. | W
+  fam: illustration (n.)
+- reveal | v. | 揭示；透露 | reveal that…; reveal the truth | The survey revealed that most teenagers sleep less than eight hours. | W
+  fam: revelation (n.)
+- highlight | v. / n. | 突出；强调；最精彩的部分 | highlight the need for/importance of | The report highlights the need for more teachers. | W
+- outline | v. / n. | 概述；轮廓 | outline a plan/the main points | The first chapter outlines the history of the problem. | W
+- summarise | v. | 总结；概括 | summarise the main points | Summarise the article in 100 words. | W
+  fam: summary (n.)
+- specify | v. | 具体说明；明确规定 | — | The rules specify how long students can use the lab. | W
+  fam: specific (adj.) · specification (n.)
+- depict | v. | 描绘；描述 | depict sb/sth as | The painting depicts life in a fishing village. | W
+- portray | v. | 描绘；把……描绘成 | portray sb/sth as | The media often portrays teenagers as lazy. | W
+  fam: portrayal (n.)
+- convey | v. | 传达；表达；运送 | convey a message/meaning | Body language can convey more than words. | W
+- imply | v. | 暗示；意味着 | imply that… | His silence implied that he disagreed. | W
+  note: *imply*（说话者“暗示”）vs. *infer*（听者“推断”）：*The writer implies; the reader infers.*
+- infer | v. | 推断；推论 | infer sth from sth | We can infer from the data that prices will continue to rise. | W
+  fam: inference (n.)
+- deduce | v. | 推断；演绎 | deduce sth from sth | From the evidence, the police deduced that the thief knew the family. | W
+  fam: deduction (n.)
+- signify | v. | 表示；意味着 | — | A red light signifies danger. | W
+- exhibit | v. / n. | 表现出；展出；展品 | exhibit symptoms/behaviour | Some patients exhibit no symptoms at all. | W
+  ipa: /ɪɡˈzɪbɪt/
+
+## 3 · Causing & changing · 引起与改变
+
+* affect | v. | 影响 | be badly affected by; affect sb/sth | Air pollution affects millions of people.
+  note: **affect**（动词：影响）vs. **effect**（名词：效果、影响）—— *Pollution **affects** health; it has a serious **effect** on health.* 常见句型：*have an effect on sth*。（*effect* 作动词“实现、引起”很少见：*effect change*。）
+- influence | v. / n. | 影响；影响力 | have an influence on; under the influence of | Parents have a strong influence on their children's values.
+  fam: influential (adj.)
+- determine | v. | 决定；确定；查明 | determine the cause of; be determined by | Genes partly determine a person's height. // Investigators are trying to determine the cause of the fire. | W
+  note: 已在 Unit 2 收录 *determined*（有决心的）；动词 *determine* 的学术义“决定、确定”完全不同。
+- trigger | v. / n. | 引发；触发；扳机 | trigger a reaction/an attack | Stress can trigger headaches. | W
+- generate | v. | 产生；创造 | generate electricity/income/interest | The project will generate 500 new jobs. | W
+  fam: generator (n.)
+- induce | v. | 引起；诱发；劝诱 | — | Some medicines can induce sleep. | W
+- enhance | v. | 提高；增强（质量、价值） | enhance the quality/performance | Music can enhance your mood. | W
+  fam: enhancement (n.)
+- reinforce | v. | 加强；巩固；强化 | reinforce an idea/a stereotype | Some adverts reinforce gender stereotypes. | W
+  fam: reinforcement (n.)
+- facilitate | v. | 促进；使便利 | facilitate learning/communication | Technology can facilitate communication between teachers and parents. | W
+  ipa: /fəˈsɪlɪteɪt/
+- enable | v. | 使能够 | enable sb to do sth | The internet enables people to work from anywhere. | W
+- ensure | v. | 确保；保证 | ensure that…; ensure safety | The government must ensure that all children receive an education. | W
+  note: 易混：*ensure*（确保某事发生）、*insure*（为……投保）、*assure*（向某人保证：*I assure you that…*）。
+- alter | v. | 改变；修改 | alter the course of; alter a plan | Climate change could alter the ecosystem completely. | W
+  fam: alteration (n.)
+- modify | v. | 修改；调整；改良 | modify behaviour/a design | The design was modified after testing. | W
+  fam: modification (n.)
+- transform | v. | 使改观；转变 | transform sth into sth | The internet has transformed the way we shop. | W
+  fam: transformation (n.)
+- expand | v. | 扩大；扩展；扩张 | expand rapidly; expand into new markets | The city has expanded rapidly since the 1980s. | W
+  fam: expansion (n.)
+- diminish | v. | 减少；减弱；贬低 | diminish the importance of | The pain diminished over time. | W
+- eliminate | v. | 消除；淘汰 | eliminate poverty/the risk of | The goal is to eliminate extreme poverty by 2030. | W
+  fam: elimination (n.)
+- inhibit | v. | 抑制；阻止 | inhibit growth/learning | Fear of failure can inhibit creativity. | W
+- undermine | v. | 削弱；破坏；暗中损害 | undermine confidence/trust/efforts | Constant criticism can undermine a child's confidence. | W
+  note: *undermine* 是写作中非常有表现力的动词：*undermine trust in science*、*undermine efforts to tackle climate change*。
+- sustain | v. | 维持；支撑；遭受 | sustain growth; sustain an injury | The economy cannot sustain this level of growth. // He sustained a serious injury. | W
+
+## 4 · Containing & relating · 包含与关联
+
+- consist of | phr. v. | 由……组成（不用进行时和被动） | — | The committee consists of ten members. | W
+  note: ✗ *is consisted of* → ✓ *consists of*。同义：*be made up of / be composed of / comprise*。
+- comprise | v. | 由……组成；构成 | — | The group comprises students from 12 countries. | W
+  note: 传统用法：整体 *comprises* 部分（*The class comprises 30 students*），不加 of。*be comprised of* 在现代英语中也常见，但一些考官和编辑认为不规范，写作中最好避免。
+- constitute | v. | 构成；组成；被视为 | constitute a threat/a majority | Women constitute 55% of the workforce. // This behaviour constitutes a crime. | W
+- incorporate | v. | 包含；吸收；合并 | incorporate sth into sth | The new design incorporates many traditional features. | W
+- involve | v. | 包含；涉及；使参与 | involve doing sth; be involved in | The job involves travelling abroad. // Parents should be involved in their children's education.
+  fam: involvement (n.)
+- correspond | v. | 相符合；对应；通信 | correspond with/to sth | The results correspond closely with our predictions. | W
+  fam: correspondence (n.)
+- relate | v. | 有关联；讲述；理解（某人） | relate to sth; be related to | Many health problems are related to diet. // I can relate to how you feel.
+- attribute | v. / n. | 把……归因于；属性；特征 | attribute A to B | Scientists attribute the rise in temperatures to human activity. | W
+  ipa: /əˈtrɪbjuːt/ (v.) · /ˈætrɪbjuːt/ (n.)
+  note: 句型 *attribute A to B* = 认为 A 是由 B 造成的；被动 *A can be attributed to B*（A 可归因于 B）。写作讨论原因时非常好用。
+- derive | v. | 获得；源于 | derive sth from sth; be derived from | Many English words are derived from Latin. // She derives great pleasure from music. | W
+- stem from | phr. v. | 源于；由……造成 | — | Many of his problems stem from a lack of sleep. | W
+- underlie | v. | 构成……的基础；是……的潜在原因 | underlying causes | Poverty underlies many social problems. | W
+  fam: underlying (adj.)
+  note: 形容词 *underlying* 更常用：*the underlying cause*（根本原因）、*underlying health conditions*（基础疾病）。
+- dominate | v. | 支配；在……中占主导地位 | dominate the market/a conversation | A few big companies dominate the smartphone market. | W
+  fam: dominant (adj.) · domination (n.)
+- distinguish | v. | 区分；辨别；使出众 | distinguish between A and B; distinguish A from B | Children need to learn to distinguish between fact and opinion. | W
+  fam: distinction (n.) · distinctive (adj.) · distinguished (adj.)
+- differentiate | v. | 区分；使有差别 | differentiate between A and B | It can be hard to differentiate between a cold and flu. | W
+- vary | v. | 变化；不同 | vary from A to B; vary in size | Prices vary from shop to shop. | W
+  fam: variation (n.) · variety (n.) · various (adj.)
+
+## 5 · Doing & dealing · 实施与处理
+
+- undertake | v. | 承担；从事；着手 | undertake research/a project | The university undertook a major study of air quality. | W
+- undergo | v. | 经历；接受（检查、手术、变化） | undergo surgery/changes/treatment | The city has undergone huge changes in the last 40 years. | W
+  note: *undergo* 的宾语通常是“变化、检查、手术、训练”：*undergo a transformation / a medical examination*。
+- pursue | v. | 追求；从事；追赶 | pursue a career/goal/degree | She wants to pursue a career in medicine. | W
+  fam: pursuit (n.)
+- initiate | v. | 发起；开始；创始 | initiate a programme/conversation | The school initiated a reading programme for younger students. | W
+- utilise | v. | 利用（正式；常可用 use 代替） | utilise resources | The factory utilises solar energy. | W
+  note: *utilise* 在写作中常被过度使用。大多数情况下 *use* 更自然；只有在强调“有效利用资源”时 *utilise* 才更合适。高级词汇不等于“越长越好”。
+- acknowledge | v. | 承认；致谢；确认收到 | acknowledge that…; acknowledge the importance of | The government acknowledged that mistakes had been made. | W
+  fam: acknowledgement (n.)
+- anticipate | v. | 预期；预料 | anticipate problems/demand | We didn't anticipate so many visitors. | W
+  fam: anticipation (n.)
+- forecast | v. / n. | 预测；预报 | forecast growth; a weather forecast | Economists forecast slower growth next year. | W
+- perceive | v. | 感知；察觉；认为 | perceive sth as | Many people perceive maths as difficult. | W
+  fam: perception (n.) · perceptive (adj.)
+- presume | v. | 假定；推测 | — | I presume you've already eaten. | W
+  fam: presumably (adv.)
+- neglect | v. / n. | 忽视；疏于照顾 | neglect your health/studies | Some parents neglect their children's emotional needs. | W
+- retain | v. | 保留；保持；记住 | retain information/staff | Regular review helps you retain new vocabulary. | W
+  fam: retention (n.)
+- possess | v. | 拥有；具有（正式） | possess skills/qualities | Few people possess the skills needed for this job. | W
+  fam: possession (n.)
+- encounter | v. / n. | 遇到（困难、危险）；邂逅 | encounter problems/difficulties | Most learners encounter difficulties with pronunciation. | W
+- emerge | v. | 出现；浮现；显露 | emerge from; it emerged that… | New problems emerged during the project. // It later emerged that the data was wrong. | W
+  fam: emergence (n.) · emerging (adj.)
+- prohibit | v. | 禁止（正式） | prohibit sb from doing sth | Smoking is prohibited in all public buildings. | W
+  fam: prohibition (n.)
+- substitute | v. / n. | 代替；替代品 | substitute A for B; a substitute for | You can substitute honey for sugar in this recipe. | W
+  note: 句型方向容易搞反：*substitute A for B* = 用 A 代替 B（A 是新的）。*replace B with A* 意思相同。
+- uphold | v. | 维护；支持；维持（判决） | uphold the law/rights/a decision | Courts uphold the law. | W
+- suspend | v. | 暂停；悬挂；停学 | suspend a service; be suspended from school | Train services were suspended because of the typhoon.
+  fam: suspension (n.)
+- locate | v. | 找到……的位置；位于 | be located in/near | The factory is located near the port. | W
+  fam: location (n.)
+- occupy | v. | 占据；占领；使忙碌 | occupy space/time | Older people occupy a growing share of hospital beds. | W
+- precede | v. | 在……之前发生 | — | A period of silence preceded the announcement. | W
+  fam: preceding (adj.) · precedent (n.)
+
+@cmp affect · effect
+affect | 动词：影响 | Lack of sleep affects concentration.
+effect | 名词：效果、影响；have an effect on | Lack of sleep has a negative effect on concentration.
+note: 记法：**A**ffect 是 **A**ction（动作，动词）；**E**ffect 是 **E**nd result（结果，名词）。
+@end
+
+@box ielts 用学术动词升级句子
+*Many things make people fat.* → *Obesity can be **attributed** to a range of factors.*
+*The chart shows that more people use phones.* → *The chart **indicates** a steady rise in smartphone use.*
+*This makes learning easier.* → *This **facilitates** learning.*
+升级的关键不是把每个词都换成难词，而是**主语和动词更精确**。
+@end
