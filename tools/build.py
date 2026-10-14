@@ -42,8 +42,27 @@ BOX_LABELS = {
 }
 
 
+STRONG = re.compile(r"\*\*(?!\*)(?=\S)(.+?)(?<=[^\s*])\*\*")
+EM = re.compile(r"(?<!\*)\*(?=[^\s*])(.+?)(?<=[^\s*])\*(?!\*)")
+
+
+def emphasis(text):
+    """Convert **bold** / *italic* ourselves: Markdown refuses to close emphasis
+    after an apostrophe followed by a letter (**l'**homme), which French needs
+    constantly."""
+    out, in_code = [], False
+    for line in text.split("\n"):
+        if line.strip().startswith("```"):
+            in_code = not in_code
+        elif not in_code:
+            line = STRONG.sub(r"<strong>\1</strong>", line)
+            line = EM.sub(r"<em>\1</em>", line)
+        out.append(line)
+    return "\n".join(out)
+
+
 def md(text):
-    return markdown.markdown(text, extensions=MD_EXT)
+    return markdown.markdown(emphasis(text), extensions=MD_EXT)
 
 
 def md_inline(text):
@@ -209,6 +228,13 @@ def main():
         f"{links}<style>{css}</style></head><body>"
         f"{cover}{toc_html}{''.join(front)}{''.join(rest)}</body></html>"
     )
+    # drop header rows that are entirely empty (tables written with "| | |" headers)
+    doc = re.sub(r"<thead>\s*<tr>(?:\s*<th[^>]*>\s*</th>)+\s*</tr>\s*</thead>", "", doc)
+    # warn about Markdown emphasis that failed to render
+    text_only = re.sub(r"<(pre|style)[^>]*>.*?</\1>", "", doc, flags=re.S)
+    text_only = re.sub(r"<[^>]+>", "", text_only)
+    for m in re.finditer(r".{0,40}\*\*?[^\s*].{0,40}", text_only):
+        print("WARN emphasis:", m.group(0).replace("\n", " "))
     OUT.mkdir(exist_ok=True)
     (OUT / "book.html").write_text(doc, encoding="utf-8")
     (OUT / "toc.json").write_text(json.dumps(toc, ensure_ascii=False), encoding="utf-8")
