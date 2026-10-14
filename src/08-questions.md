@@ -135,7 +135,7 @@ Inside a sentence (*Je voudrais savoir…, Pouvez-vous me dire…*), questions u
 
 | Direct | Indirect |
 |---|---|
-| Est-ce que… ? / yes-no | **si** — *Je me demande **si** il viendra.* |
+| Est-ce que… ? / yes-no | **si** — *Je me demande **s'il** viendra.* |
 | Qu'est-ce que… ? / Que… ? | **ce que** — *Dites-moi **ce que** vous voulez.* |
 | Qu'est-ce qui… ? | **ce qui** — *Je ne sais pas **ce qui** se passe.* |
 | où, quand, comment, pourquoi, qui, combien, quel | same word — *Pouvez-vous me dire **où** se trouve la gare ?* |
