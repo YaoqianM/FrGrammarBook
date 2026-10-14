@@ -84,7 +84,7 @@ note: ✗ *Someone robbed my phone* → ✓ *Someone stole my phone* / *I was ro
 - ban | v. / n. | 禁止；禁令 | ban sth; a ban on sth | Many countries have banned plastic bags.
 - regulation | n. | 规章；规定；管理 | strict regulations; safety regulations | Food safety regulations are very strict.
   fam: regulate (v.) · regulatory (adj.)
-- rights | n. | 权利（复数） | human rights; legal rights; the right to sth | Everyone has the right to a fair trial.
+- rights | n. | 权利（复数） | human rights; legal rights; the right to sth | Every child has rights, including the right to education. // Everyone has the right to a fair trial.
 
 ## 3 · Safety & security · 安全
 

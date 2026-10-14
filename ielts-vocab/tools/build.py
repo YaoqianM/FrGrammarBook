@@ -158,6 +158,8 @@ IRREG = {
     "prove": "proven", "sew": "sewn", "saw": "sawn", "sow": "sown", "swell": "swollen",
     "ring": "rang rung", "sing": "sang sung", "swim": "swam swum swimming",
     "drop": "dropped dropping", "stop": "stopped stopping", "plan": "planned planning",
+    "oversleep": "overslept", "hang": "hung", "lay": "laid", "rebuild": "rebuilt",
+    "shrink": "shrank shrunk", "overtake": "overtook overtaken", "outnumber": "outnumbered",
     "child": "children", "person": "people", "man": "men", "woman": "women",
     "mouse": "mice", "foot": "feet", "tooth": "teeth", "goose": "geese",
 }
@@ -183,17 +185,38 @@ def token_forms(tok):
             forms.add(t[: -len(a)] + b)
     if t.endswith("c"):
         forms |= {t + "ked", t + "king"}
+    if re.search(r"[aeiou]l$", t):
+        forms |= {t + "led", t + "ling"}  # British: travelled, fuelled, labelled
     forms |= set(IRREG.get(t, "").split())
     return forms
 
 
-PLACEHOLDER = {"sb", "sth", "sb's", "one's", "oneself", "someone", "something", "…", "...", "doing"}
+PLACEHOLDER = {"sb", "sth", "sb's", "one's", "oneself", "someone", "something", "…", "...", "doing",
+               "your", "yourself", "his/her"}
+ARTICLES = {"a", "an", "the"}
 
 
-def head_regex(head):
-    """Regex matching the headword (with inflections) inside an example sentence."""
-    h = re.sub(r"\(.*?\)", " ", head)
-    h = h.replace("/", " ").replace("’", "'")
+def _token_pat(tok):
+    alts = set()
+    for t in tok.split("/"):
+        if re.match(r"^[\w'-]+$", t):
+            alts |= token_forms(t)
+    if not alts:
+        return None
+    return "(?:" + "|".join(re.escape(a) for a in sorted(alts, key=len, reverse=True)) + ")"
+
+
+def head_regex(head, loose=False):
+    """Regex matching the headword (with inflections) inside an example sentence.
+
+    strict: tokens must follow each other (placeholders may stand for a few words);
+    loose:  articles are optional and up to two extra words may come between tokens
+            (used only for bolding, e.g. "take a ten-minute break" for "take a break")."""
+    if " vs. " in head:
+        parts = [head_regex(h, loose) for h in head.split(" vs. ")]
+        parts = [p.pattern for p in parts if p]
+        return re.compile("|".join(parts), re.I) if parts else None
+    h = re.sub(r"\(.*?\)", " ", head).replace("’", "'").replace(" + ", " ")
     toks = [t for t in h.split() if t]
     while toks and toks[0].lower() in PLACEHOLDER:
         toks.pop(0)
@@ -202,18 +225,21 @@ def head_regex(head):
     if not toks:
         return None
     gap = r"(?:\s+[\w'’,-]+){0,5}?"
+    loose_gap = r"(?:\s+[\w'’-]+){0,2}?"
     parts, pending_gap = [], False
     for t in toks:
         tl = t.lower()
         if tl in PLACEHOLDER:
             pending_gap = True
             continue
-        if not re.match(r"^[\w'-]+$", tl):
+        if loose and tl in ARTICLES and parts:
+            pending_gap = True
+            continue
+        pat = _token_pat(tl)
+        if pat is None:
             return None
-        alts = sorted(token_forms(tl), key=len, reverse=True)
-        pat = "(?:" + "|".join(re.escape(a) for a in alts) + ")"
         if parts:
-            parts.append((gap if pending_gap else "") + r"\s+")
+            parts.append((gap if pending_gap else (loose_gap if loose else "")) + r"\s+")
         parts.append(pat)
         pending_gap = False
     return re.compile(r"(?<![\w-])" + "".join(parts) + r"(?![\w-])", re.I)
@@ -412,7 +438,7 @@ def inline(s):
 
 
 def render_entry(e):
-    rx = head_regex(e.head)
+    rx = head_regex(e.head, loose=True)
     tags = "".join(f'<span class="tag {TAGS[t][1]}">{TAGS[t][0]}</span>' for t in e.tags)
     ipa = f'<span class="ipa">{esc(e.ipa)}</span>' if e.ipa else ""
     left = (f'<div class="hw-col"><span class="id">{e.unit}.{e.n}</span>'
@@ -604,7 +630,7 @@ def series_table(units):
         us = [units[k] for k in cfg["units"] if k in units]
         n = sum(len(entries_of(u)) for u in us)
         rows.append(f"<tr><td>{cfg['roman']}</td><td>{cfg['zh']}<br><small>{cfg['title']}</small></td>"
-                    f"<td>{cfg['level']}</td><td>Unit {min(cfg['units'])}–{max(cfg['units'])}<br>{n} 词条</td>"
+                    f"<td>{cfg['level']}</td><td>Unit&nbsp;{min(cfg['units'])}–{max(cfg['units'])}<br>{n}&nbsp;词条</td>"
                     f"<td>{cfg['scope']}</td></tr>")
     return ('<table class="series"><thead><tr><th>册</th><th>名称</th><th>难度</th><th>范围</th><th>内容</th></tr></thead>'
             + "".join(rows) + "</table>")
@@ -617,13 +643,13 @@ def front_matter(v, units):
     return (f'<article class="front"><h1 class="plain">关于本册 · About this volume</h1>{intro}'
             f'<h2 class="notoc">全套结构 · The series</h2><p>全套共 5 册，四册正文共 {total} 个去重词条（派生词放在“词族”中，不重复计数），第 5 册为总索引与复习手册。</p>'
             f'{series_table(units)}'
-            f'<h2 class="notoc">怎么读一个词条 · How to read an entry</h2>{legend_html()}'
+            f'<div class="keep"><h2 class="notoc">怎么读一个词条 · How to read an entry</h2>{legend_html()}'
             '<ul class="legend"><li><b>编号</b>：27.3 = 第 27 单元第 3 个词条。全套编号统一，索引都用这个编号。</li>'
             '<li><b>★ 重点词</b>：多义、易错、搭配关键或能带出一个词族的词，附有简短讲解。其余词条只给最必要的信息。</li>'
             '<li><b>搭配</b>：优先整块记忆的表达。<b>词族</b>：值得一起掌握的派生词（不单独计数）。</li>'
             '<li><span class="tag tag-s">口语</span> 适合自然口语使用；<span class="tag tag-w">写作</span> 偏正式，适合学术写作，日常聊天少用。没有标签的词两种场合都常见。</li>'
             '<li>音标采用英式发音（DJ/IPA 体系），只在读音容易出错或重音会变化时标注。</li>'
-            '<li>例句中加粗的部分就是本词条的词或表达。每单元最后有 <b>Quick Review</b>，答案在本册末尾。</li></ul>'
+            '<li>例句中加粗的部分就是本词条的词或表达。每单元最后有 <b>Quick Review</b>，答案在本册末尾。</li></ul></div>'
             '</article>')
 
 

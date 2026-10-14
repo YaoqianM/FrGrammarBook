@@ -141,6 +141,8 @@ tr:nth-child(even) td { background: #f8f9fb; }
 .front { font-family: "Noto Sans SC", sans-serif; font-size: 0.9rem; }
 .front p, .hb p { line-height: 1.65; }
 .front table.series td { font-size: 0.8rem; }
+table.series td:nth-child(1) { width: 4%; } table.series td:nth-child(2) { width: 20%; }
+table.series td:nth-child(3) { width: 11%; white-space: nowrap; } table.series td:nth-child(4) { width: 13%; white-space: nowrap; }
 .legend li { line-height: 1.6; }
 .hb { font-family: "Noto Sans SC", sans-serif; font-size: 0.9rem; }
 .hb h2 { break-after: avoid; }

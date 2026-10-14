@@ -25,3 +25,9 @@ pip install markdown pypdf
 ```
 
 Set `CHROMIUM_PATH` if Chromium isn't at `/opt/pw-browsers/chromium-1194/chrome-linux/chrome`.
+
+---
+
+## Also in this repository: IELTS vocabulary series
+
+[`ielts-vocab/`](ielts-vocab/) holds a five-volume **IELTS Academic vocabulary course** (中英双语, 3,015 entries, A2 → C2). It is built with an adapted version of the same pipeline. The PDFs are in [`ielts-vocab/pdf/`](ielts-vocab/pdf/); see [`ielts-vocab/README.md`](ielts-vocab/README.md).

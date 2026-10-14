@@ -87,7 +87,7 @@
 - moderation | n. | 适度；节制 | in moderation | Sweets are fine in moderation.
 - nutritious | adj. | 有营养的 | nutritious food | School meals should be nutritious.
 - regular check-ups | phr. | 定期体检 | — | Regular check-ups can catch problems early.
-- detect | v. | 发现；检测出 | detect cancer early | Early detection of cancer saves lives. | W
+- detect | v. | 发现；检测出 | detect cancer early | Doctors can now detect some cancers at a very early stage. // Early detection saves lives. | W
   fam: detection (n.) · detective (n.)
 - alternative medicine | n. | 替代医学（如针灸、草药） | — | Some people use alternative medicine alongside conventional treatment.
 - traditional Chinese medicine | n. | 中医（TCM） | — | Traditional Chinese medicine uses herbs and acupuncture.

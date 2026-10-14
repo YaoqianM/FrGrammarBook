@@ -26,7 +26,7 @@
   fam: profitable (adj.) · profitability (n.)
 - loss | n. | 损失；亏损；丧失 | make a loss; job losses | The airline made a huge loss during the pandemic.
 - stock market | n. | 股票市场 | — | The stock market fell sharply after the news.
-- currency | n. | 货币；流通 | foreign currency; gain currency | The euro is used by most countries in the European Union.
+- currency | n. | 货币；流通 | foreign currency; gain currency | The euro is the official currency of most countries in the European Union.
 - exchange rate | n. | 汇率 | — | The exchange rate affects the price of imported goods.
 - purchasing power | n. | 购买力 | — | Inflation reduces people's purchasing power. | W
 - sector | n. | 部门；领域；行业 | the public/private sector; the service sector | The service sector now employs most workers in developed countries. | W
