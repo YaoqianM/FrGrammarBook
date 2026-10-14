@@ -59,14 +59,13 @@
   fam: knowledgeable (adj.)
 - aptitude | n. | 天资；才能 | an aptitude for languages | He shows a natural aptitude for music. | W
 - ability | n. | 能力 | the ability to do sth | Reading improves your ability to concentrate.
-  fam: able (adj.) · enable (v.) · disability (n.)
+  fam: able (adj.) · enable (v.)
 - capable | adj. | 有能力的；能干的 | be capable of doing sth | She is capable of solving very hard problems.
   fam: capability (n.) · incapable (adj.)
 - skill | n. | 技能 | develop skills; problem-solving skills | Coding is a useful skill.
   fam: skilful (adj.)
 - expertise | n. | 专门知识；专长 | technical expertise; expertise in sth | The project needs someone with expertise in AI. | W
   ipa: /ˌekspɜːˈtiːz/
-  fam: expert (n./adj.)
 - naive | adj. | 天真的；幼稚的 | a naive belief | It's naive to believe everything you read online.
   ipa: /naɪˈiːv/
 - absent-minded | adj. | 心不在焉的；健忘的 | — | My grandfather is so absent-minded — he's always losing his glasses. | S

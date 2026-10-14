@@ -1,0 +1,104 @@
+@unit 33
+@title Economy, Development & Inequality
+@zh 经济、发展与贫富差距
+@level B2–C1 · 高级应用
+@intro 经济类文章是 IELTS 学术阅读的常客，写作也常问 *Is economic growth always good? Should rich countries give aid to poor countries? How can we reduce inequality?* 本单元从宏观经济、贸易与产业到贫富差距，给你一套清晰、准确的经济词汇。个人消费与理财见 Unit 18。
+
+## 1 · The economy · 宏观经济
+
+* economy | n. | 经济；经济体；节约 | a strong/weak economy; the global economy | China is the world's second-largest economy. // Buying in bulk is a real economy.
+  ipa: /ɪˈkɒnəmi/
+  fam: economic (adj.) · economical (adj.) · economist (n.) · economically (adv.)
+  note: 重音：*eCOnomy*、*eCOnomist* → *ecoNOmic*。辨析见 Unit 30 易混框：*economic*（经济的）vs. *economical*（节省的）。
+- economic growth | n. | 经济增长 | rapid/sustainable economic growth | Rapid economic growth has lifted millions out of poverty. | W
+- GDP | n. | 国内生产总值（gross domestic product） | GDP growth; GDP per capita | China's GDP grew by about 5% in 2024.
+  note: *GDP per capita*（人均 GDP，*per capita* = 按人头计）常用于比较各国生活水平。注意 GDP 衡量的是经济产出，不直接等于幸福或生活质量。
+- recession | n. | 经济衰退 | go into recession | Many countries went into recession in 2020.
+  note: 常见的技术定义是“连续两个季度 GDP 负增长”。比 recession 更严重、更长期的叫 *depression*（萧条），如 1930 年代的 *the Great Depression*。
+- economic downturn | n. | 经济下滑 | — | Small businesses suffer most during an economic downturn. | W
+- boom | n. / v. | 繁荣；激增；隆隆声 | an economic boom; a property boom | The country experienced an economic boom in the 1990s.
+- inflation | n. | 通货膨胀 | high inflation; the inflation rate | Inflation means your money buys less than before. | W
+  fam: inflate (v.)
+- interest rate | n. | 利率 | raise/cut interest rates | The central bank raised interest rates to control inflation. | W
+- invest | v. | 投资；投入（时间、精力） | invest in sth | The government is investing heavily in education.
+  fam: investment (n.) · investor (n.)
+- profit | n. / v. | 利润；获益 | make a profit; profit from sth | The company made a profit of 2 billion yuan.
+  fam: profitable (adj.) · profitability (n.)
+- loss | n. | 损失；亏损；丧失 | make a loss; job losses | The airline made a huge loss during the pandemic.
+- stock market | n. | 股票市场 | — | The stock market fell sharply after the news.
+- currency | n. | 货币；流通 | foreign currency; gain currency | The euro is used by most countries in the European Union.
+- exchange rate | n. | 汇率 | — | The exchange rate affects the price of imported goods.
+- purchasing power | n. | 购买力 | — | Inflation reduces people's purchasing power. | W
+- sector | n. | 部门；领域；行业 | the public/private sector; the service sector | The service sector now employs most workers in developed countries. | W
+  note: 经济三大产业：*the primary sector*（第一产业：农业、采矿）、*the secondary sector*（第二产业：制造业）、*the tertiary/service sector*（第三产业：服务业）。
+- private sector | n. | 私营部门 | — | Most jobs are in the private sector.
+- public sector | n. | 公共部门 | public sector workers | Teachers and nurses work in the public sector. | W
+- industry | n. | 工业；行业；勤奋 | heavy industry; the tourism industry | The car industry employs millions of people.
+  fam: industrial (adj.) · industrialise (v.) · industrious (adj., 勤奋的)
+  note: 词族陷阱：*industrial* = 工业的（an industrial city）；*industrious* = 勤劳的（an industrious student）。
+- manufacturing | n. | 制造业 | — | Manufacturing is still a key part of China's economy.
+  fam: manufacture (v.) · manufacturer (n.)
+- productivity | n. | 生产率；生产力 | increase productivity | New technology has increased productivity in factories. | W
+  fam: productive (adj.)
+- bankrupt | adj. | 破产的 | go bankrupt | Many small shops went bankrupt during the crisis.
+  fam: bankruptcy (n.)
+- monopoly | n. | 垄断 | have a monopoly on sth | The company has a monopoly on the city's water supply. | W
+- financial centre | n. | 金融中心 | — | Hong Kong is a major international financial centre.
+- economic hub | n. | 经济枢纽 | — | Shenzhen has become a major economic hub in southern China. | W
+
+## 2 · Trade & business · 贸易与商业
+
+- trade | n. / v. | 贸易；交易；行业 | international trade; trade with sb; a trade war | China trades with almost every country in the world.
+- export | v. / n. | 出口；出口产品 | export goods to sth | China exports electronics all over the world.
+  ipa: /ɪkˈspɔːt/ (v.) · /ˈekspɔːt/ (n.)
+- import | v. / n. | 进口；进口产品 | import sth from sth | Japan imports most of its energy.
+  ipa: /ɪmˈpɔːt/ (v.) · /ˈɪmpɔːt/ (n.)
+- tariff | n. | 关税；价目表 | impose tariffs on sth | The government imposed tariffs on imported steel. | W
+- free trade | n. | 自由贸易 | a free trade agreement | Free trade agreements reduce tariffs between countries. | W
+- supply chain | n. | 供应链 | global supply chains | The pandemic disrupted global supply chains. | W
+- outsource | v. | 外包 | outsource production to sth | Many companies outsource customer service to other countries. | W
+  fam: outsourcing (n.)
+- commodity | n. | 商品；（大宗）货物 | commodity prices | Oil and wheat are important commodities. | W
+- goods and services | n. | 商品和服务 | — | GDP measures the total value of goods and services produced in a country. | W
+- market share | n. | 市场份额 | — | The company increased its market share in Europe.
+- profit margin | n. | 利润率 | — | Supermarkets work on small profit margins.
+
+## 3 · Development & inequality · 发展与贫富差距
+
+* inequality | n. | 不平等；不均等 | income inequality; social inequality | Income inequality has grown in many countries since the 1980s. | W
+  fam: unequal (adj.) · equality (n.) · equal (adj.)
+  note: *inequality*（贫富或机会的不平等，社会议题）≠ *inequity*（不公正、不公平，带道德判断）。写作中讨论贫富差距，最常用 *income inequality*、*the gap between rich and poor*、*the wealth gap*。
+- the gap between rich and poor | phr. | 贫富差距 | widen/narrow the gap | The gap between rich and poor has widened in many cities. | W
+- disparity | n. | 差距；不同 | regional disparities; disparity in income | There are large disparities between urban and rural incomes. | W
+- poverty | n. | 贫穷；贫困 | live in poverty; lift people out of poverty | Millions of people still live in poverty. | W
+- poverty line | n. | 贫困线 | below the poverty line | Families below the poverty line receive government support. | W
+- wealth | n. | 财富 | the distribution of wealth | The richest 1% own a large share of the world's wealth.
+  fam: wealthy (adj.)
+- affluent | adj. | 富裕的 | affluent areas/families | Children from affluent families often have more opportunities. | W
+  fam: affluence (n.)
+- prosperity | n. | 繁荣；兴旺 | economic prosperity | Trade has brought prosperity to the region. | W
+  fam: prosper (v.) · prosperous (adj.)
+- distribution | n. | 分配；分布；分发 | the distribution of wealth/income | The distribution of wealth is very unequal in some countries. | W
+  fam: distribute (v.) · redistribute (v.) · redistribution (n.)
+- developing country | n. | 发展中国家 | — | Many developing countries depend on agriculture.
+  note: 也常用 *low-income / middle-income countries*（低收入/中等收入国家）或 *the Global South*（全球南方）。*Third World* 已过时且被认为不礼貌，写作中避免使用。
+- developed country | n. | 发达国家 | — | Developed countries have higher life expectancy.
+- emerging economy | n. | 新兴经济体 | — | India and Brazil are major emerging economies. | W
+- standard of living | n. | 生活水平 | a high standard of living; raise living standards | Living standards in China have risen dramatically since 1980. | W
+- foreign aid | n. | 对外援助 | — | Some people question whether foreign aid really helps the poor. | W
+- deprived | adj. | 贫困的；被剥夺的 | deprived areas; sleep-deprived | Children in deprived areas often have fewer opportunities. | W
+  fam: deprive (v.) · deprivation (n.)
+  note: *deprive sb of sth* = 剥夺某人某物：*Lack of sleep deprives the brain of time to rest.* 复合形容词 *sleep-deprived*（睡眠不足的）很常用。
+- marginalised | adj. | 被边缘化的 | marginalised groups/communities | Marginalised groups often have less access to healthcare. | W
+- lift sb out of poverty | phr. | 使某人脱贫 | — | Economic reforms have lifted hundreds of millions out of poverty. | W
+  note: 根据世界银行的数据，自 1980 年代以来中国有约 8 亿人摆脱了极端贫困，常被称为人类历史上规模最大的减贫成就。
+- trickle down | phr. v. | （财富）向下渗透；涓滴 | trickle-down economics | Critics say the benefits of growth do not always trickle down to the poor. | W
+- the haves and the have-nots | phr. | 富人与穷人 | — | Technology may widen the gap between the haves and the have-nots. | S
+
+@box rule 经济类词汇的“增减”动词
+增加：*rise, increase, grow, expand, boom, soar*；减少：*fall, decrease, decline, shrink, contract, slump*。注意 *the economy expanded/contracted by 2%*（经济增长/萎缩了 2%）中 *by* 表示变化幅度。完整的趋势描述见第四册 Unit 41。
+@end
+
+@box ielts 写作：经济增长是不是越多越好？
+支持：*raise living standards*、*create jobs*、*fund public services*。保留：*environmental costs*、*growth does not always reduce inequality*、*GDP does not measure well-being*。高分思路：区分 *growth* 的**数量**和**质量**——*sustainable and inclusive growth*（可持续、包容性增长）。
+@end

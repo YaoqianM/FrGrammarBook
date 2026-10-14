@@ -1,0 +1,109 @@
+@unit 31
+@title Health Systems, Medicine & Lifestyle
+@zh 医疗体系、医学与生活方式
+@level B2–C1 · 高级应用
+@intro 第一册 Unit 6 覆盖了症状、看病和睡眠的基础词汇。本单元进入学术与政策层面：疾病类型、医学研究、公共卫生和生活方式病。IELTS 写作常问 *Should healthcare be free? Is prevention better than cure? Who is responsible for rising obesity rates?*
+
+## 1 · Healthcare systems · 医疗体系
+
+- healthcare | n. | 医疗保健；卫生保健 | access to healthcare; the healthcare system | Everyone should have access to affordable healthcare. | W
+- public health | n. | 公共卫生 | a public health campaign | Smoking bans have improved public health. | W
+- health insurance | n. | 医疗保险 | — | In some countries, people without health insurance cannot afford treatment.
+- GP | n. | 全科医生（general practitioner，英） | see your GP | If the pain continues, see your GP.
+- surgeon | n. | 外科医生 | a heart surgeon | The surgeon performed a five-hour operation.
+  fam: surgical (adj.)
+- surgery | n. | 外科手术；诊所（英） | have/undergo surgery | She needed surgery on her knee.
+  note: 英式英语中 *surgery* 还可以指“诊所、门诊时间”（the doctor's surgery），不一定是手术。
+- operation | n. | 手术；运作；行动 | have an operation | He had an operation to remove his appendix.
+- diagnose | v. | 诊断 | be diagnosed with sth | She was diagnosed with diabetes last year.
+  fam: diagnosis (n., pl. diagnoses)
+  note: 结构：*sb is diagnosed **with** a disease*。✗ *He was diagnosed as cancer*。
+- outpatient | n. | 门诊病人 | an outpatient clinic | Most patients are treated as outpatients.
+- medical staff | n. | 医务人员 | — | Medical staff worked around the clock during the pandemic.
+- waiting list | n. | 等候名单 | be on a waiting list | Patients may be on a waiting list for months.
+- free at the point of use | phr. | 就诊时免费 | — | The NHS is free at the point of use. | W
+  note: 英国国家医疗服务体系（NHS）建于 1948 年，资金来自税收，患者看病时一般不需付费。讨论 *free healthcare* 时常被引用。
+- life-threatening | adj. | 危及生命的 | a life-threatening illness | Some allergies can be life-threatening.
+- life expectancy | n. | 预期寿命 | average life expectancy | Life expectancy has risen dramatically over the past century. | W
+- mortality | n. | 死亡率；必死性 | infant mortality; mortality rates | Infant mortality has fallen sharply thanks to vaccines. | W
+  fam: mortal (adj.) · immortal (adj.)
+
+## 2 · Diseases & conditions · 疾病与健康状况
+
+* chronic | adj. | 慢性的；长期的 | chronic diseases; chronic pain | Diabetes is a chronic disease that needs lifelong treatment. | W
+  ipa: /ˈkrɒnɪk/
+  note: **chronic**（慢性的、长期的）↔ **acute**（急性的、突发而严重的）。*chronic* 也可用于社会问题：*a chronic shortage of teachers*（长期短缺）。来自希腊语 *chronos*（时间），同族：*chronological*（按时间顺序的）。
+- acute | adj. | 急性的；严重的；敏锐的 | acute pain; an acute shortage; an acute sense of smell | She was taken to hospital with acute stomach pain. // Dogs have an acute sense of smell.
+- condition | n. | 健康状况；疾病；条件 | a heart condition; a medical condition | He has a serious heart condition.
+- disorder | n. | 失调；紊乱；疾病 | an eating disorder; a sleep disorder | Insomnia is a common sleep disorder.
+- obesity | n. | 肥胖（症） | childhood obesity; obesity rates | Childhood obesity is rising in many countries. | W
+  ipa: /əʊˈbiːsəti/
+  fam: obese (adj.) /əʊˈbiːs/
+- diabetes | n. | 糖尿病 | type 2 diabetes | Type 2 diabetes is linked to diet and lack of exercise.
+  ipa: /ˌdaɪəˈbiːtiːz/
+- cancer | n. | 癌症 | lung cancer; cancer research | Smoking is the leading cause of lung cancer.
+- heart attack | n. | 心脏病发作 | — | Regular exercise reduces the risk of a heart attack.
+- stroke | n. | 中风；（游泳）划水；一击 | have a stroke | High blood pressure increases the risk of stroke.
+- blood pressure | n. | 血压 | high blood pressure | Too much salt can raise your blood pressure.
+- epidemic | n. | 流行病；（坏事的）蔓延 | an obesity epidemic | Some doctors talk about an "obesity epidemic". | W
+- pandemic | n. | 全球性流行病；大流行 | a global pandemic | The COVID-19 pandemic changed the way people work and study. | W
+  note: *epidemic* = 在一个地区或人群中流行；*pandemic* = 跨越国家和大洲的大流行（*pan-* = 全部）。*endemic* = 某地常年存在的地方病。
+- contagious | adj. | （接触）传染的；有感染力的 | a contagious disease; contagious laughter | Chickenpox is highly contagious. // Her laughter was contagious.
+- immune | adj. | 免疫的；不受影响的 | the immune system; be immune to sth | Vaccines train the immune system to fight disease.
+  fam: immunity (n.) · immunise (v.)
+- vaccine | n. | 疫苗 | develop a vaccine | Scientists developed COVID-19 vaccines in less than a year.
+  ipa: /ˈvæksiːn/
+  fam: vaccinate (v.) · vaccination (n.)
+  note: 疫苗是公共卫生史上最成功的手段之一：天花（smallpox）于 1980 年被世卫组织宣布根除，这是人类唯一彻底消灭的人类传染病。
+- antibiotic | n. | 抗生素 | take antibiotics | Antibiotics do not work against viruses.
+  note: *anti-*（对抗）+ *bio-*（生命）。抗生素只对**细菌**有效，对**病毒**（如感冒）无效。滥用抗生素会导致 *antibiotic resistance*（抗生素耐药性），世卫组织将其列为全球最大的健康威胁之一。
+- resistance | n. | 抵抗；抵抗力；耐药性 | antibiotic resistance; resistance to change | Overusing antibiotics increases bacterial resistance. // There was strong resistance to the new policy.
+  fam: resist (v.) · resistant (adj.)
+- side effect | n. | 副作用 | serious side effects | Most medicines have some side effects.
+- placebo | n. | 安慰剂 | the placebo effect | Some patients feel better after taking a placebo. | W
+  ipa: /pləˈsiːbəʊ/
+  note: **安慰剂效应**：病人吃了没有药效的“假药”，却因为相信它有效而感觉好转。这是为什么新药必须与安慰剂对比测试（*placebo-controlled trials*）。
+- clinical trial | n. | 临床试验 | — | The new drug is being tested in clinical trials. | W
+- hygiene | n. | 卫生 | personal hygiene; poor hygiene | Good hygiene helps prevent the spread of disease.
+  ipa: /ˈhaɪdʒiːn/
+  fam: hygienic (adj.)
+- sanitation | n. | 卫生设施（尤指供水与排污） | — | Poor sanitation causes many diseases in developing countries. | W
+
+## 3 · Lifestyle & prevention · 生活方式与预防
+
+- lifestyle | n. | 生活方式 | a healthy/sedentary lifestyle | A healthy lifestyle includes good food, exercise and enough sleep.
+- sedentary | adj. | 久坐的；不爱活动的 | a sedentary lifestyle/job | A sedentary lifestyle increases the risk of heart disease. | W
+  ipa: /ˈsedntri/
+  note: IELTS 写作讨论健康时的高价值词：*a sedentary lifestyle* 比 *people sit too much* 精确得多。
+- physically active | phr. | 身体活跃的；经常运动的 | — | Children should be physically active for at least an hour a day. | W
+- lifestyle diseases | n. | 生活方式病 | — | Lifestyle diseases such as obesity and type 2 diabetes are often preventable. | W
+- preventable | adj. | 可预防的 | preventable diseases/deaths | Many deaths from heart disease are preventable.
+  fam: prevent (v.) · prevention (n.) · preventive (adj.)
+- prevention is better than cure | phr. | 预防胜于治疗 | — | Prevention is better than cure, so governments should invest in health education. | W
+- risk factor | n. | 风险因素 | a major risk factor for sth | Smoking is a major risk factor for heart disease. | W
+- nicotine | n. | 尼古丁 | — | Nicotine is highly addictive.
+- alcohol | n. | 酒精；酒 | alcohol consumption | Too much alcohol damages the liver.
+  fam: alcoholic (adj./n.)
+- moderation | n. | 适度；节制 | in moderation | Sweets are fine in moderation.
+  fam: moderate (adj./v.)
+- nutritious | adj. | 有营养的 | nutritious food | School meals should be nutritious.
+- regular check-ups | phr. | 定期体检 | — | Regular check-ups can catch problems early.
+- detect | v. | 发现；检测出 | detect cancer early | Early detection of cancer saves lives. | W
+  fam: detection (n.) · detective (n.)
+- alternative medicine | n. | 替代医学（如针灸、草药） | — | Some people use alternative medicine alongside conventional treatment.
+- traditional Chinese medicine | n. | 中医（TCM） | — | Traditional Chinese medicine uses herbs and acupuncture.
+- acupuncture | n. | 针灸 | — | Acupuncture is used to relieve pain.
+  ipa: /ˈækjupʌŋktʃə/
+- organ donation | n. | 器官捐献 | — | Organ donation saves thousands of lives every year.
+- disability | n. | 残疾；缺陷 | people with disabilities | The building is accessible to people with disabilities.
+- carer | n. | 看护者（英；美式 caregiver） | — | Many carers are family members who work without pay.
+
+@cmp prevent · avoid · protect
+prevent | 阻止（某事发生）；prevent sb/sth from doing sth | Vaccines prevent disease. // Rain prevented us from going out.
+avoid | 避开；避免（自己做某事），后接 doing | Try to avoid eating late at night.
+protect | 保护（某人或某物免受伤害） | Sunscreen protects your skin from UV rays.
+@end
+
+@box ielts 写作：健康是个人责任还是政府责任？
+个人：*make healthier choices*、*stay physically active*、*eat in moderation*。政府：*fund public health campaigns*、*tax sugary drinks*（英国 2018 年起征收“糖税”）、*ensure access to affordable healthcare*、*regulate junk food advertising*。高分答案通常认为两者都需要，并解释原因。
+@end

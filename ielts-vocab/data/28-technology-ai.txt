@@ -1,0 +1,113 @@
+@unit 28
+@title Technology & Artificial Intelligence
+@zh 科技与人工智能
+@level B2–C1 · 高级应用
+@intro 深圳被称为“中国硅谷”，科技话题对你来说并不陌生。IELTS 写作常问 *Will AI replace teachers? Has technology made our lives more complicated? Should children use smartphones?* 本单元覆盖数字技术、人工智能、网络安全和科技对社会的影响。
+
+## 1 · Digital technology · 数字技术
+
+- technological | adj. | 技术的；科技的 | technological advances/progress | Technological advances have changed the way we work. | W
+  fam: technology (n.) · technologically (adv.)
+- device | n. | 设备；装置；手段 | electronic devices; a mobile device | Students should switch off their devices during exams.
+- gadget | n. | 小装置；小玩意 | the latest gadgets | He loves buying the latest gadgets. | S
+- digital | adj. | 数字的；数码的 | the digital age; digital skills | We live in a digital age.
+  fam: digitise (v.) · digitally (adv.)
+- software | n. | 软件 | install software | The school uses special software to check for plagiarism.
+- hardware | n. | 硬件；五金器具 | computer hardware | The software is fine, but the hardware is too old.
+- app | n. | 应用程序（application） | download an app | There's an app for almost everything.
+- download | v. / n. | 下载 | download a file/an app | You can download the form from the website.
+  note: 反义词 *upload*（上传）。名词 *downloads* 指下载量：*The app has 10 million downloads.*
+- data storage | n. | 数据存储 | cloud data storage | Cloud data storage allows you to access files from anywhere.
+- cloud computing | n. | 云计算 | — | Cloud computing lets companies rent computing power instead of buying servers. | W
+- wireless | adj. | 无线的 | wireless internet; wireless charging | Most cafés offer free wireless internet.
+- broadband | n. | 宽带 | high-speed broadband | Many rural areas still lack fast broadband. | W
+- connectivity | n. | 连接性；连通性 | internet connectivity | Better connectivity helps rural businesses reach new customers. | W
+- update | v. / n. | 更新；最新消息 | update software; keep sb updated | Remember to update your apps regularly. // Keep me updated on your progress.
+- upgrade | v. / n. | 升级 | upgrade to a newer model | I need to upgrade my phone — it's very slow.
+- compatible | adj. | 兼容的；合得来的 | compatible with sth | This charger is not compatible with my phone.
+  fam: compatibility (n.) · incompatible (adj.)
+- user-friendly | adj. | 方便用户的；易于使用的 | a user-friendly interface | The app is very user-friendly, even for older people. | S
+- interface | n. | 界面；接口 | user interface | The new interface is much easier to use.
+- tech-savvy | adj. | 精通科技的 | tech-savvy teenagers | Young people are usually more tech-savvy than their parents. | S
+- glitch | n. | 小故障 | a technical glitch | A technical glitch delayed the launch. | S
+- crash | v. / n. | （电脑）死机；撞车；暴跌 | My computer crashed | My laptop crashed and I lost my essay. | S
+- obsolete | adj. | 过时的；被淘汰的 | become obsolete | Fax machines have become almost obsolete. | W
+  note: *obsolete*（已被淘汰、不再使用）比 *outdated*（过时的、旧式的）更强烈。*Floppy disks are obsolete*（已不再使用）vs. *outdated software*（版本过旧）。
+- outdated | adj. | 过时的；陈旧的 | outdated technology/ideas | Some of our textbooks are outdated.
+- cutting-edge | adj. | 最先进的；尖端的 | cutting-edge technology/research | The lab uses cutting-edge technology. | W
+- state-of-the-art | adj. | 最先进的；顶级的 | state-of-the-art equipment | The hospital has state-of-the-art equipment.
+- high-tech | adj. | 高科技的 | high-tech industries | Shenzhen is famous for its high-tech industries.
+- wearable | adj. / n. | 可穿戴的；可穿戴设备 | wearable technology | Wearable devices can track your heart rate and sleep.
+- smart | adj. | 智能的；聪明的；（英）整洁漂亮的 | smart devices; smart cities; look smart | Smart home devices can be controlled by voice. // You look smart in that suit.
+- the Internet of Things | n. | 物联网 | — | The Internet of Things connects everyday objects to the internet. | W
+- virtual reality | n. | 虚拟现实（VR） | — | Virtual reality is being used to train surgeons.
+  fam: virtual (adj.) · virtually (adv., 几乎)
+  note: *virtually* 在日常英语中最常见的意思是“**几乎**”（= almost）：*Virtually every student has a phone.* 不要误解为“虚拟地”。
+- augmented reality | n. | 增强现实（AR） | — | Augmented reality adds digital images to what you see through your camera.
+
+## 2 · Artificial intelligence · 人工智能
+
+* artificial intelligence | n. | 人工智能（AI） | the development of artificial intelligence | Artificial intelligence is changing many industries, from medicine to education. | W
+  fam: artificial (adj.) · artificially (adv.)
+  note: *artificial* = 人造的（≠ natural）：*artificial sweeteners, artificial light*。注意 AI 话题的写作要避免两个极端：既不要说“AI 将取代所有人”，也不要说“AI 毫无影响”。更有说服力的写法是区分哪些任务容易被自动化（重复、规则清楚），哪些不容易（需要判断、同理心、创造力）。
+- machine learning | n. | 机器学习 | — | Machine learning allows computers to improve by learning from data. | W
+- automation | n. | 自动化 | — | Automation has replaced many factory jobs. | W
+  fam: automate (v.) · automated (adj.) · automatic (adj.)
+- robot | n. | 机器人 | — | Robots now assemble most cars.
+  fam: robotics (n.) · robotic (adj.)
+- chatbot | n. | 聊天机器人 | — | Many companies use chatbots to answer customer questions.
+- generative AI | n. | 生成式人工智能 | — | Generative AI can produce text, images and music. | W
+- processing power | n. | 处理能力；算力 | — | Modern phones have more processing power than early supercomputers.
+- facial recognition | n. | 人脸识别 | facial recognition technology | Facial recognition is used to unlock phones and pay for goods.
+- deepfake | n. | 深度伪造（视频、音频） | — | Deepfakes make it harder to know what is real online.
+- replace | v. | 取代；替换 | replace A with B; be replaced by | Will robots replace human workers?
+  fam: replacement (n.)
+  note: 结构：*replace A **with** B*（用 B 替换 A）；*A is replaced **by** B*（A 被 B 取代）。
+- job displacement | n. | 工作岗位被取代 | — | Governments need policies to deal with job displacement caused by AI. | W
+- human oversight | n. | 人工监督 | — | Important decisions made by AI should be subject to human oversight. | W
+- transparency | n. | 透明度 | lack of transparency | People want more transparency about how algorithms make decisions. | W
+  fam: transparent (adj.)
+- accountable | adj. | 负有责任的；应负责的 | be held accountable for sth | Who should be held accountable when a self-driving car crashes? | W
+  fam: accountability (n.)
+- self-driving | adj. | 自动驾驶的 | a self-driving car | Self-driving taxis are already being tested in some cities.
+  note: 也称 *autonomous vehicles*（自动驾驶汽车）、*driverless cars*。
+
+## 3 · Online security · 网络安全
+
+- cybersecurity | n. | 网络安全 | — | Banks spend huge amounts on cybersecurity. | W
+- password | n. | 密码 | a strong password | Use a different password for each account.
+- encrypt | v. | 加密 | encrypted messages | The app encrypts all messages.
+  fam: encryption (n.)
+- data breach | n. | 数据泄露 | — | A data breach exposed the personal details of millions of customers. | W
+- personal data | n. | 个人数据 | protect personal data | Companies must protect their customers' personal data.
+- malware | n. | 恶意软件 | — | Don't click on links in strange emails — they may contain malware.
+- phishing | n. | 网络钓鱼（骗取密码等） | phishing emails | Phishing emails try to trick you into giving away your password.
+  ipa: /ˈfɪʃɪŋ/
+- identity theft | n. | 身份盗窃 | — | Identity theft is one of the fastest-growing crimes.
+- consent | n. / v. | 同意；许可 | without sb's consent; give consent | Apps should not collect data without users' consent. | W
+- terms and conditions | n. | 条款与条件 | accept the terms and conditions | Very few people read the terms and conditions.
+
+## 4 · Technology & society · 科技与社会
+
+- digital divide | n. | 数字鸿沟 | bridge the digital divide | The digital divide means poorer families have less access to technology. | W
+  note: *digital divide* 指不同人群（城乡、贫富、年龄）在获取和使用数字技术上的差距。写作中可与 *access to technology*、*digital literacy* 搭配讨论。
+- reliance | n. | 依赖 | reliance on technology | Our growing reliance on technology makes us vulnerable to cyberattacks. | W
+- attention span | n. | 注意力持续时间 | a short attention span | Some people believe social media is shortening our attention spans.
+  note: 常见说法“人类的注意力持续时间比金鱼还短（8 秒）”**没有可靠研究依据**，是被广泛传播的错误数据。引用时要小心——这本身就是一个关于 *misinformation* 的好例子。
+- revolutionise | v. | 彻底改变；使发生革命性变化 | revolutionise the way we… | The smartphone revolutionised the way we communicate. | W
+- disrupt | v. | 扰乱；颠覆（行业） | disrupt an industry; disrupt sleep | Ride-hailing apps disrupted the taxi industry. | W
+  fam: disruption (n.) · disruptive (adj.)
+- streamline | v. | 使（流程）简化、高效 | streamline a process | Online forms have streamlined the application process. | W
+- keep pace with | phr. | 跟上……的步伐 | keep pace with change | Laws have not kept pace with technological change. | W
+- double-edged sword | phr. | 双刃剑 | — | Technology is a double-edged sword: it brings both benefits and risks. | S W
+- unplug | v. | 拔掉插头；（比喻）暂时远离电子设备 | — | It's good to unplug from technology for a few hours a day. | S
+
+@cmp technique · technology · technical
+technique | 技巧；方法（做事的具体方式） | She uses a special breathing technique before exams.
+technology | 技术；科技（工具与知识系统） | Medical technology has improved rapidly.
+technical | 技术上的；专业的 | We had some technical problems with the projector.
+@end
+
+@box ielts 写作：AI 会取代人类工作吗？
+可用论点：*automate routine tasks*（自动化重复性工作）· *create new types of jobs* · *job displacement in manufacturing and customer service* · *the need for retraining and lifelong learning* · *tasks requiring empathy and creativity are harder to automate*。用 *may / is likely to* 等表达预测的不确定性（第四册 Unit 45）。
+@end

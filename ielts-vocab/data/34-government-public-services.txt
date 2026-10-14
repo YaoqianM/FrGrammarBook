@@ -1,0 +1,107 @@
+@unit 34
+@title Government, Policy & Public Services
+@zh 政府、政策与公共服务
+@level B2–C1 · 高级应用
+@intro 在 IELTS 写作中，几乎每个话题最后都会落到“政府应该怎么做”：*Should the government fund the arts? Should public transport be free? Is it the government's responsibility to …?* 本单元给你讨论政策所需的核心词汇——包括政府机构、政策工具、税收与公共服务。这里重在描述政策和公共服务本身，不涉及对具体国家政治的评价。
+
+## 1 · Government & politics · 政府与政治
+
+* government | n. | 政府；治理 | central/local government; government funding | The government has announced a new education policy.
+  ipa: /ˈɡʌvənmənt/
+  fam: govern (v.) · governance (n.) · governmental (adj.)
+  note: 读音：*government* 中的第一个 n 在快速口语中几乎听不到，/ˈɡʌvəmənt/。*the government* 在英式英语中可以接单数或复数动词。写作中可以用 *the authorities*（当局）替换，避免重复。
+- the authorities | n. | 当局；有关部门（复数） | local authorities | The authorities closed the beach after the shark attack. | W
+  fam: authority (n.) · authorise (v.)
+- policy | n. | 政策；方针 | government policy; introduce a policy | The new policy aims to reduce traffic in the city centre. | W
+  note: 搭配：*introduce / implement / adopt / announce a policy*。*policymaker*（政策制定者）是写作中很好用的主语。
+- policymaker | n. | 政策制定者 | — | Policymakers must balance economic growth with environmental protection. | W
+- politics | n. | 政治；政治学 | go into politics; local politics | Many young people are not interested in politics.
+  fam: political (adj.) · politician (n.) · politically (adv.)
+- democracy | n. | 民主；民主国家 | — | Free elections are an important part of democracy.
+  fam: democratic (adj.)
+- election | n. | 选举 | hold an election; win an election | The election will be held next year.
+  fam: elect (v.)
+- vote | v. / n. | 投票；选票 | vote for/against sth; the right to vote | In most countries, people can vote at 18.
+  fam: voter (n.)
+- parliament | n. | 议会；国会 | — | The new law was passed by parliament.
+  ipa: /ˈpɑːləmənt/
+- minister | n. | 部长；大臣 | the education minister | The health minister announced new funding for hospitals.
+  fam: ministry (n.)
+- official | n. / adj. | 官员；官方的；正式的 | government officials; official figures | Official figures show that unemployment has fallen.
+- civil servant | n. | 公务员 | — | Civil servants carry out government policy.
+- bureaucracy | n. | 官僚主义；官僚机构 | cut bureaucracy | Too much bureaucracy slows down small businesses. | W
+  ipa: /bjʊəˈrɒkrəsi/
+  fam: bureaucratic (adj.)
+- corruption | n. | 腐败；贪污 | fight corruption | Corruption reduces trust in public institutions. | W
+  fam: corrupt (adj./v.)
+- institution | n. | 机构；制度；惯例 | public institutions; financial institutions | Schools and hospitals are important public institutions. | W
+  fam: institutional (adj.)
+- national | adj. | 国家的；全国的 | national security; national parks | National parks protect wildlife and landscapes.
+- local government | n. | 地方政府 | — | Local government is responsible for rubbish collection.
+- diplomacy | n. | 外交；交际手段 | — | The conflict was resolved through diplomacy.
+  fam: diplomat (n.) · diplomatic (adj.)
+- treaty | n. | 条约 | sign a treaty | The two countries signed a peace treaty.
+- non-governmental organisation | n. | 非政府组织（NGO） | — | Many NGOs work to reduce poverty in developing countries. | W
+- protest | n. / v. | 抗议 | protest against sth | Thousands of people protested against the new airport.
+  ipa: /ˈprəʊtest/ (n.) · /prəˈtest/ (v.)
+- petition | n. / v. | 请愿书；请愿 | sign a petition | More than 10,000 people signed the petition.
+- referendum | n. | 全民公投 | hold a referendum | The UK held a referendum on EU membership in 2016. | W
+
+## 2 · Policy tools · 政策工具
+
+- implement | v. | 实施；执行 | implement a policy/plan | It will take years to implement the new policy. | W
+  fam: implementation (n.)
+  note: 区分：*make/introduce a policy*（制定、推出政策）→ *implement a policy*（实施政策）→ *evaluate a policy*（评估政策）。阅读中常考“计划了 vs. 已实施”的区别。
+- reform | n. / v. | 改革 | education reform; reform the system | The government plans to reform the pension system. | W
+- initiative | n. | 倡议；新措施；主动性 | a government initiative; take the initiative | The initiative aims to plant a million trees. // She took the initiative and organised the event.
+  ipa: /ɪˈnɪʃətɪv/
+- intervene | v. | 干预；介入 | intervene in sth | Should the government intervene in the housing market? | W
+  fam: intervention (n.)
+- allocate | v. | 分配；拨出 | allocate funds/resources to sth | The city allocated 2 billion yuan to build new schools. | W
+  fam: allocation (n.)
+- prioritise | v. | 优先考虑；按重要性排序 | prioritise sth over sth | The government should prioritise education over military spending. | W
+  fam: priority (n.)
+- mandatory | adj. | 强制的；法定的 | mandatory for all | Wearing a helmet is mandatory for motorcyclists. | W
+- privatise | v. | 使私有化 | privatise public services | Some countries have privatised their railways. | W
+  fam: privatisation (n.)
+  note: 反义词 *nationalise*（收归国有）。讨论公共服务时：*Should public services be privatised?* 是常见题。
+- nationalise | v. | 使国有化 | nationalise the railways | The government nationalised the failing bank. | W
+- public consultation | n. | 公众咨询；征求意见 | — | The plan was changed after a public consultation. | W
+- impose | v. | 强制实行；把……强加于 | impose a tax/ban on sth; impose restrictions | The city imposed restrictions on car use. | W
+- restriction | n. | 限制 | impose restrictions on sth; travel restrictions | Travel restrictions were lifted in 2023.
+  fam: restrict (v.) · restrictive (adj.)
+- lift a ban | phr. | 解除禁令 | — | The country lifted its ban on the import of beef. | W
+
+## 3 · Taxes & public spending · 税收与公共开支
+
+* tax | n. / v. | 税；征税 | income tax; raise/cut taxes; tax sth | The government plans to raise taxes on cigarettes.
+  fam: taxation (n.) · taxpayer (n.)
+  note: 写作高频搭配：*taxpayers' money*（纳税人的钱，常用于讨论政府开支是否合理）、*higher taxes on the rich*、*tax breaks / tax incentives*（税收优惠）、*fund sth through taxation*。
+- public spending | n. | 公共开支；政府支出 | cut/increase public spending | Public spending on health has risen sharply. | W
+- public services | n. | 公共服务 | — | Public services include schools, hospitals and the police. | W
+- public funds | n. | 公共资金 | — | Public funds should be used carefully. | W
+- government-funded | adj. | 政府资助的 | government-funded research | Government-funded schools are free for local children. | W
+- welfare | n. | 福利；福祉 | social welfare; the welfare state; animal welfare | The welfare system supports people who cannot work. | W
+  note: *welfare* 的两个义：“福利（制度）”（*the welfare state* = 福利国家）和“幸福、福祉”（*child welfare*、*animal welfare*）。
+- social security | n. | 社会保障 | — | Social security provides income for elderly and disabled people. | W
+- pension scheme | n. | 养老金计划 | — | Everyone should join a pension scheme.
+- benefit | n. / v. | 好处；福利金；受益 | benefit from sth; unemployment benefit; employee benefits | Everyone can benefit from regular exercise. // She receives unemployment benefit.
+  fam: beneficial (adj.) · beneficiary (n.)
+- cost-effective | adj. | 划算的；成本效益高的 | a cost-effective way to… | Prevention is more cost-effective than treatment. | W
+- waste of taxpayers' money | phr. | 浪费纳税人的钱 | — | Critics called the new stadium a waste of taxpayers' money. | W
+- universal | adj. | 普遍的；全民的 | universal healthcare; universal basic income | Many countries provide universal healthcare. | W
+  note: *universal basic income*（全民基本收入，UBI）是近年政策讨论热点：政府定期给所有公民发放一笔无条件的钱。芬兰等地做过试点实验。
+- means-tested | adj. | 按经济状况审查的 | means-tested benefits | Some benefits are means-tested, so only poorer families receive them. | W
+- the arts | n. | 艺术（总称：音乐、戏剧、美术等） | funding for the arts | Should the government spend money on the arts? | W
+- emergency services | n. | 紧急服务（警察、消防、救护） | — | The emergency services arrived within minutes.
+
+@cmp policy · politics · political
+policy | 政策（具体的方针、措施） | The school has a strict policy on phones.
+politics | 政治（权力、政党、选举等活动） | He wants to go into politics.
+political | 政治的（形容词） | Political parties held rallies before the election.
+@end
+
+@box ielts 写作：政府角色的“动词库”
+*fund* · *invest in* · *subsidise* · *regulate* · *legislate* · *ban* · *impose a tax on* · *offer incentives for* · *raise public awareness of* · *provide* · *ensure* · *prioritise*
+示例：*Rather than banning cars outright, the government could **impose a congestion charge** and **invest in** public transport.*
+@end

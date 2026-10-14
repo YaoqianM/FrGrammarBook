@@ -1,0 +1,100 @@
+@unit 32
+@title Nutrition, Farming & Food Security
+@zh 营养、农业与粮食安全
+@level B2–C1 · 高级应用
+@intro 第一册 Unit 5 讨论了日常饮食。本单元从三个更学术的角度看“吃”这件事：**营养学、现代农业、全球粮食安全**。IELTS 写作常见题目：*Should junk food be taxed? Is organic food worth the price? How can we feed a growing world population?*
+
+## 1 · Nutrition · 营养
+
+- nutrition | n. | 营养；营养学 | good nutrition; nutrition labels | Good nutrition is essential for children's growth. | W
+  fam: nutritional (adj.)
+- nutrient | n. | 营养素；养分 | essential nutrients | Vegetables are full of essential nutrients. | W
+  note: 营养素主要分为 *macronutrients*（宏量营养素：蛋白质、碳水化合物、脂肪）和 *micronutrients*（微量营养素：维生素、矿物质）。
+- protein | n. | 蛋白质 | high in protein | Eggs, beans and fish are good sources of protein.
+  ipa: /ˈprəʊtiːn/
+- carbohydrate | n. | 碳水化合物（口语 carbs） | — | Rice and bread are rich in carbohydrates.
+- fibre | n. | 纤维；膳食纤维（美式 fiber） | dietary fibre | Wholegrain bread contains more fibre than white bread.
+- vitamin | n. | 维生素 | vitamin C; vitamin supplements | Oranges are a good source of vitamin C.
+  ipa: /ˈvɪtəmɪn/ (UK) · /ˈvaɪtəmɪn/ (US)
+- calorie | n. | 卡路里；热量 | high-calorie food; count calories | Sugary drinks contain a lot of calories.
+- saturated fat | n. | 饱和脂肪 | — | Too much saturated fat raises cholesterol levels.
+- balanced diet | n. | 均衡饮食 | — | A balanced diet includes fruit, vegetables, protein and whole grains.
+- supplement | n. / v. | 补充（剂）；增补 | vitamin supplements; supplement your income | Most people who eat a balanced diet don't need supplements.
+- deficiency | n. | 缺乏；不足 | vitamin deficiency; iron deficiency | Iron deficiency can make you feel tired. | W
+  fam: deficient (adj.)
+- malnutrition | n. | 营养不良 | — | Malnutrition affects millions of children worldwide. | W
+  note: *malnutrition* 不只是“吃不饱”，也包括营养不均衡——肥胖人群也可能营养不良。前缀 *mal-* = 坏的、不良的：*malfunction*（故障）、*malpractice*（失职）。
+- additive | n. | 添加剂 | food additives | Some food additives are banned in certain countries.
+- preservative | n. | 防腐剂 | contain preservatives | This bread contains no preservatives.
+- shelf life | n. | 保质期 | a long shelf life | Processed food usually has a long shelf life.
+- expiry date | n. | 有效期；截止日期（美式 expiration date） | — | Check the expiry date before you buy milk.
+- plant-based | adj. | 植物性的 | a plant-based diet | Plant-based diets are becoming more popular.
+- vegan | n. / adj. | 纯素食者；纯素的 | — | Vegans don't eat any animal products, including eggs and milk.
+  ipa: /ˈviːɡən/
+- food label | n. | 食品标签 | read food labels | Food labels show how much sugar a product contains.
+
+## 2 · Agriculture · 农业
+
+* agriculture | n. | 农业 | modern agriculture; sustainable agriculture | Agriculture uses about 70% of the world's fresh water. | W
+  fam: agricultural (adj.)
+  note: “农业用水约占全球淡水取用量的 70%”是联合国粮农组织（FAO）和世界银行常引用的数据。*agri-* = 田地：*agriculture*、*agribusiness*。
+- farming | n. | 农业；耕作；养殖 | organic farming; fish farming | Farming is still the main source of income in many rural areas.
+- crop | n. | 庄稼；作物；一批 | grow crops; crop failure | Rice is the main crop in southern China.
+- harvest | n. / v. | 收获；收成 | a good harvest; harvest rice | Farmers harvest rice twice a year in Guangdong.
+- yield | n. / v. | 产量；产出；屈服；让步 | crop yields; yield results | New farming methods have increased crop yields. // The research has yielded interesting results. | W
+  note: 学术中 *yield* 的两个高频义：名词“产量”（high yields）；动词“产生（结果）”（yield results/benefits）。还有“让路”（*Yield* 是美国交通标志，英国用 *Give way*）。
+- grain | n. | 谷物；颗粒 | grain production; a grain of rice/sand | China is one of the world's largest grain producers.
+- staple food | n. | 主食 | — | Rice is the staple food for more than half of the world's population.
+- fertiliser | n. | 肥料 | chemical fertilisers | Too much fertiliser can pollute rivers.
+  fam: fertile (adj.) · fertility (n.)
+- pesticide | n. | 农药；杀虫剂 | — | Some pesticides are harmful to bees. | W
+  note: *-cide* = 杀：*pesticide*（害虫）、*insecticide*（昆虫）、*herbicide*（除草剂）、*suicide*（自杀）。
+- irrigation | n. | 灌溉 | irrigation systems | Irrigation allows farmers to grow crops in dry areas. | W
+  fam: irrigate (v.)
+- organic | adj. | 有机的 | organic food/farming | Organic farmers do not use artificial pesticides.
+  note: *organic food* 是否更健康，是有争议的话题：研究普遍认为有机食品农药残留较少，但在营养价值上的优势证据有限。写作讨论时可以用 *the evidence is mixed*。
+- genetically modified | adj. | 转基因的（GM） | GM crops/food | Genetically modified crops can resist pests and drought. | W
+- intensive farming | n. | 集约化农业 | — | Intensive farming produces cheap food but can damage the environment. | W
+- factory farming | n. | 工厂化养殖 | — | Factory farming raises concerns about animal welfare. | W
+- free-range | adj. | 散养的 | free-range eggs/chickens | Free-range chickens can move around outside.
+- arable land | n. | 可耕地 | — | Only a small share of China's land is arable. | W
+  note: 中国以约占世界 7%–9% 的耕地养活了近 20% 的人口——这是讨论粮食安全时常被引用的对比（具体比例因统计口径而异）。
+- vertical farming | n. | 垂直农业 | — | Vertical farming grows crops in stacked layers inside buildings. | W
+- urban farming | n. | 城市农业 | — | Urban farming helps cities produce some of their own food.
+- drought-resistant | adj. | 抗旱的 | drought-resistant crops | Scientists are developing drought-resistant varieties of wheat. | W
+- rural livelihoods | phr. | 农村生计 | — | Climate change threatens rural livelihoods in many countries. | W
+  fam: livelihood (n.)
+
+## 3 · Food security · 粮食安全
+
+- food security | n. | 粮食安全 | — | Food security means everyone has access to enough safe, nutritious food. | W
+  note: 联合国粮农组织对 *food security* 的定义包括四个方面：*availability*（供应）、*access*（获取）、*utilisation*（利用）、*stability*（稳定）。注意它与 *food safety*（食品安全，即食物干净无毒）不同。
+- food safety | n. | 食品安全（卫生） | food safety standards | Strict food safety standards protect consumers.
+- famine | n. | 饥荒 | — | Millions of people died in the famine.
+  ipa: /ˈfæmɪn/
+- starvation | n. | 饥饿；饿死 | die of starvation | Thousands of people face starvation after the drought.
+  fam: starve (v.)
+- hunger | n. | 饥饿；渴望 | world hunger; a hunger for knowledge | Ending world hunger is one of the UN's Sustainable Development Goals.
+  fam: hungry (adj.)
+- food shortage | n. | 食物短缺 | — | The war caused severe food shortages.
+- food miles | n. | 食物里程（食物从产地到餐桌的运输距离） | — | Buying local food reduces food miles. | W
+- locally grown | adj. | 本地种植的 | locally grown vegetables | Restaurants are using more locally grown produce.
+- produce | n. | 农产品 | fresh produce; local produce | The market sells fresh local produce.
+  ipa: /ˈprɒdjuːs/ (n.) · /prəˈdjuːs/ (v.)
+  note: 名词 *produce*（农产品，不可数）重音在前；动词 *produce*（生产）重音在后。
+- meat consumption | n. | 肉类消费 | — | Rising meat consumption puts pressure on land and water. | W
+- lab-grown meat | n. | 实验室培育肉；人造肉 | — | Lab-grown meat could reduce the need for livestock farming. | W
+- feed a growing population | phr. | 养活不断增长的人口 | — | How can we feed a growing population without destroying more forests? | W
+  note: 联合国预测世界人口将在 2080 年代达到约 103 亿的峰值（《世界人口展望 2024》）。
+- self-sufficient | adj. | 自给自足的 | self-sufficient in food | Few countries are completely self-sufficient in food. | W
+  fam: self-sufficiency (n.)
+- sugar tax | n. | 糖税 | — | A sugar tax could reduce the amount of sugar people consume. | W
+
+@cmp food security · food safety
+food security | 粮食安全：人人能获得足够、安全、有营养的食物 | Drought threatens food security in the region.
+food safety | 食品安全：食物卫生、无污染、不致病 | The restaurant was closed for breaking food safety rules.
+@end
+
+@box ielts 写作：应不应该对垃圾食品征税？
+支持：*discourage unhealthy eating*、*reduce obesity and related diseases*、*raise revenue for healthcare*。反对：*unfair to low-income families*（对低收入家庭不公平，即“累退性”*regressive*）、*limit personal freedom*、*education may be more effective*。
+@end

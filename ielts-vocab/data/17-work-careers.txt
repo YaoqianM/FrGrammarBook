@@ -79,7 +79,6 @@ note: ✗ *a work* → ✓ *a job*。*works* 作复数时指“作品”（the w
 - earn | v. | 挣得；赢得 | earn money; earn a living; earn respect | How much does a nurse earn?
   fam: earnings (n.)
 - bonus | n. | 奖金；额外的好处 | a year-end bonus | Staff receive a bonus at Chinese New Year.
-- benefits | n. | 福利；津贴 | employee benefits; unemployment benefits | The job comes with good benefits, including health insurance.
 - perk | n. | 额外待遇（口语） | the perks of the job | Free lunch is one of the perks of the job. | S
 - working conditions | n. | 工作条件 | poor working conditions | Workers protested about poor working conditions.
 - job security | n. | 工作稳定性 | — | Government jobs offer more job security. | W

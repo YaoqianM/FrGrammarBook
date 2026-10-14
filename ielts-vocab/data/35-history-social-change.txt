@@ -1,0 +1,113 @@
+@unit 35
+@title History, Society & Social Change
+@zh 历史、社会与社会变迁
+@level B2–C1 · 高级应用
+@intro 历史与考古是 IELTS 阅读的传统题材（古代文明、技术发明的历史、考古发现）。写作中则常讨论社会变化：*Is it important to study history? How has the role of women changed? Are traditional values disappearing?* 本单元把“讲历史”和“讲变化”所需的词汇放在一起。
+
+@cmp historic · historical · history
+historic | 有历史意义的；历史上著名的 | a historic moment // a historic building
+historical | 与历史有关的；历史上的（中性） | historical documents // a historical novel
+history | 历史（名词） | China has a long history.
+note: *a historic day* = 具有历史意义的一天；*a historical event* = 历史上发生过的事件（不一定重要）。
+@end
+
+## 1 · Periods & civilisations · 时期与文明
+
+- ancient | adj. | 古代的；古老的 | ancient civilisations; ancient Rome | The ancient Egyptians built the pyramids.
+  ipa: /ˈeɪnʃənt/
+- medieval | adj. | 中世纪的 | medieval Europe; a medieval castle | The town still has its medieval walls.
+  ipa: /ˌmediˈiːvl/
+- era | n. | 时代；纪元 | a new era; the digital era | The internet marked the beginning of a new era. | W
+  ipa: /ˈɪərə/
+- decade | n. | 十年 | over the past decade | Prices have doubled over the past decade.
+- century | n. | 世纪；百年 | in the 19th century | The bridge was built in the 19th century.
+- civilisation | n. | 文明 | ancient civilisations | The Maya built an advanced civilisation in Central America. | W
+  fam: civilised (adj.) · civil (adj.)
+- empire | n. | 帝国 | the Roman Empire; build an empire | The Roman Empire lasted for centuries.
+  fam: imperial (adj.) · emperor (n.)
+- dynasty | n. | 王朝；朝代 | the Tang Dynasty | The Great Wall was rebuilt during the Ming Dynasty.
+  ipa: /ˈdɪnəsti/
+- colony | n. | 殖民地；（动植物）群体 | a former British colony | Hong Kong was a British colony until 1997.
+  fam: colonial (adj.) · colonise (v.) · colonialism (n.)
+- revolution | n. | 革命；彻底变革；旋转 | the Industrial Revolution; a digital revolution | The Industrial Revolution began in Britain in the 18th century.
+  fam: revolutionary (adj.) · revolve (v.)
+  note: 第一次工业革命大约始于 18 世纪下半叶的英国，以蒸汽机和纺织机械为标志。*revolution* 也可指任何领域的“彻底变革”：*a revolution in medicine*。
+- invade | v. | 入侵；侵犯 | invade a country; invade sb's privacy | The army invaded the neighbouring country.
+  fam: invasion (n.) · invader (n.)
+- conquer | v. | 征服；克服 | conquer a country; conquer your fears | Genghis Khan conquered a huge area of Asia.
+  ipa: /ˈkɒŋkə/
+  fam: conquest (n.)
+- independence | n. | 独立 | gain independence from sth | India gained independence from Britain in 1947.
+- ancestor | n. | 祖先 | our ancestors | Our ancestors lived by hunting and gathering.
+  fam: ancestral (adj.)
+- descendant | n. | 后代；后裔 | a direct descendant of | He claims to be a descendant of Confucius.
+- origin | n. | 起源；出身 | the origins of sth; country of origin | The origins of the festival go back 2,000 years.
+  fam: original (adj.) · originate (v.) · originally (adv.)
+- legacy | n. | 遗产；遗留影响 | leave a legacy | The Olympics left a lasting legacy for the city. | W
+  note: *legacy* 不仅指金钱遗产，更常指“留给后世的影响”：*the legacy of colonialism*、*the Olympic legacy*。
+- monument | n. | 纪念碑；遗迹 | an ancient monument | The monument was built to remember the war.
+- ruins | n. | 废墟；遗迹（常用复数） | in ruins; ancient ruins | Tourists visited the ruins of the old palace.
+
+## 2 · Studying the past · 研究过去
+
+- archaeology | n. | 考古学 | — | Archaeology helps us understand how people lived thousands of years ago.
+  ipa: /ˌɑːkiˈɒlədʒi/
+  fam: archaeologist (n.) · archaeological (adj.)
+- excavate | v. | 发掘；挖掘 | excavate a site | Archaeologists excavated the tomb in 1974. | W
+  fam: excavation (n.)
+  note: 例句所指：秦始皇兵马俑于 1974 年被当地农民打井时发现，随后开始考古发掘。
+- artefact | n. | 人工制品；文物（美式 artifact） | ancient artefacts | The museum displays artefacts from the Bronze Age. | W
+  ipa: /ˈɑːtɪfækt/
+- primary source | n. | 原始资料；第一手资料 | — | Letters and diaries are useful primary sources for historians. | W
+  note: *primary sources*（一手资料：当时的信件、日记、照片）vs. *secondary sources*（二手资料：后人写的研究、教材）。批判性阅读的重要概念。
+- chronological | adj. | 按时间顺序的 | in chronological order | The events are listed in chronological order.
+- date back to | phr. | 追溯到 | — | This temple dates back to the 12th century.
+- in retrospect | phr. | 回想起来；回顾过去 | — | In retrospect, it was the right decision. | W
+- hindsight | n. | 事后的认识；后见之明 | with hindsight; in hindsight | With hindsight, we should have left earlier.
+- nostalgia | n. | 怀旧；乡愁 | — | Old songs fill me with nostalgia.
+  fam: nostalgic (adj.)
+- turning point | n. | 转折点 | a turning point in history | The invention of printing was a turning point in history.
+- milestone | n. | 里程碑；重大事件 | an important milestone | Landing on the Moon was a milestone in space exploration.
+- watershed | n. | 分水岭；转折点 | a watershed moment | The year 1978 was a watershed for China's economy. | W
+  note: 1978 年中国开始改革开放（*reform and opening-up*），被普遍视为中国当代经济史的转折点。
+- the rise and fall of | phr. | ……的兴衰 | — | The book tells the story of the rise and fall of the Roman Empire.
+- collapse | v. / n. | 倒塌；崩溃 | the collapse of an empire | Historians disagree about why the civilisation collapsed.
+- flourish | v. | 繁荣；兴旺；茁壮成长 | — | Trade and culture flourished during the Tang Dynasty. | W
+- thrive | v. | 兴旺；蓬勃发展；茁壮成长 | — | Some animals thrive in cities. // Small businesses are thriving in the area. | W
+  note: *thrive* 和 *flourish* 都表示“蓬勃发展”；*thrive* 也常用于人或生物“在某种环境中长得好”：*Children thrive on routine.*
+
+## 3 · Social change · 社会变迁
+
+* social change | n. | 社会变迁 | rapid social change | The internet has driven rapid social change. | W
+  note: 描述社会变化的常用结构：*There has been a shift in attitudes towards…*（人们对……的态度发生了转变）、*… has become more widely accepted*、*… is no longer seen as…*。
+- attitude | n. | 态度；看法 | attitudes towards sth; a positive attitude | Attitudes towards working mothers have changed a lot.
+- conservative | adj. | 保守的；守旧的 | conservative views | My grandparents are quite conservative about marriage.
+- progressive | adj. | 进步的；渐进的 | progressive ideas; a progressive disease | The city has progressive policies on recycling. // Alzheimer's is a progressive disease.
+- movement | n. | 运动；动作；移动 | a social movement; the environmental movement | The environmental movement grew in the 1970s.
+- gender | n. | 性别（社会意义上的） | gender equality; gender roles | Gender roles have changed significantly in many societies. | W
+  note: *gender equality*（性别平等）、*the gender pay gap*（性别薪酬差距）、*traditional gender roles*（传统性别角色）是写作中常用的搭配。
+- equal opportunities | n. | 机会均等 | — | Everyone should have equal opportunities in education. | W
+- discrimination | n. | 歧视；辨别 | discrimination against sb | Discrimination against women at work is illegal in many countries. | W
+  fam: discriminate (v.)
+- racism | n. | 种族主义 | — | Sport can help fight racism.
+  fam: racist (adj./n.)
+- social class | n. | 社会阶层 | — | Social class still affects people's chances in life. | W
+- status | n. | 地位；身份；状态 | social status; marital status | Education is linked to social status.
+  ipa: /ˈsteɪtəs/
+- social mobility | n. | 社会流动性 | — | Education is the key to social mobility. | W
+  note: *social mobility* 指人们在社会阶层之间上下移动的可能性。“教育促进社会流动”是写作中的经典论点，但许多研究也指出，家庭背景对教育结果的影响依然很大。
+- abolish | v. | 废除 | abolish slavery/a law | Britain abolished slavery in its colonies in 1833. | W
+  fam: abolition (n.)
+- slavery | n. | 奴隶制 | — | Slavery was abolished in the United States in 1865.
+  fam: slave (n.)
+- emancipate | v. | 解放 | — | Education helped emancipate women from traditional roles. | W
+  fam: emancipation (n.)
+- traditional values | n. | 传统价值观 | — | Some people worry that traditional values are disappearing.
+- generational | adj. | 一代的；代际的 | generational differences | Generational differences can cause conflict at work.
+- nuclear family | n. | 核心家庭（父母和子女） | — | The nuclear family has replaced the extended family in many cities. | W
+- extended family | n. | 大家庭（含祖父母、叔姨等） | — | In many cultures, people live with their extended family.
+- outdated attitudes | phr. | 过时的观念 | — | Outdated attitudes towards disability are slowly changing. | W
+
+@box ielts 写作：学历史有没有用？
+支持：*learn from past mistakes*、*understand the roots of current issues*、*develop critical thinking through analysing sources*、*preserve cultural identity*。反对或保留：*focus on practical skills for the future*。高分作文会把学历史和**现实问题**联系起来，而不只是“记住日期”。
+@end

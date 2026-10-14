@@ -1,0 +1,135 @@
+@unit 27
+@title Science, Research & Evidence
+@zh 科学、研究与证据
+@level B2–C1 · 高级应用
+@intro IELTS 学术阅读中有相当比例的文章来自科普和学术期刊。读懂它们，需要熟悉**科学研究的“流程词汇”**：假设、实验、样本、结果、验证。本单元同时帮助你分清几组关键概念：*theory / hypothesis*、*correlation / causation*、*prove / suggest*。
+
+## 1 · The research process · 研究过程
+
+* hypothesis | n. | 假说；假设（复数 hypotheses） | form/test a hypothesis | The scientists tested the hypothesis that sleep improves memory. | W
+  ipa: /haɪˈpɒθəsɪs/
+  fam: hypothetical (adj.)
+  note: **hypothesis** 是一个有待验证的、具体的预测；**theory** 则是经过大量证据检验、能解释许多现象的系统性解释（如 *the theory of evolution*）。日常英语中 *It's just a theory* 意为“只是猜测”，但在科学中 *theory* 的地位远高于“猜测”。
+- theory | n. | 理论；学说 | in theory; a scientific theory | Einstein's theory of relativity changed physics.
+  fam: theoretical (adj.) · theoretically (adv.)
+- experiment | n. / v. | 实验；试验 | conduct/carry out an experiment; experiment with/on | They conducted an experiment to test the new material.
+  fam: experimental (adj.)
+- researcher | n. | 研究人员 | — | Researchers at Oxford University published the study.
+  fam: research (n./v.)
+  note: *research* 作名词不可数：✗ *a research / researches* → ✓ *a piece of research / a study / some research*。动词搭配：*research into/on sth*。
+- study | n. | （一项）研究 | a recent study; a long-term study | A recent study found that teenagers need more sleep than adults.
+  note: 阅读中 *a study* 几乎总是“一项研究”，不是“学习”。*A study found/showed/suggested that…* 是引述研究的标准句型。
+- method | n. | 方法 | research methods; scientific method | The scientific method involves observation, hypothesis and experiment.
+  fam: methodology (n., 方法论) · methodical (adj.)
+- observe | v. | 观察；注意到；遵守 | observe behaviour; observe the rules | Scientists observed the birds for six months.
+  fam: observation (n.) · observer (n.)
+- measure | v. / n. | 测量；措施 | measure sth accurately; take measures to do sth | We measured the temperature every hour. // The government took measures to reduce pollution.
+  fam: measurement (n.)
+  note: *measure* 作名词时最常见的意思是“**措施**”：*take measures / safety measures / preventive measures*，写作高频。
+- variable | n. / adj. | 变量；可变的 | control the variables | Temperature was the only variable in the experiment. | W
+- control group | n. | 对照组 | — | The control group did not receive the medicine. | W
+  note: 实验设计的基本概念：把受试者随机分成 *experimental group*（实验组）和 *control group*（对照组），比较两组差异。阅读题常考这个设计逻辑。
+- participant | n. | 参与者；受试者 | study participants | Participants were asked to keep a sleep diary. | W
+  fam: participate (v.) · participation (n.)
+- laboratory | n. | 实验室（口语 lab） | in the laboratory | The samples were analysed in the laboratory.
+  ipa: /ləˈbɒrətri/ (UK) · /ˈlæbrətɔːri/ (US)
+- findings | n. | 研究结果；发现（常用复数） | research findings; the main findings | The findings were published in a medical journal. | W
+- result | n. / v. | 结果；导致 | as a result; result in; result from | The results of the experiment were surprising.
+  note: *result in* = 导致（原因 → 结果）；*result from* = 由……引起（结果 ← 原因）。*Smoking results in disease* = *Disease results from smoking*。方向别搞反。
+- publish | v. | 发表；出版 | be published in a journal | The study was published in the journal *Nature*.
+  fam: publication (n.) · publisher (n.)
+- journal | n. | 期刊；日志 | an academic journal | She reads scientific journals to keep up with research.
+- peer review | n. | 同行评审 | — | Papers are checked by other scientists through peer review before publication. | W
+- replicate | v. | 重复（实验）；复制 | replicate a study/results | Other scientists could not replicate the results. | W
+  fam: replication (n.)
+  note: **可重复性**（replication）是科学可信度的核心。心理学界所谓的“可重复性危机”（replication crisis）指许多著名研究在重复实验时无法得到同样结果。读到“一项研究表明……”时，要想到：这个结果被重复验证过吗？
+- breakthrough | n. | 突破 | a major breakthrough in sth | Scientists have made a breakthrough in cancer research.
+- discovery | n. | 发现 | make a discovery | The discovery of penicillin saved millions of lives.
+  fam: discover (v.)
+- field | n. | 领域；田地；场地 | in the field of; field research | She is an expert in the field of genetics.
+- expert | n. / adj. | 专家；熟练的 | an expert on/in sth | Experts disagree about the causes of the problem.
+- scholar | n. | 学者 | a classical scholar | Scholars have studied this text for centuries. | W
+  fam: scholarly (adj.)
+- funding | n. | 资金；拨款 | research funding; government funding | The project received funding from the government. | W
+  fam: fund (n./v.)
+- grant | n. / v. | 拨款；补助金；授予；承认 | a research grant; grant permission; take sth for granted | She received a grant to study bees. // We take clean water for granted.
+  note: *take sth for granted* = 认为某事理所当然（而不珍惜），口语与写作都常用。
+
+## 2 · Evidence & reasoning · 证据与推理
+
+- prove | v. | 证明；结果是 | prove that…; prove to be | It is difficult to prove that the drug caused the illness. // The test proved to be harder than expected.
+  fam: proof (n.)
+  note: 科学写作中很少说某事被 *proved*（证明了），更常说 *suggest / indicate / show*。写作中用 *prove* 要非常谨慎——一项研究通常只能**提供证据**（provide evidence），不能“证明”。
+- disprove | v. | 证明……是错的；反驳 | disprove a theory | No one has been able to disprove the theory. | W
+- correlation | n. | 相关性；关联 | a strong correlation between A and B | There is a correlation between screen time and poor sleep. | W
+  fam: correlate (v.)
+- causation | n. | 因果关系 | — | Correlation does not imply causation. | W
+  note: **相关不等于因果**是阅读和批判性思维的核心原则。例如：冰淇淋销量和溺水人数同时上升，但冰淇淋并不导致溺水——两者都受“夏天天气热”这个第三变量影响（*confounding variable*）。
+- cause and effect | phr. | 因果 | a cause-and-effect relationship | It is hard to establish cause and effect in social science. | W
+- conclusive | adj. | 决定性的；确凿的 | conclusive evidence/proof | There is no conclusive evidence that the drug works. | W
+  fam: inconclusive (adj.)
+- empirical | adj. | 以实验（观察）为依据的；实证的 | empirical evidence/research | The theory is supported by empirical evidence. | W
+  ipa: /ɪmˈpɪrɪkl/
+- valid | adj. | 有效的；有根据的；合理的 | a valid argument; a valid passport | The results are only valid for this age group. | W
+  fam: validity (n.) · invalid (adj.)
+- speculate | v. | 推测；猜测；投机 | speculate about/on sth | Scientists can only speculate about life on other planets. | W
+  fam: speculation (n.) · speculative (adj.)
+- controversial | adj. | 有争议的 | a controversial theory/topic | Genetic engineering remains highly controversial. | W
+  fam: controversy (n.)
+- consensus | n. | 共识；一致意见 | a scientific consensus; reach a consensus | There is a strong scientific consensus that human activity is causing climate change. | W
+  note: 气候变化的科学共识有充分依据：IPCC 报告指出人类影响使大气、海洋和陆地变暖是 *unequivocal*（毋庸置疑的）。
+- sceptical | adj. | 怀疑的（美式 skeptical） | sceptical about/of sth | Many scientists remain sceptical about the claims. | W
+  ipa: /ˈskeptɪkl/
+  fam: sceptic (n.) · scepticism (n.)
+- claim | v. / n. | 声称；断言；要求（权利） | claim that…; make a claim | The company claims its product is 100% natural.
+  note: *claim* 带有“说了但不一定是真的”的意味。阅读中看到 *The company claims…*，作者往往暗示自己对此有所保留。
+
+## 3 · Physical & life sciences · 物理与生命科学
+
+- atom | n. | 原子 | — | Everything around us is made of atoms.
+  fam: atomic (adj.)
+- molecule | n. | 分子 | a water molecule | A water molecule contains two hydrogen atoms and one oxygen atom.
+  fam: molecular (adj.)
+- particle | n. | 粒子；微粒 | fine particles | Fine particles in polluted air can damage the lungs.
+- element | n. | 元素；要素；成分 | chemical elements; a key element of | Oxygen is the most common element in the Earth's crust. // Trust is a key element of any relationship.
+- compound | n. / adj. | 化合物；复合的 | a chemical compound | Water is a compound of hydrogen and oxygen.
+- substance | n. | 物质；实质 | a toxic substance | Lead is a toxic substance.
+- chemical | n. / adj. | 化学品；化学的 | harmful chemicals; a chemical reaction | Farmers use chemicals to kill insects.
+- reaction | n. | 反应；回应 | a chemical reaction; an allergic reaction | Fire is a chemical reaction.
+- gravity | n. | 重力；引力；严重性 | — | Gravity keeps the planets in orbit around the Sun.
+- radiation | n. | 辐射 | — | High levels of radiation are dangerous to humans.
+- cell | n. | 细胞；小牢房；电池 | brain cells; stem cells | The human body contains trillions of cells.
+- gene | n. | 基因 | — | Eye colour is controlled by several genes.
+  fam: genetic (adj.) · genetics (n.) · genome (n.)
+- DNA | n. | 脱氧核糖核酸 | — | Every person's DNA is unique, except for identical twins.
+- inherit | v. | 遗传；继承 | inherit sth from sb | She inherited her mother's blue eyes. // He inherited a house from his grandfather.
+  fam: inheritance (n.) · hereditary (adj.)
+- bacteria | n. | 细菌（复数；单数 bacterium） | harmful bacteria | Not all bacteria are harmful — some help us digest food.
+- microscope | n. | 显微镜 | under a microscope | We looked at the cells under a microscope.
+  note: *micro-*（微小）+ *-scope*（观察）。同族：*telescope*（远 + 看）、*microorganism*（微生物）、*microchip*。
+- specimen | n. | 标本；样品 | a blood specimen | The museum has thousands of insect specimens.
+- organ | n. | 器官；管风琴 | vital organs; organ donation | The heart is a vital organ.
+
+## 4 · Space · 太空
+
+- astronomy | n. | 天文学 | — | Astronomy is one of the oldest sciences.
+  fam: astronomer (n.) · astronomical (adj., 也指“天文数字的、极大的”)
+  note: *astronomy*（天文学，科学）≠ *astrology*（占星术，非科学）。*astronomical* 口语中可指“极其庞大的”：*astronomical prices*。
+- planet | n. | 行星 | — | Mars is the fourth planet from the Sun.
+  fam: planetary (adj.)
+- orbit | n. / v. | 轨道；绕轨道运行 | in orbit; orbit the Earth | The International Space Station orbits the Earth about every 90 minutes.
+- satellite | n. | 卫星 | satellite images; satellite TV | Satellites are used to forecast the weather.
+- galaxy | n. | 星系 | — | Our solar system is part of the Milky Way galaxy.
+- solar system | n. | 太阳系 | — | Jupiter is the largest planet in the solar system.
+- astronaut | n. | 宇航员 | — | Chinese astronauts are often called taikonauts in English.
+- space exploration | n. | 太空探索 | — | Some people think space exploration is a waste of money. | W
+- launch | v. / n. | 发射；推出；发起 | launch a rocket; launch a campaign/product | China launched its first space station module in 2021.
+  note: *launch* 的引申义在写作中很有用：*launch a campaign*（发起运动）、*launch a new product*（推出新产品）。天和核心舱于 2021 年 4 月发射。
+
+@cmp suggest · indicate · show · prove
+suggest | 暗示、表明（证据较弱，最谨慎） | The data suggests that the drug may help.
+indicate | 表明、显示（中性，学术常用） | The results indicate a link between diet and mood.
+show | 显示、证明（较肯定） | The study shows that exercise improves sleep.
+prove | 证明（最强，学术中慎用） | Scientists proved that the Earth goes around the Sun.
+note: 选择动词就是在表达你对证据强度的判断。写作中描述研究时，*suggest* 和 *indicate* 通常比 *prove* 更准确（第四册 Unit 45 “语气缓和”）。
+@end

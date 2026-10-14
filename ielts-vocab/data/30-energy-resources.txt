@@ -1,0 +1,104 @@
+@unit 30
+@title Energy & Natural Resources
+@zh 能源与自然资源
+@level B2–C1 · 高级应用
+@intro 能源转型是 21 世纪最重要的经济与环境议题之一，中国是全球最大的太阳能和风能装机国。本单元覆盖能源类型、资源稀缺、水资源与能源政策。IELTS 阅读常出现这类说明文，写作则常问 *Should governments invest more in renewable energy?*
+
+## 1 · Sources of energy · 能源来源
+
+* renewable | adj. | 可再生的 | renewable energy/resources | Renewable energy now provides a growing share of the world's electricity. | W
+  fam: renew (v.) · renewal (n.)
+  note: **renewable**（可再生：太阳能、风能、水能）↔ **non-renewable**（不可再生：煤、石油、天然气）。注意 *clean energy*（清洁能源）范围稍不同：核能不可再生，但低碳，常被算作清洁能源。
+- solar power | n. | 太阳能（发电） | — | China is the world's largest producer of solar power. | W
+  fam: solar (adj.)
+- solar panel | n. | 太阳能电池板 | install solar panels | More homes are installing solar panels on their roofs.
+- wind turbine | n. | 风力涡轮机；风机 | — | Offshore wind turbines can generate large amounts of electricity.
+- wind farm | n. | 风电场 | an offshore wind farm | The new wind farm will power 100,000 homes.
+- hydroelectric | adj. | 水力发电的 | a hydroelectric dam/plant | The Three Gorges Dam is the world's largest hydroelectric power station. | W
+  fam: hydropower (n.)
+  note: *hydro-* = 水：*hydroelectric, hydrogen, hydrate, dehydrated*（脱水的）。三峡电站按装机容量计是世界最大的水电站。
+- geothermal | adj. | 地热的 | geothermal energy | Iceland uses geothermal energy to heat most of its homes. | W
+  note: *geo-*（地球）+ *thermal*（热）。冰岛约九成住房使用地热供暖，是常被引用的例子。
+- nuclear power | n. | 核能；核电 | nuclear power stations | Nuclear power produces very little carbon dioxide, but its waste is dangerous. | W
+  fam: nuclear (adj.)
+  ipa: /ˈnjuːkliə/
+- nuclear waste | n. | 核废料 | — | Nuclear waste must be stored safely for thousands of years. | W
+- coal | n. | 煤 | coal-fired power stations | Coal is still a major source of electricity in many countries.
+- crude oil | n. | 原油 | — | The price of crude oil affects the cost of petrol.
+- natural gas | n. | 天然气 | — | Many homes use natural gas for cooking and heating.
+- petrol | n. | 汽油（英；美式 gas / gasoline） | a petrol station | Electric cars don't need petrol.
+- fuel | n. / v. | 燃料；为……提供燃料；加剧 | fuel prices; fuel economic growth | Rising prices fuelled public anger. | W
+  note: 动词 *fuel* 的比喻义很常用：*fuel growth / fuel anger / fuel speculation*（推动、加剧）。
+- biofuel | n. | 生物燃料 | — | Biofuels are made from plants such as corn and sugar cane.
+- hydrogen | n. | 氢 | hydrogen fuel cells | Some buses run on hydrogen.
+- power station | n. | 发电站（美式 power plant） | — | The old coal power station will close next year.
+- electricity grid | n. | 电网 | — | Solar farms must be connected to the electricity grid.
+- harness | v. | 利用；控制（自然力量） | harness solar/wind energy | Engineers are finding new ways to harness the power of the sea. | W
+- intermittent | adj. | 间歇的；断断续续的 | intermittent supply | Solar and wind power are intermittent — they depend on the weather. | W
+  note: 这是讨论可再生能源时的关键挑战：太阳能和风能**不稳定**，因此需要 *energy storage*（储能，如大型电池）和更智能的电网。
+- energy storage | n. | 储能 | battery energy storage | Large batteries provide energy storage for when the wind stops.
+- clean energy | n. | 清洁能源 | invest in clean energy | Investment in clean energy has grown rapidly. | W
+- energy transition | n. | 能源转型 | — | The energy transition from coal to renewables will take decades. | W
+- carbon capture | n. | 碳捕获 | carbon capture and storage | Carbon capture technology removes CO₂ from power station emissions. | W
+
+## 2 · Using energy · 能源使用
+
+- energy consumption | n. | 能源消耗 | reduce energy consumption | Buildings account for a large share of energy consumption. | W
+- energy-efficient | adj. | 节能的；能效高的 | energy-efficient appliances | LED bulbs are more energy-efficient than old light bulbs. | W
+  fam: energy efficiency (n.)
+- power cut | n. | 停电（也说 blackout） | — | The storm caused a power cut across the city.
+- energy crisis | n. | 能源危机 | — | Many European countries faced an energy crisis in 2022.
+- energy security | n. | 能源安全 | — | Energy security means having a reliable supply of energy at affordable prices. | W
+- electricity bill | n. | 电费账单 | — | Our electricity bill is much higher in summer.
+- electrify | v. | 使电气化；使兴奋 | electrify transport | Countries are trying to electrify their transport systems. | W
+  fam: electrification (n.)
+- subsidy | n. | 补贴；津贴 | government subsidies; fuel subsidies | Subsidies for solar panels made them cheaper for families. | W
+  fam: subsidise (v.)
+
+## 3 · Natural resources · 自然资源
+
+- natural resources | n. | 自然资源 | rich in natural resources | Australia is rich in natural resources such as iron ore and coal.
+- resource | n. / v. | 资源；资料；为……提供资金 | limited resources; human resources | Water is a precious resource. // The school is well resourced.
+- raw materials | n. | 原材料 | — | China imports large amounts of raw materials.
+- mineral | n. / adj. | 矿物；矿物质 | mineral resources; mineral water | The region is rich in minerals.
+- rare earth | n. | 稀土 | rare earth elements | Rare earths are used in phones and electric car motors. | W
+- mining | n. | 采矿；矿业 | coal mining | Mining can cause serious environmental damage.
+  fam: mine (n./v.) · miner (n.)
+- extract | v. / n. | 提取；开采；摘录 | extract oil/minerals; an extract from a book | Oil is extracted from deep under the sea. | W
+  ipa: /ɪkˈstrækt/ (v.) · /ˈekstrækt/ (n.)
+  fam: extraction (n.)
+- timber | n. | 木材（英；美式 lumber） | — | Illegal logging for timber destroys forests.
+- scarce | adj. | 稀缺的；缺乏的 | scarce resources | Water is becoming scarce in many parts of the world. | W
+  ipa: /skeəs/
+  fam: scarcity (n.) · scarcely (adv., 几乎不)
+  note: *scarcely* 不是“稀缺地”，而是“几乎不”（= hardly）：*I could scarcely believe it.*
+- abundant | adj. | 丰富的；充裕的 | abundant resources | Sunlight is abundant in desert regions. | W
+  fam: abundance (n.)
+- finite | adj. | 有限的 | finite resources | Fossil fuels are finite — one day they will run out. | W
+  ipa: /ˈfaɪnaɪt/
+  fam: infinite (adj.) /ˈɪnfɪnət/
+  note: 读音陷阱：*finite* /ˈfaɪnaɪt/，但 *infinite* /ˈɪnfɪnət/——加了前缀后元音和重音都变了。
+- deplete | v. | 耗尽；大量减少 | deplete resources | Overfishing has depleted fish stocks. | W
+  fam: depletion (n.)
+- exploit | v. / n. | 开发；利用；剥削；功绩 | exploit natural resources; exploit workers | The company was accused of exploiting cheap labour. | W
+  fam: exploitation (n.)
+  note: *exploit* 有中性义“开发、利用”（exploit resources）和贬义“剥削”（exploit workers）。阅读时看宾语判断。
+- run out | phr. v. | 耗尽；用完 | — | Some experts warn that we could run out of fresh water.
+- water shortage | n. | 缺水 | — | Many cities in northern China face water shortages.
+- reservoir | n. | 水库；储备 | — | The city gets its drinking water from a reservoir.
+  ipa: /ˈrezəvwɑː/
+- dam | n. | 水坝 | build a dam | The dam provides electricity and controls floods.
+- groundwater | n. | 地下水 | — | Farmers are pumping too much groundwater. | W
+- desalination | n. | 海水淡化 | a desalination plant | Desalination turns seawater into drinking water, but it uses a lot of energy. | W
+- precious | adj. | 珍贵的；宝贵的 | precious resources; precious metals | Clean water is a precious resource.
+
+@cmp economic · economical · economics
+economic | 经济的；与经济体系有关的 | The country is facing economic problems.
+economical | 节约的；省钱的；经济实惠的 | Electric cars are economical to run.
+economics | 经济学（学科） | She is studying economics at university.
+note: “节能”可以说 *energy-efficient* 或 *economical*；但“经济发展”只能说 *economic development*，✗ *economical development*。
+@end
+
+@box ielts 写作：政府应不应该大力投资可再生能源？
+支持：*reduce dependence on fossil fuels*、*cut emissions*、*improve energy security*、*create green jobs*。挑战：*high upfront costs*（前期成本高）、*intermittent supply*、*need for energy storage and grid upgrades*。一个好的结论可以提到 *a gradual energy transition*（循序渐进的能源转型）。
+@end

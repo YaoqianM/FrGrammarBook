@@ -1,0 +1,111 @@
+@unit 29
+@title Environment, Pollution & Climate Change
+@zh 环境、污染与气候变化
+@level B2–C1 · 高级应用
+@intro 环境是 IELTS 写作 Task 2 最经典的题材之一。本单元分为三部分：**污染与废弃物、气候变化、解决方案**。生物多样性词汇见 Unit 21，能源词汇见 Unit 30。写这类作文时，准确的因果动词（*cause, lead to, contribute to*）和具体的例子比空泛的口号更重要。
+
+## 1 · Pollution & waste · 污染与废弃物
+
+- environmental | adj. | 环境的 | environmental protection; environmental damage | Environmental protection should be a priority for every government. | W
+  fam: environment (n.) · environmentally (adv.)
+- environmentally friendly | adj. | 环保的（也说 eco-friendly） | environmentally friendly products | Cycling is an environmentally friendly way to travel. | W
+- pollution | n. | 污染 | air/water/noise pollution | Air pollution causes millions of early deaths every year.
+  fam: pollute (v.) · polluter (n.)
+  note: 世界卫生组织（WHO）估计，室外和室内空气污染每年共导致数百万人过早死亡（约 600–700 万）。写作中用 *millions of* 比给出精确数字更稳妥。
+- pollutant | n. | 污染物 | harmful pollutants | Cars release pollutants into the air. | W
+- contaminate | v. | 污染；弄脏（尤指水、食物） | contaminated water | Chemicals from the factory contaminated the river. | W
+  fam: contamination (n.)
+- toxic | adj. | 有毒的 | toxic waste/chemicals | Some batteries contain toxic metals.
+  fam: toxin (n.) · toxicity (n.)
+- smog | n. | 烟雾（smoke + fog） | thick smog | Smog used to be a serious problem in many Chinese cities.
+- air quality | n. | 空气质量 | improve air quality | Air quality in Shenzhen is generally good compared with other big cities.
+- waste | n. / v. | 废物；浪费 | household waste; food waste; waste disposal | Every year, about a third of food produced is wasted.
+  note: 联合国粮农组织（FAO）的常用估计：全球生产的食物约有三分之一被损耗或浪费。
+- landfill | n. | 垃圾填埋（场） | send waste to landfill | Most plastic waste ends up in landfill or the ocean. | W
+- recycle | v. | 回收利用；循环使用 | recycle paper/plastic | Only a small percentage of plastic is recycled.
+  fam: recycling (n.) · recyclable (adj.)
+- biodegradable | adj. | 可生物降解的 | biodegradable packaging | Biodegradable bags break down naturally. | W
+- single-use plastic | n. | 一次性塑料 | ban single-use plastics | Many countries have banned single-use plastic bags. | W
+- packaging | n. | 包装（材料） | excessive packaging | Online shopping creates a lot of packaging waste.
+- microplastics | n. | 微塑料 | — | Microplastics have been found in seafood, drinking water and even human blood. | W
+  note: 微塑料指直径小于 5 毫米的塑料颗粒。已有研究在人类血液中检测到微塑料（2022 年发表于 *Environment International*），但它们对健康的具体影响仍在研究中。
+- dump | v. / n. | 倾倒；丢弃；垃圾场 | dump waste illegally | Factories should not dump chemicals into rivers.
+- sewage | n. | 污水；下水道污物 | sewage treatment | Untreated sewage pollutes rivers and beaches.
+- oil spill | n. | 石油泄漏 | — | The oil spill killed thousands of seabirds.
+- overfishing | n. | 过度捕捞 | — | Overfishing has caused fish populations to collapse in some areas. | W
+- compost | n. / v. | 堆肥；把……做成堆肥 | — | Food waste can be turned into compost.
+- throwaway culture | n. | 用完即扔的文化 | — | Our throwaway culture produces huge amounts of waste. | W
+
+## 2 · Climate change · 气候变化
+
+* climate change | n. | 气候变化 | tackle/combat climate change | Climate change is one of the greatest challenges of our time. | W
+  note: **climate change** 是比 *global warming* 更全面的说法：变暖只是其中之一，还包括极端天气增加、降水模式改变、海平面上升等。**climate**（气候：长期规律）≠ **weather**（天气：短期状况）——“今天很冷”不能用来否定全球变暖。
+- global warming | n. | 全球变暖 | — | Global warming is causing glaciers to melt.
+- greenhouse gas | n. | 温室气体 | greenhouse gas emissions | Carbon dioxide and methane are the main greenhouse gases. | W
+- greenhouse effect | n. | 温室效应 | — | The greenhouse effect keeps the Earth warm enough for life.
+  note: 温室效应本身是自然现象，没有它地球会冷得多。问题在于人类排放的温室气体**加强**了这个效应（the enhanced greenhouse effect）。
+- carbon dioxide | n. | 二氧化碳（CO₂） | — | Burning coal releases carbon dioxide.
+- methane | n. | 甲烷 | — | Cattle produce large amounts of methane.
+  ipa: /ˈmiːθeɪn/
+- carbon footprint | n. | 碳足迹 | reduce your carbon footprint | Flying less is one way to reduce your carbon footprint. | W
+- fossil fuels | n. | 化石燃料 | burn fossil fuels | Burning fossil fuels is the main cause of global warming. | W
+- deforestation | n. | 森林砍伐 | — | Deforestation in the Amazon releases huge amounts of carbon. | W
+  fam: deforest (v.) · reforestation (n.) · afforestation (n.)
+  note: *reforestation*（在原来有森林的地方重新造林）vs. *afforestation*（在原本没有森林的地方植树造林）。中国的“三北防护林”工程常被称为世界最大的 *afforestation* 项目之一。
+- desertification | n. | 荒漠化 | — | Overgrazing can lead to desertification. | W
+- soil erosion | n. | 水土流失；土壤侵蚀 | — | Tree roots help prevent soil erosion.
+- sea level | n. | 海平面 | rising sea levels | Rising sea levels threaten coastal cities like Shanghai and Miami. | W
+- melt | v. | 融化 | melting ice | Arctic sea ice is melting faster than expected.
+- glacier | n. | 冰川 | — | Many glaciers in the Himalayas are shrinking.
+  ipa: /ˈɡlæsiə/
+- ice cap | n. | 冰盖 | the polar ice caps | Melting ice caps contribute to rising sea levels.
+- extreme weather | n. | 极端天气 | extreme weather events | Extreme weather events are becoming more frequent. | W
+- temperature rise | n. | 温度上升 | — | Scientists aim to limit the global temperature rise to 1.5°C. | W
+  note: 2015 年《巴黎协定》（the Paris Agreement）目标：将全球平均气温升幅控制在工业化前水平以上**低于 2°C**，并努力限制在 **1.5°C** 以内。
+- irreversible | adj. | 不可逆转的 | irreversible damage | Some damage to the environment may be irreversible. | W
+- catastrophic | adj. | 灾难性的 | catastrophic consequences | Scientists warn of catastrophic consequences if nothing is done. | W
+  fam: catastrophe (n.) /kəˈtæstrəfi/
+- vulnerable regions | phr. | 脆弱地区 | — | Small island nations are among the most vulnerable regions. | W
+- climate refugee | n. | 气候难民 | — | Rising seas could create millions of climate refugees. | W
+- contribute to | phr. | 促成；导致；为……做贡献 | contribute to climate change | Cars contribute to air pollution. | W
+  note: *contribute to* 有两种语气：积极（*contribute to society*：为社会做贡献）和中性/消极（*contribute to the problem*：是问题的原因之一）。它暗示“**原因之一**”，比 *cause* 更准确、更谨慎。
+
+## 3 · Solutions · 解决方案
+
+- tackle | v. | 解决；处理；（体育）抢断 | tackle climate change/pollution | We need international cooperation to tackle climate change. | W
+- combat | v. / n. | 与……斗争；战斗 | combat climate change | New policies are needed to combat air pollution. | W
+- mitigate | v. | 减轻；缓解 | mitigate the effects of | Planting trees can help mitigate climate change. | W
+  fam: mitigation (n.)
+  note: 气候政策的两大类：**mitigation**（减缓：减少排放，治“因”）和 **adaptation**（适应：建海堤、种耐旱作物，应对“果”）。写作中区分这两者会显得很有深度。
+- carbon neutral | adj. | 碳中和的 | become carbon neutral | China aims to become carbon neutral by 2060. | W
+  note: 中国的“双碳”目标：力争 2030 年前碳达峰（*peak carbon emissions*），2060 年前实现碳中和（*carbon neutrality*）。
+- net zero | n. / adj. | 净零（排放） | reach net zero by 2050 | The UK has a legal target to reach net zero by 2050. | W
+- offset | v. / n. | 抵消；补偿 | offset carbon emissions | Some airlines let passengers offset their carbon emissions. | W
+- cut emissions | phr. | 减少排放 | — | Countries agreed to cut emissions significantly. | W
+- green | adj. | 环保的；绿色的 | green energy; green products; go green | More companies are going green. | S
+- conserve energy | phr. | 节约能源 | — | Turn off lights to conserve energy.
+- reduce, reuse, recycle | phr. | 减量、再用、回收（3R 原则） | — | Remember the three Rs: reduce, reuse, recycle.
+  note: 三者有**优先顺序**：首先减少使用（reduce），其次重复使用（reuse），最后才是回收（recycle）。回收需要能源，并非“零成本”。
+- environmentalist | n. | 环保主义者 | — | Environmentalists protested against the new airport.
+- activist | n. | 活动家；积极分子 | a climate activist | Young climate activists have organised protests around the world.
+  fam: activism (n.)
+- raise public awareness | phr. | 提高公众意识 | — | Campaigns can raise public awareness of environmental issues. | W
+- the polluter pays principle | phr. | 污染者付费原则 | — | Under the polluter pays principle, companies must pay for the pollution they cause. | W
+- incentive | n. | 激励；刺激；奖励 | tax incentives; an incentive to do sth | The government offers incentives to buy electric cars. | W
+  ipa: /ɪnˈsentɪv/
+  note: *incentive*（激励，鼓励做某事的好处）↔ *disincentive*（抑制因素）。政策讨论中：*financial incentives*（经济激励）、*tax breaks*（税收减免）。
+- penalise | v. | 惩罚；处罚 | penalise polluters | Companies that pollute rivers should be penalised. | W
+- individual action | n. | 个人行动 | — | Individual action matters, but governments and companies must also act. | W
+- collective responsibility | n. | 集体责任 | — | Protecting the environment is a collective responsibility. | W
+
+@cmp lead to · result in · contribute to · cause
+cause | 直接导致（最直接，常含消极） | Smoking causes cancer.
+lead to | 导致（可以是一连串结果的终点） | Deforestation can lead to floods.
+result in | 导致（偏正式，强调结果） | The storm resulted in power cuts.
+contribute to | 是……的原因之一（最谨慎） | Cars contribute to climate change.
+note: 写作中描述复杂社会、环境问题时，*contribute to* 往往比 *cause* 更准确——因为大多数问题有多个原因。
+@end
+
+@box ielts 写作：环境保护是政府的责任还是个人的责任？
+高分思路：两者都有作用，但**规模不同**。政府可以 *introduce legislation*、*invest in renewable energy*、*offer incentives*；个人可以 *reduce their carbon footprint*、*make greener choices*。可以指出个人行动的局限：*Individual action alone is unlikely to be enough without systemic change.*
+@end
