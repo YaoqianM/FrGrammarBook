@@ -1,0 +1,140 @@
+@unit 26
+@title Word Formation I: Prefixes & Suffixes
+@zh 构词法（一）：前缀与后缀
+@level B1–B2 · 中级核心
+@intro 掌握构词法，一个词能变成一组词：*able → ability → enable → unable → disability*。本单元介绍最高频的前缀和后缀，每条规律配上值得主动掌握的代表词。第四册 Unit 51 会进一步讲拉丁和希腊词根。
+
+@box rule 否定前缀：un- · in- · im- · il- · ir- · dis- · non-
+**un-** 最常用：*unlikely, unfair*。**in-** 多用于拉丁来源的词：*inaccurate, inadequate*；在 p/b/m 前变成 **im-**（*impossible, impatient*），在 l 前变成 **il-**（*illegal, illogical*），在 r 前变成 **ir-**（*irregular, irrelevant*）。**dis-** 常用于动词和名词（*disagree, disadvantage*）。**non-** 多构成“非……”的中性分类（*non-profit, non-fiction*）。
+@end
+
+## 1 · Negative prefixes · 否定前缀
+
+- unlikely | adj. | 不太可能的 | It is unlikely that…; be unlikely to do sth | It's unlikely to rain today. // It is unlikely that prices will fall. | W
+- unavoidable | adj. | 不可避免的 | an unavoidable delay | Some mistakes are unavoidable when you learn a language.
+- unfamiliar | adj. | 不熟悉的；陌生的 | be unfamiliar with sth | Guess the meaning of unfamiliar words from the context.
+- unbelievable | adj. | 难以置信的 | — | The view from the top was unbelievable! | S
+- unexpected | adj. | 意外的；出乎意料的 | an unexpected result | The experiment produced some unexpected results.
+- inaccurate | adj. | 不准确的 | inaccurate information | Some information on the internet is inaccurate.
+  fam: accurate (adj.) · accuracy (n.)
+- inadequate | adj. | 不足的；不充分的；不胜任的 | inadequate funding/resources | Many rural schools have inadequate facilities. | W
+  fam: adequate (adj.)
+- invisible | adj. | 看不见的；无形的 | invisible to the naked eye | Bacteria are invisible to the naked eye.
+  fam: visible (adj.) · visibility (n.)
+- inevitable | adj. | 不可避免的；必然的 | It is inevitable that… | Change is inevitable. | W
+  ipa: /ɪnˈevɪtəbl/
+  note: *inevitable* 比 *unavoidable* 更正式、更抽象，常用于讨论趋势：*It is inevitable that AI will change the job market.* 不要读成 /ɪnˈvaɪtəbl/，重音在第二音节 -ev-。
+- impractical | adj. | 不切实际的；不实用的 | an impractical idea | Banning all cars from the city is impractical.
+  fam: practical (adj.)
+- irrelevant | adj. | 无关的；不相干的 | irrelevant to sth | Your answer is irrelevant to the question. | W
+  fam: relevant (adj.) · relevance (n.)
+  note: IELTS 写作评分中“切题”非常重要：写和题目 *irrelevant* 的内容会影响任务回应（Task Response）一项的分数。
+- irregular | adj. | 不规则的；不规律的 | irregular verbs; irregular meals | Irregular sleep patterns can affect your health.
+  fam: regular (adj.)
+- disadvantage | n. | 不利条件；缺点 | at a disadvantage; advantages and disadvantages | Students without internet access are at a disadvantage.
+  fam: advantage (n.) · advantageous (adj.) · disadvantaged (adj., 贫困的；弱势的)
+  note: *disadvantaged* 常用于社会议题：*children from disadvantaged backgrounds*（来自弱势家庭的孩子）。
+- disagree | v. | 不同意；不一致 | disagree with sb/sth | I completely disagree with this view. | S
+  fam: disagreement (n.)
+- disappear | v. | 消失 | — | Many traditional crafts have disappeared.
+  fam: disappearance (n.)
+- dislike | v. / n. | 不喜欢；厌恶 | likes and dislikes | I dislike getting up early. | S
+- non-profit | adj. | 非营利的 | a non-profit organisation | She works for a non-profit organisation that helps refugees.
+- non-renewable | adj. | 不可再生的 | non-renewable resources | Coal and oil are non-renewable resources. | W
+
+## 2 · Prefixes of degree, time & position · 表示程度、时间与位置的前缀
+
+- misuse | n. / v. | 误用；滥用 | the misuse of data/power | The misuse of antibiotics makes them less effective. | W
+  note: **mis-** = 错误地：*misread, misuse, mislead, misinterpret, mispronounce*。
+- misinterpret | v. | 误解；曲解 | misinterpret data | It's easy to misinterpret statistics. | W
+- reconsider | v. | 重新考虑 | reconsider a decision | Please reconsider your decision.
+  note: **re-** = 再、重新：*rebuild, rewrite, reuse, reconsider, reconstruct*；也有“回、返”之义：*return, recall, repay*。
+- reuse | v. / n. | 重新使用 | — | Reuse plastic bags instead of throwing them away.
+- rebuild | v. | 重建 | — | The town was rebuilt after the earthquake.
+- prehistoric | adj. | 史前的 | prehistoric times | Prehistoric people made tools from stone.
+  note: **pre-** = 之前：*preview, prepare, predict, prehistoric, pre-school*；**post-** = 之后：*post-war, postgraduate, postpone*。
+- post-war | adj. | 战后的 | the post-war period | The post-war years saw rapid economic growth.
+- overestimate | v. | 高估 | — | People often overestimate how much they can do in a day.
+  note: **over-** = 过度：*overwork, overeat, overpriced, overcrowded*；**under-** = 不足：*underestimate, underpaid, underdeveloped*。
+- underestimate | v. | 低估 | underestimate the importance/difficulty of | Never underestimate the importance of sleep.
+- overcome | v. | 克服；战胜 | overcome difficulties/fears | She overcame her fear of public speaking.
+- overlook | v. | ① 忽视；忽略 ② 俯瞰 | overlook a problem; overlook the sea | The importance of sleep is often overlooked. // Our flat overlooks the park. | W
+  note: 两个意思都常考：*overlook* = 没注意到、忽视（*overlook a mistake*）；也指（建筑）俯瞰（*a room overlooking the sea*）。
+- oversee | v. | 监督；监管 | oversee a project | A committee oversees the use of the funds. | W
+- underpaid | adj. | 报酬过低的 | — | Many care workers are underpaid.
+- underdeveloped | adj. | 不发达的；发育不全的 | underdeveloped regions | Underdeveloped regions need better infrastructure. | W
+- international | adj. | 国际的 | international students; international trade | Shenzhen hosts many international companies.
+  note: **inter-** = 在……之间、相互：*international, interact, interview, internet, interdependent*。
+- interdependent | adj. | 相互依赖的 | — | The economies of the world are increasingly interdependent. | W
+- multitask | v. | 同时做多件事 | — | Research suggests that people who multitask are less productive.
+  note: **multi-** = 多：*multinational, multicultural, multimedia, multilingual*。心理学研究普遍发现，所谓“多任务处理”多数时候是在任务之间快速切换，会降低效率并增加错误。
+- anti-social | adj. | 反社会的；不爱交际的 | anti-social behaviour | Graffiti is a form of anti-social behaviour.
+  note: **anti-** = 反对、对抗：*antibiotic, anti-virus, anti-smoking campaign*；**pro-** = 支持：*pro-environment, pro-democracy*。
+- co-worker | n. | 同事 | — | I had lunch with my co-workers.
+  note: **co-/con-/com-** = 共同：*cooperate, coexist, co-author, combine, connect*。
+- coexist | v. | 共存 | coexist peacefully | Can humans and wild animals coexist in cities? | W
+  fam: coexistence (n.)
+- transplant | n. / v. | 移植 | a heart transplant | He needed a kidney transplant.
+  note: **trans-** = 跨越、转移：*transport, transfer, translate, transform, transplant*。
+- autobiography | n. | 自传 | — | She wrote her autobiography at the age of 80.
+  note: **auto-**（自己）+ **bio-**（生命）+ **-graphy**（书写）。同族：*biography*（传记）、*automatic*（自动的）、*autonomy*（自主权）。
+- semi-final | n. | 半决赛 | — | Our team reached the semi-final.
+  note: **semi-** = 一半：*semicircle, semi-detached, semi-skilled*。
+
+## 3 · Suffixes · 后缀
+
+@box rule 后缀决定词性
+**名词：** -tion/-sion, -ment, -ness, -ity, -ance/-ence, -ship, -hood, -ism, -er/-or/-ist（人）
+**动词：** -ise/-ize, -ify, -en, -ate
+**形容词：** -able/-ible, -ful, -less, -ous, -ive, -al, -ic, -ish
+**副词：** -ly, -ward(s), -wise
+看到不认识的长词，先“拆”后缀：*environment-al-ly* → environment（环境）+ -al（形容词）+ -ly（副词）= 在环境方面。
+@end
+
+- sustainable | adj. | 可持续的 | sustainable development/growth | We need more sustainable ways of producing food. | W
+  fam: sustain (v.) · sustainability (n.)
+  note: **-able / -ible** = 可以被……的：*sustainable*（可持续的）、*renewable*（可再生的）、*visible*（可见的）、*accessible*（可到达的）。
+- harmless | adj. | 无害的 | — | Most spiders are harmless to humans.
+  note: **-ful** = 充满……的；**-less** = 没有……的：*harmful / harmless, useful / useless, careful / careless, meaningful / meaningless*。注意 *priceless* = 无价的（极其珍贵），不是“没有价格”。
+- harmful | adj. | 有害的 | be harmful to sth | Smoking is harmful to your health.
+- pointless | adj. | 无意义的；徒劳的 | — | It's pointless arguing with him. | S
+- meaningful | adj. | 有意义的；意味深长的 | a meaningful relationship/job | Volunteering gave me a sense of doing something meaningful.
+- priceless | adj. | 无价的；极其珍贵的 | — | The museum contains priceless works of art.
+- weakness | n. | 弱点；虚弱 | strengths and weaknesses | My biggest weakness is that I'm too impatient.
+  note: **-ness** 把形容词变成名词：*happiness, kindness, awareness, effectiveness, weakness*。
+- achievement | n. | 成就；完成 | a great achievement | Passing the exam was a great achievement for her.
+  fam: achieve (v.)
+  note: **-ment** 把动词变成名词：*achievement, development, improvement, government, agreement, entertainment*。
+- popularity | n. | 普及；受欢迎程度 | gain/grow in popularity | Electric scooters have grown in popularity.
+  fam: popular (adj.)
+  note: **-ity** 把形容词变成名词：*popular → popularity, able → ability, creative → creativity, possible → possibility, responsible → responsibility*。
+- modernise | v. | 使现代化 | modernise the economy | The government plans to modernise the railway system.
+  fam: modern (adj.) · modernisation (n.)
+  note: **-ise / -ize** 把名词或形容词变成动词：*modernise, globalise, criticise, prioritise, urbanise*。英式两种拼写都接受，美式用 -ize。
+- simplify | v. | 简化 | simplify the process | The new app simplifies online shopping.
+  fam: simple (adj.) · simplification (n.)
+  note: **-ify** 也表示“使……”：*simplify, clarify, identify, intensify, justify*。
+- widen | v. | 加宽；扩大 | widen the gap | The gap between rich and poor has widened. | W
+  note: **-en** 把形容词变成动词：*wide → widen, strong → strengthen, short → shorten, length → lengthen, worse → worsen, threat → threaten*。*widen the gap*（扩大差距）是讨论不平等的常用搭配。
+- strengthen | v. | 加强；巩固 | strengthen relationships/the economy | Exercise strengthens your muscles. | W
+- worsen | v. | 恶化；使更坏 | — | Air pollution worsens in winter. | W
+- dangerous | adj. | 危险的 | — | Cycling without a helmet is dangerous.
+- effective | adj. | 有效的 | an effective way to do sth; cost-effective | Regular review is the most effective way to remember words.
+  fam: effectively (adv.) · effectiveness (n.) · ineffective (adj.)
+  note: *effective*（有效果的：能达到目标）vs. *efficient*（高效的：不浪费时间、资源）。一个方法可以有效但不高效。
+- friendship | n. | 友谊 | — | Our friendship began in primary school.
+  note: **-ship** 表示状态、关系或身份：*friendship, relationship, leadership, citizenship, membership, ownership*。
+- leadership | n. | 领导力；领导层 | leadership skills | The captain showed great leadership.
+- ownership | n. | 所有权 | home ownership; take ownership of | Home ownership is falling among young people. | W
+- childhood | n. | 童年 | in my childhood | I spent my childhood in Hunan.
+  note: **-hood** 表示时期或状态：*childhood, adulthood, parenthood, neighbourhood, likelihood*（可能性）。
+- adulthood | n. | 成年期 | — | Some habits formed in childhood last into adulthood.
+- likelihood | n. | 可能性 | the likelihood of sth; in all likelihood | Regular exercise reduces the likelihood of heart disease. | W
+- towards | prep. | 朝着；对于；接近 | attitude towards sth | People's attitudes towards marriage have changed.
+  note: **-ward(s)** 表示方向：*forward, backward, upward, downward, towards*。*an upward/downward trend* 是图表写作常用表达。
+- otherwise | adv. | 否则；在其他方面 | — | Hurry up, otherwise we'll be late. // The weather was cold, but otherwise it was a great trip.
+- likewise | adv. | 同样地；也 | — | Germany invested heavily in solar power. Likewise, China built huge solar farms. | W
+
+@box tip 词性转换练习法
+学一个新词时，顺手问自己：它的**名词、动词、形容词、副词**分别是什么？例如 *decide → decision → decisive → decisively*。写作中“换一种词性表达同一个意思”是提高句式多样性的捷径：*The population grew rapidly.* = *There was rapid growth in the population.*
+@end

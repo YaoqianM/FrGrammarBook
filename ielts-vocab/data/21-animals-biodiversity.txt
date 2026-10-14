@@ -1,0 +1,121 @@
+@unit 21
+@title Animals, Plants & Biodiversity
+@zh 动物、植物与生物多样性
+@level B1–B2 · 中级核心
+@intro 动物行为和物种保护是 IELTS 阅读最常见的题材之一（蜜蜂为何减少？鸟类如何迁徙？）。写作也常问 *Should zoos be closed? Is it acceptable to test medicines on animals?* 本单元先给你描述生物的基础科学词汇，再进入保护与伦理话题。
+
+## 1 · The living world · 生物世界
+
+* species | n. | 物种（单复数同形） | an endangered species; animal/plant species | Scientists discover thousands of new species every year.
+  ipa: /ˈspiːʃiːz/
+  note: *species* 单复数同形：*one species / many species*，✗ *specie*。同类：*series, means, aircraft, sheep, fish*（作“鱼类”泛指时）。
+- organism | n. | 生物；有机体 | living organisms | Bacteria are tiny single-celled organisms. | W
+- mammal | n. | 哺乳动物 | — | Whales are mammals, not fish.
+- reptile | n. | 爬行动物 | — | Snakes and lizards are reptiles.
+- amphibian | n. | 两栖动物 | — | Frogs are amphibians — they live both in water and on land.
+- insect | n. | 昆虫 | — | Ants are among the most successful insects on Earth.
+- marine | adj. | 海洋的 | marine life; marine biology | Plastic pollution threatens marine life. | W
+- aquatic | adj. | 水生的 | aquatic plants/animals | Many aquatic animals depend on clean rivers. | W
+- carnivore | n. | 食肉动物 | — | Lions are carnivores.
+  fam: carnivorous (adj.)
+  note: 构词规律：*-vore / -vorous* = “吃”。*carnivore*（肉）、*herbivore*（草）、*omnivore*（全部）、*insectivore*（昆虫）。
+- herbivore | n. | 食草动物 | — | Elephants are herbivores.
+- omnivore | n. | 杂食动物 | — | Humans and bears are omnivores.
+- predator | n. | 捕食者；掠夺者 | a natural predator; top predator | Sharks are top predators in the ocean.
+  fam: predatory (adj.)
+- prey | n. / v. | 猎物；捕食 | prey on sth; fall prey to | Mice are prey for owls. // Owls prey on mice.
+- food chain | n. | 食物链 | at the top of the food chain | Humans are at the top of the food chain.
+- nocturnal | adj. | 夜行的；夜间活动的 | nocturnal animals | Owls and bats are nocturnal.
+- venomous | adj. | 有毒液的（通过咬、蜇注入） | a venomous snake | Only a small number of snakes are venomous.
+  note: 生物学的细致区分：**venomous** 的动物是通过咬或蜇“主动注入”毒液（毒蛇、蝎子）；**poisonous** 是吃了、碰了才中毒（某些蘑菇、毒箭蛙）。口语中常混用，但学术文本会区分。
+- poisonous | adj. | 有毒的（吃下或触碰后） | poisonous mushrooms | Some mushrooms are poisonous.
+- domestic | adj. | 家养的；国内的；家庭的 | domestic animals; domestic flights | Cats and dogs are domestic animals. // Domestic flights are often cheaper.
+  fam: domesticate (v.)
+- livestock | n. | 牲畜（总称） | raise livestock | Farmers in the region raise livestock such as sheep and cattle.
+- breed | v. / n. | 繁殖；饲养；品种 | breed in captivity; a breed of dog | Pandas rarely breed in captivity. // What breed is your dog?
+- offspring | n. | 后代；子女（单复数同形） | — | Many fish produce thousands of offspring.
+- evolve | v. | 进化；逐步发展 | evolve from; evolve into | Birds evolved from dinosaurs.
+  fam: evolution (n.) · evolutionary (adj.)
+  note: “鸟类由恐龙演化而来”是现代古生物学的主流结论，有大量化石证据支持。
+- adapt to | phr. | 适应 | adapt to the environment | Camels have adapted to life in the desert.
+- camouflage | n. / v. | 伪装；保护色 | — | The chameleon uses camouflage to hide from predators.
+  ipa: /ˈkæməflɑːʒ/
+- migrate | v. | 迁徙；迁移 | migrate south for the winter | Many birds migrate thousands of kilometres every year.
+  fam: migration (n.) · migratory (adj.) · migrant (n.)
+- hibernate | v. | 冬眠 | — | Bears hibernate during the winter.
+  fam: hibernation (n.)
+- flora and fauna | phr. | 植物群和动物群 | — | The island has unique flora and fauna. | W
+  note: 正式说法：*flora* = 某地区的植物，*fauna* = 某地区的动物。阅读中的生态类文章经常使用。
+- vegetation | n. | 植被；植物（总称） | dense vegetation | The hills are covered in thick vegetation. | W
+
+@box rule 动物的“群”：集合名词
+*a herd of cows/elephants*（牛群、象群）· *a flock of sheep/birds*（羊群、鸟群）· *a school of fish*（鱼群）· *a swarm of bees*（蜂群）· *a pack of wolves*（狼群）· *a colony of ants*（蚁群）。考试不会专门考这些，但阅读中会遇到。
+@end
+
+## 2 · Plants · 植物
+
+- photosynthesis | n. | 光合作用 | — | Plants produce oxygen through photosynthesis. | W
+  note: 构词：*photo-*（光）+ *synthesis*（合成）。同族：*photograph*（光 + 写）、*synthesise*（合成）。
+- seed | n. | 种子 | plant seeds | Birds help spread seeds over long distances.
+- root | n. / v. | 根；根源；扎根 | the root of the problem; take root | The tree's roots go deep into the soil. // Poverty is the root of many social problems.
+- bloom | v. / n. | 开花；花 | in bloom | The cherry trees bloom in spring.
+- pollinate | v. | 给……授粉 | — | Bees pollinate about a third of the crops we eat.
+  fam: pollination (n.) · pollinator (n.)
+  note: 常见说法“我们吃的食物中约三分之一依赖蜜蜂等授粉者”，来自联合国粮农组织等机构的估算；更准确地说，是全球约 75% 的主要作物种类在一定程度上受益于动物授粉。
+- wither | v. | 枯萎；凋谢 | — | Without water, the plants withered and died.
+- weed | n. / v. | 杂草；除草 | — | We spent the afternoon pulling up weeds.
+- native | adj. / n. | 本土的；土生的；本地人 | native species; native to | The kangaroo is native to Australia.
+- invasive species | n. | 入侵物种 | — | Invasive species can destroy local ecosystems. | W
+  note: 入侵物种（如中国南方的福寿螺、澳大利亚的蔗蟾）由于缺乏天敌而迅速扩张，是生物多样性下降的重要原因之一。
+
+## 3 · Ecosystems & conservation · 生态系统与保护
+
+* biodiversity | n. | 生物多样性 | protect biodiversity; loss of biodiversity | Tropical rainforests have the highest biodiversity on Earth. | W
+  note: *bio-*（生命）+ *diversity*（多样性）。指一个区域内物种、基因和生态系统的丰富程度。写作中常与 *loss / decline / threat to* 搭配：*the loss of biodiversity*。
+- ecosystem | n. | 生态系统 | a fragile ecosystem; marine ecosystems | Coral reefs are among the most diverse ecosystems in the world. | W
+- habitat | n. | 栖息地 | natural habitat; habitat loss | Habitat loss is the biggest threat to wildlife. | W
+  note: 很多保护机构（如 IUCN、WWF）都把**栖息地丧失**列为物种减少的首要原因，其次是过度开发、气候变化、污染和入侵物种。
+- endangered | adj. | 濒危的 | an endangered species | The South China tiger is critically endangered.
+  fam: endanger (v.)
+- extinct | adj. | 灭绝的；（火山）死的 | become extinct; an extinct volcano | Dinosaurs became extinct about 66 million years ago.
+  fam: extinction (n.)
+- on the verge of extinction | phr. | 濒临灭绝 | — | Many species are on the verge of extinction. | W
+- conservation | n. | 保护；保存 | wildlife conservation; conservation efforts | Conservation efforts have helped giant pandas.
+  fam: conserve (v.) · conservationist (n.)
+  note: 有据可查的保护成功例子：IUCN 在 2016 年把大熊猫的状态从“濒危”（endangered）调整为“易危”（vulnerable）。
+- nature reserve | n. | 自然保护区 | — | Futian Mangrove Nature Reserve is home to many birds.
+- sanctuary | n. | 保护区；避难所 | a wildlife sanctuary | The sanctuary takes care of injured animals.
+- captivity | n. | 圈养；监禁 | in captivity; bred in captivity | Animals in captivity may behave differently.
+  fam: captive (adj./n.)
+- poaching | n. | 偷猎 | — | Poaching is a major threat to elephants and rhinos.
+  fam: poacher (n.) · poach (v.)
+- ivory | n. | 象牙 | the ivory trade | China banned the domestic ivory trade in 2017.
+- coral reef | n. | 珊瑚礁 | — | Rising sea temperatures are damaging coral reefs.
+- fragile | adj. | 脆弱的；易碎的 | a fragile ecosystem | Polar ecosystems are very fragile. | W
+- protect | v. | 保护 | protect sth from/against sth | Laws protect rare animals from hunters.
+  fam: protection (n.) · protective (adj.)
+- threaten | v. | 威胁；危及 | be threatened with extinction | Climate change threatens many species.
+  fam: threat (n.)
+- decline | n. / v. | 减少；下降；衰退；拒绝 | a sharp decline in; decline to comment | There has been a sharp decline in bee populations.
+- population | n. | （某物种的）种群数量；人口 | the tiger population | The wild tiger population has started to recover in some countries.
+- reintroduce | v. | 重新引入（物种） | reintroduce wolves into the wild | Wolves were reintroduced to Yellowstone in 1995. | W
+  note: 黄石公园在 1995 年重新引入狼群，被生态学家广泛研究：狼减少了马鹿的数量，使植被恢复。这个连锁反应叫 *trophic cascade*（营养级联）——不过其效果的大小仍有学术争论。
+
+## 4 · Animals & people · 动物与人类
+
+- animal welfare | n. | 动物福利 | — | Animal welfare laws protect pets and farm animals. | W
+- animal rights | n. | 动物权利 | animal rights activists | Animal rights activists protested outside the lab.
+- animal testing | n. | 动物实验 | — | Many cosmetics companies have stopped animal testing. | W
+- cruelty | n. | 残忍；虐待 | cruelty to animals | Cruelty to animals is a crime in many countries.
+  fam: cruel (adj.)
+- zoo | n. | 动物园 | — | Modern zoos focus on education and conservation.
+- stray | adj. / n. / v. | 流浪的；走失的动物 | stray cats/dogs | Volunteers feed stray cats in our neighbourhood.
+- adopt | v. | 收养；采纳；采用 | adopt a dog; adopt a policy | We adopted a cat from an animal shelter.
+  fam: adoption (n.)
+- companion | n. | 伙伴；同伴 | a loyal companion | Dogs are wonderful companions.
+- tame | adj. / v. | 驯服的；驯化 | — | The birds in the park are quite tame.
+- wild | adj. / n. | 野生的；野外 | in the wild; wild animals | Tigers are now rarely seen in the wild.
+
+@box ielts 写作：动物园该不该存在？
+支持：*protect endangered species through breeding programmes*、*educate the public*、*fund conservation research*。反对：*keep animals in unnatural conditions*、*cause stress and abnormal behaviour*、*prioritise profit over welfare*。
+@end

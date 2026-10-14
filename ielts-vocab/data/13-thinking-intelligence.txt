@@ -1,0 +1,127 @@
+@unit 13
+@title Thinking, Memory & Intelligence
+@zh 思考、记忆与智力
+@level B1–B2 · 中级核心
+@intro 心理学和认知科学是 IELTS 阅读的常客：记忆如何形成、智力能否提高、直觉是否可靠……本单元给你描述“思考”的精确词汇。注意 *think* 的很多近义词并不能互换——*realise*、*recognise*、*consider*、*suppose* 各有分工。
+
+## 1 · Verbs of thinking · 思考类动词
+
+* consider | v. | ① 考虑 ② 认为；把……看作 ③ 顾及 | consider doing sth; consider sb/sth (to be) sth; all things considered | I'm considering studying abroad. // Many people consider him the best player in the league.
+  fam: consideration (n.) · considerable (adj., 相当大的) · considerate (adj., 体贴的)
+  note: *consider* 后面接**动名词**：✓ *consider moving* ✗ *consider to move*。词族陷阱：*considerable*（相当大的：a considerable amount）和 *considerate*（体贴的）意思完全不同。
+* realise | v. | 意识到；认识到；实现（梦想） | realise that…; realise a dream | I didn't realise how late it was. // She finally realised her dream of becoming a doctor.
+  fam: realisation (n.) · real (adj.) · reality (n.)
+  note: *realise* 不是“实现”的首选——“实现目标”更常说 *achieve a goal*；*realise* 最常用的意思是“**突然意识到**”某个事实。
+- recognise | v. | 认出；承认；认可 | recognise sb; recognise a problem; be widely recognised as | I didn't recognise you with short hair! // Experts recognise that the problem is serious.
+  fam: recognition (n.) · recognisable (adj.)
+- reflect | v. | ① 反射；反映 ② 深思；反思 | reflect on sth; reflect the fact that | Take time to reflect on what you have learned. // The results reflect the hard work of the students.
+  fam: reflection (n.) · reflective (adj.)
+- recall | v. / n. | 回想起；召回（产品） | recall sth/doing sth | I can't recall where I put my keys. // The company recalled thousands of faulty cars.
+- remind | v. | 提醒；使想起 | remind sb to do sth; remind sb of sth | Remind me to call Grandma. // This song reminds me of my childhood.
+  fam: reminder (n.)
+  note: *remember* = 自己记得；*remind* = 让别人记得。✗ *Please remember me to bring the book* → ✓ *Please **remind** me to bring the book.*
+- wonder | v. / n. | 想知道；感到好奇；奇迹 | I wonder if/whether…; no wonder | I wonder whether it will rain tomorrow. // No wonder you're tired — you slept for only four hours. | S
+  ipa: /ˈwʌndə/
+- suppose | v. | 认为；猜想；假设 | I suppose so; be supposed to do sth | I suppose you're right. // You're supposed to wear a uniform at school. | S
+  note: *be supposed to do* = 应该（按规定或期待）做某事，口语中非常常用：*We're supposed to arrive by eight.*
+- assume | v. | 假定；（未经证实地）认为；承担（责任） | assume that…; assume responsibility | Don't assume that everyone knows the rules.
+  fam: assumption (n.)
+- guess | v. / n. | 猜测 | make a guess; guess what | Can you guess how old she is? | S
+- imagine | v. | 想象；设想 | imagine doing sth; imagine sb doing sth | Imagine living without electricity!
+  fam: imagination (n.) · imaginative (adj.) · imaginary (adj.)
+  note: 词族：*imaginative* = 有想象力的（an imaginative writer）；*imaginary* = 想象中的、虚构的（an imaginary friend）。
+- doubt | v. / n. | 怀疑；疑问 | I doubt (that)…; without doubt; there's no doubt that | I doubt that he'll come. // There is no doubt that exercise improves mood.
+  ipa: /daʊt/
+  note: b 不发音。*doubt* 表示“不太相信”，而 *suspect* 表示“怀疑有某事（多为坏事）”：*I suspect he's lying*（我怀疑他在撒谎 = 我觉得他在撒谎）。
+- judge | v. / n. | 判断；评价；裁判；法官 | judge sb by…; judging by/from | Don't judge a book by its cover. // Judging by his face, the news was bad.
+  fam: judgement (n.)
+- predict | v. | 预测；预言 | predict the future | It's difficult to predict how the market will change.
+  fam: prediction (n.) · predictable (adj.) · unpredictable (adj.)
+- make up your mind | phr. | 下定决心；拿定主意 | — | I can't make up my mind which club to join. | S
+
+## 2 · Intelligence & ability · 智力与能力
+
+- intelligence | n. | 智力；智慧；情报 | artificial intelligence; emotional intelligence | Some scientists believe intelligence can be improved through practice.
+  fam: intelligent (adj.) · intellectual (adj./n.)
+  note: *intelligent* 侧重“聪明、理解力强”；*intellectual* 指“与思想、学术有关的”或“知识分子”（intellectual development; an intellectual）。
+- bright | adj. | 聪明的；明亮的 | a bright student | She's one of the brightest students in her year. | S
+- gifted | adj. | 有天赋的 | a gifted musician; gifted children | The school runs a programme for gifted children.
+- talented | adj. | 有才能的 | a talented artist | He is a talented footballer.
+  fam: talent (n.)
+- genius | n. | 天才；天赋 | a genius at maths; a stroke of genius | Einstein is often described as a genius.
+  ipa: /ˈdʒiːniəs/
+- brilliant | adj. | 才华横溢的；极好的（英式口语） | a brilliant idea | That's a brilliant idea! | S
+- wisdom | n. | 智慧 | conventional wisdom | Grandparents can pass on wisdom to younger generations.
+  fam: wise (adj.)
+  note: *conventional wisdom* = 一般人普遍接受的看法（常在文章中被质疑）：*Conventional wisdom says breakfast is the most important meal, but…* —— 阅读中看到这个短语，往往意味着作者马上要提出不同观点。
+- knowledge | n. | 知识；了解（不可数） | general knowledge; to my knowledge | She has a wide knowledge of history.
+  ipa: /ˈnɒlɪdʒ/
+  fam: knowledgeable (adj.)
+- aptitude | n. | 天资；才能 | an aptitude for languages | He shows a natural aptitude for music. | W
+- ability | n. | 能力 | the ability to do sth | Reading improves your ability to concentrate.
+  fam: able (adj.) · enable (v.) · disability (n.)
+- capable | adj. | 有能力的；能干的 | be capable of doing sth | She is capable of solving very hard problems.
+  fam: capability (n.) · incapable (adj.)
+- skill | n. | 技能 | develop skills; problem-solving skills | Coding is a useful skill.
+  fam: skilful (adj.)
+- expertise | n. | 专门知识；专长 | technical expertise; expertise in sth | The project needs someone with expertise in AI. | W
+  ipa: /ˌekspɜːˈtiːz/
+  fam: expert (n./adj.)
+- naive | adj. | 天真的；幼稚的 | a naive belief | It's naive to believe everything you read online.
+  ipa: /naɪˈiːv/
+- absent-minded | adj. | 心不在焉的；健忘的 | — | My grandfather is so absent-minded — he's always losing his glasses. | S
+- forgetful | adj. | 健忘的 | become forgetful | People can become forgetful when they are stressed.
+- ignorant | adj. | 无知的；不知道的 | ignorant of the facts | Many people are ignorant of how their data is used.
+  fam: ignorance (n.) · ignore (v.)
+  note: *ignorant* 是“不知道、无知”；*ignore* 却是“故意不理会”。*He ignored my advice* ≠ *He was ignorant of my advice*。
+
+## 3 · The mind · 心智与认知
+
+- mental | adj. | 精神的；心理的；脑力的 | mental health; mental arithmetic | Exercise is good for both physical and mental health.
+  fam: mentally (adv.)
+- brain | n. | 大脑；智囊 | brain development; the brains behind sth | The human brain uses about 20% of the body's energy.
+  note: 这是一个常被引用、有研究依据的数据：大脑重量约占体重的 2%，却消耗约 20% 的能量。
+- memory | n. | 记忆；记忆力；回忆 | short-term/long-term memory; a good memory | I have a terrible memory for names.
+  fam: memorable (adj.)
+- logic | n. | 逻辑；道理 | the logic behind sth | I don't understand the logic behind this rule.
+  fam: logical (adj.) · illogical (adj.)
+- rational | adj. | 理性的；合理的 | a rational decision | We need a rational discussion, not an emotional one. | W
+  fam: rationally (adv.) · irrational (adj.)
+- intuition | n. | 直觉 | rely on intuition | My intuition told me something was wrong.
+  fam: intuitive (adj.)
+- instinct | n. | 本能；直觉 | survival instinct; follow your instincts | Birds build nests by instinct.
+  fam: instinctive (adj.)
+- conscious | adj. | 有意识的；意识到的；刻意的 | be conscious of sth; a conscious decision | I made a conscious decision to eat less sugar.
+  fam: consciousness (n.) · unconscious (adj.) · subconscious (adj.)
+- aware | adj. | 意识到的；知道的 | be aware of/that; environmentally aware | Are you aware of the risks? // Few people are aware that…
+  fam: awareness (n.)
+  note: *aware* 只放在 be 动词后，接 *of* 或 *that*。名词 *awareness* 构成 IELTS 高频搭配 *raise awareness of sth*（提高人们对……的认识）。
+- cognitive | adj. | 认知的 | cognitive development; cognitive skills | Sleep plays an important role in cognitive development. | W
+- critical thinking | n. | 批判性思维 | develop critical thinking | Schools should teach critical thinking, not just facts. | W
+  note: *critical* 在这里不是“批评”，而是“**审慎分析、不盲从**”：判断信息来源、区分事实与观点、识别论证漏洞。
+- mindset | n. | 思维方式；心态 | a growth mindset; a positive mindset | A growth mindset helps students learn from mistakes.
+  note: “成长型思维”（growth mindset）源自心理学家 Carol Dweck 的研究：相信能力可以通过努力提升的学生，更愿意接受挑战。后续研究显示其效果因人群和干预方式而异，并不是万能的。
+- belief | n. | 信念；看法；信仰 | a common belief; beliefs about sth | It's a common belief that sugar makes children hyperactive.
+  fam: believe (v.)
+- opinion | n. | 意见；看法 | in my opinion; public opinion; a matter of opinion | In my opinion, homework should be shorter. | S
+- viewpoint | n. | 观点；角度 | from a scientific viewpoint | Try to see the problem from a different viewpoint.
+
+## 4 · Useful idioms of thinking · 思考类习语
+
+- on second thoughts | phr. | 再想一下；转念一想 | — | I'll have tea. On second thoughts, I'll have coffee. | S
+- cross your mind | phr. | （想法）闪过脑海 | It never crossed my mind that… | It never crossed my mind that she might be upset. | S
+- slip your mind | phr. | 忘记（不小心） | — | Sorry, your birthday completely slipped my mind. | S
+- ring a bell | phr. | 听起来耳熟 | — | His name rings a bell, but I can't remember his face. | S
+- think outside the box | phr. | 跳出框框思考；创造性思维 | — | To solve this problem, we need to think outside the box. | S
+- jump to conclusions | phr. | 草率下结论 | — | Don't jump to conclusions before you hear the whole story. | S
+- keep an open mind | phr. | 保持开放的心态 | keep an open mind about sth | Try to keep an open mind about new ideas. | S
+- train of thought | phr. | 思路 | lose your train of thought | Sorry, I've lost my train of thought. | S
+- rack your brains | phr. | 绞尽脑汁 | — | I racked my brains, but I couldn't remember the answer. | S
+
+@cmp think · consider · suppose · reckon
+think | 最通用的“认为” | I think it's a good idea.
+consider | 更正式；“把……视为”或“仔细考虑” | Many consider her the best writer of her generation.
+suppose | 带推测、不太确定 | I suppose he's busy.
+reckon | 英式口语：认为、估计 | I reckon it'll rain later.
+note: 写作中想表达“我认为”，与其反复用 *I think*，可以用 *I would argue that…*、*It seems to me that…*（见第四册 Unit 44）。
+@end

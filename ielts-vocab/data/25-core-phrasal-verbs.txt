@@ -1,0 +1,96 @@
+@unit 25
+@title Core Phrasal Verbs for Reading & Writing
+@zh 阅读与写作核心短语动词
+@level B2 · 中级核心
+@intro 第一册 Unit 12 的短语动词偏口语；本单元精选在**新闻、学术阅读和正式写作中也大量使用**的短语动词。每个词条都尽量给出一个更正式的单词近义词，帮助你在阅读中做“同义替换”——这正是 IELTS 阅读题的核心考法之一。
+
+@box ielts 短语动词 ↔ 正式单词：阅读同义替换
+IELTS 阅读题目常把原文的短语动词改写成正式单词，或反过来：*carry out ↔ conduct*、*set up ↔ establish*、*look into ↔ investigate*、*cut down on ↔ reduce*、*die out ↔ become extinct*、*put forward ↔ propose*。熟悉这些配对，可以更快定位答案。
+@end
+
+## 1 · Causes, plans & actions · 原因、计划与行动
+
+* carry out | phr. v. | 进行；执行；开展（≈ conduct, perform） | carry out research/an experiment/a survey | The researchers carried out a survey of 2,000 teenagers. | W
+  note: 学术写作中最常用的短语动词之一：*carry out research / experiments / a study / tests / a plan / an order*。注意不能说 ✗ *carry out a decision*（应说 *make a decision*；执行决定可说 *implement a decision*）。
+- bring about | phr. v. | 导致；引起（≈ cause） | bring about change | The internet has brought about huge changes in how we learn. | W
+- come about | phr. v. | 发生；产生（≈ happen） | How did this come about? | Nobody knows exactly how the idea came about.
+- put forward | phr. v. | 提出（意见、计划）（≈ propose） | put forward a proposal/theory | Several solutions have been put forward. | W
+- set out | phr. v. | ① 出发 ② 开始做；着手 ③ 阐述 | set out to do sth; set out the reasons | The report sets out the main causes of the problem. // She set out to become a doctor. | W
+- take on | phr. v. | 承担；雇用；呈现（特点） | take on responsibility; take on staff | I've taken on too much work this term. // The company is taking on 50 new workers.
+- take over | phr. v. | 接管；接任；收购 | take over a company; take over from sb | A larger company took over the start-up.
+  fam: takeover (n.)
+- draw up | phr. v. | 起草；拟订（≈ draft） | draw up a plan/list/contract | The school drew up a new set of rules. | W
+- go ahead | phr. v. | 进行；开始（尤指计划经批准后）；请便 | go ahead with sth | The concert will go ahead despite the rain. // "Can I use your phone?" "Go ahead." | S
+- follow up | phr. v. | 跟进；进一步调查 | follow up on sth; a follow-up study | The doctor will follow up with you next week.
+- opt for | phr. v. | 选择（≈ choose） | opt for sth / to do sth | Many students opt for online courses. | W
+- call for | phr. v. | 要求；呼吁；需要 | call for action/change | Scientists are calling for urgent action on climate change. | W
+- set aside | phr. v. | 留出（时间、钱）；把……放在一边 | set aside time/money | Set aside an hour every day for reading.
+- phase out | phr. v. | 逐步淘汰；分阶段停止 | phase out coal power/plastic bags | Many countries plan to phase out petrol cars by 2035. | W
+  note: 欧盟已立法规定 2035 年起新售乘用车必须零排放（该政策仍在讨论调整中）——写作时用 *plan to* 比断言更稳妥。
+- roll out | phr. v. | 推出；推广（新产品、服务） | roll out a new service | The city is rolling out 5G across all districts. | W
+- scale up | phr. v. | 扩大规模 | scale up production | The company plans to scale up production next year. | W
+- step up | phr. v. | 加强；加快（≈ increase） | step up efforts | Police have stepped up patrols in the area. | W
+
+## 2 · Change, decline & disappearance · 变化、减少与消失
+
+- cut down on | phr. v. | 减少（≈ reduce） | cut down on sugar/plastic | I'm trying to cut down on sugar. | S
+- cut back on | phr. v. | 削减（开支等） | cut back on spending | The government cut back on public spending. | W
+  fam: cutback (n.)
+- die out | phr. v. | 灭绝；消失（≈ become extinct, disappear） | — | Many local traditions are dying out. | W
+- wipe out | phr. v. | 彻底消灭；摧毁 | be wiped out by | The disease wiped out most of the population. | W
+- break out | phr. v. | （战争、火灾、疾病）爆发 | — | A fire broke out in the factory last night.
+  fam: outbreak (n.)
+- catch on | phr. v. | 流行起来；理解 | — | The new fashion quickly caught on with teenagers. | S
+- fall apart | phr. v. | 崩溃；瓦解；破碎 | — | My old shoes are falling apart. // Their plans fell apart when funding was cut. | S
+- fall through | phr. v. | （计划）落空；失败 | — | Our holiday plans fell through at the last minute. | S
+- wear out | phr. v. | 磨损；使筋疲力尽 | be worn out | My trainers are worn out. // The long journey wore me out. | S
+- bring down | phr. v. | 降低；推翻 | bring down prices/costs | New technology has brought down the cost of solar panels. | W
+- go up | phr. v. | 上升；上涨（≈ rise, increase） | — | Prices have gone up again. | S
+- level off | phr. v. | 趋于平稳（≈ stabilise） | — | After years of growth, sales have levelled off. | W
+  note: 图表写作的核心表达，详见第四册 Unit 41。
+- bounce back | phr. v. | 恢复；反弹 | bounce back from sth | The economy bounced back quickly after the crisis. | S
+- give way to | phr. | 让位于；被……取代 | — | Traditional shops are giving way to online stores. | W
+
+## 3 · Understanding & communicating · 理解与表达
+
+- look into | phr. v. | 调查；研究（≈ investigate） | look into a problem/complaint | The police are looking into the case.
+- rule out | phr. v. | 排除（可能性） | rule out the possibility of | Doctors have ruled out a serious illness. | W
+- sum up | phr. v. | 总结；概括（≈ summarise） | to sum up | To sum up, both sides have valid points.
+- point to | phr. v. | 表明；指向（证据） | Evidence points to… | All the evidence points to the same conclusion. | W
+- back up | phr. v. | 支持；证实；备份 | back up an argument with evidence; back up files | Back up your arguments with examples. // Always back up your work. | S W
+- make out | phr. v. | 看清；听清；理解 | make out the words | I couldn't make out what he was saying. | S
+- take in | phr. v. | 理解；吸收；欺骗 | take in information | There was too much information to take in. | S
+- go through | phr. v. | 经历；仔细检查 | go through a difficult time; go through the details | The country went through a period of rapid change.
+- leave out | phr. v. | 省略；遗漏；排除 | leave out details | Don't leave out any important information.
+- pass on | phr. v. | 传递；传给 | pass on knowledge/traditions | Grandparents pass on traditions to younger generations.
+- play down | phr. v. | 淡化；轻描淡写 | play down the risks | The company tried to play down the problem. | W
+- spell out | phr. v. | 详细说明 | spell out the details | The new rules spell out exactly what students can and cannot do. | W
+- single out | phr. v. | 挑选出；单独挑出（批评或表扬） | single sb out for praise | The teacher singled her out for praise.
+- stand out | phr. v. | 突出；显眼 | stand out from the crowd | Her application stood out from the others. | S
+  fam: outstanding (adj.)
+- think over | phr. v. | 仔细考虑 | think sth over | Take a few days to think it over. | S
+- try out | phr. v. | 试用；试验 | try out a new method | The school is trying out a four-day week.
+
+## 4 · Dealing with situations · 应对处境
+
+- put up with | phr. v. | 忍受；容忍（≈ tolerate） | put up with noise | I can't put up with this noise any longer. | S
+- get by | phr. v. | 勉强应付；过得去 | get by on a small income; get by in English | I can get by in Japanese, but I'm not fluent. | S
+- do without | phr. v. | 没有……也行 | — | I couldn't do without my phone. | S
+- get away with | phr. v. | （做坏事）逃脱惩罚 | get away with cheating | He cheated in the test and got away with it. | S
+- give in | phr. v. | 屈服；让步 | give in to pressure | The government refused to give in to the protesters' demands.
+- hold back | phr. v. | 阻碍；抑制；隐瞒 | hold back progress; hold back tears | Lack of funding is holding back research.
+- miss out | phr. v. | 错过（好机会） | miss out on sth | Students who don't travel may miss out on valuable experiences. | S
+- stick to | phr. v. | 坚持；遵守 | stick to a plan/diet/the rules | It's hard to stick to a diet. | S
+- look back on | phr. v. | 回顾；回想 | look back on your childhood | When I look back on my school days, I remember my friends most. | S
+- lay off | phr. v. | 解雇；裁员 | lay off workers | The factory laid off 300 workers.
+  fam: layoff (n.)
+- step down | phr. v. | 辞职；下台 | step down as manager | The CEO stepped down after the scandal.
+- pull out | phr. v. | 退出；撤出 | pull out of a deal/competition | The team pulled out of the tournament.
+- turn to | phr. v. | 求助于；转向 | turn to sb for help | Many young people turn to the internet for advice.
+- run up against | phr. v. | 遇到（困难） | run up against problems | The project ran up against serious financial problems. | W
+- come down to | phr. v. | 归结为 | It comes down to… | In the end, it all comes down to money. | S
+- go along with | phr. v. | 赞同；遵从 | go along with a plan | I didn't agree, but I went along with the plan. | S
+
+@box tip 写作中短语动词要不要用？
+IELTS 写作偏正式，但**并非所有短语动词都不正式**。*carry out, set up, point out, bring about, put forward, rule out* 在学术文章中都很常见。真正需要避免的是很口语化的，如 *get by, put up with, mess up*——写作中可分别换成 *manage, tolerate, ruin*。
+@end

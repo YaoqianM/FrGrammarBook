@@ -51,7 +51,7 @@
   fam: annoying (adj.) · annoyance (n.)
 - furious | adj. | 狂怒的 | furious with sb | Dad was furious when he saw the broken window.
 - anxious | adj. | 焦虑的；担忧的；渴望的 | anxious about the exam | Many students feel anxious before exams.
-  fam: anxiety (n.)
+
 - nervous | adj. | 紧张的 | nervous about speaking in public | I always get nervous before a test. | S
 - worried | adj. | 担心的 | worried about sb/sth | My mum gets worried if I come home late.
 - stressed | adj. | 有压力的；紧张的 | stressed out | I'm stressed out about my exams. | S
@@ -65,7 +65,6 @@
 - jealous | adj. | 嫉妒的 | jealous of sb | She was jealous of her sister's new bike.
   ipa: /ˈdʒeləs/
 - lonely | adj. | 孤独的；寂寞的 | feel lonely | He felt lonely when he first moved to a new city.
-  fam: loneliness (n.)
   note: *lonely* 是“感到孤独”（消极）；*alone* 是“独自一人”（客观事实，不一定难过）。*I live alone, but I'm not lonely.*
 - miserable | adj. | 痛苦的；悲惨的 | feel miserable | The rainy weather made everyone miserable.
 - confused | adj. | 困惑的 | confused about sth | I'm confused about the homework.

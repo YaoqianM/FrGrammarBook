@@ -1,0 +1,120 @@
+@unit 23
+@title Tourism, Culture & Globalisation
+@zh 旅游、文化与全球化
+@level B1–B2 · 中级核心
+@intro 第一册 Unit 9 处理了“旅行本身”。本单元关注更大的问题：旅游业对当地的影响、文化传统的保护、语言与身份，以及全球化带来的机遇与担忧。这些都是 IELTS 写作 Task 2 的经典题目。
+
+## 1 · The tourism industry · 旅游业
+
+- tourism | n. | 旅游业 | the tourism industry; mass tourism | Tourism is an important source of income for many countries. | W
+- mass tourism | n. | 大众旅游（大规模游客） | — | Mass tourism can damage the places people come to see. | W
+- ecotourism | n. | 生态旅游 | — | Ecotourism aims to protect nature while bringing money to local people. | W
+- sustainable tourism | n. | 可持续旅游 | — | Sustainable tourism respects local communities and the environment. | W
+- overtourism | n. | 过度旅游 | — | Venice and Barcelona have struggled with overtourism. | W
+  note: *overtourism* 是近年的新词，指游客过多导致当地居民生活质量下降、房租上涨、环境受损。威尼斯从 2024 年起对部分日子的一日游游客收取入城费，是常被引用的应对措施。
+- tourist trap | n. | 宰客的旅游景点 | — | The restaurant near the station is a tourist trap. | S
+- package holiday | n. | 跟团游；包价旅游 | — | Package holidays are cheap and convenient.
+- itinerary | n. | 旅行日程；行程表 | a detailed itinerary | Our itinerary includes three days in Beijing.
+  ipa: /aɪˈtɪnərəri/
+- peak season | n. | 旺季 | during peak season | Hotels are much more expensive during peak season.
+- off-season | adj. / n. | 淡季（的） | off-season prices | It's cheaper to travel off-season.
+- boost the local economy | phr. | 促进当地经济 | — | Tourism can boost the local economy by creating jobs. | W
+- revenue | n. | 收入；（政府）税收 | tourism revenue; tax revenue | Tourism revenue fell sharply during the pandemic. | W
+  ipa: /ˈrevənjuː/
+- commercialise | v. | 使商业化 | — | Some people think the old town has become too commercialised.
+  fam: commercialisation (n.)
+- authentic | adj. | 真正的；正宗的；真实可信的 | authentic food; an authentic experience | Tourists want an authentic local experience.
+  fam: authenticity (n.)
+- unspoilt | adj. | 未受破坏的；保持自然原貌的 | an unspoilt beach | We found an unspoilt beach far from the hotels.
+- wear and tear | phr. | 磨损；损耗 | — | Millions of visitors cause wear and tear on ancient sites.
+
+## 2 · Culture & tradition · 文化与传统
+
+* culture | n. | 文化；（生物）培养 | traditional culture; pop culture; culture shock | Food is an important part of every culture.
+  fam: cultural (adj.) · culturally (adv.)
+  note: 搭配：*cultural heritage*（文化遗产）、*cultural identity*（文化认同）、*cultural diversity*（文化多样性）、*cultural exchange*（文化交流）。*culture shock* = 初到异国时的不适应感。
+- culture shock | n. | 文化冲击 | experience culture shock | Many international students experience culture shock in their first few months.
+- custom | n. | 风俗；习俗；（复数）海关 | local customs; go through customs | It's a Chinese custom to give red envelopes at New Year.
+  fam: customary (adj.)
+  note: *custom*（风俗）≠ *costume*（服装、戏服）。*customs*（复数）= 海关。
+- tradition | n. | 传统 | a long tradition; break with tradition | Dragon boat racing is a 2,000-year-old tradition.
+  fam: traditional (adj.) · traditionally (adv.)
+- festival | n. | 节日；（音乐、电影等）节 | the Spring Festival; a film festival | The Mid-Autumn Festival is a time for family reunions.
+- ritual | n. / adj. | 仪式；惯例 | a religious ritual; a daily ritual | Drinking tea in the morning is my daily ritual.
+- ceremony | n. | 典礼；仪式 | a wedding ceremony; an opening ceremony | The opening ceremony was spectacular.
+- celebrate | v. | 庆祝 | celebrate a festival | How do people celebrate the Spring Festival in your hometown? | S
+  fam: celebration (n.) · celebrity (n., 名人)
+- folk | adj. / n. | 民间的；人们 | folk music; folk art | Paper-cutting is a traditional folk art.
+- indigenous | adj. | 本土的；土著的 | indigenous peoples/cultures | Many indigenous languages are disappearing. | W
+  ipa: /ɪnˈdɪdʒənəs/
+- ethnic | adj. | 种族的；民族的 | ethnic groups; ethnic minorities | China has 56 recognised ethnic groups.
+  fam: ethnicity (n.)
+- minority | n. | 少数；少数民族 | a minority of; ethnic minorities | Only a minority of students walk to school.
+  fam: minor (adj.)
+  note: *a minority of* ↔ *the majority of*：*The majority of people own a phone, but a minority still prefer letters.*
+- majority | n. | 大多数 | the vast majority of | The vast majority of students passed the test.
+- diversity | n. | 多样性；多元化 | cultural diversity | London is famous for its cultural diversity.
+  fam: diverse (adj.) · diversify (v.)
+- multicultural | adj. | 多元文化的 | a multicultural society | Canada is a multicultural country.
+- values | n. | 价值观（复数） | family values; traditional values | Different generations often have different values.
+- norm | n. | 规范；常态 | social norms; the norm | Working from home is becoming the norm.
+- taboo | n. / adj. | 禁忌 | a cultural taboo | In some cultures, talking about money is taboo.
+- superstition | n. | 迷信 | — | It's a common superstition that the number 4 is unlucky in China.
+  fam: superstitious (adj.)
+- stereotype | n. / v. | 刻板印象；对……形成刻板印象 | a common stereotype; challenge stereotypes | Travel can help break down stereotypes.
+  ipa: /ˈsteriətaɪp/
+  fam: stereotypical (adj.)
+- prejudice | n. | 偏见；成见 | racial prejudice; prejudice against sb | We should fight prejudice in all its forms. | W
+  fam: prejudiced (adj.)
+
+## 3 · Language & identity · 语言与身份
+
+- mother tongue | n. | 母语 | — | My mother tongue is Cantonese.
+  note: 也说 *first language* 或 *native language*。“母语者”= *native speaker*。
+- native speaker | n. | 母语使用者 | — | You don't need to sound like a native speaker to communicate well.
+- bilingual | adj. | 双语的 | a bilingual school; bilingual education | Many children in Hong Kong are bilingual.
+  fam: bilingualism (n.) · multilingual (adj.) · monolingual (adj.)
+- dialect | n. | 方言 | a regional dialect | Shanghainese is a Wu dialect.
+- accent | n. | 口音；重音 | a strong accent; a British accent | She speaks English with a slight Chinese accent.
+  note: 在 IELTS 口语评分中，**可理解度**（intelligibility）比“像不像英国人或美国人”更重要。有口音完全没问题，只要发音清晰、重音和语调准确。
+- fluent | adj. | 流利的 | fluent in English; fluent English | She is fluent in three languages.
+  fam: fluency (n.) · fluently (adv.)
+- lingua franca | n. | 通用语 | — | English has become the lingua franca of science and business. | W
+- endangered language | n. | 濒危语言 | — | About 40% of the world's languages are endangered.
+  note: 根据 UNESCO 和民族语（Ethnologue）的估计，世界上约 7,000 种语言中有大约 40% 处于濒危状态。
+
+## 4 · Globalisation · 全球化
+
+* globalisation | n. | 全球化（美式 globalization） | economic globalisation; the effects of globalisation | Globalisation has made products cheaper but has also changed local cultures. | W
+  fam: global (adj.) · globally (adv.) · globalised (adj.)
+  note: 写作中讨论全球化的典型对立观点：**积极** —— *access to goods and ideas, economic growth, cultural exchange*；**消极** —— *cultural homogenisation*（文化同质化）、*loss of local traditions*、*widening inequality*。
+- interconnected | adj. | 相互联系的 | an interconnected world | Today's economies are deeply interconnected. | W
+- cultural exchange | n. | 文化交流 | — | Student exchange programmes promote cultural exchange.
+- cross-cultural | adj. | 跨文化的 | cross-cultural communication | Cross-cultural skills are valuable in international business. | W
+- homogeneous | adj. | 同质的；单一的 | a homogeneous society | Some fear that globalisation will make the world more homogeneous. | W
+  ipa: /ˌhɒməˈdʒiːniəs/
+  fam: homogenise (v.) · homogenisation (n.)
+  note: 反义词 *heterogeneous*（异质的、多样的）。构词：*homo-*（相同）、*hetero-*（不同）、*-gen-*（种类）。
+- westernisation | n. | 西化 | — | Some people worry about the westernisation of young people's lifestyles.
+- multinational | adj. / n. | 跨国的；跨国公司 | multinational companies | Multinational companies employ millions of people worldwide.
+- immigrant | n. | （外来）移民 | illegal immigrants; immigrant communities | Many immigrants come to Canada for work.
+  fam: immigrate (v.) · immigration (n.)
+- emigrate | v. | 移居国外 | emigrate to Australia | His family emigrated to Australia in 2015.
+  fam: emigrant (n.) · emigration (n.)
+- integrate | v. | 融入；结合；整合 | integrate into society; integrate A with B | It can take years for immigrants to integrate into a new society.
+  fam: integration (n.)
+- assimilate | v. | 同化；吸收（知识） | assimilate into a culture | Some immigrants assimilate completely, while others keep their traditions. | W
+  fam: assimilation (n.)
+- expat | n. | 旅居国外者（expatriate） | the expat community | There is a large expat community in Shenzhen.
+- citizen | n. | 公民；市民 | a global citizen; British citizens | Global citizens care about problems beyond their own country.
+  fam: citizenship (n.)
+
+@cmp immigrate · emigrate · migrate
+immigrate | 移入（从别国来到这里），im- = 进入 | Many people immigrate to Canada every year.
+emigrate | 移出（离开本国去别国），e- = 出去 | My uncle emigrated from China to the UK.
+migrate | 迁移（人或动物，常为季节性或国内的） | Birds migrate south in winter. // Workers migrate from rural to urban areas.
+@end
+
+@box ielts 写作：旅游业利弊
+利：*create jobs*、*boost the local economy*、*promote cultural exchange*、*fund the preservation of historic sites*。弊：*overtourism*、*environmental damage*、*rising living costs for locals*、*commercialisation of local culture*。
+@end

@@ -39,12 +39,12 @@
   ipa: /ˈɒnɪst/
   fam: honesty (n.) · dishonest (adj.)
 - reliable | adj. | 可靠的；可信赖的 | a reliable friend; reliable information | He's very reliable — he never forgets a deadline.
-  fam: reliability (n.) · rely on (v.)
+  fam: reliability (n.)
 - responsible | adj. | 有责任心的；负责的 | be responsible for sth | She is a responsible student who always finishes her work.
   fam: responsibility (n.) · irresponsible (adj.)
 - hard-working | adj. | 勤奋的 | a hard-working student | My parents are both very hard-working. | S
 - patient | adj. / n. | 有耐心的；病人 | be patient with sb | Our coach is very patient with beginners.
-  fam: patience (n.) · impatient (adj.)
+  fam: patience (n.)
 - confident | adj. | 自信的；有把握的 | feel confident about sth | I feel more confident about speaking English now.
   fam: confidence (n.) · self-confident (adj.)
 - brave | adj. | 勇敢的 | a brave decision | It was brave of her to speak in front of the whole school.
@@ -55,6 +55,7 @@
   fam: ambition (n.)
 - modest | adj. | 谦虚的；（数量）不大的 | a modest increase | He's very modest about his success.
 - humble | adj. | 谦逊的；卑微的 | a humble attitude | Despite his fame, he stayed humble.
+  fam: humility (n.)
 - caring | adj. | 体贴的；关心他人的 | a caring family | She's a caring person who always helps others.
 - considerate | adj. | 体贴的；为他人着想的 | considerate of others | It was considerate of you to call.
 - thoughtful | adj. | 体贴的；深思熟虑的 | a thoughtful gift; a thoughtful answer | What a thoughtful present!
@@ -78,6 +79,7 @@
 - selfish | adj. | 自私的 | selfish behaviour | It's selfish to eat all the snacks yourself.
 - rude | adj. | 粗鲁的；无礼的 | be rude to sb | It's rude to look at your phone while someone is talking.
 - arrogant | adj. | 傲慢的；自大的 | arrogant behaviour | He's talented, but rather arrogant.
+  fam: arrogance (n.)
 - stubborn | adj. | 固执的；倔强的 | as stubborn as a mule | My little brother is too stubborn to say sorry.
 - lazy | adj. | 懒惰的 | too lazy to do sth | I felt too lazy to go to the gym.
 - bossy | adj. | 爱指使人的；专横的 | a bossy older sister | Nobody likes working with a bossy group leader. | S

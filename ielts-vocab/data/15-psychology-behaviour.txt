@@ -1,0 +1,121 @@
+@unit 15
+@title Psychology, Character & Behaviour
+@zh 心理、品格与行为
+@level B1–B2 · 中级核心
+@intro 第一册 Unit 2–3 已经覆盖了基础性格词和情绪词。本单元进入心理学视角：**性格特质、自我认知、习惯与自控、压力与心理健康**。这些词在 IELTS 阅读的心理学文章和写作的青少年话题中都很常见。
+
+## 1 · Personality traits · 性格特质
+
+* introvert | n. | 内向的人 | — | As an introvert, I need some quiet time after a busy day.
+  fam: introverted (adj.) · extrovert (n.) · extroverted (adj.)
+  note: 心理学中的 *introvert* 并不等于“害羞”（*shy*）。内向者可以很擅长社交，只是社交会消耗他们的能量，独处能帮助他们“充电”；外向者（*extrovert*）则更多从与人互动中获得能量。
+- trait | n. | 特征；特质 | personality traits; a common trait | Curiosity is a common trait among scientists. | W
+  note: 心理学中常用的“大五人格”（the Big Five）是：*openness*（开放性）、*conscientiousness*（尽责性）、*extraversion*（外向性）、*agreeableness*（宜人性）、*neuroticism*（神经质）。
+- temperament | n. | 气质；性情 | a calm temperament | The two brothers have very different temperaments. | W
+- conscientious | adj. | 认真负责的；尽职的 | a conscientious student | She is a conscientious worker who checks everything twice. | W
+  ipa: /ˌkɒnʃiˈenʃəs/
+  note: 拼写和读音都不容易：con-sci-en-tious。不要和 *conscious*（有意识的）混淆。
+- resilient | adj. | 有韧性的；能迅速恢复的 | resilient children; a resilient economy | Resilient students see failure as a chance to learn.
+  fam: resilience (n.)
+  note: *resilience* 是心理学和社会科学中的热门词：指在压力、失败或困境后**恢复和适应**的能力。也可以用于城市、经济和生态系统（*climate resilience*）。
+- assertive | adj. | 坚定自信的；敢于表达的 | — | You need to be more assertive and say what you think.
+  note: *assertive*（敢于坚定表达自己的需求，同时尊重别人）是褒义；*aggressive*（咄咄逼人、带攻击性）通常是贬义；*passive*（被动、不表达）也不理想。
+- aggressive | adj. | 好斗的；侵略的；积极进取的 | aggressive behaviour; an aggressive marketing campaign | Some video games may make children more aggressive.
+  fam: aggression (n.)
+- passive | adj. | 被动的；消极的 | a passive role; passive smoking | Watching TV is a passive activity.
+- impulsive | adj. | 冲动的 | an impulsive decision | Teenagers can be more impulsive than adults.
+  fam: impulse (n.)
+- cautious | adj. | 谨慎的；小心的 | cautious about doing sth | Be cautious about sharing personal information online.
+  fam: caution (n.)
+- reckless | adj. | 鲁莽的；不顾后果的 | reckless driving | Reckless driving causes many accidents.
+- persistent | adj. | 坚持不懈的；持续的 | a persistent cough | Persistent students usually succeed in the end.
+  fam: persistence (n.) · persist (v.)
+- perseverance | n. | 毅力；不屈不挠 | — | Learning a language requires perseverance. | W
+- tolerant | adj. | 宽容的；容忍的；耐受的 | tolerant of other views | A tolerant society accepts different cultures.
+  fam: tolerance (n.) · tolerate (v.) · intolerant (adj.)
+- adaptable | adj. | 适应性强的 | — | Employers want staff who are adaptable.
+  fam: adapt (v.) · adaptation (n.)
+- empathy | n. | 同理心；共情 | show empathy for sb | Good doctors show empathy for their patients.
+  fam: empathetic (adj.) · empathise (v.)
+- compassion | n. | 同情；怜悯 | show compassion | We should treat refugees with compassion. | W
+  fam: compassionate (adj.)
+- sincere | adj. | 真诚的 | sincere thanks | Please accept my sincere apologies.
+  fam: sincerity (n.) · sincerely (adv.)
+
+@cmp sympathy · empathy · compassion
+sympathy | 同情（为别人难过，站在外面看） | I have a lot of sympathy for people who lose their jobs.
+empathy | 共情（设身处地感受对方的感受） | Empathy helps you understand why your friend is upset.
+compassion | 同情并想要帮助（带行动意愿） | Nurses treat patients with compassion.
+note: *sympathetic* 在英语中还常指“赞同的、支持的”（*sympathetic to the idea*），不只是“同情的”。
+@end
+
+## 2 · Self & identity · 自我认知
+
+- self-esteem | n. | 自尊；自我价值感 | low/high self-esteem | Constant criticism can damage a child's self-esteem.
+- self-confidence | n. | 自信 | build self-confidence | Public speaking helped me build self-confidence.
+- insecure | adj. | 缺乏安全感的；不自信的；不安全的 | feel insecure about sth | Social media can make teenagers feel insecure about their looks.
+  fam: insecurity (n.)
+- identity | n. | 身份；认同 | cultural identity; identity card | Language is an important part of cultural identity.
+- self-image | n. | 自我形象 | a positive self-image | Advertising can affect young people's self-image.
+- ego | n. | 自我；自尊心 | a big ego | Winning the award gave his ego a boost.
+- inferiority complex | n. | 自卑情结 | — | He developed an inferiority complex after years of criticism.
+- self-aware | adj. | 有自知之明的；自我觉察的 | — | Self-aware people know their strengths and weaknesses.
+  fam: self-awareness (n.)
+- strengths and weaknesses | phr. | 优点和缺点 | — | Everyone has strengths and weaknesses. | S
+
+## 3 · Behaviour & habits · 行为与习惯
+
+- behaviour | n. | 行为；举止（美式 behavior） | good/bad behaviour; consumer behaviour | The school has strict rules about behaviour.
+  fam: behave (v.) · behavioural (adj.) · misbehave (v.)
+- willpower | n. | 意志力 | — | It takes willpower to stop eating sweets.
+- self-discipline | n. | 自律 | — | Studying at home requires a lot of self-discipline.
+- self-control | n. | 自制力 | lose self-control | Young children have less self-control than adults.
+- procrastinate | v. | 拖延 | — | I always procrastinate when I have a difficult essay to write. | S
+  ipa: /prəˈkræstɪneɪt/
+  fam: procrastination (n.)
+- addicted | adj. | 上瘾的；入迷的 | addicted to sth | Some teenagers are addicted to their phones.
+  fam: addiction (n.) · addictive (adj.)
+  note: *addicted to* 中 to 是介词，后接名词或动名词：*addicted to playing games*。*addictive* 描述“使人上瘾的事物”（an addictive game）。
+- obsessed | adj. | 着迷的；痴迷的 | obsessed with sth | He's obsessed with football.
+  fam: obsession (n.)
+- reward | n. / v. | 奖励；报酬 | a reward for sth; rewarding (adj.) | Rewards can motivate students in the short term.
+  fam: rewarding (adj., 有意义的、值得做的)
+  note: *rewarding* 在口语中常用来形容工作或经历“有回报、有成就感”：*Teaching is a rewarding job.*
+- punishment | n. | 惩罚 | physical punishment; a harsh punishment | Is punishment the best way to change behaviour?
+  fam: punish (v.)
+- praise | v. / n. | 赞扬；表扬 | praise sb for sth | Teachers should praise effort, not just results.
+- criticise | v. | 批评；评论 | criticise sb for sth | The plan was criticised for being too expensive.
+  fam: criticism (n.) · critic (n.) · critical (adj.)
+- peer pressure | n. | 同伴压力 | give in to peer pressure | Many teenagers start smoking because of peer pressure.
+- role-play | n. / v. | 角色扮演 | — | We did a role-play of a job interview.
+- conform | v. | 遵守；顺从；符合 | conform to rules/expectations | Teenagers often feel pressure to conform to their friends. | W
+  fam: conformity (n.)
+- rebel | v. / n. | 反叛；叛逆者 | rebel against sth | Many teenagers rebel against their parents' rules.
+  ipa: /rɪˈbel/ (v.) · /ˈrebl/ (n.)
+  fam: rebellious (adj.) · rebellion (n.)
+- break a habit | phr. | 改掉习惯 | — | It takes time to break a bad habit.
+
+## 4 · Stress & mental health · 压力与心理健康
+
+- well-being | n. | 幸福；健康（身心状态） | mental well-being; student well-being | Schools are paying more attention to student well-being. | W
+  note: 也可写作 *wellbeing*。它比 *happiness* 更全面，包括身体、心理和社会层面的“良好状态”，在政策和学术文本中很常用。
+- pressure | n. | 压力 | under pressure; academic pressure | Many students are under great pressure to get good grades.
+- overwhelmed | adj. | 不知所措的；被压垮的 | feel overwhelmed by sth | I felt overwhelmed by the amount of homework.
+  fam: overwhelming (adj.)
+- burnout | n. | 精疲力竭；职业倦怠 | suffer from burnout | Long working hours can lead to burnout.
+- depression | n. | 抑郁症；萧条 | suffer from depression; the Great Depression | Depression is a serious illness, not just sadness.
+  fam: depressed (adj.) · depressing (adj.)
+- anxiety | n. | 焦虑 | anxiety disorder; exam anxiety | Exam anxiety is very common among students.
+- vulnerable | adj. | 脆弱的；易受伤害的 | vulnerable to sth; vulnerable groups | Elderly people are more vulnerable to heat. | W
+  fam: vulnerability (n.)
+- therapy | n. | 治疗；疗法 | talk therapy; music therapy | Therapy can help people manage anxiety.
+  fam: therapist (n.)
+- counselling | n. | 心理辅导；咨询 | seek counselling | The school offers free counselling to students.
+  fam: counsellor (n.)
+- stigma | n. | 耻辱；污名 | the stigma of mental illness | There is still a stigma attached to mental illness. | W
+- open up | phr. v. | 敞开心扉 | open up to sb | It took him a long time to open up about his problems. | S
+- let off steam | phr. | 发泄情绪；释放压力 | — | Playing basketball helps me let off steam. | S
+
+@box ielts 心理学话题的写作用词
+讨论青少年与心理健康时，比 *very stressed / very sad* 更准确的表达：*face intense academic pressure*、*suffer from anxiety*、*build resilience*、*damage self-esteem*、*seek counselling*、*reduce the stigma of mental illness*。
+@end

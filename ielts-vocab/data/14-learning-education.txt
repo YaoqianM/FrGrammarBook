@@ -1,0 +1,116 @@
+@unit 14
+@title Learning & Education Systems
+@zh 学习方式与教育体系
+@level B1–B2 · 中级核心
+@intro 教育是 IELTS 写作 Task 2 出现频率最高的话题之一：*Should university be free? Is online learning as effective as classroom learning? Should schools teach practical skills?* 本单元从“学习过程”到“教育体系”，给你讨论这些问题所需的核心词汇。
+
+## 1 · Stages & types of education · 教育阶段与类型
+
+- primary education | n. | 小学教育 | — | Primary education is free and compulsory in China.
+- secondary education | n. | 中等教育（初中 + 高中） | — | Secondary education prepares students for work or university.
+- higher education | n. | 高等教育 | access to higher education | More young people are entering higher education than ever before. | W
+  note: *higher education* 指大学及以上教育；*tertiary education* 意思相近，范围更广（含职业院校），更正式。
+- tertiary | adj. | 第三级的；高等教育的 | tertiary education | Tertiary education is expensive in many countries. | W
+  ipa: /ˈtɜːʃəri/
+- vocational | adj. | 职业的；职业技能培训的 | vocational training; a vocational school | Vocational courses teach practical skills such as cooking and plumbing. | W
+- academic | adj. / n. | 学术的；学业的；学者 | academic performance; an academic year | Her academic performance has improved this year.
+  ipa: /ˌækəˈdemɪk/
+  fam: academy (n.) /əˈkædəmi/ · academically (adv.)
+  note: 重音变化：*aCAdemy* → *acaDEmic*。在讨论教育时，*academic subjects*（学术类科目，如数学、历史）常与 *practical / vocational subjects*（实践类科目）对比。
+- compulsory | adj. | 义务的；强制的 | compulsory education; compulsory subjects | Should PE be compulsory for all students? | W
+  note: 近义：*mandatory*（更正式，多用于法规）、*obligatory*。反义：*optional*（可选的）、*voluntary*（自愿的）。
+- optional | adj. | 可选择的；非强制的 | an optional course | Music is optional in Year 10.
+- curriculum | n. | 课程体系；全部课程（复数 curricula） | the national curriculum; a broad curriculum | Coding is now part of the school curriculum.
+  ipa: /kəˈrɪkjələm/
+  note: *curriculum* 是一所学校或一个国家开设的**全部课程体系**；*syllabus* 是**某一门课**的教学大纲。*extracurricular*（课外的）由 extra-（之外）+ curriculum 构成。
+- syllabus | n. | 教学大纲 | on the syllabus | Is this topic on the exam syllabus?
+- extracurricular | adj. | 课外的 | extracurricular activities | Extracurricular activities help students develop social skills. | W
+- boarding school | n. | 寄宿学校 | — | He went to a boarding school in the UK.
+- state school | n. | 公立学校（英；美式 public school） | — | Most children in Britain attend state schools.
+  note: 注意：在英国，*public school* 通常指历史悠久的**私立**精英学校（如 Eton），这和美国的用法正好相反。中性、安全的说法是 *state school* 与 *private school*。
+- private school | n. | 私立学校 | — | Private schools usually charge high fees.
+- homeschooling | n. | 在家教育 | — | Homeschooling is legal in some countries but not in others.
+- distance learning | n. | 远程教育 | — | Distance learning allows people to study while they work.
+- online learning | n. | 在线学习 | — | Online learning became common during the pandemic.
+- lifelong learning | n. | 终身学习 | — | In a fast-changing job market, lifelong learning is essential. | W
+- gap year | n. | 间隔年（升大学前休学一年） | take a gap year | Some students take a gap year to travel or work.
+
+## 2 · University life · 大学生活
+
+- undergraduate | n. / adj. | 本科生；本科的 | an undergraduate degree | She's an undergraduate at Cambridge.
+- postgraduate | n. / adj. | 研究生；研究生的 | postgraduate study | He's doing a postgraduate course in engineering.
+- major | n. / v. / adj. | 主修（专业）；主要的 | major in sth; a major problem | She majored in economics. // Pollution is a major problem.
+  note: *major in* 是美式说法；英式更常说 *study / read / do a degree in sth*。作形容词时 *major* = 主要的、重大的（a major change），反义 *minor*。
+- campus | n. | 校园 | on campus; live on campus | First-year students usually live on campus.
+- lecturer | n. | （大学）讲师 | a lecturer in history | Our lecturer speaks very fast.
+- professor | n. | 教授 | — | Professor Li teaches physics.
+- tuition fees | n. | 学费 | pay tuition fees; free tuition | Tuition fees for international students are high. | W
+- scholarship | n. | 奖学金 | win/receive a scholarship | She won a full scholarship to study in Canada.
+- enrol | v. | 注册；入学（美式 enroll） | enrol in/on a course | Over 2,000 students enrolled on the course.
+  fam: enrolment (n.)
+- dissertation | n. | （学位）论文 | write a dissertation on sth | I'm writing my dissertation on urban transport.
+- thesis | n. | 论文（尤指博士论文）；论点（复数 theses） | a PhD thesis | Her thesis is about climate change.
+  ipa: /ˈθiːsɪs/
+- drop out | phr. v. | 辍学；退出 | drop out of school/university | He dropped out of university to start a company. | S
+  fam: dropout (n.) · dropout rate (n.)
+- graduate employment | phr. | 毕业生就业 | graduate employment rates | Universities are often judged by their graduate employment rates. | W
+- qualification | n. | 资格；（学历）证书 | academic qualifications; professional qualifications | Do you have any formal qualifications?
+  fam: qualify (v.) · qualified (adj.)
+- diploma | n. | 毕业证书；文凭 | a high-school diploma | She has a diploma in nursing.
+- faculty | n. | ① 院系 ② 全体教员 ③ 能力 | the Faculty of Law | He's a member of the Faculty of Arts.
+
+## 3 · How people learn · 学习方式与过程
+
+- acquire | v. | 获得；习得（知识、技能、语言） | acquire knowledge/skills | Children acquire language naturally. | W
+  fam: acquisition (n.)
+  note: 语言学中 *language acquisition* 指“自然习得”（像孩子学母语），与课堂上的 *language learning* 有所区分。
+- grasp | v. / n. | 理解；领会；抓牢 | grasp a concept; have a good grasp of | It took me a while to grasp the idea. // She has a good grasp of grammar.
+- master | v. / n. | 掌握；精通；硕士；大师 | master a skill; master's degree | It takes years to master a musical instrument.
+  fam: mastery (n.)
+- comprehend | v. | 理解（正式） | — | Some students struggle to comprehend complex texts. | W
+  fam: comprehension (n.) · comprehensible (adj.) · comprehensive (adj., 全面的)
+  note: 词族陷阱：*comprehensible* = 可理解的；*comprehensive* = 全面的、综合的（a comprehensive study）。
+- rote learning | n. | 死记硬背 | — | Critics say the system relies too much on rote learning. | W
+- cram | v. | 临时抱佛脚；塞满 | cram for an exam | I stayed up all night cramming for my history test. | S
+- exam-oriented | adj. | 应试导向的 | an exam-oriented education system | Many people criticise exam-oriented education for limiting creativity. | W
+- hands-on | adj. | 亲身实践的；动手的 | hands-on experience; a hands-on approach | Science is easier to understand with hands-on experiments. | S W
+- trial and error | phr. | 反复试验；试错 | by trial and error | I learned to cook by trial and error. | S
+- excel | v. | 擅长；突出 | excel at/in sth | She excels at languages.
+  fam: excellent (adj.) · excellence (n.)
+- struggle | v. / n. | 挣扎；努力；吃力 | struggle with sth; struggle to do sth | Many students struggle with algebra.
+- fall behind | phr. v. | 落后 | fall behind with your work | If you miss classes, you'll fall behind.
+- keep up with | phr. | 跟上 | keep up with the class | It's hard to keep up with so much homework.
+- motivation | n. | 动力；积极性 | lack of motivation; intrinsic motivation | Students with strong motivation tend to learn faster.
+  fam: motivate (v.) · motivated (adj.)
+  note: 心理学区分 **intrinsic motivation**（内在动机：因为喜欢、好奇而学）和 **extrinsic motivation**（外在动机：为了奖励、分数、避免惩罚而学）。许多研究认为内在动机更有利于长期学习。
+- encourage | v. | 鼓励；促进 | encourage sb to do sth | My parents always encouraged me to read.
+  fam: encouragement (n.) · discourage (v.)
+- inspire | v. | 激励；启发 | inspire sb to do sth | Her talk inspired me to start learning Spanish.
+  fam: inspiration (n.) · inspiring (adj.)
+- nurture | v. / n. | 培养；养育 | nurture talent | Good teachers nurture their students' curiosity. | W
+  note: 心理学的经典争论 *nature vs. nurture*（先天 vs. 后天）：一个人的能力和性格更多来自基因，还是来自环境与教育？
+- cultivate | v. | 培养（能力、关系）；耕种 | cultivate a habit; cultivate good relationships | Reading for pleasure cultivates a lifelong love of books. | W
+- broaden your horizons | phr. | 开阔视野 | — | Studying abroad can broaden your horizons. | S W
+  note: 一个好表达，但在中国学生的作文中**出现频率极高**，容易显得套路化。用一次即可，并给出具体例子。
+- well-rounded | adj. | 全面发展的 | a well-rounded education | Schools should aim to produce well-rounded students. | W
+- literacy | n. | 读写能力；（某领域的）素养 | digital literacy; adult literacy rates | Digital literacy is now as important as reading and writing. | W
+  fam: literate (adj.) · illiterate (adj.) · illiteracy (n.)
+- numeracy | n. | 计算能力 | literacy and numeracy | Basic numeracy is essential for everyday life. | W
+- attendance | n. | 出勤；出席人数 | school attendance; attendance rate | Attendance is compulsory for all lessons.
+  fam: attend (v.)
+- discipline | n. / v. | 纪律；学科；训练；惩罚 | school discipline; academic disciplines | Teachers need good discipline in the classroom. // Physics and chemistry are related disciplines.
+  ipa: /ˈdɪsəplɪn/
+- class size | n. | 班级人数 | reduce class sizes | Smaller class sizes allow teachers to give more individual attention.
+- peer | n. | 同龄人；同辈 | peer pressure; peer review | Teenagers are strongly influenced by their peers.
+  note: *peer pressure*（同伴压力）和学术中的 *peer review*（同行评审）都是高频搭配。
+
+@cmp teach · educate · train · instruct
+teach | 教（知识、技能），最通用 | She teaches maths at a middle school.
+educate | 教育（更全面，涉及长期培养） | Parents have a duty to educate their children.
+train | 培训（特定技能或职业） | Nurses are trained to deal with emergencies.
+instruct | 指示；指导（正式） | Students were instructed to leave their bags outside.
+@end
+
+@box ielts 写作讨论教育时的高价值搭配
+*access to education*（受教育机会）· *the quality of education* · *academic performance* · *practical skills* · *a well-rounded education* · *exam-oriented system* · *lifelong learning* · *tuition fees* · *government funding*（第三册 Unit 34）
+@end

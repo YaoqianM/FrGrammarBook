@@ -1,0 +1,105 @@
+@unit 19
+@title Cities, Transport & Public Space
+@zh 城市、交通与公共空间
+@level B1–B2 · 中级核心
+@intro 深圳是一个很好的英语话题素材：四十多年间从小城镇发展为超大城市。IELTS 写作常问 *How can cities reduce traffic congestion? Should city centres be car-free?* 本单元覆盖城市化、交通问题与公共空间。基础的问路和交通工具词汇见第一册 Unit 9。
+
+## 1 · Urban life · 城市生活
+
+* urban | adj. | 城市的；都市的 | urban areas; urban planning | More than half of the world's population lives in urban areas. | W
+  fam: urbanisation (n.) · urbanised (adj.)
+  note: *urban*（城市的）↔ *rural*（农村的）是写作中的基本对比。*urbanisation* = 城市化，指人口从农村向城市集中的过程。“超过一半的世界人口住在城市”是联合国的统计（约在 2007–2008 年首次超过 50%）。
+- rural | adj. | 农村的；乡村的 | rural areas; rural life | Young people are leaving rural areas to find work in cities. | W
+- metropolis | n. | 大都市 | a busy metropolis | Shenzhen has grown from a small town into a metropolis.
+  fam: metropolitan (adj.)
+- megacity | n. | 超大城市（人口通常超过 1,000 万） | — | Tokyo, Delhi and Shanghai are among the world's largest megacities.
+- inner city | n. | 内城区；（尤指）老旧贫困的市中心区 | inner-city schools | Many inner-city areas suffer from poverty and crime.
+  note: 在英美语境中，*inner city* 常带有“老旧、贫困”的联想，并不只是“市中心”。中性的“市中心”用 *city centre / downtown*。
+- outskirts | n. | 郊区；市郊（复数） | on the outskirts of | The new airport is on the outskirts of the city.
+- residential | adj. | 住宅的；居住的 | a residential area | Factories are not allowed in residential areas.
+  fam: reside (v.) · residence (n.)
+- resident | n. | 居民 | local residents | Local residents complained about the noise.
+- population density | n. | 人口密度 | high population density | Hong Kong has one of the highest population densities in the world. | W
+- overcrowded | adj. | 过度拥挤的 | overcrowded cities/trains | Overcrowded classrooms make learning difficult.
+  fam: overcrowding (n.)
+- cosmopolitan | adj. | 国际化的；多元文化的 | a cosmopolitan city | London is a very cosmopolitan city.
+- vibrant | adj. | 充满活力的 | a vibrant city; vibrant nightlife | Shenzhen is a vibrant, young city. | S
+- bustling | adj. | 熙熙攘攘的；繁忙的 | a bustling market | Dongmen is a bustling shopping area. | S
+- high-rise | adj. / n. | 高层的；高楼 | high-rise buildings | The city is full of high-rise buildings.
+- skyline | n. | 天际线 | — | Shanghai's skyline is famous around the world.
+- infrastructure | n. | 基础设施 | transport infrastructure; invest in infrastructure | Good infrastructure attracts businesses to a city. | W
+  ipa: /ˈɪnfrəstrʌktʃə/
+  note: *infrastructure* 指城市运转所需的基础设施：道路、桥梁、铁路、供水供电、网络等。它不可数。
+- amenities | n. | 便利设施（复数） | local amenities | The area has good amenities, including parks and a library. | W
+  ipa: /əˈmiːnətiz/
+- facilities | n. | 设施；设备（常用复数） | sports facilities; public facilities | The school has excellent sports facilities.
+- cost of living | n. | 生活成本 | a high cost of living | The cost of living in big cities keeps rising. | W
+- quality of life | n. | 生活质量 | improve the quality of life | Green spaces improve residents' quality of life. | W
+
+## 2 · Traffic & transport problems · 交通问题
+
+- congestion | n. | 拥堵；拥塞 | traffic congestion | Traffic congestion costs cities billions every year. | W
+  fam: congested (adj.)
+- commuter | n. | 通勤者 | — | The metro carries millions of commuters every day.
+- gridlock | n. | 交通大堵塞（完全动不了） | — | The accident caused gridlock in the city centre.
+- traffic lights | n. | 红绿灯 | — | Stop at the traffic lights.
+- road safety | n. | 道路安全 | — | Road safety campaigns teach children how to cross the road.
+- speed limit | n. | 限速 | break the speed limit | The speed limit near schools is 30 km/h.
+- car-free | adj. | 无车的；禁止汽车的 | a car-free zone | Some city centres have become car-free zones.
+- emissions | n. | 排放物（复数） | carbon emissions; vehicle emissions | Electric buses produce no emissions on the road. | W
+  fam: emit (v.)
+- exhaust fumes | n. | 汽车尾气 | — | Exhaust fumes are a major cause of air pollution in cities.
+- electric vehicle | n. | 电动汽车（EV） | — | Shenzhen was the first city in the world to make its entire bus fleet electric.
+  note: 这一事实有据可查：深圳在 2017 年底实现公交车全面电动化（约 1.6 万辆），常被国际媒体引用为城市交通转型的案例。
+- cycle lane | n. | 自行车道 | — | The city has built hundreds of kilometres of cycle lanes.
+- bike-sharing | n. | 共享单车 | bike-sharing schemes | Bike-sharing is a cheap way to travel short distances.
+- ride-hailing | n. | 网约车 | ride-hailing apps | Ride-hailing apps have changed the taxi industry.
+- network | n. | 网络；网状系统 | a transport network; a social network | Shenzhen has an extensive metro network.
+- extensive | adj. | 广泛的；大量的 | extensive research; an extensive network | The city has an extensive network of parks.
+- efficient | adj. | 高效的 | an efficient public transport system | The metro is fast, cheap and efficient.
+  fam: efficiency (n.) · inefficient (adj.)
+- reliable public transport | phr. | 可靠的公共交通 | — | Reliable public transport encourages people to leave their cars at home. | W
+- toll | n. | 通行费；伤亡人数 | a road toll; the death toll | Drivers pay a toll to use the bridge. // The death toll from the earthquake rose to 200.
+- parking space | n. | 停车位 | find a parking space | It's almost impossible to find a parking space downtown.
+- accessible | adj. | 可到达的；易接近的；无障碍的 | accessible to wheelchair users | All metro stations are accessible to wheelchair users.
+  fam: access (n./v.) · accessibility (n.)
+  note: *access* 作名词时常与 *to* 连用：*access to education / clean water / the internet*。作动词时则直接带宾语：✓ *access the internet*，✗ *access to the internet*（作动词时）。
+- ease congestion | phr. | 缓解拥堵 | — | Building more roads does not always ease congestion. | W
+  note: 交通研究中有一个“反常识”现象叫 **induced demand**（诱发需求）：新修道路往往很快吸引更多车辆，拥堵并没有长期缓解。这是写作中反驳“多修路”观点的好论据。
+- pedestrianise | v. | 改为步行街 | pedestrianise a street | The council plans to pedestrianise the old town centre. | W
+
+## 3 · Public space & city planning · 公共空间与城市规划
+
+- public space | n. | 公共空间 | — | Good public spaces bring people together.
+- green space | n. | 绿地 | — | Green spaces are good for mental health.
+- recreational | adj. | 娱乐的；休闲的 | recreational facilities | The park offers recreational activities for all ages. | W
+  fam: recreation (n.)
+- landmark building | phr. | 地标建筑 | — | The new museum quickly became a landmark building.
+- planning | n. | 规划 | urban planning; town planning | Poor urban planning leads to traffic problems.
+- zone | n. / v. | 区域；地带；划分区域 | a pedestrian zone; a free trade zone | In 1980, Shenzhen became one of China's first Special Economic Zones.
+- district | n. | 区；地区 | the business district; Futian District | The financial district is full of office buildings.
+- council | n. | 地方议会；市政委员会 | the city council | The council has decided to build a new library.
+- maintain | v. | 维护；保养；保持；坚持认为 | maintain roads; maintain a balance | Roads must be maintained regularly. | W
+  fam: maintenance (n.)
+- vandalism | n. | 故意破坏公物 | — | The bus shelter was damaged by vandalism.
+  fam: vandal (n.) · vandalise (v.)
+- litter | n. / v. | 垃圾（尤指乱扔的）；乱扔 | drop litter | People who drop litter can be fined.
+- noise pollution | n. | 噪音污染 | — | Noise pollution from traffic affects sleep.
+- street lighting | n. | 路灯照明 | — | Better street lighting can make streets feel safer.
+- rejuvenate | v. | 使恢复活力；振兴 | rejuvenate an old area | The project rejuvenated the old industrial area. | W
+  fam: rejuvenation (n.)
+- regenerate | v. | 使复兴；再生 | regenerate city centres | Investment helped regenerate the run-down area. | W
+  fam: regeneration (n.)
+- run-down | adj. | 破败的；失修的；疲惫的 | a run-down neighbourhood | The old neighbourhood looked run-down.
+- sprawl | n. / v. | （城市）无序扩张 | urban sprawl | Urban sprawl increases car use. | W
+  note: *urban sprawl* 指城市向周边低密度、无规划地扩张，常带来通勤距离长、依赖汽车、占用农田等问题。
+
+@cmp city · town · village
+city | 大城市（英国传统上指有大教堂或获得城市称号的地方） | Shenzhen is a modern city.
+town | 镇；小城市 | I grew up in a small town.
+village | 村庄 | My grandparents live in a village.
+@end
+
+@box ielts 写作：解决交通拥堵的思路
+*invest in public transport* · *introduce congestion charges*（拥堵收费，如伦敦）· *encourage cycling and walking* · *promote flexible working hours* · *improve urban planning*。写作中提出方案时，最好同时说明它的**限制**（例如收费可能对低收入者不公平），这是高分论证的特点。
+@end

@@ -46,7 +46,7 @@
 - party | n. | ① 聚会 ② 政党 ③ （协议、诉讼等的）一方 | throw a party; political parties; both parties | Both parties agreed to the contract.
 - object | n. / v. | ① 物体 ② 目标 ③ 宾语 ④ 反对 | object to sth / to doing sth | A strange object appeared in the sky. // Many residents objected to the new road.
   ipa: /ˈɒbdʒɪkt/ (n.) · /əbˈdʒekt/ (v.)
-  fam: objection (n.) · objective (adj./n.)
+  fam: objection (n.)
 - sign | n. / v. | ① 标志；迹象 ② 签名 | show signs of; a good sign; sign a contract | There are signs that the economy is improving. // Please sign here.
   fam: signature (n.) · signal (n.)
 - change | n. / v. | ① 变化；改变 ② 零钱 ③ 换（车、衣服） | Keep the change; change trains | Here's your change. // You need to change trains at Futian.
@@ -64,7 +64,6 @@
   note: IELTS 阅读与写作中 *address* 最常见的意思是“**处理、着手解决**”：*address an issue / a problem / a concern*。这是“熟词生义”的代表词。
 * run | v. | ① 跑 ② 经营；管理 ③ （机器）运行 ④ （公交）运营 ⑤ 持续；（数据）达到 | run a company; run smoothly; run late | The buses run every ten minutes. // The play runs for three hours. // The app won't run on my old phone.
 - cover | v. / n. | ① 覆盖；遮盖 ② 涉及；包括 ③ 报道 ④ 支付（费用） ⑤ 封面 | cover a topic; cover the cost; cover a story | The course covers grammar and vocabulary. // The insurance covers the cost of treatment. // Many journalists covered the event.
-  fam: coverage (n.)
 - raise | v. / n. | ① 举起；提高 ② 提出（问题） ③ 养育 ④ 筹集（资金） ⑤ 加薪（美） | raise a question; raise awareness; raise money; raise children | The article raises some important questions. // We raised 5,000 yuan for charity.
   note: *raise* 是及物动词（**raise sth**：提高某物），*rise* 是不及物动词（**sth rises**：某物上升）。✗ *The price raised* → ✓ *The price rose* / *They raised the price*。
 - stand | v. / n. | ① 站立 ② 忍受（can't stand） ③ 位于 ④ 立场 ⑤ 货摊 | stand for; take a stand on; can't stand | I can't stand the noise. // UN stands for the United Nations. // The temple stands on a hill.

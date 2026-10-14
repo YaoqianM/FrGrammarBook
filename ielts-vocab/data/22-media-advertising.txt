@@ -1,0 +1,110 @@
+@unit 22
+@title Media, Advertising & Social Platforms
+@zh 媒体、广告与社交平台
+@level B1–B2 · 中级核心
+@intro 新闻、广告、短视频和社交媒体是青少年最熟悉、也是 IELTS 最常考的话题之一：*Does social media do more harm than good? Should advertising aimed at children be banned? Can we trust the news?* 本单元帮助你讨论这些问题，同时学会区分 *news* 与 *information*、*fact* 与 *opinion*。
+
+## 1 · News & journalism · 新闻与新闻业
+
+- the media | n. | 媒体（总称） | the mass media; social media; media coverage | The media has a huge influence on public opinion.
+  note: *media* 原是 *medium* 的复数，现代英语中 *the media* 常接单数动词（也可接复数）。*medium* 单独使用时指“媒介、手段”：*English is the medium of instruction*（教学语言）。
+- journalist | n. | 记者 | an investigative journalist | Journalists must check their facts carefully.
+  fam: journalism (n.)
+- reporter | n. | 记者（尤指现场报道） | — | The reporter interviewed people at the scene.
+- headline | n. | 标题；头条新闻 | make (the) headlines | The story made headlines around the world.
+- coverage | n. | 新闻报道；覆盖范围 | media coverage; extensive coverage | The election received wide media coverage. | W
+- broadcast | v. / n. | 广播；播出 | broadcast live | The match will be broadcast live on TV.
+  fam: broadcaster (n.)
+- press | n. | 新闻界；报刊 | freedom of the press; a press conference | The minister spoke to the press after the meeting.
+- article | n. | 文章；冠词；条款 | read an article about sth | I read an interesting article about sleep.
+- editor | n. | 编辑 | — | The editor decides which stories appear on the front page.
+  fam: edit (v.) · edition (n.) · editorial (n./adj.)
+- current affairs | n. | 时事 | — | I like watching programmes about current affairs. | W
+- breaking news | n. | 突发新闻 | — | We interrupt this programme for breaking news.
+- source | n. | 来源；出处；根源 | a reliable source; sources of information | Always check the source of the information. | W
+  note: 学术和媒体素养中的关键词：*a reliable / trustworthy source*（可靠来源）、*cite a source*（引用来源）。IELTS 阅读中 *according to sources* 常引出未必可靠的说法。
+- biased | adj. | 有偏见的；偏向一方的 | biased reporting; be biased against/towards | Some newspapers are biased towards one political party. | W
+  fam: bias (n.) · unbiased (adj.)
+- objective | adj. / n. | 客观的；目标 | objective reporting; an objective view | Journalists should try to be objective.
+  fam: objectivity (n.)
+  note: *objective*（客观的，基于事实）↔ *subjective*（主观的，基于个人感受）。*objective* 作名词时 = 目标（the main objective of the project）。
+- subjective | adj. | 主观的 | a subjective opinion | Taste in music is very subjective.
+- sensationalism | n. | 哗众取宠；煽情主义 | — | Some tabloids are criticised for their sensationalism. | W
+  fam: sensational (adj.)
+- tabloid | n. | 小报（八卦、煽情新闻为主） | — | Tabloids focus on celebrity gossip.
+- censorship | n. | 审查制度 | — | Censorship of the media varies from country to country. | W
+  fam: censor (v./n.)
+- misinformation | n. | 错误信息（无意中传播的） | spread misinformation | Misinformation spreads quickly on social media.
+  note: 学术和政策文本常区分：**misinformation** = 不实信息（传播者不一定知道是假的）；**disinformation** = 虚假信息（故意制造、用于误导）；*fake news* 是更口语化、更泛的说法。
+- disinformation | n. | 虚假信息（故意散布的） | a disinformation campaign | Some governments use disinformation to influence elections. | W
+- fact-check | v. / n. | 核实；事实核查 | — | Always fact-check a story before you share it. | S
+- go viral | phr. | （在网上）迅速传播；走红 | — | Her video went viral and got ten million views. | S
+  fam: viral (adj.)
+- trending | adj. | 热门的；热搜的 | trending topics | What's trending on social media today? | S
+
+## 2 · Social media · 社交媒体
+
+- post | v. / n. | 发布；帖子 | post a photo; a Facebook post | She posts a new video every week.
+- share | v. / n. | 分享；份额 | share sth with sb; market share | Think before you share personal information online.
+- follower | n. | 关注者；粉丝；追随者 | gain followers | He has over a million followers.
+- influencer | n. | 网红；有影响力的人 | a social media influencer | Many teenagers want to become influencers. | S
+- content creator | n. | 内容创作者 | — | Content creators earn money from views and advertising.
+- user | n. | 用户 | active users; user-generated content | The app has 300 million active users.
+- scroll | v. | 滚动（屏幕） | scroll through sth | I spent an hour scrolling through my phone. | S
+- screen time | n. | 屏幕使用时间 | limit screen time | Parents worry about their children's screen time.
+- algorithm | n. | 算法 | — | The algorithm decides which videos you see. | W
+  ipa: /ˈælɡərɪðəm/
+  note: 社交平台的推荐算法会根据你的行为推送相似内容，可能形成 *filter bubble*（过滤气泡）或 *echo chamber*（回音室）——你只看到与自己观点相同的信息。
+- echo chamber | n. | 回音室效应 | — | Social media can create echo chambers where people only hear views like their own. | W
+- privacy | n. | 隐私 | invade sb's privacy; privacy settings | Check your privacy settings regularly.
+  ipa: /ˈprɪvəsi/ (UK) · /ˈpraɪvəsi/ (US)
+  fam: private (adj.)
+- cyberbullying | n. | 网络欺凌 | — | Cyberbullying can have serious effects on young people. | W
+- troll | n. / v. | 网络喷子；恶意挑衅 | — | Don't reply to trolls — just block them. | S
+- online presence | n. | 网络形象；网上存在感 | — | Most businesses need a strong online presence.
+- digital footprint | n. | 数字足迹 | — | Everything you post becomes part of your digital footprint. | W
+- stay connected | phr. | 保持联系 | — | Social media helps people stay connected with friends abroad. | S
+- fear of missing out | phr. | 错失恐惧（FOMO） | — | Fear of missing out makes some people check their phones constantly. | S
+
+## 3 · Advertising · 广告
+
+- advertisement | n. | 广告（口语简称 ad / advert） | a TV advertisement; place an advert | I saw an advertisement for a new phone.
+  ipa: /ədˈvɜːtɪsmənt/ (UK) · /ˌædvərˈtaɪzmənt/ (US)
+  fam: advertise (v.) · advertising (n.) · advertiser (n.)
+  note: 英美读音差别很大，听力中两种都可能出现。*advertising* 是“广告业、广告活动”（不可数）；*an advertisement* 是一则广告（可数）。
+- commercial | n. / adj. | （电视、广播）广告；商业的 | a TV commercial; commercial success | The film was a huge commercial success.
+- campaign | n. / v. | 运动；（广告、选举）活动；发起运动 | an advertising campaign; campaign for/against | The campaign was aimed at young people.
+  ipa: /kæmˈpeɪn/
+- slogan | n. | 标语；口号 | an advertising slogan | Nike's famous slogan is "Just Do It".
+- promote | v. | 推广；促进；提升 | promote a product; promote health | The company hired a famous actor to promote its new phone.
+  fam: promotional (adj.)
+- sponsor | v. / n. | 赞助；赞助商 | be sponsored by | The tournament is sponsored by a sports brand.
+  fam: sponsorship (n.)
+- endorse | v. | （名人）代言；支持；赞同 | endorse a product | Many athletes endorse sports drinks. | W
+  fam: endorsement (n.)
+- market | v. / n. | 推销；市场 | be marketed at/to sb | These snacks are marketed at children.
+  fam: marketing (n.)
+- target audience | n. | 目标受众 | — | The target audience for this advert is young mothers.
+- misleading | adj. | 误导的 | misleading advertising/claims | It is illegal to make misleading claims about products. | W
+  fam: mislead (v.)
+- exaggerate | v. | 夸大；夸张 | exaggerate the benefits | Adverts often exaggerate how good a product is.
+  ipa: /ɪɡˈzædʒəreɪt/
+  fam: exaggeration (n.)
+  note: 拼写：两个 g（e-x-a-**gg**-e-r-a-t-e）。
+- manipulate | v. | 操纵；摆布 | manipulate people/data | Some adverts manipulate our emotions. | W
+  fam: manipulation (n.) · manipulative (adj.)
+- product placement | n. | 植入式广告 | — | Product placement in films is a form of hidden advertising.
+- word of mouth | phr. | 口碑；口头传播 | by word of mouth | The restaurant became popular by word of mouth. | S
+- catchy | adj. | （曲调、口号）易记的；上口的 | a catchy tune/slogan | The advert has a really catchy song. | S
+- glamorous | adj. | 有魅力的；光鲜亮丽的 | a glamorous lifestyle | Adverts show a glamorous lifestyle that most people can't afford.
+- pop-up | n. / adj. | 弹出广告；临时的（店） | pop-up ads; a pop-up shop | Pop-up ads are really annoying. | S
+
+@cmp news · information · message
+news | 新闻；消息（不可数，单数动词） | The news is on at seven. // I have some good news.
+information | 信息（不可数） | Can you give me some information about the course?
+message | 一条消息；口信；（作品的）主旨（可数） | I sent her a message. // What is the message of the film?
+@end
+
+@box ielts 写作：社交媒体利弊
+利：*stay connected*、*access information instantly*、*give a voice to ordinary people*、*support small businesses*。弊：*spread misinformation*、*be addictive*、*damage self-esteem*、*cyberbullying*、*privacy concerns*、*echo chambers*。别忘了用 **具体例子** 支撑每个论点。
+@end

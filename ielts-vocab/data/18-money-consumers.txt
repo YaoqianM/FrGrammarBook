@@ -1,0 +1,125 @@
+@unit 18
+@title Money, Shopping & Consumer Behaviour
+@zh 金钱、购物与消费行为
+@level B1–B2 · 中级核心
+@intro 从零花钱到网购，从“买买买”到消费主义，这个话题既贴近生活，又常出现在 IELTS 写作中（*Should children be taught how to manage money? Is advertising making people buy things they don't need?*）。宏观经济词汇见第三册 Unit 33。
+
+## 1 · Spending & saving · 花钱与存钱
+
+- budget | n. / v. | 预算；做预算 | on a tight budget; within budget | We're on a tight budget this month. // Learning to budget is an important life skill.
+- afford | v. | 买得起；负担得起 | can't afford sth / to do sth | I can't afford a new laptop right now. | S
+  fam: affordable (adj.) · affordability (n.)
+  note: *afford* 几乎总与 *can / could / be able to* 连用：✓ *We can't afford it.* 写作中谈住房和教育时，*affordable housing*（经济适用房）和 *affordable education* 是高频搭配。
+- expense | n. | 费用；开支；代价 | living expenses; at the expense of | Rent is our biggest monthly expense. // He became rich at the expense of his health.
+  note: *at the expense of sth* = 以牺牲……为代价，是写作中表达“取舍”的好用短语：*economic growth at the expense of the environment*。
+- costly | adj. | 昂贵的；代价高的 | a costly mistake | That was a costly mistake.
+  note: *costly* 常用于“代价高昂的”（不一定是钱）：*a costly mistake / a costly war*。描述商品价格高，最常用的还是 *expensive*。
+- pocket money | n. | 零花钱（英；美式 allowance） | — | I get 100 yuan of pocket money a week.
+- savings | n. | 存款；积蓄（复数） | spend your savings; life savings | She spent all her savings on a trip to Japan.
+- save up | phr. v. | 攒钱 | save up for sth | I'm saving up for a new bike. | S
+- splash out | phr. v. | 大手笔花钱（英式口语） | splash out on sth | We splashed out on a nice dinner for Mum's birthday. | S
+- make ends meet | phr. | 勉强维持生计；收支相抵 | — | Many families struggle to make ends meet. | S
+- live within your means | phr. | 量入为出 | — | It's important to live within your means. | S
+- debt | n. | 债务；欠款 | be in debt; pay off a debt | Many graduates are in debt after university.
+  ipa: /det/
+  note: b 不发音（同 *doubt*、*subtle* 中的 b）。*be in debt*（负债）、*get into debt*（陷入债务）、*pay off debts*（还清债务）。
+- loan | n. / v. | 贷款；借出 | take out a loan; a student loan | He took out a loan to buy a car.
+- borrow | v. | 借入 | borrow sth from sb | Can I borrow your pen?
+- lend | v. | 借出 | lend sb sth; lend sth to sb | Could you lend me 50 yuan? | S
+- owe | v. | 欠（钱、人情） | owe sb money; owe sth to sb | I owe you 20 yuan. // I owe my success to my teachers.
+- thrifty | adj. | 节俭的 | — | My grandparents are very thrifty — they never waste anything.
+- frugal | adj. | 节约的；简朴的 | a frugal lifestyle | He lives a frugal life and saves most of his income. | W
+- wasteful | adj. | 浪费的 | wasteful spending | Buying bottled water is wasteful.
+- financial | adj. | 财务的；金融的 | financial problems; financial independence | Students should learn basic financial skills.
+  ipa: /faɪˈnænʃl/
+  fam: finance (n./v.) · financially (adv.)
+- financial literacy | n. | 理财素养；财商 | — | Many people believe financial literacy should be taught at school. | W
+
+@cmp borrow · lend · loan
+borrow | 从别人那里借（进来） | I borrowed a book from the library.
+lend | 把东西借给别人（出去） | She lent me her notes.
+loan | 名词：贷款；英式中也可作动词=lend | The bank gave him a loan.
+@end
+
+## 2 · Shopping · 购物
+
+- purchase | n. / v. | 购买（正式） | make a purchase; purchase sth online | Most purchases are now made online. | W
+  ipa: /ˈpɜːtʃəs/
+- bargain | n. / v. | 便宜货；讨价还价 | a real bargain; bargain with sb | This jacket was a real bargain — only 50 yuan! | S
+- discount | n. / v. | 折扣；打折 | a 20% discount; at a discount | Students get a 10% discount.
+- on sale | phr. | 在打折（美）；在出售（英） | — | These shoes are on sale this week.
+- refund | n. / v. | 退款 | get a refund; a full refund | If you're not satisfied, you can get a full refund.
+- receipt | n. | 收据；收条 | keep the receipt | Keep your receipt in case you want to return it.
+  ipa: /rɪˈsiːt/
+  note: p 不发音 /rɪˈsiːt/。
+- exchange | v. / n. | 交换；调换；交流 | exchange sth for sth; a student exchange | Can I exchange this shirt for a smaller size?
+- out of stock | phr. | 缺货 | — | Sorry, that model is out of stock.
+- in stock | phr. | 有货 | — | Do you have this in stock?
+- brand | n. | 品牌 | a well-known brand; brand loyalty | Young people are often loyal to particular brands.
+  note: *brand loyalty*（品牌忠诚度）是消费心理学的常用概念。
+- label | n. / v. | 标签；（贴）标签；把……称为 | a price label; designer labels; be labelled as | Read the label before you buy food. // He was unfairly labelled a troublemaker.
+- quality | n. / adj. | 质量；品质；优质的 | high quality; quality products | The quality of these clothes is excellent.
+- value for money | phr. | 物有所值；性价比 | good value for money | This phone is good value for money. | S
+- worth | adj. / n. | 值……；价值 | be worth (doing) sth | Is this film worth watching? // The house is worth 3 million yuan.
+  note: *be worth doing sth* = 值得做：✓ *It's worth visiting.* ✗ *It's worth to visit.* 形容词 *worthwhile* = 值得花时间/精力的（a worthwhile experience）。
+- overpriced | adj. | 定价过高的 | — | Food at the airport is overpriced.
+- rip-off | n. | 宰人的东西；敲竹杠（口语） | — | Eighty yuan for a coffee? That's a rip-off! | S
+- second-hand | adj. / adv. | 二手的 | second-hand books; buy sth second-hand | I bought my bike second-hand.
+- counterfeit | adj. / n. | 假冒的；赝品 | counterfeit goods | Selling counterfeit goods is illegal. | W
+  ipa: /ˈkaʊntəfɪt/
+- fake | adj. / n. | 假的；冒牌货 | fake news; a fake bag | The bag looked real, but it was a fake.
+- luxury | n. / adj. | 奢侈品；奢华 | luxury goods; a luxury hotel | For many families, a car is no longer a luxury.
+  ipa: /ˈlʌkʃəri/
+  fam: luxurious (adj.) /lʌɡˈʒʊəriəs/
+- necessity | n. | 必需品；必要性 | a basic necessity | A smartphone has become a necessity for most people.
+- window-shopping | n. | 逛街（只看不买） | go window-shopping | We went window-shopping in Coastal City. | S
+- shop around | phr. v. | 货比三家 | — | It's worth shopping around before you buy a phone. | S
+
+## 3 · Paying & e-commerce · 支付与电商
+
+- cash | n. | 现金 | pay in cash | Few people in Shenzhen pay in cash these days.
+- cashless | adj. | 无现金的 | a cashless society | China is moving towards a cashless society.
+- mobile payment | n. | 移动支付 | — | Mobile payment is used almost everywhere in China.
+- transaction | n. | 交易；（一笔）业务 | online transactions | Every transaction is recorded by the bank. | W
+- e-commerce | n. | 电子商务 | — | E-commerce has changed the way people shop. | W
+- online retailer | n. | 网络零售商 | — | Online retailers can offer lower prices than shops.
+  fam: retail (n./v.) · retailer (n.)
+- deliver to your door | phr. | 送货上门 | — | Groceries are delivered to your door in under an hour. | S
+- check out | phr. v. | （网购、超市）结账；看看 | check out a new shop | Add the items to your basket and check out. // You should check out that new café. | S
+- subscription | n. | 订阅；会员费 | a monthly subscription | I have a subscription to a music streaming service.
+  fam: subscribe (v.) · subscriber (n.)
+- free shipping | phr. | 免运费 | — | The store offers free shipping on orders over 99 yuan.
+
+## 4 · Consumer behaviour · 消费行为
+
+- consumer | n. | 消费者 | consumer behaviour; consumer goods | Consumers are becoming more interested in green products.
+  fam: consume (v.) · consumption (n.)
+- consumerism | n. | 消费主义 | — | Critics say consumerism encourages people to buy things they don't need. | W
+- materialistic | adj. | 物质主义的；重物质的 | a materialistic society | Some people think young people today are too materialistic. | W
+  fam: materialism (n.)
+- impulse buying | n. | 冲动消费 | — | Shops place sweets near the checkout to encourage impulse buying.
+  note: 超市把糖果和小零食放在收银台旁边（*checkout*），是利用排队时的冲动消费心理——这是零售业的常见做法。
+- shopaholic | n. | 购物狂 | — | My cousin is a real shopaholic. | S
+- status symbol | n. | 身份象征 | — | For some people, an expensive phone is a status symbol.
+- keep up with the Joneses | phr. | 与人攀比 | — | Many people buy expensive things just to keep up with the Joneses.
+  note: “琼斯一家”来自 20 世纪初美国的一部连环漫画，指邻居、同事等比较对象。中文可对应“攀比”。
+- disposable | adj. | 一次性的；可支配的 | disposable cups; disposable income | Disposable plastic cups are bad for the environment. // People with more disposable income spend more on travel. | W
+  note: 两个高频义：*disposable products*（一次性产品）；*disposable income*（可支配收入，即扣除税和必要开支后可自由花费的钱）。
+- spending habits | n. | 消费习惯 | — | Online shopping has changed our spending habits.
+- target | v. / n. | 以……为目标；目标 | target young people; a sales target | Many adverts target children.
+- demand | n. / v. | 需求；要求 | demand for sth; meet demand | There is growing demand for electric cars.
+  note: 经济学的基本概念 *supply and demand*（供求）。注意介词：*demand **for** sth*。
+- supply | n. / v. | 供应；提供 | supply sb with sth; in short supply | Fresh water is in short supply in some regions.
+- satisfy | v. | 满足；使满意 | satisfy demand; satisfy customers | The factory can't produce enough to satisfy demand.
+
+@cmp price · cost · charge · fee · fare
+price | 商品的标价 | The price of rice has gone up.
+cost | 做某事/得到某物所需的花费；成本 | The cost of living in Shenzhen is high.
+charge | 服务收费 | There is no charge for delivery.
+fee | 专业服务或机构收取的费用（学费、手续费） | Tuition fees are rising.
+fare | 交通费 | The bus fare is two yuan.
+@end
+
+@box ielts 写作思路：消费主义话题
+可用搭配：*encourage unnecessary consumption*、*a throwaway culture*（用完即扔的文化）、*impulse buying*、*target young consumers*、*live within one's means*、*financial literacy*。讨论正反两方面时，也可以提到消费对 *economic growth* 和 *job creation* 的积极作用（第三册 Unit 33）。
+@end

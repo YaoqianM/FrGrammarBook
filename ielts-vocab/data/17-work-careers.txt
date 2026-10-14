@@ -1,0 +1,120 @@
+@unit 17
+@title Work, Jobs & Careers
+@zh 工作、职业与就业
+@level B1–B2 · 中级核心
+@intro 工作话题在 IELTS 中无处不在：口语问 *What job would you like to do in the future?*，写作问 *Is it better to stay in one job or change jobs often? Will AI replace human workers?* 本单元覆盖求职、职场、工作条件与就业市场的核心词汇。
+
+## 1 · Getting a job · 求职
+
+- occupation | n. | 职业（正式，常用于表格） | — | Please state your name and occupation. | W
+- apply for | phr. | 申请（工作、签证等） | apply for a job/position | She applied for a job at a tech company.
+- application form | n. | 申请表 | fill in an application form | Please complete the application form online.
+- CV | n. | 简历（curriculum vitae；美式 résumé） | send your CV | Make sure your CV is no longer than two pages.
+- interview | n. / v. | 面试；采访 | a job interview; interview sb for a job | I have a job interview tomorrow.
+  fam: interviewer (n.) · interviewee (n.)
+- candidate | n. | 候选人；应试者 | a strong candidate; the ideal candidate | There were 200 candidates for one job.
+- position | n. | 职位；位置；立场 | a senior position; apply for the position | The position requires three years' experience.
+- vacancy | n. | 空缺职位；空房 | fill a vacancy; job vacancies | The hotel has several vacancies for waiters.
+- recruit | v. / n. | 招聘；新成员 | recruit staff/new members | The company plans to recruit 500 new employees. | W
+  fam: recruitment (n.)
+- hire | v. | 雇用；租用 | hire staff; hire a car | They hired three new teachers this year.
+- employ | v. | 雇用；使用（正式） | be employed by/as | The factory employs over 2,000 people.
+  fam: employer (n.) · employee (n.) · employment (n.) · unemployed (adj.)
+  note: 词族一定要分清：*employer*（雇主，-er 给工作的人）vs. *employee*（雇员，-ee 接受动作的人）。同理：*trainer / trainee*、*interviewer / interviewee*。
+- work experience | n. | 工作经验；实习经历 | gain work experience | Employers value relevant work experience.
+- internship | n. | 实习（期） | do an internship | She did a summer internship at a bank.
+  fam: intern (n.)
+- reference | n. | 推荐信；参考；提及 | a letter of reference; with reference to | My former manager gave me an excellent reference.
+- requirement | n. | 要求；必要条件 | meet the requirements; entry requirements | A degree is a basic requirement for this job.
+  fam: require (v.)
+- shortlist | n. / v. | 候选名单；把……列入候选名单 | be shortlisted for | Five candidates were shortlisted for the job.
+
+@cmp work · job · career · profession
+work | 多为不可数，泛指工作、劳动 | I have a lot of work to do.
+job | 可数，一份具体的工作 | She has a part-time job.
+career | 长期的职业生涯 | He wants a career in medicine.
+profession | 需要专业训练的职业（医生、律师、教师），较正式 | Teaching is a respected profession.
+note: ✗ *a work* → ✓ *a job*。*works* 作复数时指“作品”（the works of Lu Xun）或“工厂”。
+@end
+
+## 2 · At work · 职场
+
+- staff | n. | 全体员工（集合名词） | staff members; a staff of 50 | All staff must attend the meeting.
+  note: *staff* 是集合名词，指“一个机构的全体员工”。说一个人时用 *a member of staff* 或 *a staff member*，✗ *a staff*。
+- workforce | n. | 劳动力；全体职工 | a skilled workforce | Women make up nearly half of the workforce. | W
+- manager | n. | 经理 | a sales manager | Ask the manager for permission.
+  fam: manage (v.) · management (n.) · managerial (adj.)
+- supervisor | n. | 主管；监督人 | — | My supervisor checks my work every day.
+  fam: supervise (v.) · supervision (n.)
+- boss | n. | 老板；上司 | — | My boss is very supportive.
+- department | n. | 部门；（大学的）系 | the marketing department | She works in the finance department.
+- task | n. | 任务；工作 | carry out a task; a difficult task | Each member of the team has a different task.
+- duty | n. | 职责；义务；税 | on duty; a sense of duty | It's the duty of parents to protect their children.
+- workload | n. | 工作量 | a heavy workload | Teachers complain about their heavy workload.
+- overtime | n. / adv. | 加班；加班时间 | work overtime | He often works overtime without extra pay.
+- shift | n. / v. | 轮班；转变；移动 | work night shifts; a shift in attitudes | Nurses often work long shifts. // There has been a shift towards online shopping.
+  note: 学术义“转变”非常常用：*a shift in public opinion*、*shift the focus to*。
+- meeting | n. | 会议 | hold/attend a meeting | The meeting has been moved to Thursday.
+- promotion | n. | 晋升；促销 | get a promotion | She got a promotion after only two years.
+- resign | v. | 辞职 | resign from a job | He resigned because of stress.
+  ipa: /rɪˈzaɪn/
+  fam: resignation (n.)
+- quit | v. | 辞职；戒掉；放弃（口语） | quit your job; quit smoking | She quit her job to travel the world. | S
+- fire | v. | 解雇（口语） | be fired for sth | He was fired for being late every day. | S
+  note: 正式一点的说法：*dismiss*；因公司裁员而失业：*be made redundant*（英）/ *be laid off*。
+- redundant | adj. | 被裁员的；多余的 | be made redundant | Five hundred workers were made redundant when the factory closed.
+  fam: redundancy (n.)
+- retire | v. | 退休 | retire at 60 | My grandfather retired last year.
+  fam: retirement (n.) · retired (adj.)
+- pension | n. | 养老金；退休金 | a state pension | Many people worry about whether their pension will be enough.
+- remote work | n. | 远程工作 | — | Remote work has become more common since 2020.
+  note: 也说 *working from home (WFH)*、*telecommuting*（美）。混合模式叫 *hybrid working*。
+
+## 3 · Pay & conditions · 薪资与工作条件
+
+- salary | n. | 薪水（月薪/年薪，多指白领） | a high salary; an annual salary | Doctors earn a high salary.
+- wage | n. | 工资（按时、按周计，多指体力劳动） | the minimum wage; low wages | The government raised the minimum wage.
+  note: *salary* 一般按年/月计算、固定发放；*wage(s)* 按小时或按周计算。*income* 则指所有收入（含工资、投资等）。*earnings* 指（工作）收入。
+- income | n. | 收入 | a high/low income; household income | Families on low incomes may receive extra support.
+- earn | v. | 挣得；赢得 | earn money; earn a living; earn respect | How much does a nurse earn?
+  fam: earnings (n.)
+- bonus | n. | 奖金；额外的好处 | a year-end bonus | Staff receive a bonus at Chinese New Year.
+- benefits | n. | 福利；津贴 | employee benefits; unemployment benefits | The job comes with good benefits, including health insurance.
+- perk | n. | 额外待遇（口语） | the perks of the job | Free lunch is one of the perks of the job. | S
+- working conditions | n. | 工作条件 | poor working conditions | Workers protested about poor working conditions.
+- job security | n. | 工作稳定性 | — | Government jobs offer more job security. | W
+- job satisfaction | n. | 工作满意度 | — | For many people, job satisfaction is more important than salary. | W
+- work-life balance | n. | 工作与生活的平衡 | a good work-life balance | Flexible working hours can improve work-life balance. | W
+- full-time | adj. / adv. | 全职的 | a full-time job; work full-time | She works full-time at a hospital.
+- part-time | adj. / adv. | 兼职的 | a part-time job | Many students have part-time jobs.
+- self-employed | adj. | 自雇的；个体经营的 | — | My uncle is self-employed — he runs a small design business.
+- freelance | adj. / adv. / v. | 自由职业的 | a freelance writer; work freelance | She works as a freelance translator.
+  fam: freelancer (n.)
+- flexible | adj. | 灵活的；可弯曲的 | flexible working hours | Flexible hours make it easier for parents to work.
+  fam: flexibility (n.)
+- demanding | adj. | 要求高的；费力的 | a demanding job | Nursing is a very demanding job.
+
+## 4 · The job market · 就业市场
+
+- labour market | n. | 劳动力市场 | enter the labour market | Young people face a competitive labour market. | W
+- unemployment | n. | 失业；失业人数 | high unemployment; youth unemployment | Youth unemployment is a serious problem in some countries. | W
+- job opportunity | n. | 就业机会 | create job opportunities | The new factory will create 1,000 job opportunities. | W
+- skilled | adj. | 熟练的；有技能的 | skilled workers; highly skilled | There is a shortage of skilled workers.
+  note: *skilled workers*（技术工人）vs. *unskilled / low-skilled workers*（非技术工人）是讨论就业与自动化时的关键对比。
+- manual | adj. / n. | 体力的；手工的；说明书 | manual labour; a user manual | Robots are replacing workers in many manual jobs.
+- white-collar | adj. | 白领的 | white-collar jobs | Many white-collar jobs involve working on a computer.
+- blue-collar | adj. | 蓝领的 | blue-collar workers | Blue-collar workers often do physical work.
+- profession | n. | 职业（需专业训练） | the medical profession; enter a profession | Teaching is a respected profession.
+  fam: professional (adj./n.) · professionally (adv.)
+- entrepreneur | n. | 企业家；创业者 | a young entrepreneur | Shenzhen is a city full of young entrepreneurs.
+  ipa: /ˌɒntrəprəˈnɜː/
+  fam: entrepreneurial (adj.) · entrepreneurship (n.)
+- start-up | n. | 初创公司 | a tech start-up | He left his job to join a start-up.
+- career path | n. | 职业道路 | choose a career path | It's hard to choose a career path at 15.
+- climb the career ladder | phr. | 在职业阶梯上往上爬；升职 | — | She climbed the career ladder quickly. | S
+- make a living | phr. | 谋生 | make a living as/from sth | It's hard to make a living as an artist. | S
+- be out of work | phr. | 失业 | — | He has been out of work for six months. | S
+
+@box warn 写作避坑：job 的搭配
+✓ *find / get / lose / apply for a job* · ✓ *do a job* · ✓ *job opportunities* · ✗ *find a work* · ✗ *a good work*（改为 *a good job*）· ✗ *employment opportunity* 可以，但 ✗ *employ opportunity* 不行。
+@end

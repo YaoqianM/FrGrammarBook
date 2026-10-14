@@ -1,0 +1,119 @@
+@unit 16
+@title Communication & Relationships
+@zh 沟通、人际关系与社会行为
+@level B1–B2 · 中级核心
+@intro 本单元覆盖“说话方式”和“人际关系”两大块：如何描述争论、劝说、道歉、信任与冲突。IELTS 口语常问 *Do you prefer texting or calling? How do you deal with disagreements with friends?*，写作也常涉及家庭关系与代际沟通。
+
+## 1 · Ways of speaking · 说话方式
+
+* argue | v. | ① 争吵 ② 论证；主张 | argue with sb about sth; argue that… | My sister and I argue about everything. // Some experts argue that homework is unnecessary.
+  fam: argument (n.) · arguable (adj.) · arguably (adv.)
+  note: 两个意思要分清：日常中 *argue / have an argument* = 吵架；学术写作中 *argue that…* = 主张、论证（中性）。*arguably* = 可以说、有理由认为：*She is arguably the best player in the world.*
+- discuss | v. | 讨论（及物动词，不加 about） | discuss a problem | We discussed the plan in class.
+  fam: discussion (n.)
+  note: 常见错误：✗ *discuss about the problem* → ✓ *discuss the problem*（但名词可以说 *a discussion about…*）。
+- debate | n. / v. | 辩论；争论 | a heated debate; debate whether… | There is a lot of debate about the use of AI in schools.
+- persuade | v. | 说服；劝说 | persuade sb to do sth | I persuaded my parents to let me go on the trip.
+  fam: persuasion (n.) · persuasive (adj.)
+- convince | v. | 使相信；说服 | convince sb that… / of sth | She convinced me that she was right.
+  fam: convincing (adj.) · convinced (adj.)
+  note: *persuade* 侧重“说服某人**去做**某事”；*convince* 侧重“使某人**相信**某事”。*He convinced me that the plan would work, and persuaded me to join.*
+- complain | v. | 抱怨；投诉 | complain about sth; complain to sb | Customers complained about the slow service.
+  fam: complaint (n.)
+- apologise | v. | 道歉 | apologise to sb for sth | He apologised to his teacher for being late.
+  fam: apology (n.) · apologetic (adj.)
+- interrupt | v. | 打断；中断 | — | Sorry to interrupt, but can I ask a question? | S
+  fam: interruption (n.)
+- gossip | n. / v. | 闲话；八卦 | gossip about sb | Don't believe all the gossip you hear.
+- chat | n. / v. | 闲聊；聊天 | have a chat with sb | We had a quick chat after class. | S
+- whisper | v. / n. | 低声说；耳语 | — | She whispered the answer to me.
+- shout | v. | 大喊；吼 | shout at sb | Please don't shout at me.
+- mention | v. / n. | 提到；提及 | mention sth to sb; not to mention | He didn't mention his exam results. // It's expensive, not to mention unhealthy.
+- emphasise | v. | 强调 | emphasise the importance of | The teacher emphasised the importance of reading.
+  fam: emphasis (n.)
+- clarify | v. | 澄清；阐明 | clarify a point | Could you clarify what you mean?
+  fam: clarification (n.) · clear (adj.) · clarity (n.)
+- respond | v. | 回应；回答；作出反应 | respond to sth | How did she respond to the news?
+  fam: response (n.) · responsive (adj.)
+- body language | n. | 肢体语言 | — | Body language can tell you a lot about how someone feels.
+- eye contact | n. | 眼神交流 | make eye contact | Make eye contact when you give a speech. | S
+- tone | n. | 语气；口吻；色调 | tone of voice | I didn't like his tone of voice.
+- straightforward | adj. | 直截了当的；简单的 | a straightforward answer | The instructions are quite straightforward. | S
+- direct | adj. | 直接的；坦率的 | a direct question | In some cultures, people are very direct.
+  note: 跨文化沟通的一个常见话题：有些文化偏好 *direct communication*（直接说出意见），有些则更 *indirect*（委婉、依赖语境）。
+- sarcastic | adj. | 讽刺的；挖苦的 | a sarcastic comment | "Great job," he said in a sarcastic voice.
+  fam: sarcasm (n.)
+- misunderstanding | n. | 误解；误会 | clear up a misunderstanding | There must be a misunderstanding — I never said that.
+  fam: misunderstand (v.)
+- get your point across | phr. | 表达清楚你的意思 | — | It's hard to get your point across in a foreign language. | S
+- beat around the bush | phr. | 拐弯抹角 | — | Stop beating around the bush and tell me what happened. | S
+
+@cmp say sorry · apologise · excuse me
+say sorry | 口语中的道歉 | I said sorry for breaking her pen.
+apologise | 更正式的道歉 | The company apologised to its customers.
+excuse me | 打扰别人、请别人让路，或引起注意时用（事前） | Excuse me, is this seat free?
+@end
+
+## 2 · Relationships · 人际关系
+
+- relationship | n. | 关系 | a close relationship; build relationships | I have a close relationship with my grandparents.
+  note: *relationship* 侧重人与人之间的关系（也可指事物间的关系：*the relationship between diet and health*）；*relation* 更抽象，多用复数 *relations*（international relations）。
+- bond | n. / v. | 纽带；联系；增进感情 | a strong bond; bond with sb | Playing sports together helped the team bond.
+- trust | n. / v. | 信任 | gain/lose sb's trust; trust sb to do sth | It takes years to build trust.
+  fam: trustworthy (adj.) · distrust (n./v.)
+- respect | n. / v. | 尊重；尊敬；方面 | show respect for; mutual respect; in this respect | Good relationships are based on mutual respect.
+  fam: respectful (adj.) · respectable (adj.)
+  note: 词族：*respectful* = 尊重他人的（礼貌的）；*respectable* = 值得尊敬的、体面的（a respectable job）。*in this respect* = 在这一方面（学术常用）。
+- mutual | adj. | 相互的；共同的 | mutual respect/understanding; a mutual friend | We met through a mutual friend.
+- acquaintance | n. | 相识的人；熟人 | a casual acquaintance | He's not a friend, just an acquaintance.
+- colleague | n. | 同事 | — | I get on well with my colleagues.
+  ipa: /ˈkɒliːɡ/
+- partner | n. | 伙伴；搭档；伴侣 | a business partner | Work with a partner for this task.
+- conflict | n. / v. | 冲突；矛盾 | resolve a conflict; conflict between A and B | Communication can help resolve conflicts.
+  ipa: /ˈkɒnflɪkt/ (n.) · /kənˈflɪkt/ (v.)
+- quarrel | n. / v. | 争吵 | have a quarrel with sb | They had a quarrel about money.
+- reconcile | v. | 使和解；调和 | be reconciled with sb; reconcile A with B | The brothers were finally reconciled. | W
+  fam: reconciliation (n.)
+- compromise | n. / v. | 妥协；折中 | reach a compromise; compromise on sth | After a long discussion, we reached a compromise.
+  ipa: /ˈkɒmprəmaɪz/
+- support each other | phr. | 相互支持 | — | Good friends support each other in difficult times. | S
+- close-knit | adj. | 紧密团结的 | a close-knit family/community | I come from a close-knit family. | S
+- generation gap | n. | 代沟 | — | The generation gap is obvious when it comes to technology.
+- get to know | phr. | 逐渐了解；认识 | — | It takes time to get to know someone. | S
+- break up | phr. v. | 分手；解散；（学校）放假（英） | break up with sb | The band broke up in 2010. | S
+- keep sb company | phr. | 陪伴某人 | — | My dog keeps me company when I study at home. | S
+- isolated | adj. | 孤立的；孤独的 | feel isolated; socially isolated | Many elderly people feel isolated. | W
+  fam: isolation (n.) · isolate (v.)
+- loneliness | n. | 孤独 | — | Loneliness can be as harmful to health as smoking.
+  note: 例句中的说法来自一项被广泛引用的研究（Holt-Lunstad 等，2010），其结论是社交联系薄弱对死亡风险的影响与吸烟相当。媒体常把它简化为这句话——阅读时注意区分“研究结论”与“媒体简化说法”。
+- socialise | v. | 交际；参与社交活动 | socialise with friends | Teenagers need time to socialise.
+
+## 3 · Social behaviour · 社会行为
+
+- polite | adj. | 有礼貌的 | — | It's polite to say thank you.
+  fam: politeness (n.) · impolite (adj.)
+- manners | n. | 礼貌；规矩（复数） | good/bad manners; table manners | It's bad manners to talk with your mouth full.
+- etiquette | n. | 礼节；礼仪 | business etiquette | Learning about local etiquette is important when you travel. | W
+  ipa: /ˈetɪket/
+- courtesy | n. | 礼貌；谦恭 | common courtesy | It's common courtesy to reply to messages. | W
+- hospitality | n. | 好客；款待；酒店餐饮业 | — | Thank you for your kind hospitality.
+- volunteer | n. / v. | 志愿者；自愿 | volunteer to do sth; volunteer at | I volunteer at an animal shelter on Saturdays.
+  fam: voluntary (adj.)
+- charity | n. | 慈善；慈善机构 | give money to charity | Many people give money to charity at Christmas.
+  fam: charitable (adj.)
+- donate | v. | 捐赠；献（血） | donate money/blood | She donates part of her pocket money to charity.
+  fam: donation (n.) · donor (n.)
+- community | n. | 社区；群体；共同体 | the local community; the scientific community | Libraries are an important part of the community.
+- cooperate | v. | 合作；配合 | cooperate with sb | The two schools cooperate on science projects.
+  fam: cooperation (n.) · cooperative (adj.)
+- collaborate | v. | 合作；协作（尤指共同创作、研究） | collaborate with sb on sth | Scientists from ten countries collaborated on the project. | W
+  fam: collaboration (n.) · collaborative (adj.)
+- social skills | n. | 社交技能 | develop social skills | Team sports help children develop social skills.
+- interact | v. | 互动；相互作用 | interact with sb/sth | Children learn by interacting with others.
+  fam: interaction (n.) · interactive (adj.)
+- face-to-face | adj. / adv. | 面对面的 | face-to-face communication | Some things are better discussed face-to-face. | S
+- keep your word | phr. | 遵守诺言 | — | You can trust him — he always keeps his word. | S
+
+@box ielts 口语示范：How do you deal with disagreements?
+*Usually I try to **talk things through** calmly. If we still disagree, we look for a **compromise**. I think **mutual respect** matters more than winning an **argument**.*
+@end

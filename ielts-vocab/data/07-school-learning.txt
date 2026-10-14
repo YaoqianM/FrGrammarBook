@@ -34,8 +34,8 @@
   fam: revision (n.)
   note: 英式英语中 *revise* = 考前复习（美式说 *review*）。它的另一个意思是“修改”（revise an essay）。
 - memorise | v. | 记住；背诵 | memorise new words | It's hard to memorise a whole list of words.
-  fam: memory (n.)
-- concentrate | v. | 集中注意力 | concentrate on sth | I can't concentrate when the TV is on.
+
+- concentrate | v. | ① 集中注意力 ② 聚集；集中（于某处） | concentrate on sth; be concentrated in | I can't concentrate when the TV is on. // Most of China's population is concentrated in the east.
   fam: concentration (n.)
 - focus on | phr. | 专注于；以……为重点 | focus on the main points | This lesson focuses on listening skills.
 - look up | phr. v. | （在词典、网上）查找 | look up a word | Look up any new words in a dictionary. | S

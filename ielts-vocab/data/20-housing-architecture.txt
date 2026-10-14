@@ -1,0 +1,97 @@
+@unit 20
+@title Housing, Buildings & Architecture
+@zh 住房、建筑与城市设计
+@level B1–B2 · 中级核心
+@intro 住房问题（房价、租房、居住空间）和建筑设计（传统 vs. 现代、功能 vs. 美观）都是 IELTS 写作的经典话题。口语也常问 *Do you live in a house or an apartment? What's your favourite building in your city?*
+
+## 1 · Renting & owning · 租房与买房
+
+- rent | n. / v. | 租金；租用；出租 | pay the rent; rent a flat | Rent takes up half of his salary. // We rent a two-bedroom flat.
+  fam: rental (adj./n.)
+- landlord | n. | 房东 | — | Our landlord raised the rent again.
+- tenant | n. | 租户；房客 | — | The tenants complained about the broken heating.
+- mortgage | n. | 抵押贷款；房贷 | take out a mortgage; pay off a mortgage | They took out a 30-year mortgage to buy the flat.
+  ipa: /ˈmɔːɡɪdʒ/
+  note: t 不发音 /ˈmɔːɡɪdʒ/。房贷是讨论住房负担时的核心词：*mortgage repayments*（月供）。
+- property | n. | 房产；财产；（物质的）特性 | property prices; private property | Property prices in Shenzhen are among the highest in China. // Copper has useful electrical properties.
+  note: 学术义 *properties* = 特性（the properties of a material），在科学类阅读中常见。
+- real estate | n. | 房地产（美式常用） | the real estate market | He works in real estate.
+- housing | n. | 住房（总称，不可数） | affordable housing; housing shortage | The city needs more affordable housing. | W
+- housing shortage | n. | 住房短缺 | — | Rapid population growth has led to a housing shortage. | W
+- homeowner | n. | 房主 | — | Most homeowners have a mortgage.
+- first-time buyer | n. | 首次购房者 | — | High prices make it hard for first-time buyers.
+- deposit | n. / v. | 押金；首付；存款；沉积 | pay a deposit; a mineral deposit | You need a 30% deposit to buy a flat.
+- move house | phr. | 搬家（英） | — | We moved house three times when I was young. | S
+- house-sharing | n. | 合租 | — | House-sharing is common among young workers.
+- homeless | adj. / n. | 无家可归的；无家可归者（the homeless） | — | The charity provides food for the homeless.
+  fam: homelessness (n.)
+- eviction | n. | 驱逐（租户） | face eviction | Some tenants face eviction if they cannot pay the rent. | W
+  fam: evict (v.)
+- soar | v. | （价格）飙升；高飞 | — | House prices have soared over the past decade.
+  note: *soar*、*rocket*、*skyrocket* 都表示“猛涨”，在图表写作中也很有用（第四册 Unit 41）。
+- unaffordable | adj. | 负担不起的 | — | Housing has become unaffordable for many young people. | W
+
+## 2 · Types of home · 住房类型
+
+- detached house | n. | 独栋房屋 | — | They live in a large detached house with a garden.
+- semi-detached house | n. | 半独立式住宅（两户共用一面墙） | — | Most houses on our street are semi-detached.
+- terraced house | n. | 连排房屋（英） | — | Many terraced houses in Britain were built in the 19th century.
+- apartment block | n. | 公寓楼（英式也说 block of flats） | — | We live on the 25th floor of an apartment block.
+- villa | n. | 别墅 | — | They rented a villa by the sea.
+- cottage | n. | 乡村小屋 | — | They have a small cottage in the countryside.
+- studio flat | n. | 单间公寓 | — | A studio flat is ideal for one person.
+- dormitory | n. | 宿舍（常简称 dorm） | — | First-year students live in dormitories.
+- urban village | n. | 城中村 | — | Many migrant workers in Shenzhen live in urban villages.
+  note: 深圳的“城中村”（如白石洲、大芬）是城市研究的著名案例，英文文献中常译为 *urban village* 或 *village in the city*。
+- gated community | n. | 封闭式小区 | — | Most new housing in Chinese cities is built as gated communities.
+
+## 3 · Buildings & design · 建筑与设计
+
+* architecture | n. | 建筑学；建筑风格 | modern architecture; traditional architecture | The city is known for its modern architecture.
+  ipa: /ˈɑːkɪtektʃə/
+  fam: architect (n.) /ˈɑːkɪtekt/ · architectural (adj.)
+  note: *ch* 读 /k/：*architect, character, chemistry, mechanism, technique*（/tekˈniːk/）。这类词多来自希腊语。
+- design | n. / v. | 设计；图案 | building design; be designed to do sth | The building was designed by a famous architect.
+  fam: designer (n.)
+- construction | n. | 建设；建造；结构 | under construction; the construction industry | A new metro line is under construction.
+  fam: construct (v.)
+- skyscraper | n. | 摩天大楼 | — | Shenzhen has hundreds of skyscrapers.
+  note: 根据世界高层建筑与都市人居学会（CTBUH）的数据，深圳是全球 150 米以上高楼最多的城市之一。具体排名每年都在变化，写作中不需要给出精确数字。
+- storey | n. | 楼层（美式 story） | a 30-storey building | They live in a ten-storey building.
+- facade | n. | （建筑的）正面；表象 | a glass facade | The building has a striking glass facade. | W
+  ipa: /fəˈsɑːd/
+- interior | n. / adj. | 内部；室内的 | interior design | The interior of the temple is beautifully decorated.
+- exterior | n. / adj. | 外部；外观 | — | The exterior of the house needs painting.
+- layout | n. | 布局；版面设计 | the layout of a flat | I like the layout of our new flat — the kitchen is next to the living room.
+- functional | adj. | 实用的；功能性的 | — | The building is functional rather than beautiful.
+  fam: function (n./v.)
+- aesthetic | adj. / n. | 美学的；审美的 | aesthetic value | Some people care more about the aesthetic value of buildings than their function. | W
+  ipa: /iːsˈθetɪk/
+  fam: aesthetics (n.)
+- striking | adj. | 引人注目的；显著的 | a striking design; a striking contrast | The new museum has a striking design.
+- eyesore | n. | 难看的东西；碍眼物 | — | Many people think the old factory is an eyesore. | S
+- heritage | n. | 遗产；传统 | cultural heritage; heritage sites | Old buildings are part of our cultural heritage. | W
+- preserve | v. | 保护；保存；维持 | preserve historic buildings | The government should preserve historic buildings.
+  fam: preservation (n.)
+- demolish | v. | 拆除；拆毁 | demolish old buildings | Many old houses were demolished to build new roads.
+  fam: demolition (n.)
+- renovate | v. | 翻新；修复 | renovate a house | They renovated the old warehouse and turned it into a café.
+  fam: renovation (n.)
+- restore | v. | 修复；恢复 | restore an old temple; restore order | The temple was carefully restored.
+  fam: restoration (n.)
+  note: *renovate* 侧重“翻新、改造使其更现代”；*restore* 侧重“恢复原貌”（常用于古迹）；*repair* 是一般的“修理”。
+- sustainable design | n. | 可持续设计 | — | Sustainable design reduces a building's energy use. | W
+- insulation | n. | 隔热（材料）；隔音 | — | Good insulation keeps homes warm in winter.
+  fam: insulate (v.)
+- ventilation | n. | 通风 | good ventilation | Good ventilation is important in hot, humid cities.
+- natural light | n. | 自然光 | — | The room gets a lot of natural light.
+
+@cmp house · home · housing
+house | 一栋房子（建筑物） | They live in a big house.
+home | 家（情感上的居所，不限于房子） | Home is where the heart is.
+housing | 住房（总称，常用于政策讨论） | The government is building more public housing.
+@end
+
+@box ielts 写作：现代建筑 vs. 传统建筑
+支持保护传统建筑：*preserve cultural heritage*、*attract tourists*、*give a city its unique character*。支持现代建筑：*make better use of limited land*、*meet the housing needs of a growing population*、*energy-efficient design*。高分作文通常会提出平衡方案：*integrate modern design with traditional features*。
+@end

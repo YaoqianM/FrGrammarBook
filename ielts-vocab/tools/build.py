@@ -297,11 +297,16 @@ def parse_unit(path):
             continue
         if line.startswith("@"):
             raise SystemExit(f"{path.name}:{i}: unknown directive {line}")
+        if re.match(r"^\s+(ipa|fam|note|also):", line):
+            raise SystemExit(f"{path.name}:{i}: orphan sub-line (blank line above?): {line}")
         unit["blocks"].append(("p", line))
     return unit
 
 
 def load_units():
+    ok = DATA / "fam-ok.txt"
+    if ok.exists():
+        FAM_OK.update(head_key(x) for x in ok.read_text(encoding="utf-8").split("\n") if x.strip() and not x.startswith("#"))
     units = {}
     for p in sorted(DATA.glob("[0-9][0-9]-*.txt")):
         u = parse_unit(p)
@@ -356,7 +361,31 @@ def check(units):
             for fld in (e.zh, e.colloc, e.example, " ".join(e.notes)):
                 if "  " in fld:
                     problems.append(f"U{un}: '{e.head}' double space")
+    # a derived form listed under 词族 should not also be counted as a separate entry
+    fams = {}
+    for un, u in units.items():
+        for e in entries_of(u):
+            for item in fam_items(e.fam):
+                fams.setdefault(head_key(item), (un, e.head))
+    for un, u in units.items():
+        for e in entries_of(u):
+            k = head_key(e.head)
+            if k in fams and fams[k][1] != e.head and k not in FAM_OK:
+                problems.append(f"FAMDUP '{e.head}' U{un} is in the family of '{fams[k][1]}' U{fams[k][0]}")
     return problems, total, feat, cmp
+
+
+FAM_OK = set()  # derived forms that deserve their own entry (different meaning); filled from data/fam-ok.txt
+
+
+def fam_items(fam):
+    out = []
+    for part in fam.split("·"):
+        w = re.sub(r"\(.*?\)", "", part).strip()
+        w = re.sub(r"/.*$", "", w).strip()
+        if w:
+            out.append(w)
+    return out
 
 
 # ----------------------------------------------------------------- rendering

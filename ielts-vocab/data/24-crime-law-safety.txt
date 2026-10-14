@@ -1,0 +1,116 @@
+@unit 24
+@title Crime, Law & Safety
+@zh 犯罪、法律与安全
+@level B1–B2 · 中级核心
+@intro *What is the best way to reduce crime? Should young offenders be sent to prison? Is CCTV an invasion of privacy?* 犯罪与惩罚是 IELTS 写作的高频题目。本单元覆盖犯罪类型、司法程序、刑罚观念和公共安全。注意几组易混词：*rob / steal*、*safe / secure*、*legal / lawful*。
+
+## 1 · Crime & criminals · 犯罪与罪犯
+
+- crime | n. | 犯罪；罪行 | commit a crime; violent crime; the crime rate | The crime rate has fallen in recent years.
+  note: *crime* 可数（一桩罪行）也可不可数（犯罪现象）：*Crime is falling* / *a serious crime*。“犯罪”的动词搭配是 **commit** a crime，✗ *do a crime*。
+- criminal | n. / adj. | 罪犯；犯罪的；刑事的 | a dangerous criminal; criminal behaviour | The police caught the criminal within hours.
+- offence | n. | 违法行为；罪行；冒犯（美式 offense） | a criminal offence; a minor offence; take offence | Drink-driving is a serious offence.
+  fam: offend (v.) · offensive (adj.)
+- offender | n. | 违法者；罪犯 | young offenders; repeat offenders | Young offenders need education, not just punishment. | W
+- victim | n. | 受害者 | the victim of a crime; fall victim to | The victim was taken to hospital.
+- witness | n. / v. | 目击者；证人；目睹 | a witness to sth; witness an accident | Did anyone witness the accident?
+- suspect | n. / v. | 嫌疑人；怀疑（有……） | the main suspect; suspect sb of sth | Police have arrested a suspect.
+  ipa: /ˈsʌspekt/ (n.) · /səˈspekt/ (v.)
+  fam: suspicious (adj.) · suspicion (n.)
+- theft | n. | 偷窃；盗窃罪 | car theft; identity theft | Phone theft is common on crowded trains.
+  fam: thief (n., 复数 thieves)
+- burglary | n. | 入室盗窃 | — | Burglary is more common in houses without alarms.
+  fam: burglar (n.) · burgle (v.)
+- robbery | n. | 抢劫 | armed robbery; a bank robbery | Two men were arrested after the bank robbery.
+  fam: rob (v.) · robber (n.)
+- shoplifting | n. | 商店行窃 | — | The shop installed cameras to prevent shoplifting.
+- fraud | n. | 欺诈；诈骗 | credit card fraud; commit fraud | Online fraud is increasing every year. | W
+- scam | n. / v. | 骗局；诈骗 | a phone scam; an online scam | Be careful of phone scams that ask for your bank details. | S
+- cybercrime | n. | 网络犯罪 | — | Cybercrime costs the world billions of dollars a year. | W
+- hacker | n. | 黑客 | — | Hackers stole the personal data of millions of users.
+  fam: hack (v.) · hacking (n.)
+- violence | n. | 暴力 | domestic violence; violence against sb | There is too much violence on TV.
+  fam: violent (adj.)
+- illegal | adj. | 违法的；非法的 | It is illegal to… | It is illegal to drive without a licence.
+  fam: legal (adj.) · legally (adv.) · illegally (adv.)
+- juvenile | adj. / n. | 青少年的；未成年人 | juvenile crime; juvenile delinquency | Juvenile crime is often linked to poverty and lack of education. | W
+  ipa: /ˈdʒuːvənaɪl/
+- gang | n. | 帮派；一伙人 | a criminal gang | He was in a gang when he was a teenager.
+- drug dealer | n. | 毒贩 | — | The police arrested three drug dealers.
+- smuggle | v. | 走私 | smuggle sth into/out of | They tried to smuggle ivory out of the country.
+  fam: smuggling (n.) · smuggler (n.)
+
+@cmp rob · steal · burgle
+rob | 宾语是**人或地方**：抢劫某人/某地 | Two men robbed a bank. // He was robbed on his way home.
+steal | 宾语是**东西**：偷某物 | Someone stole my bike.
+burgle | 入室盗窃（宾语是房子或人） | Our house was burgled while we were on holiday.
+note: ✗ *Someone robbed my phone* → ✓ *Someone stole my phone* / *I was robbed*。
+@end
+
+## 2 · Law & justice · 法律与司法
+
+- law | n. | 法律；法则；定律 | break the law; obey the law; by law | Everyone must obey the law. // Wearing a seatbelt is required by law.
+  fam: lawyer (n.) · lawful (adj.)
+- law-abiding | adj. | 守法的 | law-abiding citizens | Most people are law-abiding citizens.
+- arrest | v. / n. | 逮捕 | arrest sb for sth; under arrest | He was arrested for drink-driving.
+- accuse | v. | 指控；指责 | accuse sb of doing sth | She was accused of stealing money.
+  fam: accusation (n.) · the accused (n.)
+  note: 介词搭配：*accuse sb **of** sth*；*charge sb **with** sth*（正式起诉）；*blame sb **for** sth*（责怪）。三者常被混用。
+- trial | n. | 审判；试验 | on trial; stand trial; clinical trials | He went on trial for fraud. // The new drug is in clinical trials.
+- court | n. | 法庭；法院；球场 | go to court; in court; a tennis court | The case will go to court next month.
+- jury | n. | 陪审团 | — | The jury found him not guilty.
+- evidence | n. | 证据（不可数） | evidence of/for sth; a piece of evidence | There was not enough evidence to prove he was guilty.
+  note: *evidence* 不可数：✗ *an evidence / evidences* → ✓ *a piece of evidence / some evidence*。写作中 *There is strong evidence that…* 是引出论据的经典句型。
+- innocent | adj. | 无辜的；清白的；天真的 | innocent of a crime; innocent victims | He claims he is innocent.
+  fam: innocence (n.)
+- convict | v. / n. | 定罪；罪犯 | be convicted of sth | She was convicted of fraud. | W
+  ipa: /kənˈvɪkt/ (v.) · /ˈkɒnvɪkt/ (n.)
+  fam: conviction (n., 定罪；坚定的信念)
+- prison | n. | 监狱 | go to prison; be sent to prison; in prison | He was sent to prison for five years.
+  fam: prisoner (n.) · imprison (v.) · imprisonment (n.)
+- penalty | n. | 惩罚；罚款；点球 | the death penalty; a heavy penalty | The penalty for littering is a fine of 200 yuan.
+- community service | n. | 社区服务（作为刑罚） | — | Instead of prison, he was given 200 hours of community service.
+- deter | v. | 威慑；阻止 | deter sb from doing sth | Some people believe harsh punishments deter crime. | W
+  fam: deterrent (n./adj.) · deterrence (n.)
+  note: *Does the death penalty deter crime?* 是经典的辩论问题。许多犯罪学研究发现，**被抓住的可能性**（certainty of punishment）比刑罚的严厉程度（severity）对犯罪的威慑作用更大——这是写作中很有力的论据。
+- rehabilitation | n. | 改造；康复 | the rehabilitation of offenders | Prisons should focus on rehabilitation, not just punishment. | W
+  fam: rehabilitate (v.)
+- reoffend | v. | 再次犯罪 | — | Education in prison reduces the chance that prisoners will reoffend. | W
+  fam: reoffending (n.)
+- release | v. / n. | 释放；发布；发行 | be released from prison; release a film | He was released after serving three years.
+- legislation | n. | 法规；立法 | introduce/pass legislation | New legislation bans smoking in public places. | W
+- enforce | v. | 执行；强制实施 | enforce the law/rules | The police must enforce the speed limit.
+  fam: enforcement (n.) · law enforcement (n.)
+- ban | v. / n. | 禁止；禁令 | ban sth; a ban on sth | Many countries have banned plastic bags.
+- regulation | n. | 规章；规定；管理 | strict regulations; safety regulations | Food safety regulations are very strict.
+  fam: regulate (v.) · regulatory (adj.)
+- rights | n. | 权利（复数） | human rights; legal rights; the right to sth | Everyone has the right to a fair trial.
+
+## 3 · Safety & security · 安全
+
+- surveillance | n. | 监视；监控 | under surveillance; surveillance cameras | Surveillance cameras can help police solve crimes. | W
+  ipa: /sɜːˈveɪləns/
+- CCTV | n. | 闭路电视监控（closed-circuit television） | CCTV cameras | The thief was caught on CCTV.
+- patrol | v. / n. | 巡逻 | on patrol | Police officers patrol the streets at night.
+- security | n. | 安全；保安；保障 | national security; job security; security guards | Airport security has become much stricter.
+  fam: secure (adj./v.)
+- safety | n. | 安全（不受伤害） | road safety; for your own safety | For your own safety, please wear a helmet.
+- hazard | n. | 危险；危害 | a fire hazard; health hazards | Wet floors are a safety hazard.
+  fam: hazardous (adj.)
+- precaution | n. | 预防措施 | take precautions | Take precautions against theft when travelling.
+- first aid | n. | 急救 | a first-aid kit | Everyone should learn basic first aid.
+- vigilant | adj. | 警惕的；警觉的 | remain vigilant | Passengers are asked to remain vigilant. | W
+- crack down on | phr. v. | 严厉打击 | crack down on crime | The government is cracking down on online fraud.
+  fam: crackdown (n.)
+- tackle crime | phr. | 解决犯罪问题 | — | Better street lighting is one way to tackle crime. | W
+  note: *tackle* 是写作中非常好用的动词：*tackle a problem / an issue / crime / climate change*，意为“着手解决（难题）”，比 *solve* 更符合实际（问题往往无法彻底解决）。
+
+@cmp safe · secure
+safe | 安全的，不受伤害或危险的 | Is it safe to swim here?
+secure | 安全的、牢固的，有保护措施防止被攻击或失去；也指（心理上）有安全感 | Keep your passwords secure. // Children need to feel secure.
+note: *safety* 侧重防止意外和伤害（road safety, food safety）；*security* 侧重防止故意的攻击和威胁（national security, cybersecurity）。
+@end
+
+@box ielts 写作：如何减少犯罪
+*tackle the root causes of crime, such as poverty and lack of education* · *invest in rehabilitation programmes* · *increase police presence* · *harsher punishments may deter some offenders, but…* —— 论证时注意说明证据的局限。
+@end
