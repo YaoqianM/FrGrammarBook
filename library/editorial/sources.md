@@ -23,6 +23,8 @@
 | S-AE-1 | C12 | 1996 年 *Loi sur l'assurance-emploi*（L.C. 1996, ch. 23）取代 assurance-chômage | OQLF 术语 fiche 8874050；Parlement du Canada | 2026-10-14，摘要核对 |
 | S-AE-2 | C12 | 多项私人议员提案（如 2004 年 C-477）试图恢复"assurance-chômage"名称；未见通过 | parl.ca 法案文本 | 2026-10-14，摘要核对；是否有通过者需再查 |
 | S-CRL-1 | C16 | *courriel*：1997 年进入 OQLF 互联网词汇，1998 年 Gazette 公告；2003 年法国术语委员会推荐。首创者说法不一 | OQLF fiche 8353974；LinuxFr 2003 | 2026-10-14，摘要核对 |
+| S-GRV-1 | A046 | *grève* < 通俗拉丁 *grava*（沙砾）；Place de Grève 为失业工人等活之处；约 1845–1850 *faire grève* 转为罢工义；另有方言来源假说，Grève 广场说为主流 | CCDMD《Correspondance》https://correspo.ccdmd.qc.ca/ ；lalanguefrancaise.com « faire grève » | 2026-10-14，摘要核对 |
+| — | A021–A047 其余词源 | library、chaise、char/carry/career、avocat、money/coin、journey 等词源 | Etymonline、TLFi（凭编者知识，未逐条联网复核） | 入第二版前建议逐条抽查 |
 
 ## 【待核查】
 
