@@ -118,3 +118,5 @@ section.part { break-before: page; break-after: page; height: 190mm; display: fl
 .pb { break-before: page; }
 pre { font-family: "DejaVu Sans Mono", monospace; font-size: 0.72rem; line-height: 1.35; background: rgba(255,255,255,.6); border: 1px solid rgba(0,0,0,.08); border-radius: 5px; padding: 6px 8px; margin: 0.4em 0 0.6em; white-space: pre; overflow: hidden; }
 pre code { background: none; padding: 0; font-size: 1em; }
+blockquote { margin: 0.5em 0 0.9em; padding: 7px 12px; border-left: 3px solid var(--red); background: #faf7f2; font-family: "Inter", "Noto Sans SC", sans-serif; font-size: 0.86rem; }
+blockquote p { margin: 0.2em 0; text-align: left; }

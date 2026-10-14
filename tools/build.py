@@ -183,7 +183,9 @@ def main():
         if answers:
             first_h1 = re.search(r"^#\s+(.*)$", f.read_text(encoding="utf-8"), re.M)
             title = first_h1.group(1) if first_h1 else f.stem
-            answer_sections.append(f"### {title}\n\n" + "\n\n".join(answers))
+            title = re.sub(r"\s*<small>.*?</small>", "", title)
+            lines = [ln for a in answers for ln in a.split("\n") if ln.strip()]
+            answer_sections.append(f"### {title}\n\n" + "\n\n".join(lines))
 
     # answer key
     if answer_sections:
