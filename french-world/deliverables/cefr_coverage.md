@@ -6,6 +6,7 @@
 | A2 | N°4, N°5, N°6 | 42 | 478 | 6184 | 366 | 67 | 12 |
 | B1 | N°7, N°8, N°9 | 46 | 518 | 7807 | 385 | 57 | 14 |
 | B2 | N°10, N°11, N°12 | 44 | 468 | 8553 | 401 | 40 | 10 |
+| C1 | N°13 | 9 | 74 | 1633 | 82 | 12 | 2 |
 
 ## A1 — grammar covered
 
@@ -69,6 +70,11 @@
 - La mise en relief (强调句式) — N°12
 - Lequel, auquel, duquel (复合关系代词) — N°12
 - Les registres de langue (语域) — N°12
+
+## C1 — grammar covered
+
+- Reconnaître le passé simple (识别简单过去时) — N°13
+- La nominalisation (名词化) — N°13
 
 ## A1 — sections
 
@@ -142,3 +148,14 @@
 - EXPRESSIONS & CONVERSATION: 3
 - CINÉ-PHILO: 1
 - HUMOUR & CULTURE: 1
+
+## C1 — sections
+
+- ÉDITO: 2
+- HISTOIRES: 1
+- IDÉES QUI DÉRANGENT: 1
+- SCIENCE & MONDE MODERNE: 1
+- LE DÉBAT: 1
+- POÉSIE & LITTÉRATURE: 1
+- BELLES PHRASES: 1
+- EXPRESSIONS & CONVERSATION: 1

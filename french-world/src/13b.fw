@@ -1,0 +1,172 @@
+%% ───────── SCIENCE / ÉDITORIAL ─────────
+@piece science | Qui est l'auteur ? L'intelligence artificielle et la création | 谁是作者？人工智能与创作 | C1
+@deck Un éditorial. Quand une machine écrit un poème, compose une chanson ou peint un tableau, à qui appartient l'œuvre ? Et que reste-t-il de l'idée même d'auteur ? || 一篇社论。当一台机器写诗、作曲或绘画时，作品属于谁？“作者”这个概念本身还剩下什么？
+@meta themes=intelligence artificielle, création, droit d'auteur, littérature; topics=technologie, culture, justice
+La question aurait paru absurde il y a dix ans. Elle occupe désormais les tribunaux, les maisons d'édition et les écoles d'art. || 十年前，这个问题会显得荒谬。如今，它却让法院、出版社和艺术学院忙个不停。
+Les systèmes génératifs produisent en quelques secondes des textes et des images qu'il serait souvent impossible de distinguer d'une production humaine. || 生成式系统几秒钟就能生成文字和图像，往往与人类的作品难以区分。
+Or, le droit d'auteur, tel qu'il s'est construit en Europe depuis le XVIIIᵉ siècle, repose sur une idée simple : l'œuvre est l'empreinte d'une personnalité. || 然而，自18世纪以来在欧洲逐步形成的著作权，建立在一个简单的理念之上：作品是一个人格的印记。
+Sans personne, pas d'empreinte ; sans empreinte, pas de protection. || 没有人，就没有印记；没有印记，就没有保护。
+C'est d'ailleurs la position qu'ont adoptée, pour l'instant, plusieurs administrations : aux États-Unis, en 2023, des images produites par une IA ont été jugées non protégeables en l'absence d'une contribution humaine suffisante. || 这也正是目前若干管理机构所采取的立场：2023年在美国，由人工智能生成的图像，在缺乏足够人类贡献的情况下，被认定不受保护。
+Mais la frontière est floue. Où commence la création quand un artiste rédige cent consignes, choisit, corrige, assemble ? || 但界限是模糊的。当一位艺术家写下一百条指令、进行挑选、修改、组合时，创作从哪里开始？
+Le photographe n'invente pas la lumière ; il la choisit. Le traducteur n'invente pas le roman ; il le recrée. || 摄影师并不发明光；他选择光。译者并不发明小说；他重新创造它。
+Il serait tentant de conclure que l'IA n'est qu'un outil de plus, comme l'appareil photo en son temps. || 人们很容易得出结论：人工智能不过是又一种工具，就像当年的照相机一样。
+Ce serait aller un peu vite. Car ces outils ont été entraînés sur des millions d'œuvres humaines, souvent sans l'accord ni la rémunération de leurs auteurs. || 这未免太草率了。因为这些工具是用数以百万计的人类作品训练出来的，而且往往未经作者同意，也没有给作者报酬。
+Dès lors, la question n'est plus seulement de savoir qui est l'auteur du résultat, mais aussi qui est l'auteur de ce dont il est fait. || 因此，问题不再只是谁是生成结果的作者，还在于谁是构成这一结果的东西的作者。
+En 1967, le critique Roland Barthes annonçait, dans un texte célèbre, « la mort de l'auteur » : le sens d'un texte, disait-il, naît dans le lecteur plus que dans l'écrivain. || 1967年，评论家罗兰·巴特在一篇著名的文章中宣告了“作者之死”：他说，文本的意义更多诞生于读者，而非作者。
+Il n'imaginait pas qu'un demi-siècle plus tard, la provocation deviendrait une question juridique. || 他没有想到，半个世纪之后，这个挑衅性的说法会变成一个法律问题。
+Une chose, au moins, demeure : nous continuons à chercher une personne derrière les mots. C'est peut-être cela, au fond, que nous appelons un auteur. || 至少有一点没有变：我们依然在文字背后寻找一个人。说到底，也许这就是我们所说的“作者”。
+
+@vocab
+tribunal | n.m. | tʁi.by.nal | 法院 | court | Le tribunal a rendu sa décision. | 法院作出了判决。 | | des tribunaux |
+maison d'édition | n.f. | mɛ.zɔ̃ de.di.sjɔ̃ | 出版社 | publishing house | | | | éditer · un éditeur |
+génératif | adj. | ʒe.ne.ʁa.tif | 生成式的 | generative | L'IA générative. | 生成式人工智能。 | | générative (f.) · générer |
+droit d'auteur | n.m. | dʁwa do.tœʁ | 著作权 | copyright | | | | |
+empreinte | n.f. | ɑ̃.pʁɛ̃t | 印记；指纹；足迹 | imprint, mark | Les empreintes digitales. | 指纹。 | l'empreinte carbone (= 碳足迹) | |
+or | conj. | ɔʁ | 然而；可是 | now, yet | Il avait promis de venir ; or, il n'est pas venu. | 他答应过要来；可是他没来。 | | | 书面逻辑连词，引出与前文相关的关键事实。
+protégeable | adj. | pʁɔ.te.ʒabl | 可受保护的 | protectable | | | | protéger |
+contribution | n.f. | kɔ̃.tʁi.by.sjɔ̃ | 贡献；税款 | contribution | | | | contribuer |
+flou | adj. | flu | 模糊的 | blurred, vague | La photo est floue. | 照片是模糊的。 | | floue (f.) |
+consigne | n.f. | kɔ̃.siɲ | 指令；规定；寄存处 | instruction; left-luggage | Respecter les consignes de sécurité. | 遵守安全规定。 | la consigne à bagages | |
+tentant | adj. | tɑ̃.tɑ̃ | 诱人的 | tempting | C'est une offre tentante. | 这是个诱人的提议。 | | tentante (f.) · tenter |
+rémunération | n.f. | ʁe.my.ne.ʁa.sjɔ̃ | 报酬 | remuneration, pay | | | | rémunérer |
+juridique | adj. | ʒy.ʁi.dik | 法律的 | legal | Une question juridique. | 一个法律问题。 | | le droit |
+@end
+
+%% ───────── LE DÉBAT ─────────
+@piece debat | Faut-il défendre le français ? | 需要捍卫法语吗？ | C1
+@deck Au Québec, la loi impose le français dans l'affichage, au travail et dans l'administration. En France, une loi encadre son usage depuis 1994. Protection légitime d'une culture, ou crispation identitaire ? || 在魁北克，法律规定标牌、工作场所和行政机构必须使用法语。在法国，自1994年起有一部法律规范法语的使用。这是对一种文化的正当保护，还是身份认同的焦虑？
+@meta characters=Camille, Wei; themes=langue, identité, loi, immigration, Québec; topics=société, immigration, culture
+@h Oui, et sans complexe : Camille || 要，而且理直气壮：卡米耶
+Il faut se souvenir d'où vient le Québec. Sept ou huit millions de francophones, sur un continent de plusieurs centaines de millions d'anglophones. || 必须记住魁北克是从哪里来的。七八百万法语使用者，身处一个有数亿英语使用者的大陆上。
+Jusque dans les années 1960, à Montréal, on pouvait travailler toute sa vie dans une entreprise où les patrons ne parlaient qu'anglais, et où le français était la langue des employés. || 直到20世纪60年代，在蒙特利尔，一个人可能一辈子都在一家老板只说英语的公司里工作，法语只是雇员的语言。
+La Charte de la langue française, adoptée en 1977 et qu'on appelle la loi 101, a renversé cette situation. Elle a fait du français la langue normale du travail, de l'école et de l'espace public. || 1977年通过的《法语宪章》，也就是所谓的“101法案”，扭转了这一局面。它让法语成为工作、学校和公共空间的通用语言。
+Sans elle, je suis convaincue que le français ne serait plus aujourd'hui qu'une langue de folklore, qu'on parlerait à la maison et à la fête nationale. || 没有它，我确信法语如今只会是一种民俗语言，只在家里和国庆节时才会说。
+Une langue ne survit pas par magie. Elle survit parce qu'on en a besoin pour vivre, travailler et rêver. || 一种语言不是靠魔法存活的。它之所以存活，是因为人们需要用它来生活、工作和做梦。
+
+@h Oui, mais pas n'importe comment : Wei || 要，但不能随便怎么来：张伟
+Je comprends ce combat, et je le respecte. C'est d'ailleurs en partie pour cela que j'ai appris le français. || 我理解这场斗争，也尊重它。我学法语，部分原因也正在于此。
+Néanmoins, quand on arrive comme immigrant, certaines règles peuvent devenir des obstacles, au lieu d'être des ponts. || 然而，当你作为移民来到这里时，有些规定可能会变成障碍，而不是桥梁。
+Exiger le français partout, très vite, de quelqu'un qui l'apprend à quarante ans, c'est parfois l'empêcher d'accéder à un service dont il a besoin, en santé par exemple. || 要求一个四十岁才开始学法语的人很快在所有场合都使用法语，有时就等于阻止他获得他需要的服务，比如医疗服务。
+Défendre une langue, c'est aussi donner les moyens de l'apprendre : des cours gratuits, du temps, de la patience. || 捍卫一种语言，也意味着提供学习它的途径：免费课程、时间、耐心。
+Une langue qu'on impose avec méfiance fait fuir. Une langue qu'on offre avec générosité, on finit par l'aimer. || 带着戒心强加的语言会把人吓跑。慷慨给予的语言，人们终会爱上它。
+Moi, j'ai fini par l'aimer. Mais j'ai eu de la chance : j'avais un magazine. || 我呢，我最终爱上了它。但我很幸运：我有一本杂志。
+
+@note quebec | Repères
+**La Charte de la langue française** (loi 101), adoptée en 1977, fait du français la langue officielle du Québec. Elle est renforcée en 2022 par la **loi 96**. L'**Office québécois de la langue française (OQLF)** veille à son application et propose aussi des équivalents français aux mots anglais (*courriel*, *clavarder*, *égoportrait* pour *selfie*). En **France**, la **loi Toubon** (1994) impose l'usage du français dans certains domaines : publicité, contrats de travail, modes d'emploi. Dans les deux cas, le débat entre protection et ouverture reste vif.
+
+《法语宪章》（101法案）于1977年通过，确立法语为魁北克的官方语言，2022年由96法案加以强化。魁北克法语办公室负责监督实施，并为英语词提供法语对应词。在法国，《杜蓬法》（1994）规定在广告、劳动合同、使用说明等领域必须使用法语。
+@end
+
+@vocab
+affichage | n.m. | a.fi.ʃaʒ | 张贴；标牌 | signage, display | L'affichage commercial. | 商业标牌。 | | afficher · une affiche |
+encadrer | v. | ɑ̃.ka.dʁe | 规范；装框；指导 | to regulate; to frame; to supervise | Une loi encadre cette pratique. | 有法律规范这种做法。 | encadrer une équipe | l'encadrement · un cadre |
+crispation | n.f. | kʁis.pa.sjɔ̃ | 紧张；僵化 | tension, rigidity | Une crispation identitaire. | 身份认同的焦虑。 | | se crisper |
+identitaire | adj. | i.dɑ̃.ti.tɛʁ | 身份认同的 | identity-related | | | | l'identité |
+sans complexe | loc. adv. | sɑ̃ kɔ̃.plɛks | 理直气壮地 | unashamedly | | | | un complexe |
+continent | n.m. | kɔ̃.ti.nɑ̃ | 大陆；洲 | continent | | | | continental |
+renverser | v. | ʁɑ̃.vɛʁ.se | 扭转；推翻；打翻 | to reverse; to overturn; to spill | Il a renversé son café. | 他把咖啡打翻了。 | | le renversement |
+folklore | n.m. | fɔl.klɔʁ | 民俗 | folklore | | | | folklorique |
+néanmoins | adv. | ne.ɑ̃.mwɛ̃ | 然而；尽管如此 | nevertheless | | | | | 书面语，比 *pourtant* 更正式。
+accéder à | v. | ak.se.de a | 进入；获得 | to access | Accéder aux soins. | 获得医疗服务。 | | l'accès |
+veiller à | v. | ve.je a | 注意；确保 | to see to, to ensure | Veillez à fermer la porte. | 请务必关好门。 | | |
+@end
+
+%% ───────── POÉSIE & LITTÉRATURE ─────────
+@piece poesie | La madeleine de Proust | 普鲁斯特的玛德琳蛋糕 | C1
+@deck Marcel Proust, 1913. Un homme trempe un petit gâteau dans une tasse de thé. Tout son passé remonte d'un coup. C'est le passage le plus célèbre de la littérature française. Domaine public. || 马塞尔·普鲁斯特，1913年。一个男人把一块小蛋糕浸入一杯茶中。他的整个过去突然涌上心头。这是法国文学中最著名的段落。已进入公有领域。
+@meta characters=Marcel Proust, le narrateur, tante Léonie; setting=Combray; themes=mémoire involontaire, temps, enfance; topics=littérature, culture
+Dans *Du côté de chez Swann*, le narrateur, adulte, rentre chez lui par un jour d'hiver. Sa mère lui propose du thé et un de ces petits gâteaux qu'on appelle des madeleines. || 在《在斯万家那边》中，成年的叙述者在一个冬日回到家。他的母亲给他端来茶和一种被称为“玛德琳”的小蛋糕。
+Il porte à ses lèvres une cuillerée de thé où il a laissé s'amollir un morceau de madeleine. || 他把一勺泡软了一小块玛德琳蛋糕的茶送到唇边。
+Au moment où le liquide touche son palais, un plaisir délicieux l'envahit, sans qu'il sache pourquoi. || 就在茶水触到上颚的那一刻，一种美妙的快感袭遍他的全身，他却不知道为什么。
+Il boit une deuxième gorgée, puis une troisième, et le plaisir s'affaiblit. Il comprend que ce qu'il cherche n'est pas dans la tasse, mais en lui. || 他喝了第二口，又喝了第三口，那快感却减弱了。他明白，他寻找的东西不在杯子里，而在他自己身上。
+Puis, soudain, le souvenir revient. Voici les mots de Proust : || 然后，突然间，回忆回来了。以下是普鲁斯特的原话：
+@quote « Et tout d'un coup le souvenir m'est apparu. Ce goût c'était celui du petit morceau de madeleine que le dimanche matin à Combray […] ma tante Léonie m'offrait après l'avoir trempé dans son infusion de thé ou de tilleul. » || “突然间，回忆浮现了。这味道，正是在贡布雷的那些星期天早上……莱奥妮姑妈把一小块玛德琳蛋糕在她的茶或椴花茶里浸过之后递给我时的那个味道。” || Marcel Proust, Du côté de chez Swann (1913)
+De cette seule saveur sortent ensuite, comme dans un jeu japonais qu'il décrit, toute la maison de sa tante, la petite ville de Combray, ses rues, son église, ses habitants. || 接着，就从这一种味道里，像他所描述的一种日本游戏那样，涌现出姑妈的整座房子、贡布雷小镇、它的街道、它的教堂、它的居民。
+Proust appelle cela la « mémoire involontaire » : le passé ne revient pas quand on le cherche, mais quand une sensation le réveille par hasard. || 普鲁斯特称之为“非自主记忆”：过去并不在我们寻找时归来，而是在某种感觉偶然唤醒它时归来。
+Aujourd'hui, en français, on dit « c'est ma madeleine de Proust » pour parler d'une odeur, d'un goût, d'une chanson qui nous ramène brusquement dans l'enfance. || 如今在法语里，人们说“这是我的普鲁斯特玛德琳”，来指一种气味、一种味道、一首歌，把我们猛然带回童年。
+Pour beaucoup de lecteurs chinois en France, la madeleine de Proust a le goût d'un bol de nouilles, d'un 月饼, ou d'une soupe préparée par une grand-mère, quelque part de l'autre côté du monde. || 对于很多身在法国的中国读者来说，普鲁斯特的玛德琳是一碗面条、一块月饼，或者世界另一端某位外婆熬的一碗汤的味道。
+
+@vocab
+tremper | v. | tʁɑ̃.pe | 浸泡 | to dip, to soak | Tremper son croissant dans son café. | 把可颂泡进咖啡里。 | | trempé |
+cuillerée | n.f. | kɥij.ʁe | 一勺 | spoonful | Une cuillerée de sucre. | 一勺糖。 | | une cuillère |
+s'amollir | v. pron. | sa.mɔ.liʁ | 变软 | to soften | | | | mou, molle |
+palais | n.m. | pa.lɛ | 上颚；宫殿 | palate; palace | | | le palais de l'Élysée | | 一词两义：上颚 / 宫殿。
+envahir | v. | ɑ̃.va.iʁ | 侵入；充满 | to invade, to flood | Une grande tristesse l'envahit. | 一阵巨大的悲伤涌上心头。 | | l'invasion |
+gorgée | n.f. | ɡɔʁ.ʒe | 一口（饮料） | sip, mouthful | Une gorgée d'eau. | 一口水。 | | la gorge |
+s'affaiblir | v. pron. | sa.fɛ.bliʁ | 减弱 | to weaken | | | | faible |
+infusion | n.f. | ɛ̃.fy.zjɔ̃ | 花草茶；冲泡 | herbal tea | Une infusion de camomille. | 一杯洋甘菊茶。 | | infuser |
+tilleul | n.m. | ti.jœl | 椴树；椴花茶 | lime blossom (tea) | | | | |
+saveur | n.f. | sa.vœʁ | 味道 | flavour | | | | savoureux |
+involontaire | adj. | ɛ̃.vɔ.lɔ̃.tɛʁ | 无意识的；非自主的 | involuntary | | | | ≠ volontaire |
+brusquement | adv. | bʁysk.mɑ̃ | 突然地 | abruptly | | | | brusque |
+@end
+
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | Les connecteurs du C1 | C1 级连接词 | C1
+@deck À ce niveau, la qualité d'un texte se lit dans ses articulations. Huit connecteurs qui font immédiatement passer une copie du « bien » au « remarquable ». || 在这个水平上，一篇文章的质量体现在它的衔接之处。八个能让一份答卷立刻从“良好”跃升到“出色”的连接词。
+@meta themes=argumentation, connecteurs, écrit soutenu; topics=éducation
+@versions Huit connecteurs du C1
+CONCESSION || Quand bien même il accepterait, le problème resterait entier. || 即便他接受了，问题依然存在。 || *Quand bien même* + **conditionnel** : même si (hypothèse forte). *Quand bien même* 后接条件式：即使（强假设）。
+OPPOSITION || Le projet est ambitieux ; il n'en demeure pas moins risqué. || 这个项目雄心勃勃；但风险依然不小。 || Maintient une idée malgré ce qui précède. 尽管有前述情况，依然坚持某个观点。
+CONSTAT || Force est de constater que les mesures n'ont pas suffi. || 不得不承认，这些措施并不足够。 || Pour présenter une évidence désagréable. 用于陈述一个令人不快的事实。
+CONSÉQUENCE || Le délai est dépassé ; dès lors, la demande est irrecevable. || 期限已过；因此，申请不予受理。 || Plus soutenu que *donc*. 比 *donc* 更正式。
+RENFORCEMENT || S'il est difficile pour un natif, a fortiori pour un débutant. || 如果对母语者都难，那对初学者就更不用说了。 || *A fortiori* = à plus forte raison. 更何况。
+PRÉCISION || Les voisins, en l'occurrence ceux du troisième, se sont plaints. || 邻居们——具体来说是四楼那家——投诉了。 || *En l'occurrence* = dans ce cas précis. 在这个具体情况下。
+CONDITION || Vous serez remboursé, sous réserve de présenter la facture. || 只要出示发票，您就能获得退款。 || *Sous réserve de / que* = à condition de / que (administratif). 前提是……（行政用语）。
+CONSIDÉRATION || Eu égard à votre expérience, nous vous proposons un poste de direction. || 鉴于您的经验，我们为您提供一个管理职位。 || *Eu égard à* = compte tenu de (très soutenu). 鉴于（非常正式）。
+@end
+
+@vocab
+articulation | n.f. | aʁ.ti.ky.la.sjɔ̃ | 衔接；关节；发音 | link, structure; joint | | | | articuler |
+quand bien même | loc. conj. | kɑ̃ bjɛ̃ mɛm | 即使 | even if | | | | |
+irrecevable | adj. | i.ʁə.sə.vabl | 不予受理的 | inadmissible | Votre demande est irrecevable. | 您的申请不予受理。 | | recevoir | 行政用语。
+a fortiori | loc. adv. | a fɔʁ.sjɔ.ʁi | 更何况 | all the more so | | | | | 拉丁语借词。
+en l'occurrence | loc. adv. | ɑ̃ lɔ.ky.ʁɑ̃s | 在这种情况下；具体来说 | in this case | | | | une occurrence |
+sous réserve de | loc. prép. | su ʁe.zɛʁv də | 以……为条件 | subject to | Sous réserve de modifications. | 如有变更，以实际为准。 | | une réserve |
+eu égard à | loc. prép. | y e.ɡaʁ a | 鉴于 | in view of, considering | | | | un égard |
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Douze expressions pour briller à l'écrit comme à l'oral | 十二个让你书面和口头都出彩的表达 | C1
+@deck Des expressions idiomatiques que les natifs utilisent sans y penser, et qui, bien placées, font dire à votre interlocuteur : « Mais vous parlez vraiment bien français ! » || 一些母语者脱口而出的习语，用得恰到好处，会让对方说：“您法语说得真好！”
+@meta themes=expressions idiomatiques, registre soutenu; topics=culture
+@expr
+Avoir du pain sur la planche | 有很多活要干 | familier | Avoir beaucoup de travail devant soi. | Avec l'ouverture du bureau, on a du pain sur la planche. || 办事处开张，我们有一大堆活要干。
+Mettre la charrue avant les bœufs | 本末倒置 | neutre | Faire les choses dans le mauvais ordre. | Signer avant de lire ? Tu mets la charrue avant les bœufs. || 不看就签？你这是本末倒置。
+Prendre le taureau par les cornes | 迎难而上 | neutre | Affronter un problème directement. | Elle a pris le taureau par les cornes et a appelé le client. || 她迎难而上，给客户打了电话。
+Tirer son épingle du jeu | 全身而退；脱颖而出 | soutenu | S'en sortir habilement d'une situation difficile. | Malgré la crise, l'entreprise a tiré son épingle du jeu. || 尽管危机重重，公司还是脱颖而出。
+Ménager la chèvre et le chou | 两边讨好 | neutre | Essayer de satisfaire deux camps opposés. | Le ministre ménage la chèvre et le chou. || 部长两边都不得罪。
+Tomber des nues | 大吃一惊 | soutenu | Être très surpris. | Quand il m'a annoncé son départ, je suis tombée des nues. || 他宣布要离开时，我大吃一惊。
+Se mettre martel en tête | 忧心忡忡 | soutenu | Se faire beaucoup de soucis. | Ne te mets pas martel en tête pour si peu. || 别为这点小事担心。
+Jeter l'éponge | 认输；放弃 | familier | Abandonner (image de la boxe). | Après trois échecs, il a jeté l'éponge. || 失败三次后，他认输了。
+C'est l'arbre qui cache la forêt. | 一叶障目 | neutre | Un détail qui empêche de voir un problème plus grand. | Ce bon résultat, c'est l'arbre qui cache la forêt. || 这个好结果不过是一叶障目。
+Avoir maille à partir avec qqn | 与某人有纠纷 | soutenu | Avoir un conflit avec quelqu'un. | Il a eu maille à partir avec son propriétaire. || 他和房东起了纠纷。
+Ne pas faire long feu | 没维持多久 | soutenu | = ne pas durer longtemps. ⚠ À l'origine, *faire long feu* voulait dire « rater » (un coup de fusil qui part trop lentement) ; le sens est souvent mal compris, même par des natifs. | Ce projet n'a pas fait long feu. || 这个项目没维持多久。
+Battre le fer pendant qu'il est chaud | 趁热打铁 | neutre | Agir tant que la situation est favorable. | Le client est intéressé : battons le fer pendant qu'il est chaud. || 客户有兴趣：我们趁热打铁。
+@end
+
+%% ───────── ÉDITO FINAL ─────────
+@piece edito | Et maintenant ? | 接下来呢？ | C1
+@deck Le magazine se termine. Votre français, lui, ne fait que commencer. Quelques pistes pour continuer à lire, écouter et vivre en français. || 杂志结束了。而你的法语才刚刚开始。几条继续用法语阅读、聆听和生活的路径。
+Vous avez lu treize numéros, des centaines de pages, plus de deux mille phrases alignées avec leur traduction. || 你已经读了十三期、几百页、两千多个与译文对照的句子。
+Maintenant, il faut faire le pas le plus difficile : lire sans la colonne de droite. || 现在，要迈出最难的一步了：不看右边那一栏去读。
+Commencez par des livres courts, que vous connaissez peut-être déjà dans votre langue. *Le Petit Prince*, de Saint-Exupéry. Un Maigret de Simenon, comme Lucas et Marie. || 从短小的书开始，也许是你已经读过中文版的书。圣埃克苏佩里的《小王子》。西默农的一本梅格雷探案，就像卢卡斯和玛丽那样。
+Puis montez : *L'Étranger* de Camus, les romans courts d'Amélie Nothomb, *Ru* de Kim Thúy, une Québécoise née au Vietnam qui écrit sur l'exil avec une douceur bouleversante. || 然后往上走：加缪的《局外人》，阿梅丽·诺冬的短篇小说，以及金翠的《漂》——一位生于越南的魁北克女作家，以动人心魄的温柔书写流亡。
+Écoutez la radio tous les jours, même dix minutes : Radio-Canada pour le Québec, France Culture ou France Inter pour la France. RFI propose un journal « en français facile ». || 每天听广播，哪怕只有十分钟：魁北克听加拿大广播电台，法国听法国文化电台或法国国际广播电台。法国国际广播电台还有一档“简单法语”新闻。
+Regardez des films en version originale, avec des sous-titres français, puis sans sous-titres. || 看原声电影，先配法语字幕，再去掉字幕。
+Et surtout, parlez. Avec des gens réels, qui vous corrigeront, vous comprendront mal, rieront de vos fautes et finiront par oublier que vous êtes étranger. || 最重要的是，开口说。和真实的人说，他们会纠正你，会误解你，会笑你说错的话，最后会忘记你是外国人。
+Un jour, dans un café de Paris ou de Montréal, quelqu'un fera tomber son téléphone. Vous le ramasserez. Et vous saurez exactement quoi dire. || 总有一天，在巴黎或蒙特利尔的某家咖啡馆里，有人会把手机弄掉。你会把它捡起来。而你会确切地知道该说什么。
+Bonne route. — La rédaction || 一路顺风。——编辑部
+
+@vocab
+pas | n.m. | pa | 步 | step | Faire le premier pas. | 迈出第一步。 | pas à pas · à deux pas | | 注意：*le pas*（步子）与否定词 *pas* 同形。
+exil | n.m. | ɛɡ.zil | 流亡 | exile | Vivre en exil. | 流亡生活。 | | s'exiler · un exilé |
+bouleversant | adj. | bul.vɛʁ.sɑ̃ | 震撼人心的 | deeply moving | Un témoignage bouleversant. | 一段令人震撼的讲述。 | | bouleversante (f.) · bouleverser |
+sous-titre | n.m. | su.titʁ | 字幕 | subtitle | Un film avec des sous-titres. | 一部带字幕的电影。 | | sous-titrer |
+@end
+
+@badge Passé simple || 简单过去时 || Je reconnais le passé simple dans un roman sans regarder la traduction.
+@badge Intraduisible || 不可译 || J'ai expliqué en français un mot chinois sans équivalent.
+@badge Madeleine || 玛德琳 || J'ai écrit trois phrases sur ma « madeleine de Proust ».
+@badge Sans la colonne de droite || 不看右栏 || J'ai lu une page entière de ce magazine en cachant le chinois.
+@badge Bonne route || 一路顺风 || J'ai commencé un vrai livre en français.

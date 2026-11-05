@@ -71,3 +71,10 @@
 | La mise en relief | 强调句式 | N°12 |  |
 | Lequel, auquel, duquel | 复合关系代词 | N°12 |  |
 | Les registres de langue | 语域 | N°12 |  |
+
+## C1
+
+| Topic | 中文 | Issue | Page |
+|---|---|---|---:|
+| Reconnaître le passé simple | 识别简单过去时 | N°13 |  |
+| La nominalisation | 名词化 | N°13 |  |

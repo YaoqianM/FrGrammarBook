@@ -177,3 +177,12 @@
 | 12 | POÉSIE & LITTÉRATURE | Ce qui reste | 留下来的 | B2 |  |
 | 12 | BELLES PHRASES | Porter un toast, remercier, dire au revoir | 祝酒、致谢、告别 | B2 |  |
 | 12 | EXPRESSIONS & CONVERSATION | Une idée, quatre registres | 一个意思，四种语域 | B2 |  |
+| 13 | ÉDITO | Au-delà du B2 | 超越 B2 | C1 |  |
+| 13 | HISTOIRES | La traductrice et le mot intraduisible | 女译者与不可译之词 | C1 |  |
+| 13 | IDÉES QUI DÉRANGENT | Éloge de la lenteur | 慢的赞歌 | C1 |  |
+| 13 | SCIENCE & MONDE MODERNE | Qui est l'auteur ? L'intelligence artificielle et la création | 谁是作者？人工智能与创作 | C1 |  |
+| 13 | LE DÉBAT | Faut-il défendre le français ? | 需要捍卫法语吗？ | C1 |  |
+| 13 | POÉSIE & LITTÉRATURE | La madeleine de Proust | 普鲁斯特的玛德琳蛋糕 | C1 |  |
+| 13 | BELLES PHRASES | Les connecteurs du C1 | C1 级连接词 | C1 |  |
+| 13 | EXPRESSIONS & CONVERSATION | Douze expressions pour briller à l'écrit comme à l'oral | 十二个让你书面和口头都出彩的表达 | C1 |  |
+| 13 | ÉDITO | Et maintenant ? | 接下来呢？ | C1 |  |

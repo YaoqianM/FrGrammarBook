@@ -142,7 +142,7 @@
 | terrasse | n.f. | 露天座 | terrace, outdoor seating | A1 | 40 |
 | tout bas | loc. adv. | 小声地 | in a low voice | A1 | 128 |
 
-## culture (382)
+## culture (432)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
@@ -151,16 +151,22 @@
 | à l'envers | loc. adv. | 反过来；颠倒 | upside down; inside out; backwards | A2 | 219 |
 | à loisir | loc. adv. | 尽情地；从容地 | at leisure | B1 |  |
 | abonné | n.m. | 订阅者；粉丝 | subscriber, follower | A1 | 100 |
+| accéder à | v. | 进入；获得 | to access | C1 |  |
 | accompagner | v. | 陪同；伴奏 | to accompany | A2 | 211 |
 | accrocher | v. | 挂；吸引 | to hang; to hook | A2 | 211 |
+| accueillir | v. | 接纳；迎接 | to welcome | C1 |  |
 | actuellement | adv. | 目前；现在 | currently | A2 | 192 |
 | adieu | interj. / n.m. | 永别 | farewell | B2 |  |
+| s'affaiblir | v. pron. | 减弱 | to weaken | C1 |  |
+| affichage | n.m. | 张贴；标牌 | signage, display | C1 |  |
+| affinité | n.f. | 亲和力；投合 | affinity | C1 |  |
 | s'agir de | v. pron. | 涉及；关乎 | to be about | B2 |  |
 | ailleurs | adv. | 别处 | elsewhere | A1 | 61 |
 | aise | n.f. | 自在；高兴 | ease | B1 |  |
 | algue | n.f. | 海藻 | seaweed | A2 | 307 |
 | allocations chômage | n.f.pl. | 失业救济金 | unemployment benefit | B1 |  |
 | amitié | n.f. | 友谊 | friendship | A1 | 65 |
+| s'amollir | v. pron. | 变软 | to soften | C1 |  |
 | animer | v. | 主持；使活跃 | to host; to liven up | A1 | 99 |
 | annoncer | v. | 宣布 | to announce | A2 | 249 |
 | antisémite | adj. | 反犹的 | antisemitic | B2 |  |
@@ -197,6 +203,8 @@
 | boulangère | n.f. | 面包店老板娘；面包师（女） | baker (woman) | A1 | 69 |
 | bouquet | n.m. | 花束 | bouquet | B1 |  |
 | brouillé | adj. | 模糊的；闹翻的 | blurred; on bad terms | B1 |  |
+| brouillon | n.m. | 草稿 | draft | C1 |  |
+| brusquement | adv. | 突然地 | abruptly | C1 |  |
 | cabine | n.f. | 小间；放映室 | booth, cabin | B2 |  |
 | cacher | v. | 藏；隐瞒 | to hide | A2 | 282 |
 | cagnotte | n.f. | 凑份子的钱；奖金池 | kitty, collection | B2 |  |
@@ -222,6 +230,7 @@
 | chute | n.f. | 坠落；（故事）结尾 | fall; punchline | B1 |  |
 | cigale | n.f. | 蝉 | cicada | B1 |  |
 | cité | n.f. | （城郊）住宅区；城市 | housing estate; city | B1 |  |
+| clavier | n.m. | 键盘 | keyboard | C1 |  |
 | clore | v. | 结束；关闭 | to close, to conclude | B2 |  |
 | coexister | v. | 共存 | to coexist | B2 |  |
 | se cogner | v. pron. | 撞到 | to bump (into) | A1 | 95 |
@@ -232,7 +241,10 @@
 | condamnable | adj. | 应受谴责的 | reprehensible | B2 |  |
 | conjuguer | v. | 动词变位；结合 | to conjugate; to combine | A1 | 144 |
 | conservateur | n.m. / adj. | 防腐剂；保守的 | preservative; conservative | A2 | 191 |
+| consigne | n.f. | 指令；规定；寄存处 | instruction; left-luggage | C1 |  |
 | conteur | n.m. | 讲故事的人 | storyteller | A2 | 211 |
+| continent | n.m. | 大陆；洲 | continent | C1 |  |
+| contribution | n.f. | 贡献；税款 | contribution | C1 |  |
 | contrôleur | n.m. | 查票员；检查员 | ticket inspector | A2 | 211 |
 | copier | v. | 复制；抄袭 | to copy | A1 | 60 |
 | coquillage | n.m. | 贝壳 | shell | A2 | 307 |
@@ -240,8 +252,10 @@
 | courbé | adj. | 弯曲的 | bent, stooped | B1 |  |
 | courir | v. | 跑 | to run | A1 | 144 |
 | crevé | adj. | 累坏了的（口语）；破了的 | knackered (fam.); punctured | B2 |  |
+| crispation | n.f. | 紧张；僵化 | tension, rigidity | C1 |  |
 | croûte | n.f. | 外壳；面包皮 | crust | B2 |  |
 | cueillir | v. | 采摘 | to pick, to gather | B2 |  |
+| cuillerée | n.f. | 一勺 | spoonful | C1 |  |
 | d'accord | loc. | 同意的 | agreed, in agreement | A1 | 95 |
 | de standing | loc. adj. | 高档的 | upmarket, luxury | B2 |  |
 | débuts | n.m.pl. | 起步；开端 | beginnings, debut | B2 |  |
@@ -265,18 +279,22 @@
 | d'origine | loc. | 出身于；……裔 | of … origin | B1 |  |
 | douceur | n.f. | 温柔；甜美 | sweetness, gentleness | B1 |  |
 | doué | adj. | 有天赋的 | gifted, talented | B2 |  |
+| droit d'auteur | n.m. | 著作权 | copyright | C1 |  |
 | dur | adj. | 硬的；难的；严厉的 | hard; tough | A1 | 100 |
 | écriture | n.f. | 笔迹；书写 | handwriting; writing | A2 | 281 |
 | égoïste | adj. | 自私的 | selfish | B1 |  |
 | émeute | n.f. | 骚乱 | riot | B1 |  |
 | émission | n.f. | （电视、广播）节目；排放 | (TV/radio) show; emission | A1 | 99 |
 | emporter | v. | 带走 | to take away | B2 |  |
+| empreinte | n.f. | 印记；指纹；足迹 | imprint, mark | C1 |  |
 | en arrière | loc. adv. | 向后；往回 | backwards | A2 | 297 |
 | en réalité | loc. adv. | 实际上 | in reality | B1 |  |
+| encadrer | v. | 规范；装框；指导 | to regulate; to frame; to supervise | C1 |  |
 | enceinte | adj.f. | 怀孕的 | pregnant | A2 | 191 |
 | encre | n.f. | 墨水 | ink | B2 |  |
 | endormir | v. | 使入睡 | to send to sleep | B2 |  |
 | enfermer | v. | 关起来；困住 | to lock up, to confine | B2 |  |
+| envahir | v. | 侵入；充满 | to invade, to flood | C1 |  |
 | enveloppe | n.f. | 信封；预算额度 | envelope | A2 | 281 |
 | épreuve | n.f. | 考验；考试科目 | ordeal; test (exam) | A2 | 264 |
 | l'essentiel | n.m. | 最重要的东西 | the essential, the main thing | A1 | 114 |
@@ -301,9 +319,13 @@
 | feuille | n.f. | 纸张；叶子 | sheet (of paper); leaf | B2 |  |
 | feutre | n.m. | 记号笔；毛毡 | felt-tip pen | B1 |  |
 | fil rouge | n.m. | 主线；贯穿线索 | common thread | B2 |  |
+| file d'attente | n.f. | 队伍 | queue, line | C1 |  |
 | fils | n.m. | 儿子 | son | A1 | 44 |
 | finir par | loc. v. | 最终…… | to end up (doing) | B1 |  |
+| se flatter de | v. pron. | 以……自诩 | to pride oneself on | C1 |  |
 | flotter | v. | 漂浮 | to float | B2 |  |
+| flou | adj. | 模糊的 | blurred, vague | C1 |  |
+| folklore | n.m. | 民俗 | folklore | C1 |  |
 | foncé | adj. | 深色的 | dark (colour) | B2 |  |
 | fourmi | n.f. | 蚂蚁 | ant | B1 |  |
 | fragile | adj. | 易碎的；脆弱的 | fragile | A2 | 281 |
@@ -316,10 +338,14 @@
 | froncer les sourcils | loc. v. | 皱眉 | to frown | B2 |  |
 | furieux | adj. | 狂怒的 | furious | B1 |  |
 | gamin | n.m. | 小孩（口语） | kid | B2 |  |
+| génératif | adj. | 生成式的 | generative | C1 |  |
 | genou | n.m. | 膝盖 | knee | A1 | 45 |
+| gorgée | n.f. | 一口（饮料） | sip, mouthful | C1 |  |
 | gouvernement | n.m. | 政府 | government | B1 |  |
 | grain | n.m. | 颗粒；谷粒 | grain, seed | B2 |  |
 | gros mot | n.m. | 脏话 | swear word | A1 | 167 |
+| guichet | n.m. | 窗口；柜台 | ticket window, counter | C1 |  |
+| habité | adj. | 有人住的；有生气的 | inhabited; full of presence | C1 |  |
 | habitué | n.m. | 常客 | regular (customer) | B2 |  |
 | haillons | n.m.pl. | 破布；褴褛衣衫 | rags | B2 |  |
 | haine | n.f. | 仇恨 | hatred | A2 | 216 |
@@ -329,6 +355,7 @@
 | hôte | n.m./f. | 主人；（有时）客人 | host; guest | B1 |  |
 | humeur | n.f. | 心情 | mood | A2 | 264 |
 | hypocrisie | n.f. | 虚伪 | hypocrisy | B2 |  |
+| identitaire | adj. | 身份认同的 | identity-related | C1 |  |
 | impatient | adj. | 不耐烦的；迫不及待的 | impatient; eager | A2 | 191 |
 | imperméable | n.m. / adj. | 雨衣；防水的 | raincoat; waterproof | B2 |  |
 | inconnu | n.m. / adj. | 陌生人；未知的 | stranger; unknown | A1 | 61 |
@@ -336,15 +363,19 @@
 | indignation | n.f. | 愤慨 | indignation | B1 |  |
 | inépuisable | adj. | 取之不尽的 | inexhaustible | B2 |  |
 | influencer | v. | 影响 | to influence | B2 |  |
+| infusion | n.f. | 花草茶；冲泡 | herbal tea | C1 |  |
 | s'inspirer de | v. pron. | 以……为灵感 | to be inspired by | B1 |  |
 | intérêt | n.m. | 利息；兴趣；利益 | interest | B1 |  |
 | invisible | adj. | 看不见的 | invisible | A1 | 115 |
 | invité | n.m. | 客人；嘉宾 | guest | A1 | 99 |
+| involontaire | adj. | 无意识的；非自主的 | involuntary | C1 |  |
+| italique | n.m. | 斜体 | italics | C1 |  |
 | jaune | adj. | 黄色的 | yellow | A1 | 44 |
 | je n'en peux plus | loc. | 我受不了了；我吃不下了 | I can't take any more | A2 | 191 |
 | jeunesse | n.f. | 青春；年轻人 | youth | B2 |  |
 | joue | n.f. | 脸颊 | cheek | A1 | 95 |
 | jurer | v. | 发誓；骂脏话 | to swear (both senses) | A1 | 167 |
+| juridique | adj. | 法律的 | legal | C1 |  |
 | langue | n.f. | 语言；舌头 | language; tongue | A1 | 70 |
 | langueur | n.f. | 倦怠；忧郁的慵懒 | languor, listlessness | A2 | 216 |
 | largement | adv. | 大大地；广泛地 | largely, widely | B2 |  |
@@ -360,6 +391,7 @@
 | luire | v. | 发光；闪耀 | to shine, to gleam | B2 |  |
 | magasiner | v. | （魁北克）逛街购物 | (QC) to go shopping | A2 | 289 |
 | main | n.f. | 手 | hand | A1 | 144 |
+| maison d'édition | n.f. | 出版社 | publishing house | C1 |  |
 | maître de cérémonie | n.m. | 司仪 | master of ceremonies | B2 |  |
 | maîtresse | n.f. | （小学）女老师；情妇 | (primary school) teacher; mistress | A1 | 144 |
 | maîtriser | v. | 掌握 | to master | B2 |  |
@@ -368,6 +400,7 @@
 | malentendu | n.m. | 误会 | misunderstanding | B1 |  |
 | malin | adj. | 聪明的；狡猾的 | clever, smart | A2 | 249 |
 | manie | n.f. | 怪癖；癖好 | habit, quirk | B2 |  |
+| manuscrit | n.m. | 手稿；书稿 | manuscript | C1 |  |
 | marâtre | n.f. | 后母（贬义） | cruel stepmother | B2 |  |
 | marée | n.f. | 潮汐 | tide | A2 | 307 |
 | marié | adj. | 已婚的 | married | A1 | 100 |
@@ -385,16 +418,20 @@
 | mouiller | v. | 弄湿 | to wet | A2 | 249 |
 | mourir | v. | 死 | to die | A1 | 44 |
 | mystérieux | adj. | 神秘的 | mysterious | B1 |  |
+| néanmoins | adv. | 然而；尽管如此 | nevertheless | C1 |  |
 | neutre | adj. | 中立的；中性的 | neutral | B2 |  |
 | nez | n.m. | 鼻子 | nose | A1 | 96 |
 | noyé | adj. | 溺水的 | drowned | B1 |  |
 | numérique | adj. / n.m. | 数字的 | digital | B2 |  |
 | nuque | n.f. | 后颈 | nape (of the neck) | B2 |  |
+| or | conj. | 然而；可是 | now, yet | C1 |  |
 | s'ouvrir | v. pron. | 打开；敞开 | to open | A1 | 116 |
+| palais | n.m. | 上颚；宫殿 | palate; palace | C1 |  |
 | par procuration | loc. adv. | 通过他人；委托 | vicariously; by proxy | B2 |  |
 | paralysé | adj. | 瘫痪的 | paralysed | B1 |  |
 | parapente | n.m. | 滑翔伞 | paragliding | B1 |  |
 | pareil | adj. | 一样的 | the same, similar | B1 |  |
+| partition | n.f. | 乐谱 | (musical) score | C1 |  |
 | partout | adv. | 到处 | everywhere | A1 | 44 |
 | peau | n.f. | 皮肤 | skin | A1 | 95 |
 | pêcheur | n.m. | 渔夫 | fisherman | A2 | 307 |
@@ -428,12 +465,14 @@
 | pot de départ | n.m. | 告别酒会 | leaving drinks | B2 |  |
 | pote | n.m./f. | 哥们；朋友 | mate, buddy | A2 | 219 |
 | pourpre | n.m. / adj. | 紫红色 | crimson, purple | B2 |  |
+| prédestiné | adj. | 命中注定的 | predestined | C1 |  |
 | prendre congé | loc. v. | 告辞 | to take one's leave | B2 |  |
 | préservatif | n.m. | 避孕套 | condom | A2 | 191 |
 | prestige | n.m. | 声望 | prestige | B2 |  |
 | prix | n.m. | 价格；奖 | price; prize | A1 | 69 |
 | promettre | v. | 承诺 | to promise | A2 | 307 |
 | promoteur | n.m. | 房地产开发商 | property developer | B2 |  |
+| protégeable | adj. | 可受保护的 | protectable | C1 |  |
 | public | n.m. / adj. | 观众；公众；公共的 | audience; public | A1 | 100 |
 | publier | v. | 出版；发布 | to publish; to post | A1 | 114 |
 | quotidien | n.m. / adj. | 日报；日常的 | daily newspaper; daily | B2 |  |
@@ -453,9 +492,11 @@
 | refrain | n.m. | 副歌；老调 | chorus, refrain | B2 |  |
 | région | n.f. | 地区；大区 | region | A1 | 95 |
 | regretter | v. | 后悔；遗憾；想念 | to regret; to miss | A1 | 100 |
+| rémunération | n.f. | 报酬 | remuneration, pay | C1 |  |
 | renard | n.m. | 狐狸 | fox | A1 | 114 |
 | rénover | v. | 翻新；整修 | to renovate | A2 | 281 |
 | rentrer | v. | 回家；回来 | to go/come home | A1 | 144 |
+| renverser | v. | 扭转；推翻；打翻 | to reverse; to overturn; to spill | C1 |  |
 | réponse | n.f. | 回答；答复 | answer, reply | A1 | 144 |
 | reprendre | v. | 再拿；恢复；重新开始 | to take more; to resume | B1 |  |
 | reprise | n.f. | 重映；恢复；翻唱 | revival; resumption | B2 |  |
@@ -472,6 +513,8 @@
 | russophone | adj. / n. | 说俄语的（人） | Russian-speaking | B2 |  |
 | sable | n.m. | 沙 | sand | A2 | 307 |
 | saluer | v. | 致意；鞠躬；问候 | to greet; to bow | B1 |  |
+| sans complexe | loc. adv. | 理直气壮地 | unashamedly | C1 |  |
+| saveur | n.f. | 味道 | flavour | C1 |  |
 | savoir | v. | 知道；会 | to know (a fact); to know how | A1 | 70 |
 | second degré | n.m. | 言外之意；反话 | irony, tongue-in-cheek | A2 | 249 |
 | sembler | v. | 似乎；看起来 | to seem | A1 | 61 |
@@ -482,6 +525,7 @@
 | simplifier | v. | 简化 | to simplify | B1 |  |
 | sinophone | adj. / n. | 说汉语的（人） | Chinese-speaking | B2 |  |
 | sol | n.m. | 地面；土地 | ground, floor | B1 |  |
+| solennel | adj. | 庄严的 | solemn | C1 |  |
 | sombre | adj. | 阴暗的 | dark, gloomy | A2 | 281 |
 | somme | n.m. / n.f. | 小睡（阳）；金额（阴） | nap (m.); sum (f.) | B2 |  |
 | songer | v. | 想；梦想（书面） | to think of; to dream | B1 |  |
@@ -497,9 +541,12 @@
 | surlendemain | n.m. | 第三天；后天 | two days later | B2 |  |
 | tandis que | conj. | 当……时；而 | while, whereas | B2 |  |
 | teint | n.m. | 肤色；气色 | complexion | B2 |  |
+| tel quel | loc. adj. | 原封不动 | as it is | C1 |  |
 | tendre | v. | 伸出；递给 | to hold out | A1 | 95 |
+| tentant | adj. | 诱人的 | tempting | C1 |  |
 | ternir | v. | 使失去光泽 | to tarnish | B2 |  |
 | tête | n.f. | 头 | head | A1 | 44 |
+| tilleul | n.m. | 椴树；椴花茶 | lime blossom (tea) | C1 |  |
 | toit | n.m. | 屋顶 | roof | A2 | 216 |
 | tombe | n.f. | 坟墓 | grave, tomb | B1 |  |
 | ton | n.m. | 语气；音调 | tone | A2 | 249 |
@@ -511,11 +558,14 @@
 | trahison | n.f. | 背叛 | betrayal | A2 | 216 |
 | traître | adj. / n. | 背叛的；叛徒 | treacherous; traitor | B1 |  |
 | tranquille | adj. | 安静的；平静的 | quiet, calm | A2 | 211 |
+| tremper | v. | 浸泡 | to dip, to soak | C1 |  |
+| tribunal | n.m. | 法院 | court | C1 |  |
 | tuque | n.f. | （魁北克）毛线帽 | (QC) knitted winter hat | A2 | 289 |
 | l'un pour l'autre | loc. | 彼此为对方 | for each other | A1 | 114 |
 | unique | adj. | 唯一的；独一无二的 | unique; only | A1 | 114 |
 | universel | adj. | 普遍的 | universal | B1 |  |
 | utile | adj. | 有用的 | useful | A1 | 65 |
+| veiller à | v. | 注意；确保 | to see to, to ensure | C1 |  |
 | ventre | n.m. | 肚子 | belly, stomach | A1 | 45 |
 | verdure | n.f. | 绿色植物；草木 | greenery | B2 |  |
 | vérité | n.f. | 真相；真话 | truth | A1 | 100 |
@@ -571,15 +621,17 @@
 | vache | n.f. | 母牛 | cow | A2 | 291 |
 | vaisseau | n.m. | 飞船；船舰；血管 | vessel; spaceship | B1 |  |
 
-## immigration (188)
+## immigration (199)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
 | à ma place | loc. | 代替我 | in my place, for me | B2 |  |
 | à peine | loc. adv. | 几乎不；刚刚 | barely, hardly | B1 |  |
 | à ses dépens | loc. adv. | 吃了亏才…… | at one's own expense | B2 |  |
+| accéder à | v. | 进入；获得 | to access | C1 |  |
 | accent | n.m. | 口音；重音符号 | accent | B1 |  |
 | administration fiscale | n.f. | 税务机关 | tax authority | B2 |  |
+| affichage | n.m. | 张贴；标牌 | signage, display | C1 |  |
 | affronter | v. | 面对；对抗 | to face, to confront | B2 |  |
 | amende | n.f. | 罚款 | fine | B1 |  |
 | amener | v. | 带来（人）；引起 | to bring (someone); to lead to | A2 | 284 |
@@ -615,11 +667,13 @@
 | conflit | n.m. | 冲突 | conflict | A2 | 306 |
 | conseiller | n.m. | 顾问；客户经理 | adviser | A2 | 242 |
 | conte | n.m. | 故事；童话 | tale | B2 |  |
+| continent | n.m. | 大陆；洲 | continent | C1 |  |
 | convention | n.f. | 协定；惯例 | agreement, convention | B2 |  |
 | convoquer | v. | 召集；传唤 | to summon, to call in | B2 |  |
 | courir après | loc. v. | 追逐 | to run after, to chase | B2 |  |
 | créatif | adj. | 有创造力的 | creative | A1 | 137 |
 | crédit d'impôt | n.m. | 税收抵免 | tax credit | B2 |  |
+| crispation | n.f. | 紧张；僵化 | tension, rigidity | C1 |  |
 | critiquer | v. | 批评 | to criticize | A2 | 239 |
 | croiser | v. | 偶遇；交叉 | to run into; to cross | B2 |  |
 | cuisiner | v. | 做饭 | to cook | A1 | 137 |
@@ -643,6 +697,7 @@
 | en grande partie | loc. adv. | 在很大程度上 | largely | B2 |  |
 | s'en vouloir | v. pron. | 自责 | to blame oneself | B1 |  |
 | en vouloir à qqn | loc. v. | 怨恨某人；生某人的气 | to hold a grudge against | B1 |  |
+| encadrer | v. | 规范；装框；指导 | to regulate; to frame; to supervise | C1 |  |
 | entente | n.f. | 协议；默契 | agreement; understanding | B1 |  |
 | envisager | v. | 考虑；设想 | to consider, to envisage | B2 |  |
 | épargne | n.f. | 储蓄 | savings | A2 | 242 |
@@ -659,6 +714,7 @@
 | fédéral | adj. | 联邦的 | federal | B2 |  |
 | fiche de paie | n.f. | 工资单 | payslip | A2 | 188 |
 | financier | adj. | 财务的；金融的 | financial | B2 |  |
+| folklore | n.m. | 民俗 | folklore | C1 |  |
 | formulaire | n.m. | 表格 | form | B2 |  |
 | fourchette | n.f. | 叉子；（数值）区间 | fork; range | A2 | 239 |
 | francisation | n.f. | 法语化；法语融入 | francization | B2 |  |
@@ -672,6 +728,7 @@
 | guirlande | n.f. | 彩带；彩灯串 | garland, string of lights | B1 |  |
 | historique | n.m. / adj. | 记录；历史的 | history (record); historic | A2 | 243 |
 | hocher la tête | loc. v. | 点头 | to nod | B1 |  |
+| identitaire | adj. | 身份认同的 | identity-related | C1 |  |
 | illusion | n.f. | 幻想；错觉 | illusion | A2 | 306 |
 | immigrant | n.m. | 移民（入境者） | immigrant | B1 |  |
 | imposé | adj. | 被征税的；强加的 | taxed; imposed | B2 |  |
@@ -694,6 +751,7 @@
 | motoneige | n.f. | 雪地摩托 | snowmobile | B2 |  |
 | murmurer | v. | 低语 | to murmur, to whisper | B1 |  |
 | nationalité | n.f. | 国籍 | nationality | A1 | 136 |
+| néanmoins | adv. | 然而；尽管如此 | nevertheless | C1 |  |
 | nostalgie | n.f. | 乡愁；怀旧 | nostalgia | A2 | 299 |
 | nouvel arrivant | n.m. | 新来者；新移民 | newcomer | B2 |  |
 | offre | n.f. | 工作机会；报价；供给 | offer | B1 |  |
@@ -728,6 +786,7 @@
 | remboursement | n.m. | 退款；报销 | refund, reimbursement | B2 |  |
 | rembourser | v. | 报销；还钱 | to reimburse; to pay back | A2 | 285 |
 | remettre | v. | 重新戴上；交给；推迟 | to put back on; to hand in; to postpone | B2 |  |
+| renverser | v. | 扭转；推翻；打翻 | to reverse; to overturn; to spill | C1 |  |
 | reposant | adj. | 令人放松的 | restful, relaxing | B2 |  |
 | réseautage | n.m. | 人脉拓展（魁北克） | networking | B2 |  |
 | résidence | n.f. | 居住；住所 | residence | B1 |  |
@@ -736,6 +795,7 @@
 | retour | n.m. | 归来；返回 | return | A2 | 299 |
 | saison | n.f. | 季节 | season | B1 |  |
 | salon | n.m. | 客厅；展会 | living room; trade fair | A2 | 187 |
+| sans complexe | loc. adv. | 理直气壮地 | unashamedly | C1 |  |
 | secteur | n.m. | 行业；领域 | sector | B2 |  |
 | sens | n.m. | 意义；方向；感官 | meaning; direction; sense | A2 | 299 |
 | se serrer | v. pron. | 收紧；挤在一起 | to tighten | B1 |  |
@@ -760,11 +820,12 @@
 | typique | adj. | 典型的 | typical | A2 | 239 |
 | valise | n.f. | 行李箱 | suitcase | A2 | 306 |
 | valorisé | adj. | 受重视的 | valued | B2 |  |
+| veiller à | v. | 注意；确保 | to see to, to ensure | C1 |  |
 | vitre | n.f. | 玻璃窗 | window pane | B1 |  |
 | vitrine | n.f. | 橱窗 | shop window | B1 |  |
 | vocation | n.f. | 天职；志向 | calling, vocation | B2 |  |
 
-## justice (35)
+## justice (48)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
@@ -781,101 +842,154 @@
 | combattre | v. | 与……斗争 | to fight | B2 |  |
 | commettre | v. | 犯（错误、罪行） | to commit | B2 |  |
 | condamnable | adj. | 应受谴责的 | reprehensible | B2 |  |
+| consigne | n.f. | 指令；规定；寄存处 | instruction; left-luggage | C1 |  |
+| contribution | n.f. | 贡献；税款 | contribution | C1 |  |
 | dispute | n.f. | 争吵 | argument, quarrel | A2 | 214 |
+| droit d'auteur | n.m. | 著作权 | copyright | C1 |  |
 | s'écraser | v. pron. | 撞毁；坠毁 | to crash | A2 | 213 |
 | élevé | adj. | 高的（数值） | high | A2 | 214 |
 | empêcher | v. | 阻止 | to prevent | B2 |  |
+| empreinte | n.f. | 印记；指纹；足迹 | imprint, mark | C1 |  |
 | exécuter | v. | 处决；执行 | to execute; to carry out | B2 |  |
 | fanatisme | n.m. | 狂热；盲信 | fanaticism | B2 |  |
+| flou | adj. | 模糊的 | blurred, vague | C1 |  |
+| génératif | adj. | 生成式的 | generative | C1 |  |
 | innocence | n.f. | 无罪；天真 | innocence | B2 |  |
 | intolérance | n.f. | 不宽容；不耐受 | intolerance | B2 |  |
+| juridique | adj. | 法律的 | legal | C1 |  |
+| maison d'édition | n.f. | 出版社 | publishing house | C1 |  |
 | majeur | adj. | 主要的；重大的；成年的 | major; of age | B2 |  |
 | modifier | v. | 修改 | to modify | A2 | 214 |
 | naufrage | n.m. | 海难 | shipwreck | B2 |  |
+| or | conj. | 然而；可是 | now, yet | C1 |  |
 | prestige | n.m. | 声望 | prestige | B2 |  |
+| protégeable | adj. | 可受保护的 | protectable | C1 |  |
 | protestant | adj. / n. | 新教的；新教徒 | Protestant | B2 |  |
 | rayonnage | n.m. | 书架 | shelving | B2 |  |
 | réalisateur | n.m. | 导演 | film director | B2 |  |
 | reconstruire | v. | 重建 | to rebuild | A2 | 214 |
 | réhabiliter | v. | 平反；修复 | to rehabilitate; to restore | B2 |  |
+| rémunération | n.f. | 报酬 | remuneration, pay | C1 |  |
 | souvenir | n.m. | 回忆；纪念品 | memory; souvenir | A2 | 213 |
 | témoin oculaire | n.m. | 目击证人 | eyewitness | A2 | 214 |
+| tentant | adj. | 诱人的 | tempting | C1 |  |
+| tribunal | n.m. | 法院 | court | C1 |  |
 | verre | n.m. | 玻璃；杯子 | glass | A2 | 214 |
 | victime | n.f. | 受害者 | victim | B2 |  |
 | vitesse | n.f. | 速度 | speed | A2 | 213 |
 
-## littérature (71)
+## littérature (111)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
 | à loisir | loc. adv. | 尽情地；从容地 | at leisure | B1 |  |
 | absurde | adj. / n.m. | 荒诞的；荒诞 | absurd; the absurd | B2 |  |
+| accueillir | v. | 接纳；迎接 | to welcome | C1 |  |
+| s'affaiblir | v. pron. | 减弱 | to weaken | C1 |  |
+| affinité | n.f. | 亲和力；投合 | affinity | C1 |  |
 | aise | n.f. | 自在；高兴 | ease | B1 |  |
+| s'amollir | v. pron. | 变软 | to soften | C1 |  |
+| au tournant de | loc. prép. | 在……之交 | at the turn of | C1 |  |
 | aube | n.f. | 黎明 | dawn | B1 |  |
+| aveuglement | n.m. | 盲目 | blindness (moral) | C1 |  |
+| banal | adj. | 平庸的；老生常谈的 | trite, commonplace | C1 |  |
 | bercer | v. | 摇（摇篮） | to rock, to lull | B2 |  |
 | blanchir | v. | 变白；漂白 | to whiten, to turn white | B1 |  |
 | bouquet | n.m. | 花束 | bouquet | B1 |  |
 | brouillé | adj. | 模糊的；闹翻的 | blurred; on bad terms | B1 |  |
+| brouillon | n.m. | 草稿 | draft | C1 |  |
+| brusquement | adv. | 突然地 | abruptly | C1 |  |
 | chant | n.m. | 歌声；歌唱 | song, singing | A2 | 216 |
 | charme | n.m. | 魅力 | charm | B1 |  |
 | cigale | n.f. | 蝉 | cicada | B1 |  |
+| clavier | n.m. | 键盘 | keyboard | C1 |  |
 | clore | v. | 结束；关闭 | to close, to conclude | B2 |  |
 | courbé | adj. | 弯曲的 | bent, stooped | B1 |  |
 | cueillir | v. | 采摘 | to pick, to gather | B2 |  |
+| cuillerée | n.f. | 一勺 | spoonful | C1 |  |
+| cumuler | v. | 兼任；累积 | to combine, to accumulate | C1 |  |
 | défier | v. | 挑战；违抗 | to defy, to challenge | B2 |  |
 | demeurer | v. | 停留；居住（书面） | to remain; to reside | B1 |  |
 | dénonciation | n.f. | 揭露；控诉 | denunciation | B2 |  |
+| déplorer | v. | 哀叹；遗憾 | to deplore, to lament | C1 |  |
 | dépourvu | adj. | 缺乏的；措手不及的 | lacking; caught short | B1 |  |
+| dès lors | loc. adv. | 因此；从那时起 | therefore; from then on | C1 |  |
 | désespérer | v. | 绝望 | to despair | B2 |  |
 | deuil | n.m. | 哀悼；丧事 | mourning, grief | A2 | 216 |
 | douceur | n.f. | 温柔；甜美 | sweetness, gentleness | B1 |  |
 | égoïste | adj. | 自私的 | selfish | B1 |  |
+| éloge | n.m. | 赞歌；颂扬 | praise, eulogy | C1 |  |
 | emporter | v. | 带走 | to take away | B2 |  |
+| envahir | v. | 侵入；充满 | to invade, to flood | C1 |  |
 | essai | n.m. | 随笔；尝试 | essay; attempt | B2 |  |
 | étendu | adj. | 躺着的；广阔的 | lying (down); extensive | B2 |  |
 | explicite | adj. | 明确的 | explicit | B1 |  |
 | famine | n.f. | 饥荒 | famine | B1 |  |
+| file d'attente | n.f. | 队伍 | queue, line | C1 |  |
+| se flatter de | v. pron. | 以……自诩 | to pride oneself on | C1 |  |
+| force est de constater | loc. | 不得不承认 | one has to admit | C1 |  |
 | fourmi | n.f. | 蚂蚁 | ant | B1 |  |
 | frissonner | v. | 颤抖 | to shiver | B2 |  |
+| gorgée | n.f. | 一口（饮料） | sip, mouthful | C1 |  |
+| guichet | n.m. | 窗口；柜台 | ticket window, counter | C1 |  |
+| habité | adj. | 有人住的；有生气的 | inhabited; full of presence | C1 |  |
 | haillons | n.m.pl. | 破布；褴褛衣衫 | rags | B2 |  |
 | haine | n.f. | 仇恨 | hatred | A2 | 216 |
 | hélas | interj. | 唉；可惜 | alas, unfortunately | B2 |  |
+| il n'en demeure pas moins que | loc. | 尽管如此 | the fact remains that | C1 |  |
+| infusion | n.f. | 花草茶；冲泡 | herbal tea | C1 |  |
 | intensément | adv. | 强烈地 | intensely | B2 |  |
 | intérêt | n.m. | 利息；兴趣；利益 | interest | B1 |  |
+| involontaire | adj. | 无意识的；非自主的 | involuntary | C1 |  |
+| italique | n.m. | 斜体 | italics | C1 |  |
 | jeunesse | n.f. | 青春；年轻人 | youth | B2 |  |
 | langueur | n.f. | 倦怠；忧郁的慵懒 | languor, listlessness | A2 | 216 |
 | larme | n.f. | 眼泪 | tear | B1 |  |
 | lauréat | n.m. | 获奖者 | prizewinner, laureate | B2 |  |
+| livreur | n.m. | 送货员；外卖员 | delivery person | C1 |  |
 | luire | v. | 发光；闪耀 | to shine, to gleam | B2 |  |
 | lutte | n.f. | 斗争 | struggle | B2 |  |
+| manuscrit | n.m. | 手稿；书稿 | manuscript | C1 |  |
 | marâtre | n.f. | 后母（贬义） | cruel stepmother | B2 |  |
 | mignon | adj. | 可爱的 | cute | B2 |  |
 | moindre | adj. | 最小的；较少的 | least; lesser | B1 |  |
 | mystérieux | adj. | 神秘的 | mysterious | B1 |  |
 | mythologie | n.f. | 神话 | mythology | B2 |  |
+| ne… guère | loc. adv. | 几乎不 | hardly | C1 |  |
 | noyé | adj. | 溺水的 | drowned | B1 |  |
+| objecter | v. | 反驳 | to object | C1 |  |
+| palais | n.m. | 上颚；宫殿 | palate; palace | C1 |  |
+| partition | n.f. | 乐谱 | (musical) score | C1 |  |
 | peine | n.f. | 痛苦；悲伤；刑罚 | sorrow; penalty | A2 | 216 |
 | pénétrer | v. | 进入；渗透 | to penetrate, to enter | A2 | 216 |
 | pli | n.m. | 褶皱 | fold, crease | B2 |  |
 | poitrine | n.f. | 胸部 | chest | B2 |  |
 | pourpre | n.m. / adj. | 紫红色 | crimson, purple | B2 |  |
+| prédestiné | adj. | 命中注定的 | predestined | C1 |  |
+| prôner | v. | 提倡；鼓吹 | to advocate | C1 |  |
 | punir | v. | 惩罚 | to punish | B2 |  |
 | raison | n.f. | 理由；道理 | reason | A2 | 216 |
 | rayon | n.m. | 光线；货架；半径 | ray; shelf; radius | B2 |  |
 | refrain | n.m. | 副歌；老调 | chorus, refrain | B2 |  |
 | se réfugier | v. pron. | 躲进；避难 | to take refuge | B2 |  |
+| relever de | v. | 属于；涉及 | to fall under, to be a matter of | C1 |  |
 | révolte | n.f. | 反抗 | revolt | B2 |  |
+| saveur | n.f. | 味道 | flavour | C1 |  |
+| solennel | adj. | 庄严的 | solemn | C1 |  |
 | somme | n.m. / n.f. | 小睡（阳）；金额（阴） | nap (m.); sum (f.) | B2 |  |
 | sommet | n.m. | 山顶；峰会 | summit, top | B2 |  |
 | songer | v. | 想；梦想（书面） | to think of; to dream | B1 |  |
 | subsister | v. | 维持生计；继续存在 | to subsist; to remain | B1 |  |
 | tandis que | conj. | 当……时；而 | while, whereas | B2 |  |
 | teint | n.m. | 肤色；气色 | complexion | B2 |  |
+| tel quel | loc. adj. | 原封不动 | as it is | C1 |  |
 | ternir | v. | 使失去光泽 | to tarnish | B2 |  |
+| tilleul | n.m. | 椴树；椴花茶 | lime blossom (tea) | C1 |  |
 | toit | n.m. | 屋顶 | roof | A2 | 216 |
 | tombe | n.f. | 坟墓 | grave, tomb | B1 |  |
 | trahison | n.f. | 背叛 | betrayal | A2 | 216 |
 | traître | adj. / n. | 背叛的；叛徒 | treacherous; traitor | B1 |  |
+| tremper | v. | 浸泡 | to dip, to soak | C1 |  |
 | verdure | n.f. | 绿色植物；草木 | greenery | B2 |  |
 | voile | n.f. | 帆 | sail | B1 |  |
 | volupté | n.f. | 欢愉；感官享受 | sensual pleasure | B1 |  |
@@ -1043,7 +1157,7 @@
 | vérité | n.f. | 真相；真话 | truth | A1 | 100 |
 | volant | adj. / n.m. | 飞行的；方向盘 | flying; steering wheel | B1 |  |
 
-## philosophie (130)
+## philosophie (144)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
@@ -1058,9 +1172,12 @@
 | amitié | n.f. | 友谊 | friendship | A1 | 65 |
 | apprivoiser | v. | 驯养；使亲近 | to tame | A1 | 114 |
 | attente | n.f. | 等待；期待 | wait; expectation | B1 |  |
+| au tournant de | loc. prép. | 在……之交 | at the turn of | C1 |  |
 | auberge | n.f. | 客栈；旅馆 | inn | A2 | 301 |
 | authentique | adj. | 真实的；正宗的 | authentic, genuine | B2 |  |
+| aveuglement | n.m. | 盲目 | blindness (moral) | C1 |  |
 | avoir l'impression | loc. v. | 觉得；有……的感觉 | to have the feeling | A2 | 205 |
+| banal | adj. | 平庸的；老生常谈的 | trite, commonplace | C1 |  |
 | biographe | n.m./f. | 传记作家 | biographer | B2 |  |
 | bonheur | n.m. | 幸福 | happiness | A1 | 155 |
 | brillant | adj. | 出色的；闪亮的 | brilliant; shiny | B1 |  |
@@ -1076,11 +1193,14 @@
 | contradiction | n.f. | 矛盾 | contradiction | A2 | 205 |
 | contresens | n.m. | 误解；曲解 | misinterpretation | B1 |  |
 | cruel | adj. | 残忍的 | cruel | A2 | 260 |
+| cumuler | v. | 兼任；累积 | to combine, to accumulate | C1 |  |
 | défavorisé | adj. | 弱势的；贫困的 | disadvantaged | B1 |  |
 | défier | v. | 挑战；违抗 | to defy, to challenge | B2 |  |
 | dépaysé | adj. | 身处异乡感到陌生的 | out of one's element, disoriented | A2 | 301 |
 | dépendre de | v. | 取决于；依赖 | to depend on | A2 | 260 |
+| déplorer | v. | 哀叹；遗憾 | to deplore, to lament | C1 |  |
 | déprimé | adj. | 抑郁的 | depressed | B2 |  |
+| dès lors | loc. adv. | 因此；从那时起 | therefore; from then on | C1 |  |
 | désespérer | v. | 绝望 | to despair | B2 |  |
 | désir | n.m. | 欲望；愿望 | desire | A1 | 156 |
 | détourner | v. | 使转向；转移 | to divert, to turn away | B2 |  |
@@ -1088,6 +1208,7 @@
 | divertissement | n.m. | 娱乐；消遣 | entertainment, diversion | B2 |  |
 | douleur | n.f. | 疼痛；痛苦 | pain | A1 | 155 |
 | élève | n.m./f. | 学生（中小学）；门生 | pupil; disciple | A2 | 205 |
+| éloge | n.m. | 赞歌；颂扬 | praise, eulogy | C1 |  |
 | empêcher | v. | 阻止 | to prevent | B2 |  |
 | enquête | n.f. | 调查 | investigation; survey | A2 | 205 |
 | esclave | n.m./f. | 奴隶 | slave | A2 | 260 |
@@ -1100,6 +1221,7 @@
 | expérience de pensée | n.f. | 思想实验 | thought experiment | B1 |  |
 | explication | n.f. | 解释 | explanation | A1 | 66 |
 | fanatisme | n.m. | 狂热；盲信 | fanaticism | B2 |  |
+| force est de constater | loc. | 不得不承认 | one has to admit | C1 |  |
 | fragment | n.m. | 片段；残篇 | fragment | B2 |  |
 | gaspiller | v. | 浪费 | to waste | B2 |  |
 | génial | adj. | 天才的；棒极了 | brilliant, genius; great | B2 |  |
@@ -1107,6 +1229,7 @@
 | gloire | n.f. | 荣耀；名声 | glory, fame | A1 | 156 |
 | handicapé | adj. / n. | 残疾的 | disabled | B1 |  |
 | ignorance | n.f. | 无知 | ignorance | B1 |  |
+| il n'en demeure pas moins que | loc. | 尽管如此 | the fact remains that | C1 |  |
 | impôt | n.m. | 税 | tax | B1 |  |
 | indépendant | adj. | 独立的 | independent | B1 |  |
 | inégalité | n.f. | 不平等 | inequality | B1 |  |
@@ -1123,6 +1246,7 @@
 | lauréat | n.m. | 获奖者 | prizewinner, laureate | B2 |  |
 | libérer | v. | 释放 | to free, to release | A2 | 260 |
 | lièvre | n.m. | 野兔 | hare | B2 |  |
+| livreur | n.m. | 送货员；外卖员 | delivery person | C1 |  |
 | lutte | n.f. | 斗争 | struggle | B2 |  |
 | malheur | n.m. | 不幸 | misfortune | A2 | 261 |
 | mauvaise foi | n.f. | 自欺；不诚实 | bad faith | B1 |  |
@@ -1133,7 +1257,9 @@
 | nature | n.f. | 天性；自然 | nature | B1 |  |
 | naturel | adj. | 自然的 | natural | A1 | 156 |
 | naufrage | n.m. | 海难 | shipwreck | B2 |  |
+| ne… guère | loc. adv. | 几乎不 | hardly | C1 |  |
 | ne pas prendre une ride | loc. v. | 毫不过时 | not to have aged a bit | B2 |  |
+| objecter | v. | 反驳 | to object | C1 |  |
 | outil | n.m. | 工具 | tool | B1 |  |
 | pacte | n.m. | 约定；协定 | pact | B1 |  |
 | peur | n.f. | 害怕 | fear | A1 | 65 |
@@ -1146,6 +1272,7 @@
 | priorité | n.f. | 优先事项 | priority | B2 |  |
 | probabilité | n.f. | 概率 | probability | B2 |  |
 | profiter de | v. | 享受；利用 | to enjoy; to take advantage of | A1 | 156 |
+| prôner | v. | 提倡；鼓吹 | to advocate | C1 |  |
 | protestant | adj. / n. | 新教的；新教徒 | Protestant | B2 |  |
 | provoquer | v. | 引起；挑衅 | to cause; to provoke | B1 |  |
 | publier | v. | 出版；发布 | to publish; to post | A1 | 114 |
@@ -1154,6 +1281,7 @@
 | se réfugier | v. pron. | 躲进；避难 | to take refuge | B2 |  |
 | réhabiliter | v. | 平反；修复 | to rehabilitate; to restore | B2 |  |
 | rein | n.m. | 肾；（复数）腰 | kidney; (pl.) lower back | A2 | 301 |
+| relever de | v. | 属于；涉及 | to fall under, to be a matter of | C1 |  |
 | renard | n.m. | 狐狸 | fox | A1 | 114 |
 | réputation | n.f. | 名声 | reputation | A2 | 205 |
 | réseau | n.m. | 网络；人脉 | network | A1 | 65 |
@@ -2121,16 +2249,18 @@
 | vieillir | v. | 变老 | to grow old | B2 |  |
 | virtuel | adj. | 虚拟的 | virtual | B1 |  |
 
-## société (259)
+## société (284)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
 | à sa portée | loc. | 力所能及 | within one's reach | B2 |  |
 | à ses dépens | loc. adv. | 吃了亏才…… | at one's own expense | B2 |  |
+| accéder à | v. | 进入；获得 | to access | C1 |  |
 | acharné | adj. | 顽强的；激烈的 | relentless, fierce | B2 |  |
 | actif | n.m. / adj. | 在职者；积极的 | working person; active | B2 |  |
 | adolescent | n.m. | 青少年 | teenager | B1 |  |
 | adverse | adj. | 对方的；敌对的 | opposing | B2 |  |
+| affichage | n.m. | 张贴；标牌 | signage, display | C1 |  |
 | agrégation | n.f. | （法国）教师资格会考 | agrégation (competitive exam) | B1 |  |
 | algorithme | n.m. | 算法 | algorithm | A2 | 196 |
 | allocations chômage | n.f.pl. | 失业救济金 | unemployment benefit | B1 |  |
@@ -2151,12 +2281,15 @@
 | attention | n.f. | 注意力 | attention | B1 |  |
 | atterrissage | n.m. | 着陆 | landing | B1 |  |
 | au lieu de | loc. prép. | 代替；而不是 | instead of | B1 |  |
+| au tournant de | loc. prép. | 在……之交 | at the turn of | C1 |  |
 | augmenter | v. | 增加 | to increase | B1 |  |
 | authenticité | n.f. | 真实性 | authenticity | B2 |  |
 | authentique | adj. | 真实的；正宗的 | authentic, genuine | B2 |  |
 | auxiliaire de vie | n.m./f. | 生活护理员 | caregiver | B1 |  |
 | avancée | n.f. | 进展 | advance, progress | B2 |  |
 | aventure | n.f. | 冒险；（短暂的）恋情 | adventure; fling | A2 | 196 |
+| aveuglement | n.m. | 盲目 | blindness (moral) | C1 |  |
+| banal | adj. | 平庸的；老生常谈的 | trite, commonplace | C1 |  |
 | bénévolat | n.m. | 志愿服务 | volunteering | B2 |  |
 | bien-être | n.m. | 幸福感；舒适 | well-being | B1 |  |
 | bilan | n.m. | 总结；结算 | assessment, review | B2 |  |
@@ -2197,13 +2330,18 @@
 | confiance | n.f. | 信任 | trust | B1 |  |
 | consentir | v. | 同意；付出 | to consent; to grant | B2 |  |
 | construit | adj. | 建构的；建造的 | constructed | B1 |  |
+| continent | n.m. | 大陆；洲 | continent | C1 |  |
 | contingent | adj. | 偶然的 | contingent, incidental | B1 |  |
 | convaincu | adj. | 确信的 | convinced | B1 |  |
 | craindre | v. | 担心；害怕 | to fear | B2 |  |
+| crispation | n.f. | 紧张；僵化 | tension, rigidity | C1 |  |
+| cumuler | v. | 兼任；累积 | to combine, to accumulate | C1 |  |
 | de standing | loc. adj. | 高档的 | upmarket, luxury | B2 |  |
 | débuts | n.m.pl. | 起步；开端 | beginnings, debut | B2 |  |
 | défavorisé | adj. | 弱势的；贫困的 | disadvantaged | B1 |  |
 | déguisé | adj. | 伪装的；化装的 | disguised | B2 |  |
+| déplorer | v. | 哀叹；遗憾 | to deplore, to lament | C1 |  |
+| dès lors | loc. adv. | 因此；从那时起 | therefore; from then on | C1 |  |
 | diplômé | adj. | 有文凭的 | qualified, graduate | B1 |  |
 | dirigeant | n.m. | 领导者；高管 | leader, executive | B2 |  |
 | diriger | v. | 领导；指挥 | to lead, to manage | B1 |  |
@@ -2212,12 +2350,14 @@
 | échanger | v. | 交换；兑换 | to exchange | A1 | 107 |
 | échelle | n.f. | 梯子；量表；比例尺 | ladder; scale | B2 |  |
 | effrayer | v. | 使害怕 | to frighten | B2 |  |
+| éloge | n.m. | 赞歌；颂扬 | praise, eulogy | C1 |  |
 | embaucher | v. | 雇用 | to hire | B2 |  |
 | émeute | n.f. | 骚乱 | riot | B1 |  |
 | empêcher | v. | 阻止 | to prevent | B2 |  |
 | emprunter | v. | 借（进） | to borrow | A1 | 106 |
 | en réalité | loc. adv. | 实际上 | in reality | B1 |  |
 | en tête | loc. adv. | 领先；位居第一 | in the lead, at the top | B2 |  |
+| encadrer | v. | 规范；装框；指导 | to regulate; to frame; to supervise | C1 |  |
 | endormir | v. | 使入睡 | to send to sleep | B2 |  |
 | s'engager | v. pron. | 承诺；投入 | to commit | B1 |  |
 | entrepreneur | n.m. | 企业家 | entrepreneur | B2 |  |
@@ -2238,6 +2378,8 @@
 | figure de rhétorique | n.f. | 修辞手法 | figure of speech | B2 |  |
 | filet de sécurité | n.m. | 安全网 | safety net | B2 |  |
 | flexibilité | n.f. | 弹性；灵活性 | flexibility | B2 |  |
+| folklore | n.m. | 民俗 | folklore | C1 |  |
+| force est de constater | loc. | 不得不承认 | one has to admit | C1 |  |
 | franchement | adv. | 坦白说；说真的 | frankly | B1 |  |
 | franchise | n.f. | 坦率；（保险）免赔额；特许经营 | frankness; deductible; franchise | B2 |  |
 | francisation | n.f. | 法语化；法语融入 | francization | B2 |  |
@@ -2253,7 +2395,9 @@
 | handicapé | adj. / n. | 残疾的 | disabled | B1 |  |
 | humiliant | adj. | 令人羞辱的 | humiliating | B2 |  |
 | hypocrisie | n.f. | 虚伪 | hypocrisy | B2 |  |
+| identitaire | adj. | 身份认同的 | identity-related | C1 |  |
 | ignorance | n.f. | 无知 | ignorance | B1 |  |
+| il n'en demeure pas moins que | loc. | 尽管如此 | the fact remains that | C1 |  |
 | imperméable | n.m. / adj. | 雨衣；防水的 | raincoat; waterproof | B2 |  |
 | impliquer | v. | 使参与；意味着 | to involve; to imply | B2 |  |
 | importance | n.f. | 重要性 | importance | B1 |  |
@@ -2279,6 +2423,7 @@
 | langue de bois | n.f. | 官话套话 | waffle, political doublespeak | B2 |  |
 | lié | adj. | 相关的；联系在一起的 | linked, related | A1 | 107 |
 | liste | n.f. | 清单 | list | B1 |  |
+| livreur | n.m. | 送货员；外卖员 | delivery person | C1 |  |
 | luxe | n.m. | 奢侈 | luxury | B1 |  |
 | maille | n.f. | 网眼；针脚 | mesh; stitch | B2 |  |
 | majeur | adj. | 主要的；重大的；成年的 | major; of age | B2 |  |
@@ -2295,9 +2440,12 @@
 | moyen | adj. | 一般的；平均的 | average | A2 | 196 |
 | se multiplier | v. pron. | 成倍增加 | to multiply | B2 |  |
 | naufrage | n.m. | 海难 | shipwreck | B2 |  |
+| ne… guère | loc. adv. | 几乎不 | hardly | C1 |  |
+| néanmoins | adv. | 然而；尽管如此 | nevertheless | C1 |  |
 | neutre | adj. | 中立的；中性的 | neutral | B2 |  |
 | nouvel arrivant | n.m. | 新来者；新移民 | newcomer | B2 |  |
 | numérique | adj. / n.m. | 数字的 | digital | B2 |  |
+| objecter | v. | 反驳 | to object | C1 |  |
 | obliger | v. | 强迫；迫使 | to force, to oblige | B1 |  |
 | odeur | n.f. | 气味 | smell | A2 | 196 |
 | ordre professionnel | n.m. | 职业协会 | professional order | B2 |  |
@@ -2324,6 +2472,7 @@
 | prison | n.f. | 监狱 | prison | B1 |  |
 | productivité | n.f. | 生产率；效率 | productivity | B1 |  |
 | promoteur | n.m. | 房地产开发商 | property developer | B2 |  |
+| prôner | v. | 提倡；鼓吹 | to advocate | C1 |  |
 | protestant | adj. / n. | 新教的；新教徒 | Protestant | B2 |  |
 | proverbe | n.m. | 谚语 | proverb | B1 |  |
 | province | n.f. | 外省（巴黎以外）；省 | the provinces; province | A2 | 292 |
@@ -2339,8 +2488,10 @@
 | régler | v. | 解决；调整；付款 | to settle; to adjust; to pay | B1 |  |
 | réhabiliter | v. | 平反；修复 | to rehabilitate; to restore | B2 |  |
 | réinventer | v. | 重新发明 | to reinvent | B2 |  |
+| relever de | v. | 属于；涉及 | to fall under, to be a matter of | C1 |  |
 | remplir | v. | 填满；填写 | to fill; to fill in | B1 |  |
 | renouveler | v. | 续签；更新 | to renew | B2 |  |
+| renverser | v. | 扭转；推翻；打翻 | to reverse; to overturn; to spill | C1 |  |
 | réparer | v. | 修理；弥补 | to repair, to fix | B1 |  |
 | répartir | v. | 分配 | to distribute, to share out | B2 |  |
 | reposer sur | v. | 建立在……之上 | to rest on, to be based on | B1 |  |
@@ -2351,6 +2502,7 @@
 | robot | n.m. | 机器人 | robot | B1 |  |
 | sabbatique | adj. | 休假的（长假） | sabbatical | B2 |  |
 | salarié | n.m. | 雇员；工薪阶层 | employee | B2 |  |
+| sans complexe | loc. adv. | 理直气壮地 | unashamedly | C1 |  |
 | satisfait | adj. | 满意的 | satisfied | A2 | 196 |
 | scandale | n.m. | 丑闻；轰动 | scandal | B1 |  |
 | secrétaire d'État | n.m./f. | 国务秘书（法国副部长级） | junior minister | B2 |  |
@@ -2379,13 +2531,14 @@
 | vache | n.f. | 母牛 | cow | A2 | 291 |
 | valeur | n.f. | 价值；价值观 | value | B1 |  |
 | valorisé | adj. | 受重视的 | valued | B2 |  |
+| veiller à | v. | 注意；确保 | to see to, to ensure | C1 |  |
 | verser | v. | 支付；倒（液体） | to pay; to pour | B2 |  |
 | victime | n.f. | 受害者 | victim | B2 |  |
 | volant | adj. / n.m. | 飞行的；方向盘 | flying; steering wheel | B1 |  |
 | volontaire | adj. / n. | 自愿的；志愿者 | voluntary; volunteer | B2 |  |
 | vulnérable | adj. | 脆弱的；弱势的 | vulnerable | B2 |  |
 
-## technologie (129)
+## technologie (142)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
@@ -2414,8 +2567,10 @@
 | concevoir | v. | 设计；构想 | to design, to conceive | B2 |  |
 | conçu | adj. | 设计的；构想的 | designed | B1 |  |
 | condition | n.f. | 处境；条件 | condition | B2 |  |
+| consigne | n.f. | 指令；规定；寄存处 | instruction; left-luggage | C1 |  |
 | constater | v. | 注意到；确认 | to note, to observe | A1 | 163 |
 | contester | v. | 质疑；反对 | to challenge, to contest | B2 |  |
+| contribution | n.f. | 贡献；税款 | contribution | C1 |  |
 | couper | v. | 剪；切；关掉 | to cut | A1 | 164 |
 | craquer | v. | 崩溃；忍不住；被迷住 | to crack; to give in; to fall for | B2 |  |
 | déborder | v. | 溢出 | to overflow | B2 |  |
@@ -2428,8 +2583,10 @@
 | données | n.f.pl. | 数据 | data | B2 |  |
 | douche | n.f. | 淋浴 | shower | A1 | 160 |
 | douloureux | adj. | 痛苦的 | painful | B1 |  |
+| droit d'auteur | n.m. | 著作权 | copyright | C1 |  |
 | éclater de rire | loc. v. | 突然大笑 | to burst out laughing | A1 | 133 |
 | efficace | adj. | 有效的 | effective, efficient | A1 | 163 |
+| empreinte | n.f. | 印记；指纹；足迹 | imprint, mark | C1 |  |
 | s'engager | v. pron. | 承诺；投入 | to commit | B1 |  |
 | s'ennuyer | v. pron. | 感到无聊 | to be bored | A1 | 160 |
 | épais | adj. | 厚的 | thick | B1 |  |
@@ -2440,11 +2597,13 @@
 | faille | n.f. | 破绽；断层 | flaw, weakness | B2 |  |
 | familier | adj. | 熟悉的；口语的 | familiar; informal | B1 |  |
 | fiable | adj. | 可靠的 | reliable | A2 | 258 |
+| flou | adj. | 模糊的 | blurred, vague | C1 |  |
 | former | v. | 培训；形成 | to train; to form | B1 |  |
 | fragment | n.m. | 片段；残篇 | fragment | B2 |  |
 | futurologue | n.m./f. | 未来学家 | futurologist | B1 |  |
 | gagner du temps | loc. v. | 节省时间；拖延时间 | to save time; to buy time | A2 | 196 |
 | gain | n.m. | 收益；获得 | gain, profit | B1 |  |
+| génératif | adj. | 生成式的 | generative | C1 |  |
 | génération | n.f. | 一代人 | generation | B1 |  |
 | génial | adj. | 天才的；棒极了 | brilliant, genius; great | B2 |  |
 | ghoster | v. | （口语）搞消失；突然断联 | to ghost | A2 | 295 |
@@ -2459,12 +2618,14 @@
 | irrespirable | adj. | 无法呼吸的；令人窒息的 | unbreathable; stifling | B1 |  |
 | jeu | n.m. | 游戏 | game | A1 | 160 |
 | juger | v. | 评判；审判 | to judge | A2 | 196 |
+| juridique | adj. | 法律的 | legal | C1 |  |
 | jusqu'au bout | loc. adv. | 到底；直到最后 | to the end | B2 |  |
 | lâcher | v. | 放开；松手 | to let go, to drop | B1 |  |
 | lancement | n.m. | 发射；发布 | launch | B1 |  |
 | langage | n.m. | 语言（能力）；言语 | language (faculty), speech | A2 | 257 |
 | lever les yeux | loc. v. | 抬眼 | to look up | A1 | 133 |
 | lièvre | n.m. | 野兔 | hare | B2 |  |
+| maison d'édition | n.f. | 出版社 | publishing house | C1 |  |
 | matcher | v. | （交友软件）配对 | to match | A2 | 195 |
 | méfiance | n.f. | 不信任 | distrust | B2 |  |
 | meilleur | adj. | 更好的；最好的 | better; best | A1 | 134 |
@@ -2477,6 +2638,7 @@
 | naïf | adj. | 天真的 | naive | B1 |  |
 | ne pas prendre une ride | loc. v. | 毫不过时 | not to have aged a bit | B2 |  |
 | odeur | n.f. | 气味 | smell | A2 | 196 |
+| or | conj. | 然而；可是 | now, yet | C1 |  |
 | ordinateur | n.m. | 电脑 | computer | A1 | 163 |
 | permanent | adj. | 永久的；持续的 | permanent | B1 |  |
 | perte | n.f. | 损失 | loss | B1 |  |
@@ -2492,9 +2654,11 @@
 | problème mal posé | n.m. | 题设有误的问题 | ill-posed problem | B2 |  |
 | programme | n.m. | 程序；节目单；计划 | program; schedule | A2 | 257 |
 | propre | adj. | 干净的；体面的；自己的 | clean; proper; own | A2 | 295 |
+| protégeable | adj. | 可受保护的 | protectable | C1 |  |
 | réchauffement climatique | n.m. | 全球变暖 | global warming | A1 | 163 |
 | récréation | n.f. | 课间休息 | break, recess | B1 |  |
 | regarder de haut | loc. v. | 瞧不起 | to look down on | B2 |  |
+| rémunération | n.f. | 报酬 | remuneration, pay | C1 |  |
 | revanche | n.f. | 复仇赛；报复 | rematch; revenge | A2 | 295 |
 | revenu | n.m. | 收入 | income | B1 |  |
 | rêverie | n.f. | 遐想；梦想 | daydreaming | B2 |  |
@@ -2512,9 +2676,11 @@
 | supprimer | v. | 删除；取消 | to delete; to remove | A1 | 134 |
 | tableur | n.m. | 电子表格软件 | spreadsheet | B1 |  |
 | se taire | v. pron. | 沉默；住口 | to be quiet | B2 |  |
+| tentant | adj. | 诱人的 | tempting | C1 |  |
 | tousser | v. | 咳嗽 | to cough | A1 | 163 |
 | traiter | v. | 对待；处理；治疗 | to treat | B1 |  |
 | transition | n.f. | 过渡；转型 | transition | B1 |  |
+| tribunal | n.m. | 法院 | court | C1 |  |
 | vaisseau | n.m. | 飞船；船舰；血管 | vessel; spaceship | B1 |  |
 | vérifier | v. | 核实；检查 | to check, to verify | A2 | 258 |
 | volant | adj. / n.m. | 飞行的；方向盘 | flying; steering wheel | B1 |  |
@@ -3246,13 +3412,15 @@
 | volontaire | adj. / n. | 自愿的；志愿者 | voluntary; volunteer | B2 |  |
 | vulnérable | adj. | 脆弱的；弱势的 | vulnerable | B2 |  |
 
-## éducation (35)
+## éducation (42)
 
 | Mot | Nature | 中文 | English | Niveau | Page |
 |---|---|---|---|---|---:|
 | à cause de | loc. prép. | 因为（不好的原因） | because of | A1 | 144 |
+| a fortiori | loc. adv. | 更何况 | all the more so | C1 |  |
 | adolescent | n.m. | 青少年 | teenager | B1 |  |
 | adverse | adj. | 对方的；敌对的 | opposing | B2 |  |
+| articulation | n.f. | 衔接；关节；发音 | link, structure; joint | C1 |  |
 | attention | n.f. | 注意力 | attention | B1 |  |
 | cancre | n.m. | 差生；懒学生 | dunce, bad student | A1 | 144 |
 | capter | v. | 捕获；接收（信号） | to capture; to get (a signal) | B1 |  |
@@ -3261,12 +3429,15 @@
 | conjuguer | v. | 动词变位；结合 | to conjugate; to combine | A1 | 144 |
 | courir | v. | 跑 | to run | A1 | 144 |
 | se détendre | v. pron. | 放松 | to relax | B2 |  |
+| en l'occurrence | loc. adv. | 在这种情况下；具体来说 | in this case | C1 |  |
 | étape | n.f. | 阶段；步骤 | stage, step | B2 |  |
+| eu égard à | loc. prép. | 鉴于 | in view of, considering | C1 |  |
 | figure de rhétorique | n.f. | 修辞手法 | figure of speech | B2 |  |
 | frappant | adj. | 醒目的；惊人的 | striking | B2 |  |
 | génération | n.f. | 一代人 | generation | B1 |  |
 | impliquer | v. | 使参与；意味着 | to involve; to imply | B2 |  |
 | interdiction | n.f. | 禁令 | ban | B1 |  |
+| irrecevable | adj. | 不予受理的 | inadmissible | C1 |  |
 | lâcher | v. | 放开；松手 | to let go, to drop | B1 |  |
 | lenteur | n.f. | 缓慢 | slowness | B2 |  |
 | main | n.f. | 手 | hand | A1 | 144 |
@@ -3279,9 +3450,11 @@
 | pomme | n.f. | 苹果 | apple | A1 | 144 |
 | promenade | n.f. | 散步 | walk, stroll | B2 |  |
 | prometteur | adj. | 有前途的 | promising | B2 |  |
+| quand bien même | loc. conj. | 即使 | even if | C1 |  |
 | ralentir | v. | 减速；放慢 | to slow down | A1 | 144 |
 | récréation | n.f. | 课间休息 | break, recess | B1 |  |
 | rentrer | v. | 回家；回来 | to go/come home | A1 | 144 |
 | réponse | n.f. | 回答；答复 | answer, reply | A1 | 144 |
+| sous réserve de | loc. prép. | 以……为条件 | subject to | C1 |  |
 | statistique | n.f. | 统计（数据） | statistic | B2 |  |
 | traiter | v. | 对待；处理；治疗 | to treat | B1 |  |
