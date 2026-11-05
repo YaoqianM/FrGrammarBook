@@ -147,3 +147,11 @@
 4. Partir pour quelqu'un (il y a un an) et partir pour soi (aujourd'hui) ne sont pas la même décision, même si la destination est la même.
 5. Elle a pris sa décision : elle va partir au Québec (la tuque = bonnet québécois). Le rouge rappelle l'écharpe rouge de la première rencontre.
 6. Subjonctifs : *que quelqu'un ouvre*, *que vous en fassiez partie*, *que ce soit vous qui le dirigiez*, *bien que ce soit*, *qu'on pense*, *pour que vous rejoigniez*, *sans que personne me juge*. Gérondif : *en mangeant*, *en étant payée*.
+
+## N°12 · Le même café (p. )
+
+1. Elle voulait d'abord que Montréal soit sa propre ville (son bureau, ses amis, son café), et pas celle de quelqu'un d'autre.
+2. Exemples : le téléphone qui tombe et glisse sous la table voisine ; « Je crois que vous avez fait tomber votre téléphone » ; « il n'est pas tombé dans mon café » ; le rendez-vous important à neuf heures ; « Je te souhaite bonne chance. Vraiment. » ; 8 h 25. Ce qui a changé : c'est Marie qui fait tomber le téléphone, elle commande un allongé et non un café au lait, ils se connaissent, ils sont plus calmes et plus mûrs.
+3. Il aurait quand même fini le livre (fait concret), mais il n'aurait pas appris à avoir peur de perdre quelqu'un, ni à rester (expériences intérieures).
+4. Au N°9, on a vu que « on verra » veut souvent dire « non » en France, comme « 再说吧 » en Chine. Marie demande quelle version Lucas utilise ; il répond « version chinoise : ça veut dire oui » — un clin d'œil au fait qu'il accepte, et à Wei.
+5. Au premier épisode (et au N°9), ils sont partis chacun de leur côté sans se retourner. Ici, ils ne se retournent pas non plus, mais parce qu'ils partent ensemble, dans la même direction : l'histoire boucle la boucle.

@@ -68,3 +68,6 @@
 | Le gérondif | 副动词 | N°11 |  |
 | La voix passive | 被动语态 | N°11 |  |
 | Le subjonctif passé | 虚拟式过去时 | N°11 |  |
+| La mise en relief | 强调句式 | N°12 |  |
+| Lequel, auquel, duquel | 复合关系代词 | N°12 |  |
+| Les registres de langue | 语域 | N°12 |  |

@@ -5,7 +5,7 @@
 | A1 | N°1, N°2, N°3 | 41 | 518 | 5096 | 390 | 87 | 12 |
 | A2 | N°4, N°5, N°6 | 42 | 478 | 6184 | 366 | 67 | 12 |
 | B1 | N°7, N°8, N°9 | 46 | 518 | 7807 | 385 | 57 | 14 |
-| B2 | N°10, N°11 | 30 | 299 | 5618 | 285 | 40 | 7 |
+| B2 | N°10, N°11, N°12 | 44 | 468 | 8553 | 401 | 40 | 10 |
 
 ## A1 — grammar covered
 
@@ -66,6 +66,9 @@
 - Le gérondif (副动词) — N°11
 - La voix passive (被动语态) — N°11
 - Le subjonctif passé (虚拟式过去时) — N°11
+- La mise en relief (强调句式) — N°12
+- Lequel, auquel, duquel (复合关系代词) — N°12
+- Les registres de langue (语域) — N°12
 
 ## A1 — sections
 
@@ -123,19 +126,19 @@
 
 ## B2 — sections
 
-- ÉDITO: 2
-- FEUILLETON: 2
-- HISTOIRES: 2
-- VIE QUOTIDIENNE: 2
-- LE DÉBAT: 2
-- IDÉES QUI DÉRANGENT: 2
-- PSYCHOLOGIE: 2
-- PHILOSOPHIE & IDÉES: 2
-- LE PLATEAU: 2
-- SCIENCE & MONDE MODERNE: 2
-- AMOUR & RELATIONS: 2
-- POÉSIE & LITTÉRATURE: 2
-- BELLES PHRASES: 2
-- EXPRESSIONS & CONVERSATION: 2
+- ÉDITO: 3
+- FEUILLETON: 3
+- HISTOIRES: 3
+- VIE QUOTIDIENNE: 3
+- LE DÉBAT: 3
+- IDÉES QUI DÉRANGENT: 3
+- PSYCHOLOGIE: 3
+- PHILOSOPHIE & IDÉES: 3
+- LE PLATEAU: 3
+- SCIENCE & MONDE MODERNE: 3
+- AMOUR & RELATIONS: 3
+- POÉSIE & LITTÉRATURE: 3
+- BELLES PHRASES: 3
+- EXPRESSIONS & CONVERSATION: 3
 - CINÉ-PHILO: 1
 - HUMOUR & CULTURE: 1

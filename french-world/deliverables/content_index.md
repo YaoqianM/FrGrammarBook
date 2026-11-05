@@ -163,3 +163,17 @@
 | 11 | IDÉES QUI DÉRANGENT | La politesse est un mensonge utile | 礼貌是一种有用的谎言 | B2 |  |
 | 11 | BELLES PHRASES | Convaincre : six figures de rhétorique | 说服：六种修辞手法 | B2 |  |
 | 11 | EXPRESSIONS & CONVERSATION | Mots et paroles : douze expressions | 话语：十二个表达 | B2 |  |
+| 12 | ÉDITO | Ce qui reste | 留下来的 | B2 |  |
+| 12 | FEUILLETON | Le même café | 同一家咖啡馆 | B2 |  |
+| 12 | HISTOIRES | L'algorithme | 算法 | B2 |  |
+| 12 | VIE QUOTIDIENNE | S'intégrer au Québec : les six premiers mois | 融入魁北克：最初的六个月 | B2 |  |
+| 12 | LE DÉBAT | Le revenu universel : utopie ou nécessité ? | 全民基本收入：乌托邦还是必需？ | B2 |  |
+| 12 | IDÉES QUI DÉRANGENT | Vous allez mourir. C'est une bonne nouvelle. | 你终将死去。这是个好消息。 | B2 |  |
+| 12 | PSYCHOLOGIE | Le tapis roulant du bonheur | 幸福跑步机 | B2 |  |
+| 12 | PHILOSOPHIE & IDÉES | Camus : il faut imaginer Sisyphe heureux | 加缪：应该想象西西弗斯是幸福的 | B2 |  |
+| 12 | SCIENCE & MONDE MODERNE | Le bonheur se mesure-t-il ? | 幸福可以被测量吗？ | B2 |  |
+| 12 | LE PLATEAU | Le dernier invité : quarante ans de premiers rendez-vous | 最后一位嘉宾：四十年的初次约会 | B2 |  |
+| 12 | AMOUR & RELATIONS | Ce qui fait durer un couple | 是什么让一段感情长久 | B2 |  |
+| 12 | POÉSIE & LITTÉRATURE | Ce qui reste | 留下来的 | B2 |  |
+| 12 | BELLES PHRASES | Porter un toast, remercier, dire au revoir | 祝酒、致谢、告别 | B2 |  |
+| 12 | EXPRESSIONS & CONVERSATION | Une idée, quatre registres | 一个意思，四种语域 | B2 |  |

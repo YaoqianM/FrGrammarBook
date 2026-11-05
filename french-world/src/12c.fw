@@ -1,0 +1,114 @@
+%% ───────── POÉSIE ─────────
+@piece poesie | Ce qui reste | 留下来的 | B2
+@deck Un poème original pour clore l'histoire de Marie et Lucas, et une citation d'Apollinaire, qui savait mieux que personne que l'eau qui coule emporte tout… sauf l'essentiel. || 一首原创诗，为玛丽和卢卡斯的故事收尾；还有一句阿波利奈尔的诗——他比任何人都清楚，流水带走一切……除了最重要的东西。
+@meta characters=Guillaume Apollinaire; themes=temps, amour, mémoire; topics=littérature, culture
+@quote « Sous le pont Mirabeau coule la Seine / Et nos amours… » || “米拉波桥下塞纳河流淌／还有我们的爱情……” || Guillaume Apollinaire, « Le Pont Mirabeau », Alcools (1913)
+Apollinaire écrit ce poème après la fin de son histoire avec la peintre Marie Laurencin. Le refrain dit : « Vienne la nuit sonne l'heure / Les jours s'en vont je demeure. » || 阿波利奈尔在与画家玛丽·洛朗桑分手后写下了这首诗。副歌写道：“让夜晚降临，让钟声敲响／日子流逝，而我留下。”
+Le temps passe comme le fleuve. Mais quelqu'un reste, pour regarder l'eau. || 时光如河水般流逝。可总有一个人留下来，看着流水。
+
+@poem Ce qui reste | La rédaction
+Il reste un livre jaune || 留下了一本黄色的书，
+aux pages trop lues, || 书页被读得太多，
+une écharpe rouge || 一条红色的围巾，
+au fond d'une valise. || 躺在行李箱的最底层。
+
+Il reste un fromager || 留下了一位奶酪商，
+qui parlait d'amour, || 曾经谈论爱情，
+une grand-mère en ciré || 一位穿着雨衣的奶奶，
+qui pardonnait. || 懂得原谅。
+
+Il reste des phrases || 留下了一些句子，
+qu'on a mis un an à comprendre, || 我们花了一年才读懂，
+et d'autres, plus simples, || 还有一些，更简单的，
+qu'on a mis un an à dire. || 我们花了一年才说出口。
+
+Le reste, le temps le prend. || 其余的，时间都带走了。
+C'est son métier. || 这是它的本职工作。
+Mais ce qui reste, || 而那些留下来的，
+on l'a choisi. || 是我们自己选择的。
+@end
+
+@vocab
+clore | v. | klɔʁ | 结束；关闭 | to close, to conclude | Clore un débat. | 结束一场辩论。 | | p.p. clos · la clôture | 书面语。
+emporter | v. | ɑ̃.pɔʁ.te | 带走 | to take away | Le vent a tout emporté. | 风把一切都带走了。 | à emporter (= 外带) | | 已学：*sur place ou à emporter* = 堂食还是外带（Ouverture）。
+refrain | n.m. | ʁə.fʁɛ̃ | 副歌；老调 | chorus, refrain | | | c'est toujours le même refrain (= 老生常谈) | |
+@end
+
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | Porter un toast, remercier, dire au revoir | 祝酒、致谢、告别 | B2
+@deck Avant de partir à Montréal, Marie a organisé son « pot de départ ». En France, c'est un rituel de bureau incontournable. Voici les phrases qui font pleurer… les bonnes larmes. || 去蒙特利尔之前，玛丽办了她的“告别小酒会”。在法国，这是职场不可或缺的仪式。下面这些话会让人落泪……是好的那种眼泪。
+@meta characters=Marie; setting=agence Atelier Nord; themes=départ, remerciements, discours; topics=travail, culture
+@versions Six moments, six phrases
+TOAST || Je lève mon verre à ceux qui m'ont appris que le travail pouvait aussi être une aventure. || 我举杯敬那些让我明白工作也可以是一场冒险的人。 || *Lever son verre à…* : la formule classique du toast. 经典的祝酒句式。
+REMERCIER || Je ne vous remercierai jamais assez pour votre confiance. || 我对你们的信任感激不尽。 || Remerciement fort et élégant. 有力而优雅的致谢。
+UNE PERSONNE || Madame Lambert, vous avez cru en moi avant que j'y croie moi-même. || 朗贝尔女士，在我自己相信之前，您就已经相信我了。 || Un remerciement précis touche plus qu'une liste. 具体的感谢比一长串名单更打动人。
+HUMOUR || Je vous laisse la machine à café. Prenez soin d'elle : elle a vu des choses. || 咖啡机就留给你们了。好好照顾它：它见过不少事。 || Une pointe d'humour pour éviter les larmes… ou les provoquer. 加一点幽默，避免流泪……或者引人落泪。
+AU REVOIR || Ce n'est pas un adieu, c'est un « à bientôt » avec six heures de décalage. || 这不是永别，只是一个隔着六小时时差的“回头见”。 || *Adieu* est définitif ; *au revoir* et *à bientôt* promettent un retour. *Adieu* 是永别；*au revoir* 和 *à bientôt* 意味着还会再见。
+QUÉBEC || Merci pour tout, pis à la revoyure ! || 谢谢一切，后会有期！ || *À la revoyure* (familier, en France comme au Québec) = au revoir. 口语，法国和魁北克都用。
+@end
+
+@note culture | Le pot de départ
+En France, quand quelqu'un quitte une entreprise (nouvel emploi, retraite, déménagement), il organise souvent un **pot de départ** : des boissons, des gâteaux, quelques discours, et parfois un **cadeau commun** acheté grâce à une **cagnotte** à laquelle tous les collègues ont participé. Ne pas y aller sans raison peut être mal vu. Au Québec, on parle plutôt d'un **party de départ** ou d'un **5 à 7 de départ**.
+
+在法国，有人离职（换工作、退休、搬家）时，常常会办一个“告别小酒会”：饮料、蛋糕、几段致辞，有时还有同事们凑钱（*cagnotte*）买的集体礼物。无故缺席可能会被人看不惯。在魁北克，人们更常说 *party de départ* 或 *5 à 7 de départ*。
+@end
+
+@vocab
+pot de départ | n.m. | po də de.paʁ | 告别酒会 | leaving drinks | | | un pot (fam. = un verre, une petite fête) | | 口语：*On boit un pot ?* = 去喝一杯？
+incontournable | adj. | ɛ̃.kɔ̃.tuʁ.nabl | 不可或缺的；绕不开的 | unmissable, essential | Un rendez-vous incontournable. | 一个不可错过的活动。 | | contourner |
+lever son verre | loc. v. | lə.ve sɔ̃ vɛʁ | 举杯 | to raise one's glass | Levons nos verres aux mariés ! | 让我们举杯敬新人！ | | |
+adieu | interj. / n.m. | a.djø | 永别 | farewell | Faire ses adieux. | 告别。 | | | ⚠ 法国的 *adieu* = 永别（很沉重）；但在法国南部和瑞士，*adieu* 有时只是“你好/再见”。
+cagnotte | n.f. | ka.ɲɔt | 凑份子的钱；奖金池 | kitty, collection | On a fait une cagnotte pour son cadeau. | 我们凑钱给他买了礼物。 | une cagnotte en ligne | |
+mal vu | loc. adj. | mal vy | 被人看不惯的 | frowned upon | C'est mal vu d'arriver en retard. | 迟到会被人看不惯。 | ≠ bien vu | |
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Une idée, quatre registres | 一个意思，四种语域 | B2
+@deck Au niveau B2, on ne vous demande plus seulement d'être correct. On vous demande d'être juste : de choisir le bon mot pour la bonne personne. Le même sens, du salon de l'ambassade au dépanneur de Montréal. || 到了 B2 水平，要求不再只是正确，而是恰当：为合适的人选对合适的词。同一个意思，从大使馆的客厅到蒙特利尔的便利店。
+@meta themes=registres, variation, français du Québec; topics=culture
+@md
+| Sens · 意思 | Soutenu · 正式 | Courant · 中性 | Familier (France) · 口语（法国） | Québec · 魁北克 |
+|---|---|---|---|---|
+| fatigué · 累 | épuisé, exténué | très fatigué | crevé, naze, claqué | brûlé, vidé |
+| l'argent · 钱 | les fonds, les ressources | l'argent | le fric, la thune, le pognon | l'argent, le cash, les piasses |
+| la voiture · 车 | le véhicule | la voiture | la bagnole, la caisse | le char |
+| un ami · 朋友 | un camarade, un compagnon | un ami | un pote, un copain | un chum (aussi « copain ») |
+| ma petite amie · 女朋友 | ma compagne | ma copine | ma meuf | ma blonde |
+| il fait très froid · 很冷 | il fait un froid glacial | il fait très froid | ça caille | il fait frette |
+| c'est ennuyeux · 很无聊 | c'est fastidieux | c'est ennuyeux | c'est chiant (vulg.) | c'est plate |
+| un enfant · 孩子 | un enfant | un enfant | un gosse, un gamin | un enfant, un flo, un jeune |
+| travailler · 工作 | exercer, œuvrer | travailler | bosser, taffer | travailler, avoir une job (fém. !) |
+| partir · 走 | prendre congé | partir, s'en aller | se casser, se tirer | s'en aller, décoller |
+@end
+
+@note warn | Le piège du « gosse »
+En France, **un gosse** est un enfant (familier, affectueux). Au Québec, **une gosse**, au pluriel **les gosses**, désigne… les testicules. Dire à une Québécoise « j'adore tes gosses » en parlant de ses enfants provoquera, au mieux, un fou rire. Au Québec, dites **les enfants** ou **les jeunes**.
+
+在法国，*un gosse* 是“小孩”（口语，亲昵）。在魁北克，*les gosses* 指的是……睾丸。对一位魁北克女士说“j'adore tes gosses”来夸她的孩子，最好的结果也是让她笑到停不下来。在魁北克，请说 *les enfants* 或 *les jeunes*。
+@end
+
+@vocab
+exténué | adj. | ɛks.te.nɥe | 筋疲力尽的 | exhausted | | | | exténuée (f.) |
+crevé | adj. | kʁə.ve | 累坏了的（口语）；破了的 | knackered (fam.); punctured | Je suis crevé ! | 我累死了！ | un pneu crevé | crevée (f.) · crever |
+bagnole | n.f. | ba.ɲɔl | 汽车（口语） | car (fam.) | | | | |
+fastidieux | adj. | fas.ti.djø | 枯燥乏味的 | tedious | Un travail fastidieux. | 枯燥的工作。 | | fastidieuse (f.) |
+gamin | n.m. | ɡa.mɛ̃ | 小孩（口语） | kid | | | | gamine (f.) |
+prendre congé | loc. v. | pʁɑ̃dʁ kɔ̃.ʒe | 告辞 | to take one's leave | Il est temps de prendre congé. | 该告辞了。 | | un congé (= 假期) |
+se casser | v. pron. | sə ka.se | （口语）走人；摔断 | (fam.) to leave, to clear off; to break | Allez, on se casse ! | 走了，我们撤！ | se casser la jambe | casser | ⚠ *Casse-toi !* = 滚！（粗鲁）
+@end
+
+@rappel Lequel, auquel, duquel | 复合关系代词 | B2 | 17
+Après une **préposition**, pour une chose : **lequel / laquelle / lesquels / lesquelles**. Avec **à** : **auquel, à laquelle, auxquels** ; avec **de** (dans une locution) : **duquel, de laquelle, desquels**. Pour une personne, on préfère souvent **qui** : *la personne avec qui je travaille*.
+= La table **sur laquelle** il y avait deux cafés. Le bureau **dans lequel** Marie travaille. Une cagnotte **à laquelle** tous ont participé. || 放着两杯咖啡的那张桌子。玛丽工作的那间办公室。大家都参与凑钱的那个份子。
+@end
+
+@rappel Les registres de langue | 语域 | B2 | 29
+**Soutenu** : écrit formel, discours, administration (*je vous prie de…*). **Courant** : la norme, à l'oral comme à l'écrit. **Familier** : entre amis (*t'es où ? j'sais pas*). **Vulgaire** : à comprendre, à manier avec prudence. Le TCF attend du **courant** à l'oral, du **courant ou soutenu** à l'écrit, et surtout de la **cohérence** : ne mélangez pas *je vous prie d'agréer* et *c'est trop cool*.
+= Je suis **exténué**. / Je suis très **fatigué**. / Je suis **crevé**. / Je suis **brûlé**. || 我筋疲力尽。／我很累。／我累死了。／我累垮了（魁北克）。
+@end
+
+@badge La boucle || 首尾呼应 || J'ai relu l'Ouverture puis l'épisode 12, et j'ai trouvé cinq échos entre les deux.
+@badge Sisyphe heureux || 幸福的西西弗斯 || J'ai repris une révision que j'avais abandonnée.
+@badge Tapis roulant || 跑步机 || J'ai noté trois choses positives chaque soir pendant une semaine.
+@badge Quatre registres || 四种语域 || Je peux dire « je suis fatigué » de quatre façons et je sais quand utiliser chacune.
+@badge B2 terminé || 完成 B2 || J'ai fini les douze numéros. Il reste le bonus C1… et le TCF.
