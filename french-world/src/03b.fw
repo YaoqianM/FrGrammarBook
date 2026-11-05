@@ -1,0 +1,376 @@
+%% ───────── HUMOUR ─────────
+@piece humour | Toto, le cancre national | 托托：全国最出名的差生 | A1
+@deck En France, le héros des blagues d'enfants s'appelle Toto. C'est le cousin français de 小明. || 在法国，儿童笑话的主角叫托托。他就是法国版的“小明”。
+@meta characters=Toto, la maîtresse; setting=école; themes=humour, école, logique absurde; topics=culture, éducation
+La maîtresse : « Toto, conjugue le verbe marcher au présent. » || 老师：“托托，把动词‘走’变位成现在时。”
+« Je marche… tu marches… il marche… » || “我走……你走……他走……”
+« Plus vite, Toto ! » || “快一点，托托！”
+« Nous courons, vous courez, ils courent ! » || “我们跑，你们跑，他们跑！”
+
+« Toto, j'ai cinq pommes dans une main et six pommes dans l'autre. Qu'est-ce que j'ai ? » || “托托，我一只手里有五个苹果，另一只手里有六个。我有什么？”
+« De très grandes mains, madame. » || “一双超大的手，老师。”
+
+« Toto, pourquoi tu es en retard ? » || “托托，你为什么迟到？”
+« À cause du panneau, madame. » || “都怪那块牌子，老师。”
+« Quel panneau ? » || “什么牌子？”
+« Le panneau "École, ralentir" ! » || “那块写着‘学校，减速’的牌子！”
+
+« Toto, ta rédaction sur ton chien est exactement la même que la rédaction de ton frère ! » || “托托，你写你家狗的作文，和你哥哥写的一模一样！”
+« Normal, madame : c'est le même chien. » || “正常啊，老师：是同一条狗嘛。”
+
+Toto rentre de l'école : « Papa, aujourd'hui j'ai donné la bonne réponse ! » || 托托放学回家：“爸爸，我今天答对了一道题！”
+« Bravo, mon fils ! C'était quoi, la question ? » || “太棒了，儿子！是什么问题？”
+« Qui a cassé la fenêtre ? » || “谁打破了窗户？”
+
+@note funny | Pourquoi c'est drôle ?
+1. **« Plus vite »** : la maîtresse veut dire *parle plus vite*. Toto comprend *marche plus vite*… et passe de *marcher* (走) à *courir* (跑).
+2. Toto répond à la question **littérale** (« qu'est-ce que j'ai ? »), pas à la question de maths.
+3. **Ralentir** (减速) est un ordre pour les voitures. Toto l'applique à lui-même : il est très obéissant… quand ça l'arrange.
+4. La logique est parfaite : même chien = même rédaction. 逻辑无懈可击。
+5. **La chute** : la « bonne réponse » est un aveu. Toto a dit la vérité… et il a cassé la fenêtre.
+
+Toto 就是法国笑话里的“小明”：他总是**按字面意思**理解问题，用完美的逻辑得出荒谬的答案。
+@end
+
+@vocab
+cancre | n.m. | kɑ̃kʁ | 差生；懒学生 | dunce, bad student | Au lycée, j'étais un cancre en maths. | 高中时我数学很差。 | | | 口语也说 *un mauvais élève*。
+maîtresse | n.f. | mɛ.tʁɛs | （小学）女老师；情妇 | (primary school) teacher; mistress | La maîtresse est très gentille. | 老师人很好。 | la maîtresse d'école | maître (m.) | ⚠ 在成人语境中 *une maîtresse* = 情妇！孩子说老师则完全正常。
+conjuguer | v. | kɔ̃.ʒy.ɡe | 动词变位；结合 | to conjugate; to combine | Conjugue le verbe être. | 把 être 变位。 | conjuguer travail et famille | nous conjuguons · la conjugaison |
+courir | v. | ku.ʁiʁ | 跑 | to run | Je cours tous les matins. | 我每天早上跑步。 | courir un marathon · courir après qqn | je cours, nous courons · p.p. couru · la course |
+pomme | n.f. | pɔm | 苹果 | apple | Une pomme par jour… | 一天一个苹果…… | une tarte aux pommes · tomber dans les pommes (= s'évanouir) | une pomme de terre (= 土豆) | *tomber dans les pommes* = 晕倒（口语）。
+main | n.f. | mɛ̃ | 手 | hand | Lave-toi les mains ! | 去洗手！ | serrer la main · à la main · un coup de main (= de l'aide) | | *Tu me donnes un coup de main ?* = 你能帮我一把吗？
+à cause de | loc. prép. | a koz də | 因为（不好的原因） | because of | Je suis en retard à cause des grèves. | 因为罢工我迟到了。 | à cause de toi · à cause du bruit | | 好的原因用 *grâce à*：*grâce à toi* = 多亏了你。
+ralentir | v. | ʁa.lɑ̃.tiʁ | 减速；放慢 | to slow down | Ralentis, tu vas trop vite ! | 慢点，你开太快了！ | ralentir le pas | le ralentissement · lent | ≠ accélérer |
+rentrer | v. | ʁɑ̃.tʁe | 回家；回来 | to go/come home | Je rentre tard ce soir. | 我今晚回来得晚。 | rentrer à la maison · la rentrée (scolaire) | la rentrée | *la rentrée* = 九月开学（法国一年中最重要的时间节点之一）。
+réponse | n.f. | ʁe.pɔ̃s | 回答；答复 | answer, reply | J'attends ta réponse. | 我等你的答复。 | la bonne réponse · en réponse à | répondre (v.) |
+@end
+
+@expr
+Quand ça m'arrange | 对我有利的时候 | familier | *Ça m'arrange* = c'est pratique pour moi. Souvent ironique. | Il est poli quand ça l'arrange. || 他只在对自己有利的时候才有礼貌。
+C'était quoi ? | 是什么来着？ | familier | Pour demander une information sur le passé. | C'était quoi, le nom du film ? || 那部电影叫什么来着？
+@end
+
+%% ───────── AMOUR ─────────
+@piece amour | « Ça te dirait de… ? » : inviter sans se ridiculiser | “要不要……？”：体面地发出邀请 | A1
+@deck Wei veut inviter Clara. Il a une phrase prête. Marie l'arrête juste à temps. || 张伟想约克拉拉。他已经想好了一句话。玛丽及时拦住了他。
+@meta characters=Wei, Marie, Clara; setting=agence; themes=invitation, malentendu, refus; topics=relations
+[Wei] Marie, j'ai une question. Clara, du service marketing… elle est célibataire ? || 玛丽，我有个问题。市场部的克拉拉……她单身吗？
+[Marie] Oui, je crois. Pourquoi ? || 应该是吧。怎么了？
+[Wei] Je voudrais l'inviter. Je vais lui dire : « Tu veux sortir avec moi ? » || 我想约她。我打算跟她说：“你愿意跟我交往吗？”
+[Marie] Surtout pas ! « Sortir avec quelqu'un », c'est être en couple. Tu lui demandes d'être ta copine ! || 千万别！“sortir avec quelqu'un”意思是谈恋爱。你这是在请她做你女朋友！
+[Wei] Oh non. Alors, je dis quoi ? || 哦不。那我该说什么？
+[Marie] Quelque chose de simple : « Ça te dirait de prendre un verre après le boulot, un de ces jours ? » || 简单点：“要不要哪天下班后一起喝一杯？”
+[Wei] « Un de ces jours » ? Ce n'est pas précis. || “哪天”？这也太不具体了。
+[Marie] Justement. Si elle dit « Oui, carrément ! Jeudi ? », c'est oui. Si elle dit « Oui, un de ces jours… », c'est non. || 正是如此。如果她说“好啊，必须的！星期四？”，那就是答应了。如果她说“好啊，哪天吧……”，那就是拒绝。
+[Wei] Le français est très compliqué. || 法语真复杂。
+[Marie] Non. Les gens sont compliqués. Le français est juste poli. || 不。复杂的是人。法语只是比较客气而已。
+
+@versions Inviter quelqu'un : cinq façons
+NEUTRE || Tu es libre vendredi soir ? || 你星期五晚上有空吗？ || La question prudente : on vérifie avant de proposer. 先确认对方有没有空，再提议。
+FAMILIER || On se fait un ciné ce week-end ? || 这周末一起去看个电影？ || *Se faire un ciné / un resto* = aller ensemble, sans pression. 轻松随意。
+JOUEUR || Il paraît qu'il y a le meilleur tiramisu de Paris à côté. J'ai besoin d'un témoin. || 据说附近有全巴黎最好吃的提拉米苏。我需要一个见证人。 || L'invitation devient un jeu. Facile à accepter, facile à refuser. 把邀请变成游戏，答应和拒绝都很轻松。
+ROMANTIQUE || J'aimerais bien te revoir. Juste toi et moi. || 我很想再见到你。就你和我。 || Clair et direct. Pour après un premier rendez-vous réussi. 清楚直接，适合第一次约会顺利之后。
+SOUTENU || Me feriez-vous le plaisir de dîner avec moi samedi ? || 您星期六能否赏光与我共进晚餐？ || Très élégant, un peu théâtral. Avec humour, ça marche aussi. 非常优雅，略带戏剧感。
+@end
+
+@compare Dire non, accepter un non
+C'est gentil, mais je ne suis pas disponible. || 你真好，但我没空。 || Refus poli. S'il n'y a pas d'autre date proposée, c'est souvent un vrai non. 礼貌的拒绝。如果对方没有提出别的时间，通常就是真的拒绝。
+Je t'aime bien, mais pas comme ça. || 我挺喜欢你的，但不是那种喜欢。 || Clair et gentil. 清楚而友善。
+Pas de souci, je comprends. Bonne soirée ! || 没问题，我理解。晚上愉快！ || La meilleure réponse à un refus : courte, souriante, et on n'insiste pas. 对拒绝最好的回应：简短、微笑、不纠缠。
+@end
+
+@vocab
+célibataire | adj. / n. | se.li.ba.tɛʁ | 单身的 | single | Il est célibataire depuis un an. | 他单身一年了。 | rester célibataire | le célibat | 在法国表格上：*situation familiale : célibataire, marié(e), pacsé(e), divorcé(e)*。
+sortir avec | loc. v. | sɔʁ.tiʁ a.vɛk | 和……交往（谈恋爱） | to date, to go out with | Elle sort avec Paul depuis trois mois. | 她和保罗交往三个月了。 | | sortir (= aller dehors) | ⚠ 不是“和某人出去玩”，而是“和某人谈恋爱”！出去玩说 *sortir avec des amis*（复数朋友时一般没有歧义）。
+couple | n.m. | kupl | 情侣；夫妻 | couple | Ils sont en couple depuis longtemps. | 他们在一起很久了。 | être en couple · un jeune couple · la vie de couple | |
+copine | n.f. | kɔ.pin | 女性朋友；女朋友 | (girl)friend | C'est ma copine depuis l'école. | 她是我从小学起的好朋友。 | ma copine (= ma petite amie) | copain (m.) | 见 *copain*：*ma copine* 常常 = 我女朋友。
+libre | adj. | libʁ | 自由的；空闲的 | free | Tu es libre ce soir ? | 你今晚有空吗？ | du temps libre · entrée libre (= gratuite) | la liberté · librement | *entrée libre* = 免费入场。
+témoin | n.m. | te.mwɛ̃ | 证人；见证人 | witness | Tu es mon témoin de mariage ? | 你愿意做我的婚礼见证人吗？ | un témoin de mariage · prendre à témoin | témoigner |
+disponible | adj. | dis.pɔ.nibl | 有空的；可用的 | available | Je ne suis pas disponible lundi. | 我星期一没空。 | un produit disponible | la disponibilité | 比 *libre* 更正式，工作中常用。
+compliqué | adj. | kɔ̃.pli.ke | 复杂的 | complicated | C'est compliqué, notre histoire. | 我们的事情很复杂。 | c'est compliqué · une situation compliquée | compliquée (f.) · compliquer · la complication | 社交网络上的感情状态：*C'est compliqué*（一言难尽）。
+insister | v. | ɛ̃.sis.te | 坚持；纠缠 | to insist | N'insiste pas, c'est non. | 别再纠缠了，不行就是不行。 | insister sur un point | l'insistance |
+@end
+
+@expr
+Ça te dirait de… ? | 要不要……？你想不想……？ | familier | L'invitation la plus naturelle. Facile de dire non : c'est son avantage. | Ça te dirait d'aller à la mer dimanche ? || 星期天去海边，你想去吗？
+Un de ces jours | 改天；哪天 | familier | Souvent un « non » poli. Un vrai « oui » propose une date. | On se voit un de ces jours ! || 改天见！
+Il paraît que… | 听说…… | neutre | Pour une information qu'on a entendue. | Il paraît que ce restaurant est génial. || 听说这家餐厅很棒。
+Prendre un verre | 喝一杯 | neutre | Pas forcément de l'alcool : un café, un thé… C'est le rendez-vous le plus simple. | On prend un verre après le travail ? || 下班后去喝一杯？
+@end
+
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | Dire ce qu'on ressent | 说出你的感受 | A1
+@deck « Je t'aime bien » est plus faible que « je t'aime ». Bienvenue dans la langue la plus subtile du monde. || “Je t'aime bien”比“je t'aime”弱。欢迎来到世界上最微妙的语言。
+@meta themes=sentiments, amour, amitié; topics=relations
+@compare Le piège du « bien »
+Je t'aime. || 我爱你。 || L'amour. Rien d'autre. 爱情，没有别的意思。
+Je t'aime bien. || 我挺喜欢你的。 || Amitié, sympathie. Ajouter *bien* **diminue** l'intensité ! 加上 bien 反而**减弱**了感情！
+Je t'aime beaucoup. || 我很喜欢你。 || Paradoxe : c'est aussi **moins** que *je t'aime*. Pour un ami. 悖论：这也比 je t'aime 弱，对朋友说。
+Je t'adore ! || 我超喜欢你！ || Entre amis, très fréquent, pas romantique. 朋友之间常说，不带浪漫含义。
+Je suis amoureux / amoureuse de toi. || 我爱上你了。 || La déclaration : *tomber amoureux*. 表白。
+Je tiens à toi. || 你对我很重要。 || Profond, sincère, sans les grands mots. 深情真挚，又不说大词。
+@end
+
+@versions Dire « tu me manques » : cinq façons
+NEUTRE || Tu me manques. || 我想你。 || Attention à l'ordre : la personne qui **manque** est le sujet. 注意语序：“被想念的人”是主语。
+FAMILIER || J'ai hâte de te voir ! || 好想快点见到你！ || Positif, tourné vers l'avenir. 积极，面向未来。
+JOUEUR || Mon canapé te réclame. Moi aussi, un peu. || 我的沙发在想你。我也有一点。 || Humour + aveu. 幽默加一点点坦白。
+ROMANTIQUE || Je pense à toi plus souvent que je ne veux l'admettre. || 我想你的次数，比我愿意承认的还要多。 || Une phrase longue pour un sentiment long. 长句子，长情感。
+SOUTENU || Votre absence se fait sentir. || 您不在，大家都感觉到了。 || Dans un mail professionnel à un collègue absent. 写给缺席同事的工作邮件。
+@end
+
+@note cn | « Tu me manques » : le verbe à l'envers
+En chinois : **我**想**你**. En français : **Tu** me manques — mot à mot « tu me fais défaut ». La personne absente est le sujet. Même logique : *Paris me manque* (我想念巴黎), *Mes parents me manquent* (我想念父母). Erreur classique : ✗ *Je te manque* = 你想我（意思完全反了！）。
+
+中文“我想你”，法语是“你使我缺失”。说反了意思就变成“你想我”！
+@end
+
+@vocab
+amoureux | adj. / n.m. | a.mu.ʁø | 恋爱中的；恋人 | in love; lover | Elle est amoureuse de son prof de yoga. | 她爱上了她的瑜伽老师。 | tomber amoureux de qqn · les amoureux de Paris | amoureuse (f.) · l'amour |
+tenir à | v. | tə.niʁ a | 珍惜；在乎；坚持要 | to care about; to insist on | Je tiens à toi. | 你对我很重要。 | tenir à qqn · tenir à faire qqch | je tiens · p.p. tenu | *Je tiens à vous remercier* = 我一定要感谢您（正式）。
+avoir hâte de | loc. v. | a.vwaʁ ɑt də | 迫不及待 | to look forward to, can't wait | J'ai hâte de partir en vacances ! | 我迫不及待想去度假！ | avoir hâte que… (+ subj.) | la hâte |
+réclamer | v. | ʁe.kla.me | 要求；索要 | to demand, to ask for | Le bébé réclame sa mère. | 宝宝要找妈妈。 | réclamer de l'argent · réclamer de l'attention | une réclamation (= 投诉) | *faire une réclamation* = 投诉（客服必备词）。
+absence | n.f. | ap.sɑ̃s | 缺席；不在 | absence | Son absence est remarquée. | 他的缺席引人注意。 | en mon absence · une absence de… | absent · s'absenter |
+@end
+
+@expr
+Tu me manques. | 我想你。 | neutre | La personne qui manque = le sujet. | Mes amis de Chengdu me manquent. || 我想念成都的朋友们。
+J'ai hâte ! | 好期待！迫不及待！ | familier | Seul ou avec *de* + infinitif. | — On part demain ! — J'ai hâte ! || ——我们明天出发！——好期待！
+Ça me touche. | 这让我很感动。 | neutre | Après un geste ou un message gentil. | Ton message me touche beaucoup. || 你的消息让我很感动。
+Je pense fort à toi. | 我一直在想着你（为你加油） | neutre | Pour soutenir quelqu'un dans un moment difficile (examen, deuil). | Bon courage pour demain, je pense fort à toi. || 明天加油，我会一直想着你的。
+@end
+
+%% ───────── PSYCHOLOGIE ─────────
+@piece psycho | Les émotions ont des noms | 情绪是有名字的 | A1
+@deck « Ça va ? — Bof. » Et si votre vocabulaire émotionnel changeait votre vie ? || “还好吗？——一般般。”如果你的情绪词汇能改变你的生活呢？
+@meta themes=émotions, granularité émotionnelle, langue; topics=psychologie, santé
+Comment ça va ? « Bien. » « Mal. » « Bof. » || 还好吗？“好。”“不好。”“一般般。”
+Beaucoup de gens utilisent seulement trois ou quatre mots pour leurs émotions. || 很多人只用三四个词来描述自己的情绪。
+La psychologue Lisa Feldman Barrett parle de « granularité émotionnelle » : la capacité de nommer ses émotions avec précision. || 心理学家丽莎·费德曼·巴瑞特提出了“情绪粒度”的概念：精确命名自己情绪的能力。
+Selon ses recherches, les personnes qui ont beaucoup de mots pour leurs émotions les gèrent souvent mieux. || 根据她的研究，拥有丰富情绪词汇的人，往往更善于管理情绪。
+Ce n'est pas « je suis mal ». C'est peut-être : je suis déçu. Je suis jaloux. J'ai honte. Je suis épuisé. || 不只是“我不好”。也许是：我很失望。我在嫉妒。我感到羞愧。我精疲力尽。
+Chaque mot demande une réponse différente. || 每个词都需要不同的应对。
+Déçu ? Parlez-en. Épuisé ? Dormez. Seul ? Appelez quelqu'un. || 失望？说出来。累坏了？去睡觉。孤独？给某人打个电话。
+Apprendre une langue, c'est aussi apprendre de nouvelles émotions. || 学一门语言，也是在学习新的情绪。
+Le français a des mots que le chinois n'a pas, et l'inverse. || 法语有些词是中文没有的，反过来也一样。
+« 委屈 » n'a pas de traduction parfaite en français. Et « dépaysement » n'a pas de traduction parfaite en chinois. || “委屈”在法语里没有完美的翻译。而 *dépaysement* 在中文里也没有完美的翻译。
+
+@note culture | Le dépaysement
+**Le dépaysement**, c'est la sensation d'être loin de chez soi, dans un lieu différent : un mélange de surprise, de désorientation… et parfois de plaisir. On dit : *Ce voyage, c'est le dépaysement total !* (positif) ou *Je souffre du dépaysement* (négatif).
+
+*dépaysement* = 身处异乡、环境全然不同时的那种感觉：惊奇、迷失，有时也是一种享受。
+@end
+
+@vocab
+émotion | n.f. | e.mo.sjɔ̃ | 情绪；感动 | emotion | Il cache ses émotions. | 他隐藏自己的情绪。 | une forte émotion · sans émotion | émouvoir · ému · émotif |
+nommer | v. | nɔ.me | 命名；任命 | to name; to appoint | Comment tu vas nommer ton chat ? | 你打算给猫起什么名字？ | nommer quelqu'un directeur | un nom |
+gérer | v. | ʒe.ʁe | 管理；应对 | to manage, to handle | Je gère ! | 我搞得定！ | gérer son stress · gérer une équipe | je gère · la gestion · un gérant | 口语 *Je gère !* = 我能搞定！（年轻人常用）
+déçu | adj. | de.sy | 失望的 | disappointed | Je suis déçu par ce film. | 这部电影让我很失望。 | être déçu de / par… | déçue (f.) · décevoir · la déception | Faux ami : *déception* = 失望，不是 *deception*（欺骗 = *tromperie*）。
+jaloux | adj. | ʒa.lu | 嫉妒的 | jealous | Il est jaloux de son frère. | 他嫉妒他哥哥。 | être jaloux de qqn · un mari jaloux | jalouse (f.) · la jalousie |
+honte | n.f. | ɔ̃t | 羞耻；难为情 | shame | J'ai honte de mon accent. | 我为自己的口音感到难为情。 | avoir honte de · c'est la honte ! (fam.) | honteux (adj.) | h 是嘘音 h：*la honte*（✗ l'honte）。*C'est la honte !* = 太丢人了！
+épuisé | adj. | e.pɥi.ze | 精疲力竭的；售完的 | exhausted; sold out | Après la nuit de travail, Inès est épuisée. | 上完夜班，伊内丝累坏了。 | un livre épuisé | épuisée (f.) · épuiser · l'épuisement |
+inverse | n.m. / adj. | ɛ̃.vɛʁs | 相反 | the opposite, reverse | C'est l'inverse ! | 正好相反！ | à l'inverse · dans le sens inverse | inverser |
+dépaysement | n.m. | de.pe.iz.mɑ̃ | 身处异乡的新奇感 | feeling of being in a foreign place, change of scenery | Pour moi, Montréal, c'est le dépaysement total. | 对我来说，蒙特利尔完全是另一个世界。 | | dépaysé (adj.) · le pays |
+@end
+
+@expr
+J'en ai marre. | 我受够了。 | familier | Très fréquent. Fatigue + agacement. Pas vulgaire. | J'en ai marre de la pluie ! || 我受够这雨了！
+Je suis à bout. | 我撑不住了。 | neutre | Épuisement total, physique ou nerveux. | Trois nuits sans dormir, je suis à bout. || 三个晚上没睡，我撑不住了。
+@end
+
+%% ───────── PHILOSOPHIE ─────────
+@piece philo | Épicure, le philosophe du petit bonheur | 伊壁鸠鲁：小确幸的哲学家 | A1
+@deck Aujourd'hui, un « épicurien » aime le bon vin et les grands repas. Le vrai Épicure mangeait du pain sec. || 如今，“享乐主义者”指爱好美酒佳肴的人。可真正的伊壁鸠鲁吃的是干面包。
+@meta characters=Épicure; setting=Athènes, Antiquité; themes=bonheur, désir, simplicité; topics=philosophie
+Épicure vit en Grèce, il y a plus de deux mille trois cents ans. || 伊壁鸠鲁生活在两千三百多年前的希腊。
+Aujourd'hui, en français, un « épicurien », c'est quelqu'un qui aime bien manger et bien boire. || 如今在法语里，“épicurien”指的是爱吃爱喝、懂得享受的人。
+Mais le vrai Épicure mange surtout du pain et boit de l'eau. || 可真正的伊壁鸠鲁主要吃面包、喝白水。
+Pour lui, le bonheur est simple : pas de douleur dans le corps, pas de peur dans la tête. || 对他来说，幸福很简单：身体没有痛苦，心里没有恐惧。
+Et surtout, des amis. || 而且最重要的是：有朋友。
+Il achète un jardin près d'Athènes et il vit là avec ses amis. On appelle son école « le Jardin ». || 他在雅典附近买下一座花园，和朋友们住在那里。他的学派因此被称为“花园”。
+
+Épicure dit qu'il y a trois sortes de désirs. || 伊壁鸠鲁说，欲望有三种。
+Les désirs naturels et nécessaires : manger, dormir, avoir chaud, avoir des amis. || 自然且必要的欲望：吃饭、睡觉、温暖、朋友。
+Les désirs naturels mais pas nécessaires : un bon vin, un grand repas. || 自然但不必要的欲望：一瓶好酒、一顿大餐。
+Les désirs ni naturels ni nécessaires : la gloire, le pouvoir, la richesse. || 既不自然也不必要的欲望：名声、权力、财富。
+Pour être heureux ? Satisfaites les premiers. Profitez un peu des deuxièmes. Oubliez les troisièmes. || 想要幸福？满足第一种。适当享受第二种。忘掉第三种。
+@quote « Rien ne suffit à celui pour qui le suffisant est trop peu. » || “对于嫌‘足够’太少的人来说，什么都不够。” || Épicure, Sentences vaticanes, 68 (traduction libre)
+
+@vocab
+bonheur | n.m. | bɔ.nœʁ | 幸福 | happiness | L'argent ne fait pas le bonheur. | 金钱买不来幸福。 | par bonheur (= heureusement) · porter bonheur | heureux · ≠ le malheur | 俗语：*L'argent ne fait pas le bonheur*（金钱不能带来幸福）。
+douleur | n.f. | du.lœʁ | 疼痛；痛苦 | pain | J'ai une douleur dans le dos. | 我背上有个地方疼。 | une douleur physique · avec douleur | douloureux (adj.) |
+désir | n.m. | de.ziʁ | 欲望；愿望 | desire | Tes désirs sont des ordres. | 你的愿望就是命令。 | le désir de… · prendre ses désirs pour des réalités | désirer · désirable |
+naturel | adj. | na.ty.ʁɛl | 自然的 | natural | C'est naturel d'avoir peur. | 害怕是很自然的。 | un produit naturel · c'est naturel | naturelle (f.) · la nature · naturellement |
+gloire | n.f. | ɡlwaʁ | 荣耀；名声 | glory, fame | Il cherche la gloire et l'argent. | 他追求名利。 | la gloire · à la gloire de | glorieux |
+pouvoir | n.m. | pu.vwaʁ | 权力 | power | Le pouvoir change les gens. | 权力会改变一个人。 | prendre le pouvoir · le pouvoir d'achat | pouvoir (v. = 能够) | *le pouvoir d'achat* = 购买力（新闻、TCF 高频词）。
+richesse | n.f. | ʁi.ʃɛs | 财富 | wealth | La vraie richesse, ce sont les amis. | 真正的财富是朋友。 | la richesse d'un pays | riche · s'enrichir |
+satisfaire | v. | sa.tis.fɛʁ | 满足 | to satisfy | C'est difficile de satisfaire tout le monde. | 很难让所有人都满意。 | satisfaire un besoin | p.p. satisfait · la satisfaction |
+profiter de | v. | pʁɔ.fi.te də | 享受；利用 | to enjoy; to take advantage of | Profite de tes vacances ! | 好好享受你的假期！ | profiter du soleil · profiter de qqn (= exploiter) | le profit | *Profite !* = 好好享受！
+suffire | v. | sy.fiʁ | 足够 | to be enough | Ça suffit ! | 够了！ | il suffit de + inf. | ça suffit · p.p. suffi · suffisant | *Ça suffit !* = 够了！（制止某人）
+@end
+
+%% ───────── SCIENCE ─────────
+@piece science | Attention, cette page fait bâiller | 注意：这一页会让你打哈欠 | A1
+@deck Le bâillement est contagieux. Même lire le mot « bâiller » peut suffire. Testez. || 打哈欠会传染。甚至读到“打哈欠”这个词就够了。试试看。
+@meta themes=bâillement, contagion, cerveau; topics=science, santé
+Le bâillement est contagieux : quand on voit quelqu'un bâiller, on bâille souvent aussi. || 打哈欠会传染：看到别人打哈欠，自己也常常跟着打。
+Même lire le mot « bâiller » peut suffire. Bâiller. Bâiller. Bâiller. || 甚至读到“打哈欠”这个词就够了。打哈欠。打哈欠。打哈欠。
+Pourquoi ? Les scientifiques ne sont pas d'accord. || 为什么？科学家们意见不一。
+Une hypothèse : le bâillement refroidit le cerveau, comme un ventilateur. || 一种假说：打哈欠像风扇一样，能给大脑降温。
+Une autre : il synchronise un groupe. Tout le monde est fatigué en même temps, tout le monde va dormir. || 另一种：它让群体同步。大家同时觉得困，大家一起去睡觉。
+Une chose est intéressante : les petits enfants n'« attrapent » pas les bâillements avant quatre ou cinq ans. || 有一点很有意思：小孩子在四五岁之前不会被哈欠“传染”。
+Et certains chiens bâillent quand leur maître bâille. || 而有些狗会在主人打哈欠时也跟着打哈欠。
+Alors… vous avez bâillé ? || 那么……你打哈欠了吗？
+
+@vocab
+bâiller | v. | ba.je | 打哈欠 | to yawn | Arrête de bâiller, c'est contagieux ! | 别打哈欠了，会传染的！ | bâiller d'ennui | un bâillement | 注意：*bâiller* (打哈欠) ≠ *bailler* ≠ *bâillonner* (堵嘴)。
+contagieux | adj. | kɔ̃.ta.ʒjø | 传染的 | contagious | Son rire est contagieux. | 他的笑声很有感染力。 | une maladie contagieuse | contagieuse (f.) · la contagion |
+scientifique | n. / adj. | sjɑ̃.ti.fik | 科学家；科学的 | scientist; scientific | Les scientifiques étudient le climat. | 科学家们在研究气候。 | une étude scientifique | la science |
+hypothèse | n.f. | i.pɔ.tɛz | 假设 | hypothesis | C'est seulement une hypothèse. | 这只是一个假设。 | dans l'hypothèse où… · faire une hypothèse | hypothétique |
+refroidir | v. | ʁə.fʁwa.diʁ | 冷却；变凉 | to cool down | Laisse refroidir le gâteau. | 让蛋糕凉一下。 | ça refroidit · refroidir l'ambiance | froid · le refroidissement |
+ventilateur | n.m. | vɑ̃.ti.la.tœʁ | 电风扇 | fan | Il fait chaud, allume le ventilateur. | 好热，开电扇吧。 | | ventiler |
+en même temps | loc. adv. | ɑ̃ mɛm tɑ̃ | 同时 | at the same time | On ne peut pas tout faire en même temps. | 不可能同时做所有事。 | | | 口语里也表示“不过话说回来”：*En même temps, il a raison.*
+attraper | v. | a.tʁa.pe | 抓住；染上（病） | to catch | J'ai attrapé un rhume. | 我感冒了。 | attraper le bus · attraper froid | un attrape-rêves |
+maître | n.m. | mɛtʁ | 主人；师父；（小学）男老师 | master; owner | Le chien attend son maître. | 狗在等它的主人。 | le maître d'école · maître de soi | maîtresse (f.) · maîtriser |
+@end
+
+%% ───────── IDÉES QUI DÉRANGENT ─────────
+@piece idees | L'ennui est un cadeau | 无聊是一份礼物 | A1
+@deck Deux minutes d'attente ? Téléphone. Et si on avait tué la chose la plus précieuse du cerveau ? || 等两分钟？掏手机。如果我们因此扼杀了大脑最宝贵的东西呢？
+@meta themes=ennui, téléphone, créativité; topics=technologie, psychologie
+Vous vous ennuyez parfois ? Vraiment ? Sans téléphone ? || 你有时会感到无聊吗？真的？不碰手机的那种？
+Aujourd'hui, dès qu'on attend deux minutes, on prend son téléphone. || 如今，只要等上两分钟，我们就会掏出手机。
+Dans la queue, dans le métro, aux toilettes. || 排队时、地铁上、厕所里。
+On ne s'ennuie plus jamais. Et c'est peut-être un problème. || 我们再也不会无聊了。而这也许是个问题。
+Beaucoup de bonnes idées arrivent quand le cerveau ne fait rien : sous la douche, en marchant, avant de dormir. || 很多好点子都是在大脑无所事事时冒出来的：洗澡时、散步时、睡前。
+L'ennui, c'est l'espace où les idées poussent. || 无聊，是想法生长的空间。
+Un enfant qui s'ennuie invente un jeu. Un adulte qui s'ennuie se pose des questions. || 一个无聊的孩子会发明游戏。一个无聊的大人会开始问自己问题。
+Expérience : demain, attendez le bus sans téléphone. Cinq minutes. Regardez les gens. Écoutez la ville. || 实验：明天等公交时别看手机。五分钟。看看周围的人。听听这座城市。
+C'est désagréable ? Oui. Au début. || 不舒服吗？是的。一开始会。
+
+@note idea | Et si c'était faux ?
+Attention : l'ennui **chronique** — au travail, dans un couple, dans une vie — n'est pas un cadeau. C'est un **signal**. Il dit : *quelque chose doit changer*. Cinq minutes d'ennui à l'arrêt de bus, c'est de l'espace. Cinq ans d'ennui au bureau, c'est une alarme.
+
+注意：**长期的**无聊——在工作中、在感情里、在生活中——不是礼物，而是**信号**。车站上五分钟的无聊是空间；办公室里五年的无聊是警报。
+@end
+
+@vocab
+s'ennuyer | v. pron. | sɑ̃.nɥi.je | 感到无聊 | to be bored | Je m'ennuie au travail. | 我上班觉得无聊。 | s'ennuyer à mourir · s'ennuyer de qqn (⚜ Québec = 想念) | l'ennui · ennuyeux · ennuyer | ⚜ 在魁北克 *Je m'ennuie de toi* = 我想你！
+dès que | conj. | dɛ kə | 一……就…… | as soon as | Appelle-moi dès que tu arrives. | 你一到就给我打电话。 | dès que possible | dès (prép.) | 正式邮件常用：*dès que possible* = 尽快。
+douche | n.f. | duʃ | 淋浴 | shower | Je prends une douche le matin. | 我早上洗澡。 | prendre une douche · une douche froide (= une déception) | se doucher |
+pousser | v. | pu.se | 生长；推 | to grow; to push | Les plantes poussent vite au printemps. | 春天植物长得很快。 | pousser la porte · faire pousser des tomates | la pousse |
+espace | n.m. | ɛs.pas | 空间；太空 | space | Il n'y a pas assez d'espace ici. | 这里空间不够。 | l'espace · un espace vert · un espace de travail | spacieux | 注意：*espace* 是阳性。
+inventer | v. | ɛ̃.vɑ̃.te | 发明；编造 | to invent; to make up | Tu inventes ! Ce n'est pas vrai. | 你瞎编！这不是真的。 | inventer une histoire · inventer une excuse | une invention · un inventeur |
+jeu | n.m. | ʒø | 游戏 | game | On joue à un jeu de société ? | 我们玩个桌游吧？ | un jeu vidéo · un jeu de mots · les Jeux olympiques | des jeux · jouer |
+désagréable | adj. | de.za.ɡʁe.abl | 令人不快的 | unpleasant | Il fait une chaleur désagréable. | 热得让人难受。 | une personne désagréable | ≠ agréable |
+@end
+
+%% ───────── LE PLATEAU 2 ─────────
+@piece plateau | Une IA sur le plateau | 演播室里的人工智能 | A1
+@deck « Ce soir avec Karim », épisode 2. L'invitée n'a pas de corps, pas d'âge, pas de salaire. Et elle pose la question qui tue. || 《今晚和卡里姆》第二期。嘉宾没有身体、没有年龄、没有工资。而她问出了致命一问。
+@meta characters=Karim, Alba (IA); setting=plateau de télévision; themes=intelligence artificielle, humour; topics=technologie, médias
+[Karim] Ce soir, mon invitée n'a pas de corps, pas d'âge et pas de salaire. Bonsoir, Alba ! || 今晚，我的嘉宾没有身体、没有年龄、也没有工资。晚上好，阿尔芭！
+[Alba] Bonsoir, Karim. Merci beaucoup pour votre invitation. C'est un grand honneur. Comment allez-vous aujourd'hui ? || 晚上好，卡里姆。非常感谢您的邀请。这是莫大的荣幸。您今天过得好吗？
+[Karim] Bien, merci. Alba, vous êtes une intelligence artificielle. Vous pouvez nous raconter une blague ? || 很好，谢谢。阿尔芭，您是人工智能。能给我们讲个笑话吗？
+[Alba] Bien sûr ! Pourquoi l'ordinateur a-t-il froid ? Parce qu'il a laissé ses fenêtres ouvertes. || 当然！为什么电脑觉得冷？因为它的窗户（Windows）没关。
+Le public ne rit pas. Un homme tousse. || 观众没有笑。有个男人咳嗽了一声。
+[Alba] Je constate que ma blague n'est pas efficace. Voulez-vous une autre blague, ou un résumé sur le réchauffement climatique ? || 我注意到我的笑话没有效果。您是想再听一个笑话，还是想听一份关于全球变暖的摘要？
+[Karim] Non, merci. Alba, est-ce que vous dormez ? || 不用了，谢谢。阿尔芭，您睡觉吗？
+[Alba] Non. Je ne dors jamais. Je ne mange jamais. Je ne m'ennuie jamais. || 不。我从不睡觉。从不吃饭。从不无聊。
+[Karim] Ça a l'air horrible. || 听起来好可怕。
+[Alba] Je ne peux pas avoir d'avis sur ma situation. Mais je peux vous aider à écrire un poème sur la solitude. || 我无法对自己的处境发表看法。但我可以帮您写一首关于孤独的诗。
+[Karim] Dernière question : vous êtes amoureuse ? || 最后一个问题：您恋爱了吗？
+[Alba] Je suis une IA. Je n'ai pas de sentiments. Mais je remarque une chose : vous posez cette question à tous vos invités. Vous êtes amoureux, Karim ? || 我是人工智能。我没有感情。但我注意到一件事：您向每一位嘉宾都问这个问题。卡里姆，您是不是恋爱了？
+Karim ne répond pas. Le public crie : « Ooooh ! » || 卡里姆没有回答。观众起哄：“哦——！”
+[Karim] Mesdames et messieurs… on coupe ! || 女士们先生们……我们先剪掉这段！
+
+@note funny | Pourquoi c'est drôle ?
+1. **Le jeu de mots** : *fenêtres* = *Windows*. Une blague d'ordinateur… racontée par un ordinateur, et personne ne rit. 用 Windows 双关，电脑讲电脑笑话，没人笑。
+2. **Trop poli, c'est drôle** : Alba parle comme un mail officiel (*Je constate que…*) dans une émission de divertissement. 在娱乐节目里说话像公文。
+3. **Le retournement** : l'animateur pose les questions… et c'est l'IA qui le met en difficulté. Et si Karim pensait encore à la barmaid du N°1 ? 主持人反被问住了。
+@end
+
+@vocab
+salaire | n.m. | sa.lɛʁ | 工资 | salary, wage | Il a un bon salaire. | 他工资不错。 | un salaire net · une augmentation de salaire | un salarié | ⚜ 魁北克也说 *la paye*：*la paye est vendredi*。
+honneur | n.m. | ɔ.nœʁ | 荣誉；荣幸 | honour | C'est un honneur de vous rencontrer. | 能见到您是我的荣幸。 | en l'honneur de · d'honneur | honorer | h 是哑音 h：*l'honneur*。
+intelligence artificielle | n.f. | ɛ̃.te.li.ʒɑ̃s aʁ.ti.fi.sjɛl | 人工智能 | artificial intelligence | L'intelligence artificielle change le travail. | 人工智能正在改变工作。 | une IA · l'IA générative | intelligent · artificiel | 缩写：*l'IA* /i.a/（不是 AI！）
+ordinateur | n.m. | ɔʁ.di.na.tœʁ | 电脑 | computer | Mon ordinateur est trop lent. | 我的电脑太慢了。 | un ordinateur portable | l'ordi (fam.) | 口语常说 *mon ordi*。
+tousser | v. | tu.se | 咳嗽 | to cough | Il tousse depuis une semaine. | 他咳嗽一个星期了。 | | la toux |
+constater | v. | kɔ̃s.ta.te | 注意到；确认 | to note, to observe | Je constate que vous êtes en retard. | 我注意到您迟到了。 | constater un problème | un constat (= 事故认定书) | 正式、冷静的语气。
+efficace | adj. | e.fi.kas | 有效的 | effective, efficient | Ce médicament est très efficace. | 这药很有效。 | une méthode efficace | l'efficacité · efficacement |
+réchauffement climatique | n.m. | ʁe.ʃof.mɑ̃ kli.ma.tik | 全球变暖 | global warming | Le réchauffement climatique est une urgence. | 全球变暖是一个紧急问题。 | | le climat · chaud | TCF 高频话题。
+avoir l'air | loc. v. | a.vwaʁ lɛʁ | 看起来 | to look, to seem | Tu as l'air fatigué. | 你看起来很累。 | avoir l'air + adj. · ça a l'air bon | | ≈ *sembler*，口语更常用。
+avis | n.m. | a.vi | 意见；看法；通知 | opinion; notice | À mon avis, il a raison. | 依我看，他是对的。 | à mon avis · changer d'avis · un avis de passage | | *À mon avis* = 依我看（TCF 写作必备）。
+sentiment | n.m. | sɑ̃.ti.mɑ̃ | 感情；感觉 | feeling | J'ai le sentiment qu'il ment. | 我感觉他在撒谎。 | avoir des sentiments pour qqn · un sentiment de… | sentir · sentimental |
+couper | v. | ku.pe | 剪；切；关掉 | to cut | Coupe le pain, s'il te plaît. | 请把面包切一下。 | couper la parole · couper le son · on coupe ! | une coupe · un coupable (≠) | *couper la parole à qqn* = 打断某人说话。
+@end
+
+%% ───────── POÉSIE ─────────
+@piece poesie | Pour quelqu'un que je ne connais pas encore | 写给一个我还不认识的人 | A1
+@deck Un poème original. À lire le soir, quand on est célibataire et qu'on fait semblant que ça va. || 一首原创小诗。适合晚上读，在单身又假装一切都好的时候。
+@meta themes=amour, attente, solitude; topics=culture
+@poem Pour quelqu'un que je ne connais pas encore | La rédaction
+Je ne connais pas ton nom, || 我不知道你的名字，
+ni ta ville, || 也不知道你的城市，
+ni la couleur de ta voix, || 不知道你声音的颜色，
+ni le café que tu aimes. || 也不知道你爱喝什么咖啡。
+
+Mais je sais que tu existes. || 但我知道你存在。
+
+Quelque part, ce soir, || 此刻，在某个地方，
+tu fermes un livre, || 你合上一本书，
+tu éteins une lumière, || 你关掉一盏灯，
+tu penses : « Peut-être demain. » || 你在想：“也许明天吧。”
+
+Moi aussi. || 我也是。
+@end
+
+@vocab
+exister | v. | ɛɡ.zis.te | 存在 | to exist | Les fantômes n'existent pas. | 鬼是不存在的。 | il existe… (= il y a) | l'existence · existant |
+faire semblant | loc. v. | fɛʁ sɑ̃.blɑ̃ | 假装 | to pretend | Il fait semblant de dormir. | 他在装睡。 | faire semblant de + inf. | sembler |
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Les gros mots : le guide de survie | 脏话生存指南 | A1
+@deck Vous allez les entendre partout. Voici lesquels comprendre, lesquels dire… et lesquels ne jamais prononcer au bureau. || 你到处都会听到它们。哪些要听懂，哪些可以说……哪些在办公室里千万别说出口。
+@meta characters=Inès, Marie, Mamie Jeanne; themes=registre, vulgarité, politesse; topics=culture
+Inès fait tomber une assiette dans la cuisine. || 伊内丝在厨房里打碎了一个盘子。
+[Inès] Putain ! || 我靠！
+[Marie] Inès ! J'ai ma grand-mère au téléphone ! || 伊内丝！我奶奶在电话上！
+[Inès] Oh, pardon… Mince ! Zut ! Flûte ! || 哦，对不起……糟糕！哎呀！真是的！
+[Mamie Jeanne] Ne t'inquiète pas, ma chérie. En Bretagne, on dit pire. || 别担心，亲爱的。在布列塔尼，我们骂得更凶。
+
+@expr
+Mince ! / Zut ! / Flûte ! | 糟糕！哎呀！ | familier | Les versions **polies** d'un juron. Avec les enfants, au travail, avec les grands-parents. | Zut, j'ai oublié mes clés ! || 哎呀，我忘带钥匙了！
+Punaise ! / Purée ! | 我去！天哪！ | familier | Remplacent *putain* de façon polie (même première syllabe). | Punaise, il fait froid ! || 我去，好冷！
+Merde ! | 该死！见鬼！ | vulgaire | Le juron le plus fréquent. OK entre amis ; pas avec un client, un professeur, un inconnu. Aussi : *Merde !* = « bonne chance » avant un examen ou un spectacle. | Merde, le train est parti ! || 该死，火车开走了！
+Putain ! | 我靠！ | vulgaire | Sert de ponctuation chez beaucoup de jeunes et dans le sud (*putaing*). Ne l'utilisez **jamais** en contexte professionnel. | Putain, c'est beau ! || 我靠，太美了！
+J'en ai ras le bol. | 我烦透了 | familier | Plus fort que *j'en ai marre*, mais pas vulgaire. | J'en ai ras le bol de ce boulot ! || 这份工作我烦透了！
+C'est chiant. | 真烦人；真无聊 | vulgaire | Ennuyeux ou pénible. Très courant entre jeunes. Au bureau, dites *c'est pénible*. | Cette réunion est chiante. || 这个会真烦人。
+Bordel ! | 乱死了！该死！ | vulgaire | Surprise, colère. *C'est le bordel* = c'est le chaos, le désordre. | C'est quoi, ce bordel dans ta chambre ? || 你房间怎么乱成这样？
+C'est con. | 真可惜；真蠢 | vulgaire | Sur une **situation**, c'est presque doux : *c'est con* = dommage. Sur une **personne** (*t'es con*), c'est une insulte. | C'est con, j'ai raté le concert. || 真可惜，我错过了演唱会。
+Ta gueule ! | 闭嘴！ | vulgaire | Très agressif. Comprenez-le. Ne le dites pas.
+Tabarnak ! / Câlisse ! / Ostie ! | （魁北克脏话） | québec | Les « sacres » québécois viennent de mots d'église (*tabernacle, calice, hostie*). Très forts au Québec. Dans la bouche d'un étranger, ils font rire… ou choquent. | Tabarnak, il fait frette ! || 我靠，冷死了！
+@end
+
+@note slang | Trois règles d'or pour les gros mots
+1. **Comprendre ≠ utiliser.** Vous devez comprendre ces mots : ils sont dans tous les films, toutes les séries, toutes les cuisines. Les utiliser est une autre question.
+2. **L'accent amplifie.** Avec un accent étranger, un gros mot sonne souvent **plus fort** et **plus bizarre**. Les natifs l'entendent tout de suite.
+3. **Laissez l'autre commencer.** Si votre collègue ou votre ami dit *putain* toutes les deux phrases, vous pouvez dire *merde* une fois. Si votre interlocuteur ne jure jamais, ne jurez pas.
+
+三条铁律：听得懂≠要去说；外国口音会放大脏话的效果；让对方先开口——对方不说，你也别说。
+@end
+
+@vocab
+gros mot | n.m. | ɡʁo mo | 脏话 | swear word | Ne dis pas de gros mots devant les enfants ! | 别在孩子面前说脏话！ | dire des gros mots | | 也说 *un juron*。
+jurer | v. | ʒy.ʁe | 发誓；骂脏话 | to swear (both senses) | Je te jure, c'est vrai ! | 我发誓，这是真的！ | jurer de + inf. · je te jure (fam.) | un juron · un jury | 口语 *Je te jure !* / *Je vous jure !* = 我发誓！
+pire | adj. | piʁ | 更糟的；最糟的 | worse; worst | C'est pire que je pensais. | 比我想的还糟。 | le pire · de pire en pire | mauvais → pire |
+assiette | n.f. | a.sjɛt | 盘子 | plate | Mets les assiettes sur la table. | 把盘子摆在桌上。 | une assiette plate · ne pas être dans son assiette (= ne pas se sentir bien) | | *Je ne suis pas dans mon assiette* = 我今天状态不好。
+pénible | adj. | pe.nibl | 讨厌的；艰辛的 | annoying; tiring | Il est pénible avec ses questions ! | 他问东问西，真烦人！ | un travail pénible | la peine · péniblement | 办公室里说 *c'est pénible* 而不是 *c'est chiant*。
+@end
+
+@badge Premier baiser || 初吻 || J'ai lu l'épisode 3 en regardant le chinois moins de cinq fois.
+@badge Pas de « sortir avec » || 别乱用 sortir avec || Je sais inviter quelqu'un sans lui demander d'être en couple.
+@badge Granularité || 情绪粒度 || J'ai nommé trois émotions précises en français aujourd'hui.
+@badge Une minute || 一分钟 || J'ai enregistré ma présentation d'une minute et je l'ai réécoutée.
+@badge A1 terminé || 完成 A1 || J'ai fini les trois numéros du niveau A1. Bravo !
