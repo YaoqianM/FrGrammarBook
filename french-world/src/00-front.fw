@@ -1,0 +1,300 @@
+%% ───────────────────────── FRONT MATTER ─────────────────────────
+@cast Marie=玛丽, Lucas=卢卡斯, Le serveur=服务员, L'homme=男人, Inès=伊内丝, Karim=卡里姆, Camille=卡米耶, Wei=张伟, Mamie Jeanne=让娜奶奶, Théo=泰奥, Mme Lambert=朗贝尔女士, La serveuse=女服务员
+
+@piece guide | Mode d'emploi | 使用指南 |
+@deck Un magazine d'abord. Un cours de français ensuite — sans que vous le remarquiez. || 首先它是一本杂志。其次才是一门法语课——而且你几乎察觉不到。
+@h Comment lire une page || 怎么读一页
+Chaque phrase française a sa traduction chinoise juste à côté, sur la même ligne. || 每一句法语的中文翻译都在它旁边，同一行。
+Lisez d'abord le français. Regardez le chinois seulement quand vous en avez besoin. || 先读法语。只有需要的时候才看中文。
+Ensuite, cachez la colonne française et essayez de retrouver les phrases à partir du chinois. || 然后，遮住法语那一栏，试着根据中文把句子还原出来。
+C'est là que votre cerveau passe de « comprendre le français » à « penser en français ». || 正是在这一步，你的大脑会从“看懂法语”走向“用法语思考”。
+Les mots soulignés en or sont expliqués dans les cartes de vocabulaire, à la fin du texte. || 用金色下划线标出的词，在文章后面的词汇卡里有详细解释。
+Les petits numéros à gauche servent aux questions : « Relisez la phrase 12. » || 左边的小数字是给练习题用的：“请重读第12句。”
+
+@h Les étiquettes || 标签说明
+Chaque article porte un niveau : A1, A2, B1, B2 ou C1. Le magazine monte lentement, numéro après numéro. || 每篇文章都标有级别：A1、A2、B1、B2 或 C1。杂志一期一期地慢慢升级。
+Les expressions ont un registre : NEUTRE, FAMILIER, VULGAIRE, SOUTENU ou QUÉBEC. || 每个表达都标有语域：中性、口语、粗俗、正式或魁北克用法。
+« Vulgaire » ne veut pas dire « interdit ». Ça veut dire : sachez exactement avec qui et quand vous l'utilisez. || “粗俗”不等于“禁止”。它的意思是：你必须清楚该对谁、在什么时候说。
+Les encadrés ⚜ AU QUÉBEC montrent comment on parle à Montréal, parce que vous allez peut-être y vivre. || 标有“⚜ 在魁北克”的方框告诉你蒙特利尔人怎么说话——因为你也许会在那里生活。
+
+@h Un rythme de magazine || 杂志的节奏
+Ici, rien ne dure trop longtemps. Une histoire, puis une blague, puis une idée qui dérange, puis une phrase à dire à quelqu'un ce soir. || 这里没有什么会拖得太久。一个故事，接着一个笑话，然后一个颠覆性的观点，再来一句今晚就能对某人说的话。
+Un feuilleton suit Marie et Lucas du premier café jusqu'à Montréal. Leur français grandit avec le vôtre. || 一部连载故事跟随玛丽和卢卡斯，从第一杯咖啡一直走到蒙特利尔。他们的法语和你的一起成长。
+À la fin de chaque numéro, un carnet de progrès compte vos mots et vous donne des badges. Cochez-les avec votre stylet. || 每期结尾都有一个进度手册，统计你的词汇量并给你颁发成就。用你的触控笔把它们勾上吧。
+
+@note tip | Écouter sans audio · 没有音频怎么听
+Ce magazine n'a pas de fichiers audio. Chaque mot nouveau a sa prononciation en **API** (alphabet phonétique international), par exemple *entretien* /ɑ̃.tʁə.tjɛ̃/.
+
+**Sur iPad :** Réglages → Accessibilité → Contenu énoncé → activez « Énoncer la sélection ». Sélectionnez une phrase française dans le PDF et touchez « Énoncer ». Choisissez une voix française (France ou Canada) dans « Voix ».
+
+本杂志没有音频文件，但每个生词都标注了国际音标。**在 iPad 上**：设置 → 辅助功能 → 朗读内容 → 打开“朗读所选项”，在 PDF 中选中一句法语，点“朗读”即可。可以在“声音”里选择法国或加拿大的法语语音。
+@end
+
+@h Votre plan sur six mois || 六个月学习计划
+Votre TCF Canada est dans six mois : le magazine est construit pour ce calendrier. || 你的 TCF 加拿大考试在六个月后：这本杂志就是按这个时间表设计的。
+@md
+| Semaines · 周 | Lire · 阅读 | Objectif · 目标 |
+|---|---|---|
+| 1–6 | N°1 → N°3 (A1) | lire des textes courts, se présenter, commander, poser des questions · 读懂短文，自我介绍，点餐，提问 |
+| 7–12 | N°4 → N°6 (A2) | raconter au passé, parler de travail et de logement · 用过去时讲故事，谈工作和住房 |
+| 13–18 | N°7 → N°9 (B1) | donner son avis, imaginer, argumenter · 表达观点，假设，论证 |
+| 19–24 | N°10 → N°13 (B2 → C1) | nuancer, débattre, comprendre l'implicite · 表达细微差别，辩论，理解言外之意 |
+| 25–26 | Section TCF Canada | tests blancs, écrit et oral · 模拟题，写作与口语 |
+
+**Une séance type (30–40 min) · 每天一次（30–40 分钟）：**
+
+1. Lire un article sans dictionnaire (10 min) · 不查词典读一篇文章
+2. Relire avec le chinois et les cartes de vocabulaire (10 min) · 对照中文和词汇卡再读一遍
+3. Cacher le français, retrouver 5 phrases à partir du chinois (5 min) · 遮住法语，根据中文还原 5 个句子
+4. Lire 5 phrases à voix haute (5 min) · 大声朗读 5 个句子
+5. Le soir : revoir les mots dans Anki — le fichier `anki_vocabulary.tsv` est fourni (5 min) · 晚上用 Anki 复习单词（附有导入文件）
+@end
+
+@h Les personnages du feuilleton || 连载人物
+[Marie] 27 ans, graphiste, née à Lyon, vit à Paris. Drôle, prudente, elle doute trop d'elle-même. || 27岁，平面设计师，生于里昂，住在巴黎。风趣、谨慎，太容易怀疑自己。
+[Lucas] 31 ans, ingénieur en intelligence artificielle. Il lit des romans d'occasion et ne dit jamais ce qu'il ressent. || 31岁，人工智能工程师。爱读二手小说，从不说出自己的感受。
+[Inès] La colocataire de Marie. Infirmière, directe, généreuse, elle jure comme un marin. || 玛丽的室友。护士，直率，大方，说起脏话来像个水手。
+[Karim] Le meilleur ami de Lucas. Humoriste de stand-up, il anime le talk-show Le Plateau. || 卢卡斯最好的朋友。单口喜剧演员，主持脱口秀《Le Plateau》。
+[Camille] La sœur de Lucas. Elle vit à Montréal depuis dix ans et parle comme une vraie Québécoise. || 卢卡斯的妹妹。在蒙特利尔住了十年，说话像个地道的魁北克人。
+[Wei] Le collègue de Marie, arrivé de Chengdu il y a deux ans. Il apprend le français… comme vous. || 玛丽的同事，两年前从成都来。他也在学法语……和你一样。
+[Mamie Jeanne] La grand-mère de Marie, en Bretagne. Elle a 84 ans et un secret. || 玛丽的奶奶，住在布列塔尼。她84岁，藏着一个秘密。
+[Théo] L'ex de Marie. Charmant. Trop charmant. || 玛丽的前男友。很有魅力。魅力过头了。
+
+%% ───────────────────────── L'OUVERTURE ─────────────────────────
+@piece ouverture | Une rencontre inattendue | 一次意外的相遇 | A1 → B1
+@deck Une seule histoire, trois pages, trois niveaux. Lisez-la aujourd'hui… et relisez la dernière page dans trois mois. || 一个故事，三页，三个级别。今天读一遍……三个月后再读最后一页。
+@meta characters=Marie, Lucas, le serveur; setting=café, Paris; themes=rencontre, entretien d'embauche, confiance en soi; topics=travail, vie quotidienne
+
+@part A1 | Un matin à Paris | 巴黎的一个早晨
+Il est huit heures du matin. Marie quitte son appartement. || 早上八点。玛丽走出她的公寓。
+Elle habite dans un petit quartier de Paris, près du canal Saint-Martin. || 她住在巴黎的一个小街区，离圣马丁运河不远。
+Il fait froid, mais le soleil brille. || 天很冷，但阳光灿烂。
+Marie porte un manteau noir et une écharpe rouge. || 玛丽穿着一件黑色大衣，围着一条红围巾。
+Elle marche vite. Aujourd'hui, c'est un jour important. || 她走得很快。今天是个重要的日子。
+
+À neuf heures, elle a un entretien pour un nouveau travail. || 九点钟，她有一场新工作的面试。
+Elle est un peu nerveuse. || 她有点紧张。
+« Tout va bien se passer, pense-t-elle. Tout va bien se passer. » || “一切都会顺利的，”她心想，“一切都会顺利的。”
+Avant le métro, elle entre dans un petit café. || 坐地铁之前，她走进一家小咖啡馆。
+Il fait chaud à l'intérieur. Ça sent le pain grillé et le chocolat. || 店里很暖和。空气里飘着烤面包和巧克力的香味。
+
+[Marie] Bonjour ! Un café au lait, s'il vous plaît. || 您好！请来一杯牛奶咖啡。
+[Le serveur] Bien sûr. Sur place ou à emporter ? || 好的。在这儿喝还是带走？
+[Marie] Sur place, merci. || 在这儿喝，谢谢。
+[Le serveur] Et avec ça ? Un croissant ? || 还要点别的吗？来个可颂？
+[Marie] Non, merci. C'est tout. || 不用了，谢谢。就这些。
+
+Marie s'assoit à une petite table. Elle regarde son téléphone : 8 h 12. || 玛丽在一张小桌子旁坐下。她看了看手机：8点12分。
+Elle a encore un peu de temps. || 她还有一点时间。
+
+@vocab
+quitter | v. | ki.te | 离开（某地、某人） | to leave (a place, a person) | Je quitte le bureau à six heures. | 我六点离开办公室。 | quitter la maison · quitter son travail · quitter quelqu'un | je quitte, nous quittons · p.p. quitté | Faux ami : *to quit smoking* = arrêter de fumer, pas « quitter de fumer ».
+quartier | n.m. | kaʁ.tje | 街区；城区 | neighbourhood, district | Mon quartier est calme le soir. | 我住的街区晚上很安静。 | un quartier animé · le quartier latin · les gens du quartier | | ⚜ Au Québec, on dit aussi « le coin » : *Il habite dans le coin.*
+froid | adj. / n.m. | fʁwa | 冷的；寒冷 | cold | Il fait froid ce matin. | 今天早上很冷。 | il fait froid · avoir froid · un café froid | froide (f.) · le froid · refroidir | 天气冷用 *il fait froid*；人觉得冷用 *j'ai froid*（不是 *je suis froid*！）
+briller | v. | bʁi.je | 发光；闪耀 | to shine | Le soleil brille sur la Seine. | 阳光照耀着塞纳河。 | le soleil brille · des yeux qui brillent | brillant (adj.) |
+porter | v. | pɔʁ.te | 穿着；戴着；拿着 | to wear; to carry | Elle porte une robe bleue. | 她穿着一条蓝色连衣裙。 | porter un manteau · porter des lunettes · porter un sac | le port · un porteur | 法语“穿”“戴”都用 *porter*：porter une écharpe / des lunettes / un chapeau。
+manteau | n.m. | mɑ̃.to | 大衣；外套 | (winter) coat | Prends ton manteau, il fait froid ! | 带上大衣，天冷！ | un manteau chaud · mettre son manteau | des manteaux (pl.) |
+écharpe | n.f. | e.ʃaʁp | 围巾 | scarf | Il oublie toujours son écharpe. | 他总是忘带围巾。 | une écharpe en laine · nouer son écharpe | | ⚜ Au Québec : « un foulard ».
+entretien | n.m. | ɑ̃.tʁə.tjɛ̃ | 面试；会谈 | interview; meeting | J'ai un entretien demain matin. | 我明天上午有个面试。 | un entretien d'embauche · passer un entretien · un entretien téléphonique | s'entretenir avec qqn (soutenu) | *Passer un entretien* = 参加面试（不是“通过”）。
+nerveux | adj. | nɛʁ.vø | 紧张的 | nervous | Je suis toujours nerveux avant un examen. | 考试前我总是很紧张。 | être nerveux · un rire nerveux | nerveuse (f.) · la nervosité | 口语里也常说 *stressé(e)*。
+se passer | v. pron. | sə pa.se | 发生；进行（得怎么样） | to happen; to go (well/badly) | Comment ça s'est passé ? | 进行得怎么样？ | ça se passe bien · tout va bien se passer · qu'est-ce qui se passe ? | passer (v.) · un passage |
+sentir | v. | sɑ̃.tiʁ | 闻起来；感觉到 | to smell; to feel | Ça sent bon ici ! | 这里好香！ | ça sent bon / mauvais · sentir le café · se sentir bien | je sens, nous sentons · p.p. senti · un sentiment |
+s'asseoir | v. pron. | sa.swaʁ | 坐下 | to sit down | Asseyez-vous, je vous en prie. | 请坐。 | s'asseoir à une table · s'asseoir par terre | je m'assois / je m'assieds · p.p. assis | Deux conjugaisons possibles : *je m'assois* (plus courant) et *je m'assieds*.
+encore | adv. | ɑ̃.kɔʁ | 还；仍然；再 | still; again; more | Tu es encore là ? | 你还在这儿？ | encore un peu · pas encore · encore une fois | |
+@end
+
+@expr
+Sur place ou à emporter ? | 在这儿吃还是带走？ | neutre | La question classique au café et à la boulangerie. | — À emporter, s'il vous plaît. || ——带走，谢谢。
+Et avec ça ? | 还要别的吗？ | familier | Le vendeur demande si vous voulez autre chose. Très parisien. | — Et avec ça ? — Ce sera tout, merci. || ——还要别的吗？——就这些，谢谢。
+C'est tout. | 就这些。 | neutre | Pour finir une commande. Plus poli : *Ce sera tout.* | Non merci, c'est tout. || 不用了，谢谢，就这些。
+Tout va bien se passer. | 一切都会顺利的。 | neutre | Pour rassurer quelqu'un… ou soi-même. | Respire. Tout va bien se passer. || 深呼吸。一切都会顺利的。
+@end
+
+@rappel Le présent des verbes en -er | -er 动词的现在时 | A1 | 5
+On enlève **-er** et on ajoute : je **-e**, tu **-es**, il/elle **-e**, nous **-ons**, vous **-ez**, ils/elles **-ent**. À l'oral, *parle, parles, parlent* sonnent pareil. Pas de forme « -ing » : *elle marche* = 她走 / 她在走。
+= Marie **quitte** son appartement. Elle **habite** près du canal. || 玛丽离开公寓。她住在运河边。
+@end
+
+@q Rappel rapide · Quick recall
+Traduisez en français. *把下面的句子翻译成法语。*
+
+1. 我住在巴黎。
+2. 她有点紧张。
+3. 您好，请来一杯牛奶咖啡。
+4. 今天天很冷，但阳光灿烂。
+@end
+@a
+1. J'habite à Paris.  2. Elle est un peu nerveuse.  3. Bonjour, un café au lait, s'il vous plaît.  4. Aujourd'hui, il fait froid, mais le soleil brille.
+@end
+
+@part A2 | Une petite surprise | 一个小惊喜
+Pendant qu'elle attend son café, Marie remarque un homme près de la fenêtre. || 等咖啡的时候，玛丽注意到窗边有个男人。
+Il a une trentaine d'années, une barbe de trois jours et un vieux livre à la main. || 他三十岁上下，留着胡茬，手里拿着一本旧书。
+Il lit, il sourit tout seul, il boit son espresso sans regarder la tasse. || 他看着书，一个人微笑，喝浓缩咖啡时眼睛都不看杯子。
+Soudain, il se lève pour prendre un journal. Son téléphone glisse de sa poche et tombe sous la table voisine. || 突然，他起身去拿报纸。手机从他口袋里滑出来，掉到了旁边那张桌子底下。
+Il n'a rien entendu. || 他什么都没听见。
+Marie hésite une seconde, puis elle se penche et ramasse le téléphone. || 玛丽犹豫了一秒，然后弯下腰，把手机捡了起来。
+
+[Marie] Excusez-moi… Je crois que vous avez fait tomber votre téléphone. || 不好意思……您的手机好像掉了。
+[L'homme] Ah ! Merci beaucoup. Je ne l'ai même pas senti. || 啊！太谢谢了。我一点都没感觉到。
+[Marie] Vous avez eu de la chance : il est tombé juste à côté de mon café. || 您运气不错：它就掉在我的咖啡旁边。
+[L'homme] Le pauvre. Il est déjà tombé deux fois cette semaine. || 可怜的家伙。这周它已经摔了两次了。
+[Marie] Alors il a besoin de vacances. || 那它该休个假了。
+L'homme rit. Un rire simple, un peu timide. || 男人笑了。笑声很简单，有点腼腆。
+
+[L'homme] Je m'appelle Lucas. || 我叫卢卡斯。
+[Marie] Marie. Enchantée. || 玛丽。很高兴认识您。
+Lucas lui montre son livre : un vieux roman de Simenon, avec une couverture jaune toute abîmée. || 卢卡斯给她看他的书：一本西默农的旧小说，黄色封面已经破破烂烂。
+[Lucas] Je l'ai trouvé hier chez un bouquiniste, sur les quais de Seine. Deux euros. || 我昨天在塞纳河边的旧书摊上淘到的。两欧元。
+[Marie] Et il est bien ? || 好看吗？
+[Lucas] Pour l'instant, oui. Mais je suis seulement à la page vingt. || 目前为止还不错。不过我才看到第二十页。
+
+Ils commencent à discuter. Lucas travaille dans une entreprise de technologie : il entraîne des intelligences artificielles. || 他们聊了起来。卢卡斯在一家科技公司工作：他负责训练人工智能。
+[Marie] Vous apprenez à des machines à parler ? || 您是在教机器说话吗？
+[Lucas] Plus ou moins. Mais le soir, je préfère les livres. Eux, au moins, ils ne plantent jamais. || 差不多吧。不过晚上我更喜欢看书。书嘛，至少从来不会死机。
+Marie lui explique qu'elle a un entretien ce matin, pour un poste de graphiste dans une agence. || 玛丽告诉他，她今天上午有个面试，应聘一家设计公司的平面设计师职位。
+[Lucas] Alors je vous souhaite bonne chance. Vraiment. || 那祝您好运。真心的。
+
+@vocab
+remarquer | v. | ʁə.maʁ.ke | 注意到；发现 | to notice | Tu as remarqué quelque chose ? | 你注意到什么了吗？ | remarquer une différence · se faire remarquer | une remarque · remarquable | Faux ami : *to remark* = faire une remarque.
+une trentaine | n.f. | tʁɑ̃.tɛn | 三十左右 | about thirty | Il a une trentaine d'années. | 他三十岁上下。 | une dizaine · une vingtaine · une centaine | trente (num.) | *-aine* = “大约……”：une dizaine de personnes（十来个人）。
+barbe | n.f. | baʁb | 胡子 | beard | Il se laisse pousser la barbe. | 他开始留胡子。 | une barbe de trois jours · se raser la barbe | barbu (adj.) | *Quelle barbe !* = 真烦人！（口语，有点老派）
+glisser | v. | ɡli.se | 滑；滑落 | to slip, to slide | Attention, ça glisse ! | 小心，地滑！ | glisser sur la glace · glisser un mot à quelqu'un | glissant (adj.) · une glissade |
+poche | n.f. | pɔʃ | 口袋 | pocket | J'ai mis les clés dans ma poche. | 我把钥匙放进口袋了。 | la poche de son manteau · un livre de poche · l'argent de poche | | *un livre de poche* = 平装口袋书
+hésiter | v. | e.zi.te | 犹豫 | to hesitate | N'hésitez pas à me poser des questions. | 有问题尽管问我。 | hésiter entre deux choses · sans hésiter | une hésitation | *N'hésitez pas à…* = 别客气，尽管……（邮件里非常常用）
+se pencher | v. pron. | sə pɑ̃.ʃe | 弯腰；俯身 | to lean, to bend down | Il se penche vers elle. | 他向她俯过身去。 | se pencher par la fenêtre · se pencher sur un problème | penché (adj.) | *se pencher sur une question* = 认真研究一个问题（B1）
+ramasser | v. | ʁa.ma.se | 捡起 | to pick up | Ramasse tes affaires ! | 把你的东西捡起来！ | ramasser un papier · ramasser des champignons | le ramassage |
+faire tomber | loc. v. | fɛʁ tɔ̃.be | 把……弄掉 | to drop (something) | J'ai fait tomber mon verre. | 我把杯子弄掉了。 | faire tomber ses clés · faire tomber quelqu'un | tomber (v.) · une chute | *tomber* = 自己掉；*faire tomber qqch* = 让某物掉下（使役结构）。
+rire | v. / n.m. | ʁiʁ | 笑；笑声 | to laugh; laughter | Elle rit tout le temps. | 她总是在笑。 | éclater de rire · mourir de rire · un fou rire | je ris, nous rions · p.p. ri · rigolo (fam.) |
+abîmé | adj. | a.bi.me | 损坏的；破旧的 | damaged, worn | Mon téléphone est un peu abîmé. | 我的手机有点坏了。 | un livre abîmé · des cheveux abîmés | abîmer (v.) |
+bouquiniste | n.m./f. | bu.ki.nist | 旧书商 | second-hand bookseller | Les bouquinistes de Paris vendent des livres depuis le XVIᵉ siècle. | 巴黎的旧书商从16世纪起就在卖书了。 | les bouquinistes des quais | un bouquin (fam. = un livre) · bouquiner (fam.) | *un bouquin* = 书（口语），非常常用。
+planter | v. | plɑ̃.te | 种植；（口语）死机，崩溃；放鸽子 | to plant; (inf.) to crash; to stand someone up | Mon ordi a encore planté. | 我的电脑又死机了。 | planter un arbre · l'appli plante · planter quelqu'un (fam.) | une plante · une plantation | *Il m'a plantée au restaurant* = 他在餐厅放了我鸽子（口语）。
+poste | n.m. | pɔst | 职位；岗位 | position, job | Elle cherche un poste de graphiste. | 她在找一个平面设计师的职位。 | un poste à pourvoir · un poste fixe | | 注意：*la poste*（阴性）= 邮局！
+@end
+
+@expr
+Je crois que… | 我觉得……；好像…… | neutre | Adoucit une phrase. Plus poli que d'affirmer directement. | Je crois que tu as raison. || 我觉得你说得对。
+Enchanté(e). | 幸会；很高兴认识你 | neutre | Quand on vous présente quelqu'un. Une femme écrit *enchantée*, mais la prononciation est la même. | — Je vous présente Karim. — Enchantée ! || ——我给您介绍一下卡里姆。——幸会！
+Avoir de la chance | 运气好 | neutre | Le contraire : *ne pas avoir de chance* (plus naturel que « avoir de la malchance »). | Tu as de la chance d'habiter ici ! || 你住在这儿真幸运！
+Bonne chance ! | 祝你好运！ | neutre | Avant un examen, un entretien. Entre amis, on dit aussi *Merde !* pour porter chance (théâtre, examens) — on ne répond pas « merci ». | Bonne chance pour demain ! || 明天祝你好运！
+Pour l'instant | 目前；暂时 | neutre | = pour le moment. | Pour l'instant, tout va bien. || 目前一切都好。
+@end
+
+@compare Dire la même chose, plus ou moins directement
+Vous avez fait tomber votre téléphone. || 您的手机掉了。 || Correct, mais très direct, presque un reproche. 正确，但很直接，几乎像是在指责。
+Je crois que vous avez fait tomber votre téléphone. || 您的手机好像掉了。 || Plus doux : *je crois que* laisse une porte ouverte. 更柔和：“我觉得”给对方留了余地。
+Pardon, c'est à vous ? || 不好意思，这是您的吗？ || Le plus naturel quand on tend l'objet. 递上东西时最自然的说法。
+@end
+
+@rappel Le passé composé | 复合过去时 | A2 | 11
+**avoir/être** au présent + participe passé = une action terminée. La négation entoure l'auxiliaire.
+= Il **n'a rien entendu**. Il **est** déjà **tombé** deux fois. || 他什么也没听见。它已经摔了两次。
+@end
+
+@note think | Le français aime les petits mots qui adoucissent
+En chinois, on dit simplement « 您手机掉了 » ; le ton fait le reste. En français, les mots adoucissants (*je crois que, pardon, excusez-moi, peut-être*) portent la politesse. Sans eux, une phrase correcte peut sonner sèche.
+
+中文靠语气表达礼貌；法语则更依赖这些“缓冲词”。没有它们，一句语法正确的话也可能显得生硬。
+@end
+
+@part B1 | Une conversation inattendue | 一场意想不到的对话
+Quelques minutes plus tard, Marie jette un coup d'œil à l'horloge et se rend compte qu'elle risque d'être en retard. || 几分钟后，玛丽瞥了一眼墙上的钟，意识到自己可能要迟到了。
+Elle avale la fin de son café et range ses affaires un peu trop vite : un stylo tombe, puis son CV. || 她一口喝完剩下的咖啡，匆匆收拾东西，动作太急：先掉了一支笔，接着是她的简历。
+Cette fois, c'est Lucas qui se penche. || 这一次，弯腰去捡的是卢卡斯。
+[Lucas] Voilà. On est quittes. Vous avez l'air pressée… et un peu inquiète, non ? || 给。这下我们扯平了。您看起来很赶……而且有点担心，对吧？
+[Marie] Ça se voit tant que ça ? C'est un entretien important, et honnêtement, je ne sais pas trop à quoi m'attendre. || 这么明显吗？这场面试很重要，说实话，我不太知道会遇到什么。
+
+Lucas referme son livre. || 卢卡斯合上了书。
+[Lucas] Vous savez, j'ai passé pas mal d'entretiens. Au début, je croyais qu'il fallait avoir la réponse parfaite à chaque question. || 您知道吗，我参加过不少面试。一开始，我以为每个问题都得有完美的答案。
+[Lucas] Je préparais des phrases par cœur, je les répétais devant le miroir… et le jour J, je récitais. On aurait dit un robot. || 我会提前背好句子，对着镜子一遍遍练……到了正式那天，我就开始背书。简直像个机器人。
+[Marie] Et ça n'a pas marché ? || 结果没成功？
+[Lucas] Pas du tout. Un jour, une recruteuse m'a arrêté au milieu d'une réponse. Elle m'a dit : « D'accord. Maintenant, dites-moi ce que vous pensez vraiment. » || 完全没有。有一次，一位招聘官在我回答到一半时打断了我。她说：“好的。现在，告诉我您真正的想法。”
+[Lucas] C'est là que j'ai compris : ce n'est pas forcément la perfection qu'on attend de nous. || 就在那一刻我明白了：别人期待我们的，未必是完美。
+[Marie] Qu'est-ce qui compte, alors ? || 那什么才重要呢？
+[Lucas] Être capable d'expliquer clairement ce que vous savez faire — et d'admettre ce que vous ne savez pas encore faire. || 能清楚地说明您会做什么——也敢承认您还不会做什么。
+[Lucas] Les recruteurs ne cherchent pas quelqu'un qui sait tout. Ils cherchent quelqu'un avec qui ils ont envie de travailler : quelqu'un qui apprend, qui réfléchit, qui écoute. || 招聘的人要找的不是一个无所不知的人。他们要找的是一个让他们愿意共事的人：会学习、会思考、会倾听的人。
+
+Marie reste silencieuse un instant. Toute la semaine, elle avait appris des réponses par cœur ; elle n'avait presque pas pensé à la personne qu'elle voulait montrer. || 玛丽沉默了片刻。这一整周，她都在背答案；却几乎没想过自己想展现的是一个什么样的人。
+[Marie] C'est drôle… J'avais oublié qu'un entretien, c'est aussi l'occasion pour moi de découvrir l'entreprise. || 真有意思……我都忘了，面试对我来说也是了解这家公司的机会。
+[Lucas] Exactement. Ce n'est pas un examen où une seule personne pose les questions. C'est une conversation entre deux parties qui se demandent si elles peuvent avancer ensemble. || 没错。这不是一场只有一方提问的考试。这是一场对话，双方都在想：我们能不能一起往前走。
+Marie se lève, son CV à la main. || 玛丽站起身，手里拿着简历。
+[Marie] Merci. Vous venez de me donner une bonne raison d'avoir confiance en moi. || 谢谢。您刚刚给了我一个相信自己的好理由。
+[Lucas] Alors allez-y. Et surtout, restez vous-même. || 那就去吧。最重要的是，做您自己。
+
+Elle sort. Dans la rue, le soleil est toujours là. || 她走了出去。街上，阳光依旧。
+Elle ne se retourne pas. Mais elle sourit. || 她没有回头。但她在微笑。
+Lucas, lui, se rend compte d'une chose : il ne connaît que son prénom. || 而卢卡斯意识到一件事：他只知道她的名字。
+
+@vocab
+jeter un coup d'œil | loc. v. | ʒə.te œ̃ ku dœj | 瞥一眼；看一下 | to take a quick look | Tu peux jeter un coup d'œil à mon CV ? | 你能帮我看一眼简历吗？ | jeter un coup d'œil à qqch · d'un coup d'œil | un œil, des yeux | 求人帮忙看文件时超级常用。
+se rendre compte | v. pron. | sə ʁɑ̃dʁ kɔ̃t | 意识到；发觉 | to realize | Je me suis rendu compte de mon erreur. | 我意识到了自己的错误。 | se rendre compte que… · se rendre compte de qqch · tu te rends compte ? | un compte rendu (= un rapport) | Faux ami : *réaliser* signifie d'abord « concrétiser » (réaliser un rêve) ; à l'oral, on l'utilise aussi pour *to realize*, mais *se rendre compte* reste plus sûr.
+risquer de | v. | ʁis.ke də | 有可能……（多指不好的事） | to be likely to, to risk | Dépêche-toi, on risque de rater le train. | 快点，我们可能赶不上火车了。 | risquer de + infinitif · prendre un risque | le risque · risqué (adj.) |
+avaler | v. | a.va.le | 吞下；一口喝完 | to swallow, to gulp down | Il avale son sandwich en deux minutes. | 他两分钟就把三明治吞下去了。 | avaler un médicament · avaler la pilule (= accepter qqch de désagréable) | | *J'ai du mal à avaler ça* = 这事我很难接受。
+ranger | v. | ʁɑ̃.ʒe | 整理；收拾 | to tidy up, to put away | Range ta chambre ! | 收拾你的房间！ | ranger ses affaires · ranger la vaisselle | le rangement · rangé (adj.) | nous rangeons (le -e- garde le son /ʒ/).
+quitte | adj. | kit | 两清的；扯平的 | even, quits | Tu m'as invité hier, je t'invite aujourd'hui : on est quittes. | 你昨天请了我，今天我请你：我们扯平了。 | être quitte · on est quittes · quitte à + inf. (B2) | |
+pressé | adj. | pʁɛ.se | 匆忙的；赶时间的 | in a hurry | Désolé, je suis pressé. | 抱歉，我赶时间。 | être pressé · un citron pressé | presser (v.) · la pression |
+s'attendre à | v. pron. | sa.tɑ̃dʁ a | 预料到；期待 | to expect | Je ne m'attendais pas à ça ! | 我没想到会这样！ | s'attendre à qqch · s'attendre à ce que + subj. (B2) | une attente · inattendu (adj.) | Notre titre : *Une rencontre inattendue*.
+pas mal de | loc. | pa mal də | 不少；相当多 | quite a lot of | Il y a pas mal de monde ce soir. | 今晚人挺多的。 | pas mal de gens · pas mal de temps | pas mal (= plutôt bien) | 口语极常用。*C'est pas mal* = 还不错（其实常常是“挺好”）。
+par cœur | loc. adv. | paʁ kœʁ | 背诵；熟记 | by heart | Je connais ce film par cœur. | 这部电影我熟得能背下来。 | apprendre par cœur · savoir par cœur | le cœur |
+le jour J | loc. n.m. | lə ʒuʁ ʒi | 关键的那一天；D日 | D-Day, the big day | Le jour J, tout le monde est stressé. | 到了那天，所有人都很紧张。 | | | 源自1944年诺曼底登陆。
+recruteur | n.m. | ʁə.kʁy.tœʁ | 招聘人员 | recruiter | Le recruteur m'a rappelé ce matin. | 招聘官今天上午给我回了电话。 | un cabinet de recrutement | recruteuse (f.) · recruter · le recrutement |
+forcément | adv. | fɔʁ.se.mɑ̃ | 必然；一定 | necessarily | Ce n'est pas forcément vrai. | 这不一定是真的。 | pas forcément · forcément ! (= évidemment) | forcer · la force |
+admettre | v. | ad.mɛtʁ | 承认；接纳 | to admit | J'admets que j'ai eu tort. | 我承认我错了。 | admettre une erreur · être admis (à un examen) | p.p. admis · l'admission |
+avoir envie de | loc. v. | a.vwaʁ ɑ̃.vi də | 想要；很想（做） | to feel like, to want | J'ai envie d'un chocolat chaud. | 我想喝杯热巧克力。 | avoir envie de + nom / + infinitif · donner envie | une envie | Plus naturel et plus spontané que *vouloir*.
+avoir confiance en soi | loc. v. | a.vwaʁ kɔ̃.fjɑ̃s ɑ̃ swa | 有自信 | to be self-confident | Elle a enfin confiance en elle. | 她终于有自信了。 | avoir confiance en qqn · faire confiance à qqn | confiant (adj.) · se confier | *faire confiance à qqn* = 信任某人：*Fais-moi confiance.*
+se retourner | v. pron. | sə ʁə.tuʁ.ne | 转身；回头 | to turn around | Ne te retourne pas ! | 别回头！ | se retourner vers qqn | retourner (v.) · un retour |
+@end
+
+@expr
+On est quittes. | 我们扯平了。 | familier | Après un service rendu en retour. Souvent avec un sourire. | Tu as payé le café, je paie le dîner : on est quittes ! || 你付了咖啡，我付晚饭：我们扯平了！
+Ça se voit (tant que ça) ? | （有那么）明显吗？ | familier | Quand quelqu'un devine votre émotion. | — Tu es amoureux ! — Ça se voit tant que ça ? || ——你恋爱了！——有那么明显吗？
+Je ne sais pas à quoi m'attendre. | 我不知道会怎样。 | neutre | Avant un événement inconnu : entretien, premier rendez-vous, nouveau pays. | Je pars à Montréal et je ne sais pas à quoi m'attendre. || 我要去蒙特利尔了，不知道会是什么样。
+On aurait dit… | 简直像……；看起来就像…… | familier | Pour une comparaison vivante. | Il parlait sans s'arrêter, on aurait dit une radio. || 他说个不停，简直像台收音机。
+C'est là que… | 就是在那时/那里…… | neutre | Pour marquer le moment clé d'une histoire. | C'est là que j'ai compris. || 就在那时我明白了。
+Restez vous-même. / Sois toi-même. | 做您自己／做你自己 | neutre | Conseil classique avant un entretien ou un rendez-vous. | Ne joue pas un rôle. Sois toi-même. || 别演戏。做你自己。
+@end
+
+@rappel Imparfait ou passé composé ? | 未完成过去时还是复合过去时？ | B1 | 12
+**Imparfait** = le décor, l'habitude (*je croyais, je préparais*). **Passé composé** = l'événement (*elle m'a arrêté, j'ai compris*). *Elle avait appris* = **plus-que-parfait** : une action encore plus ancienne (ch. 14).
+= Au début, je **croyais**… Un jour, une recruteuse m'**a arrêté**. || 一开始我以为……有一天，一位招聘官打断了我。
+@end
+
+@note think | « Pas forcément » : l'art de nuancer
+= C'est faux. || 这是错的。（很绝对）
+= Ce n'est pas forcément vrai. || 这不一定对。（有分寸）
+
+*Pas forcément* permet de ne pas être d'accord sans fermer la discussion. Dans un débat, un entretien, ou une dispute amoureuse, c'est un outil précieux. 用 *pas forcément* 可以表达不同意，同时又不把话说死——在辩论、面试甚至情侣争吵中都非常有用。
+@end
+
+@q Compréhension · Reading comprehension
+1. Pourquoi Marie est-elle nerveuse au début de l'histoire ?
+2. Que fait Lucas quand le téléphone tombe ? Et Marie ?
+3. Quelle erreur Lucas faisait-il pendant ses premiers entretiens ?
+4. Selon Lucas, que cherchent vraiment les recruteurs ?
+5. Pourquoi un entretien est-il aussi une occasion pour le candidat ?
+6. Relisez la dernière phrase. À votre avis, que va faire Lucas ?
+@end
+@a
+1. Parce qu'elle a un entretien pour un nouveau travail à neuf heures, et c'est un jour important pour elle.
+2. Lucas ne remarque rien (il n'a rien entendu). Marie se penche, ramasse le téléphone et le lui rend.
+3. Il apprenait des réponses par cœur et les récitait comme un robot, parce qu'il croyait qu'il fallait une réponse parfaite.
+4. Quelqu'un avec qui ils ont envie de travailler : une personne qui apprend, qui réfléchit et qui écoute — pas quelqu'un qui sait tout.
+5. Parce que c'est une conversation à deux sens : le candidat découvre aussi l'entreprise et décide s'il veut avancer avec elle.
+6. Réponse libre. (Indice : regardez le feuilleton du N°1…)
+@end
+
+@speak Votre défi oral
+Imaginez que vous êtes Marie. Le recruteur vous demande :
+
+**« Pourquoi pensez-vous être la bonne personne pour ce poste ? »**
+
+Répondez en 4 à 6 phrases, à voix haute, avec : *Je pense que… · Grâce à mon expérience… · Je suis capable de… · Je ne sais pas encore…, mais… · J'aimerais également…*
+
+用 4–6 句话大声回答。注意：试着加入一句“我还不会……，但是……”——就像卢卡斯建议的那样。
+@end
+
+@note idea | Le principe de ce magazine
+Lisez le français d'abord. Utilisez le chinois seulement quand c'est nécessaire. Puis cachez le français et reconstruisez les phrases à partir du chinois. L'objectif : passer de *comprendre* le français à *penser* en français.
+
+先读法语，必要时才看中文；然后遮住法语，根据中文重建句子。目标：从“看懂法语”走向“用法语思考”。
+@end

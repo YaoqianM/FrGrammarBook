@@ -1,0 +1,301 @@
+%% ───────── HISTOIRE ─────────
+@piece histoire | Le chat du voisin | 邻居家的猫 | A1
+@deck Montréal, janvier, moins vingt degrés. Quelqu'un gratte à la porte de Léa. || 蒙特利尔，一月，零下二十度。有什么东西在挠莱娅的门。
+@meta characters=Léa, M. Tremblay, Pinotte (le chat); setting=Montréal, le Plateau; themes=solitude, voisinage, amitié; topics=logement, vie quotidienne
+Léa a vingt-quatre ans. Elle est étudiante à Montréal. || 莱娅二十四岁，在蒙特利尔读书。
+Elle habite un petit appartement sur le Plateau, en haut d'un escalier extérieur. || 她住在高原区的一间小公寓里，要爬一段室外楼梯才能上去。
+C'est janvier. Il fait moins vingt. || 一月。零下二十度。
+Un soir, quelqu'un gratte à la porte. || 一天晚上，有什么东西在挠门。
+Léa ouvre. C'est un chat. Un gros chat orange, avec de la neige sur la tête. || 莱娅打开门。是一只猫。一只胖胖的橘猫，头上落着雪。
+Le chat entre, regarde l'appartement et s'installe sur le canapé. || 猫走进来，打量了一下公寓，然后在沙发上安顿下来。
+Comme chez lui. || 就像在自己家一样。
+
+Il a un collier rouge avec un petit papier. || 它戴着一个红色项圈，上面系着一张小纸条。
+« Je m'appelle Pinotte. J'habite au 4512, chez M. Tremblay. Ne me donnez pas à manger. Je mens. » || “我叫花生。我住在4512号，特朗布莱先生家。请不要喂我。我会撒谎。”
+Léa rit. Elle ne donne rien au chat. || 莱娅笑了。她什么也没给猫吃。
+Enfin… un tout petit morceau de fromage. || 好吧……给了一丁点儿奶酪。
+Le soir suivant, Pinotte revient. Et le soir d'après. Et tous les soirs. || 第二天晚上，花生又来了。再下一个晚上也来了。每天晚上都来。
+Il mange, il dort sur le canapé, il repart à dix heures. || 它吃东西，在沙发上睡觉，十点钟再离开。
+Comme un petit employé très sérieux. || 就像一个非常敬业的小职员。
+
+Un dimanche, Léa prend le chat dans ses bras et va au 4512. || 一个星期天，莱娅抱起猫，去了4512号。
+Un vieux monsieur ouvre la porte. Il a une barbe blanche et des pantoufles. || 一位老先生开了门。他留着白胡子，穿着拖鞋。
+[M. Tremblay] Pinotte ! Encore toi ! || 花生！又是你！
+[Léa] Bonjour, monsieur. Votre chat vient chez moi tous les soirs. || 您好，先生。您的猫每天晚上都来我家。
+[M. Tremblay] Je sais. Je suis désolé. Il aime les jeunes. Moi, je suis trop vieux pour lui. || 我知道。真抱歉。它喜欢年轻人。我嘛，对它来说太老了。
+Il sourit, mais ses yeux sont tristes. || 他笑着，但眼神很忧伤。
+Derrière lui, l'appartement est silencieux. || 他身后，公寓里静悄悄的。
+Sur le mur, il y a une photo : M. Tremblay et une femme, jeunes, devant le fleuve. || 墙上有一张照片：年轻时的特朗布莱先生和一个女人，站在大河边。
+[Léa] C'est votre femme ? || 这是您太太吗？
+[M. Tremblay] Oui. Elle s'appelle Ginette. Elle n'est plus là. || 是的。她叫吉内特。她已经不在了。
+
+Léa ne sait pas quoi dire. Alors elle demande : || 莱娅不知道该说什么。于是她问：
+[Léa] Vous voulez un café ? Chez moi. Avec Pinotte. || 您想喝杯咖啡吗？去我家。和花生一起。
+[M. Tremblay] Un café ? Il est quatre heures ! Un thé, peut-être. || 咖啡？都四点了！也许来杯茶吧。
+Ce soir-là, il y a deux visiteurs chez Léa. || 那天晚上，莱娅家来了两位客人。
+Une semaine plus tard, Pinotte a un nouveau papier sur son collier : || 一周后，花生的项圈上换了一张新纸条：
+« Je m'appelle Pinotte. Je mange chez M. Tremblay. Le dimanche, M. Tremblay mange chez Léa. » || “我叫花生。我在特朗布莱先生家吃饭。每个星期天，特朗布莱先生去莱娅家吃饭。”
+
+@vocab
+étudiant | n.m. | e.ty.djɑ̃ | 大学生 | (university) student | Il est étudiant en médecine. | 他是医学院的学生。 | un étudiant étranger · une carte d'étudiant | étudiante (f.) · étudier · les études | 中小学生是 *un élève*。
+escalier | n.m. | ɛs.ka.lje | 楼梯 | stairs, staircase | Je prends l'escalier, pas l'ascenseur. | 我走楼梯，不坐电梯。 | monter l'escalier · un escalier extérieur | |
+gratter | v. | ɡʁa.te | 抓；挠；刮 | to scratch | Le chien gratte à la porte. | 狗在挠门。 | se gratter la tête · gratter un ticket | un grattoir · ⚜ un gratteux (billet de loterie au Québec) |
+neige | n.f. | nɛʒ | 雪 | snow | Il y a beaucoup de neige cet hiver. | 今年冬天雪很多。 | la neige tombe · une tempête de neige | neiger (il neige) · un bonhomme de neige |
+s'installer | v. pron. | sɛ̃s.ta.le | 安顿下来；定居 | to settle (in) | Ils s'installent à Montréal en mai. | 他们五月在蒙特利尔安家。 | s'installer dans un fauteuil · s'installer à l'étranger | l'installation · installer |
+canapé | n.m. | ka.na.pe | 沙发 | sofa, couch | On regarde un film sur le canapé ? | 我们在沙发上看部电影？ | un canapé-lit · dormir sur le canapé | | ⚜ Au Québec : *un divan* ou *un sofa*。
+collier | n.m. | kɔ.lje | 项圈；项链 | collar; necklace | Elle porte un collier en or. | 她戴着一条金项链。 | le collier du chien · un collier de perles | |
+donner à manger | loc. v. | dɔ.ne a mɑ̃.ʒe | 喂（食） | to feed | Tu peux donner à manger au chat ce week-end ? | 这个周末你能帮我喂猫吗？ | donner à manger à qqn | donner · manger · la nourriture |
+mentir | v. | mɑ̃.tiʁ | 撒谎 | to lie | Tu mens ! Je le sais. | 你撒谎！我知道。 | mentir à quelqu'un | je mens, nous mentons · p.p. menti · un mensonge · un menteur |
+fromage | n.m. | fʁɔ.maʒ | 奶酪 | cheese | La France a plus de mille fromages. | 法国有一千多种奶酪。 | un plateau de fromages · du fromage râpé | | 一个常见说法：*En faire tout un fromage* = 小题大做。
+morceau | n.m. | mɔʁ.so | 一块；一段 | piece, bit | Tu veux un morceau de gâteau ? | 你想来一块蛋糕吗？ | un morceau de pain · un morceau de musique | des morceaux |
+revenir | v. | ʁə.və.niʁ | 回来 | to come back | Je reviens dans cinq minutes ! | 我五分钟后回来！ | revenir à la maison · revenir de vacances | je reviens · p.p. revenu (avec être) | *Je n'en reviens pas !* = 我简直不敢相信！
+bras | n.m. | bʁa | 手臂 | arm | Il la prend dans ses bras. | 他把她搂进怀里。 | prendre dans ses bras · bras dessus, bras dessous | (invariable) | *prendre qqn dans ses bras* = 拥抱。
+pantoufle | n.f. | pɑ̃.tufl | 拖鞋（室内） | slipper | Il met ses pantoufles en rentrant. | 他一回家就换上拖鞋。 | une paire de pantoufles | | ⚜ Au Québec : *des pantoufles* aussi, ou *des chaussons*.
+triste | adj. | tʁist | 悲伤的 | sad | Pourquoi tu es triste ? | 你为什么难过？ | un film triste · avoir l'air triste | la tristesse · tristement |
+silencieux | adj. | si.lɑ̃.sjø | 安静的；沉默的 | silent, quiet | La maison est silencieuse la nuit. | 夜里房子很安静。 | rester silencieux | silencieuse (f.) · le silence |
+fleuve | n.m. | flœv | 大河（入海的） | (large) river | Le Saint-Laurent est un fleuve immense. | 圣劳伦斯河是一条巨大的河流。 | le fleuve Saint-Laurent · au bord du fleuve | une rivière (plus petite) | *fleuve* 流入大海；*rivière* 流入另一条河。
+désolé | adj. | de.zɔ.le | 抱歉的 | sorry | Désolé, je suis en retard. | 抱歉，我迟到了。 | je suis désolé(e) · désolé de vous déranger | désolée (f.) | 比 *pardon* 更强烈，表示真心的歉意。
+@end
+
+@note quebec | Bienvenue sur le Plateau
+**Le Plateau-Mont-Royal** est un quartier célèbre de Montréal, avec ses **escaliers extérieurs** en fer, très beaux… et très dangereux en hiver. **Tremblay** est le nom de famille le plus fréquent au Québec. **Pinotte**, au Québec, c'est une cacahuète (de l'anglais *peanut*) : *du beurre de pinottes* = 花生酱。Et **le fleuve**, pour un Montréalais, c'est toujours le Saint-Laurent.
+
+高原区是蒙特利尔的著名街区，以室外铁楼梯闻名——很美，但冬天很危险。Tremblay 是魁北克最常见的姓氏。
+@end
+
+@rappel La négation | 否定 | A1 | 7
+**ne… pas** entoure le verbe : *je ne sais pas*. Autres formes : **ne… rien** (什么也不), **ne… plus** (不再), **ne… jamais** (从不), **ne… personne** (没人). Devant une voyelle : **n'**. À l'oral, on oublie souvent le *ne* : *je sais pas*.
+= **Ne** me donnez **pas** à manger. Elle **ne** donne **rien**. Elle **n'**est **plus** là. || 别喂我。她什么也没给。她已经不在了。
+@end
+
+@q À vous !
+1. Où habite Léa ? Donnez deux détails.
+2. Qu'est-ce qui est écrit sur le premier papier ? Pourquoi est-ce drôle ?
+3. Pourquoi M. Tremblay est-il triste ?
+4. Que dit le dernier papier ? Qu'est-ce qui a changé ?
+5. Vrai ou faux : M. Tremblay accepte un café.
+@end
+@a
+1. À Montréal, sur le Plateau, dans un petit appartement en haut d'un escalier extérieur.
+2. « Je m'appelle Pinotte… Ne me donnez pas à manger. Je mens. » C'est drôle parce que c'est le chat qui « parle » et qui avoue qu'il ment pour avoir à manger.
+3. Parce que sa femme, Ginette, n'est plus là : il est seul.
+4. « Le dimanche, M. Tremblay mange chez Léa. » M. Tremblay et Léa sont devenus amis : il n'est plus seul.
+5. Faux : il est quatre heures, il préfère un thé.
+@end
+
+%% ───────── PSYCHOLOGIE ─────────
+@piece psycho | Le pouvoir d'un sourire | 微笑的力量 | A1
+@deck Un sourire est contagieux. Mais est-ce qu'il rend vraiment heureux ? La réponse est surprenante. || 微笑会传染。但它真的能让人快乐吗？答案出人意料。
+@meta themes=émotions, imitation, différences culturelles; topics=psychologie, culture
+Faites un test aujourd'hui. Dans le métro, au travail, au café : souriez à quelqu'un. || 今天做个小实验吧。在地铁里、在单位、在咖啡馆：对某个人微笑。
+Souvent, l'autre personne sourit aussi. Parfois, elle ne sait même pas pourquoi. || 很多时候，对方也会微笑。有时候，他自己都不知道为什么。
+Les psychologues appellent ça l'imitation : notre visage copie le visage des autres, presque automatiquement. || 心理学家称之为“模仿”：我们的脸几乎会自动复制别人的表情。
+C'est un mécanisme très ancien. Les enfants apprennent beaucoup comme ça. || 这是一种非常古老的机制。孩子们就是这样学会很多东西的。
+Une autre question est plus difficile : est-ce que sourire rend heureux ? || 另一个问题更难回答：微笑会让人快乐吗？
+Beaucoup de livres disent « oui ». Les chercheurs sont moins sûrs : l'effet existe peut-être, mais il est petit. || 很多书都说“会”。研究者却没那么确定：这种效果也许存在，但很小。
+Une chose est sûre : un sourire change la conversation. || 有一件事是确定的：一个微笑能改变一场对话。
+
+Attention : en France, on ne sourit pas beaucoup aux inconnus dans la rue. || 不过要注意：在法国，人们不太对街上的陌生人微笑。
+Un grand sourire sans raison peut sembler bizarre… ou un peu dragueur. || 毫无理由的灿烂笑容可能显得有点怪……或者像是在撩人。
+Au Québec, c'est différent : on sourit plus facilement, comme ailleurs en Amérique du Nord. || 在魁北克就不一样了：人们更容易微笑，就像北美其他地方一样。
+Alors, souriez… mais regardez où vous êtes. || 所以，微笑吧……但先看看你在哪儿。
+
+@vocab
+sourire | v. / n.m. | su.ʁiʁ | 微笑 | to smile; a smile | Elle a un joli sourire. | 她笑容很好看。 | sourire à quelqu'un · un grand sourire · garder le sourire | je souris · p.p. souri | 搭配：*sourire **à** qqn*（对某人微笑）。
+visage | n.m. | vi.zaʒ | 脸；面孔 | face | Je n'oublie jamais un visage. | 我从不会忘记一张脸。 | un visage souriant · changer de visage | | 口语里也说 *la figure*。
+copier | v. | kɔ.pje | 复制；抄袭 | to copy | Ne copie pas sur ton voisin ! | 别抄你同桌的！ | copier-coller · copier un fichier | une copie |
+apprendre | v. | a.pʁɑ̃dʁ | 学习；得知；教 | to learn; to teach | J'apprends le français depuis trois mois. | 我学法语三个月了。 | apprendre à + inf. · apprendre une nouvelle | j'apprends, ils apprennent · p.p. appris | *apprendre qqch à qqn* = 教某人某事。
+chercheur | n.m. | ʃɛʁ.ʃœʁ | 研究员 | researcher | Les chercheurs étudient le cerveau. | 研究人员在研究大脑。 | un chercheur en psychologie | chercheuse (f.) · chercher · la recherche |
+sûr | adj. | syʁ | 确定的；安全的 | sure; safe | Tu es sûr ? | 你确定吗？ | être sûr de soi · bien sûr · un quartier sûr | sûre (f.) · sûrement · la sûreté | 注意帽子：*sûr*（确定）≠ *sur*（在……上）。
+heureux | adj. | ø.ʁø | 幸福的；高兴的 | happy | Je suis heureux de te voir. | 见到你我很高兴。 | heureux de + inf. · un heureux hasard | heureuse (f.) · le bonheur · heureusement |
+inconnu | n.m. / adj. | ɛ̃.kɔ.ny | 陌生人；未知的 | stranger; unknown | Ne parle pas aux inconnus ! | 别跟陌生人说话！ | un inconnu · un numéro inconnu | inconnue (f.) · connaître |
+rue | n.f. | ʁy | 街道 | street | J'habite dans une petite rue calme. | 我住在一条安静的小街上。 | dans la rue · traverser la rue | |
+sembler | v. | sɑ̃.ble | 似乎；看起来 | to seem | Tu sembles fatigué. | 你看起来很累。 | il semble que… · ça me semble bien | semblable (adj.) |
+ailleurs | adv. | a.jœʁ | 别处 | elsewhere | Allons manger ailleurs. | 我们去别处吃吧。 | partout ailleurs · d'ailleurs (= by the way) | | *d'ailleurs* = 而且；顺便说一句（非常常用的连接词）。
+@end
+
+%% ───────── IDÉES QUI DÉRANGENT ─────────
+@piece idees | Personne n'est jamais prêt | 没有人真正准备好 | A1
+@deck Vous attendez le bon moment ? Mauvaise nouvelle : il n'existe pas. || 你在等合适的时机？坏消息：它根本不存在。
+@meta themes=courage, action, peur de l'erreur; topics=psychologie
+Vous attendez d'être prêt ? || 你在等自己准备好吗？
+Prêt pour parler français. Prêt pour changer de travail. Prêt pour dire « je t'aime ». || 准备好说法语。准备好换工作。准备好说“我爱你”。
+Voici une mauvaise nouvelle : personne n'est jamais prêt. || 告诉你一个坏消息：没有人会真正准备好。
+Et voici une bonne nouvelle : ce n'est pas nécessaire. || 再告诉你一个好消息：根本不需要准备好。
+Le courage ne vient pas avant l'action. Il vient pendant. || 勇气不是在行动之前出现的。它在行动之中出现。
+Vous parlez mal ? Tout le monde parle mal au début. || 你说得不好？每个人一开始都说得不好。
+Vous faites des fautes ? Les fautes sont la preuve que vous essayez. || 你会犯错？错误恰恰证明你在尝试。
+Alors, aujourd'hui, dites une phrase en français à quelqu'un. Une seule. || 所以，今天就用法语对某个人说一句话。只要一句。
+Même si elle n'est pas parfaite. Surtout si elle n'est pas parfaite. || 哪怕它不完美。尤其是当它不完美的时候。
+
+@note idea | Et si c'était faux ?
+Parfois, attendre est intelligent : on ne saute pas en parachute sans formation. La vraie question est : **est-ce que j'attends pour me préparer… ou pour éviter ?** Si vous préparez la même chose depuis un an, ce n'est plus de la préparation. C'est de la peur.
+
+有时等待是明智的：没人会不经训练就跳伞。真正的问题是：**我是在为准备而等待……还是在为逃避而等待？**如果同一件事你已经“准备”了一年，那就不再是准备，而是害怕。
+@end
+
+@vocab
+prêt | adj. | pʁɛ | 准备好的 | ready | Tu es prêt ? On part ! | 你准备好了吗？我们出发！ | prêt à + inf. · être prêt pour… | prête (f.) · un prêt (n.m. = 贷款) | 同形不同义：*un prêt* = 贷款（买房必备词）。
+nécessaire | adj. | ne.se.sɛʁ | 必要的 | necessary | Ce n'est pas nécessaire de crier. | 没必要大喊大叫。 | il est nécessaire de… · le strict nécessaire | la nécessité |
+au début | loc. adv. | o de.by | 起初；一开始 | at the beginning | Au début, je ne comprenais rien. | 一开始我什么也听不懂。 | au début de l'année · dès le début | le début · débuter | ≠ *à la fin*（最后）。
+faute | n.f. | fot | 错误；过错 | mistake; fault | Il y a trois fautes dans ta phrase. | 你的句子里有三个错误。 | faire une faute · c'est (de) ma faute | fautif (adj.) | *C'est pas ma faute !* = 不是我的错！
+preuve | n.f. | pʁœv | 证据；证明 | proof | Tu as une preuve ? | 你有证据吗？ | la preuve que… · faire ses preuves | prouver (v.) |
+essayer | v. | e.se.je | 尝试；试穿 | to try | J'essaie de parler plus lentement. | 我尽量说慢一点。 | essayer de + inf. · essayer une robe | j'essaie / j'essaye · un essai |
+même si | conj. | mɛm si | 即使 | even if | Je viens, même si je suis fatigué. | 即使我很累，我也会来。 | | même (adv.) |
+surtout | adv. | syʁ.tu | 尤其；特别是 | above all, especially | J'aime le sport, surtout le tennis. | 我喜欢运动，尤其是网球。 | surtout pas ! · surtout si… | | *Surtout pas !* = 千万别！
+parfait | adj. | paʁ.fɛ | 完美的 | perfect | Personne n'est parfait. | 人无完人。 | presque parfait · parfait ! (= très bien) | parfaite (f.) · parfaitement · la perfection | 口语里 *Parfait !* = 好极了！
+@end
+
+%% ───────── PHILOSOPHIE ─────────
+@piece philo | Qu'est-ce qu'un ami ? | 朋友是什么？ | A1
+@deck Une petite question, un grand philosophe, et une réponse de huit mots. || 一个小问题，一位大哲学家，和一个只有十个字的答案。
+@meta characters=Montaigne, La Boétie; setting=Bordeaux, XVIe siècle; themes=amitié; topics=culture, philosophie
+Montaigne vit au XVIᵉ siècle, dans un château près de Bordeaux. || 蒙田生活在16世纪，住在波尔多附近的一座城堡里。
+Il écrit un livre très célèbre : les *Essais*. || 他写了一本非常有名的书：《随笔集》。
+Dans ce livre, il parle de tout : de la peur, de la mort, des cannibales, de son chat… et de son ami, Étienne de La Boétie. || 在这本书里，他什么都谈：恐惧、死亡、食人族、他的猫……还有他的朋友，艾蒂安·德·拉博埃西。
+Les deux hommes sont amis pendant cinq ans environ. Puis La Boétie meurt, très jeune. || 两人的友谊只持续了大约五年。后来拉博埃西英年早逝。
+Pourquoi cette amitié est-elle si forte ? Montaigne ne trouve pas de grande explication. Il écrit seulement : || 为什么这份友谊如此深厚？蒙田找不到什么宏大的解释。他只写道：
+@quote « Parce que c'était lui, parce que c'était moi. » || “因为是他，因为是我。” || Michel de Montaigne, Essais, livre I, chapitre 28 (1580)
+C'est peut-être la plus belle définition de l'amitié. || 这也许是对友谊最美的定义。
+Un ami n'est pas utile. Ce n'est pas un contact, pas un réseau. || 朋友不是“有用的人”。不是人脉，也不是关系网。
+C'est quelqu'un qu'on aime pour rien. Juste parce qu'il est lui. || 朋友是你无缘无故就喜欢的人。只因为他就是他。
+Et vous ? Pourquoi vos amis sont-ils vos amis ? || 你呢？你的朋友为什么会成为你的朋友？
+
+@vocab
+siècle | n.m. | sjɛkl | 世纪 | century | Nous sommes au XXIᵉ siècle. | 我们身处21世纪。 | au XVIᵉ siècle · depuis des siècles | | 罗马数字+上标 e：XVIᵉ = 第十六世纪。
+château | n.m. | ʃa.to | 城堡 | castle | Les châteaux de la Loire sont magnifiques. | 卢瓦尔河谷的城堡非常壮观。 | un château fort · des châteaux | | *Construire des châteaux en Espagne* = 空想。
+célèbre | adj. | se.lɛbʁ | 著名的 | famous | C'est un acteur très célèbre. | 他是位非常有名的演员。 | devenir célèbre | la célébrité | 也可以说 *connu*（知名的）。
+peur | n.f. | pœʁ | 害怕 | fear | J'ai peur des chiens. | 我怕狗。 | avoir peur de · faire peur à qqn | peureux (adj.) | 用 *avoir* : *J'ai peur*（✗ je suis peur）。
+mort | n.f. / adj. | mɔʁ | 死亡；死的 | death; dead | Il parle de la mort sans tristesse. | 他谈论死亡时并不悲伤。 | la mort · être mort de fatigue | mourir · mortel |
+amitié | n.f. | a.mi.tje | 友谊 | friendship | Notre amitié dure depuis vingt ans. | 我们的友谊已经维持了二十年。 | une belle amitié · par amitié | un ami, une amie · amical |
+utile | adj. | y.til | 有用的 | useful | Ce dictionnaire est très utile. | 这本词典很有用。 | être utile à qqn | ≠ inutile · l'utilité · utiliser |
+réseau | n.m. | ʁe.zo | 网络；人脉 | network | Il a un grand réseau professionnel. | 他的职业人脉很广。 | les réseaux sociaux · pas de réseau | des réseaux | *Je n'ai pas de réseau* = 手机没信号。
+explication | n.f. | ɛks.pli.ka.sjɔ̃ | 解释 | explanation | Il n'y a pas d'explication simple. | 没有简单的解释。 | donner une explication · avoir une explication avec qqn (= une discussion franche) | expliquer (v.) |
+@end
+
+@note cn | « C'était » : un petit mot du passé
+*C'était* est le passé de *c'est* (imparfait). Montaigne parle de son ami mort. Vous pouvez apprendre *c'était* comme un bloc : **C'était bien ! C'était génial ! C'était hier.**
+
+*C'était* 是 *c'est* 的过去式（未完成过去时）。先把它当作一个整体记住：*C'était bien !*（那很好！）就够用了。
+@end
+
+%% ───────── SCIENCE ─────────
+@piece science | Votre cerveau a faim | 你的大脑饿了 | A1
+@deck Il pèse 1,4 kilo et il ne s'arrête jamais. Petit portrait de votre organe préféré. || 它重1.4公斤，从不停歇。给你最爱的器官画一幅小像。
+@meta themes=cerveau, apprentissage; topics=santé, science
+Votre cerveau pèse environ 1,4 kilo. C'est à peu près 2 % de votre corps. || 你的大脑大约重1.4公斤，约占你体重的2%。
+Mais il utilise environ 20 % de votre énergie. || 但它消耗了你大约20%的能量。
+Il travaille tout le temps, même quand vous dormez. || 它一直在工作，连你睡觉的时候也不停。
+Il a environ 86 milliards de neurones : dix fois plus que le nombre d'humains sur la Terre. || 它大约有860亿个神经元：比地球上的人口还多十倍。
+Quand vous apprenez un mot nouveau, des neurones créent ou renforcent des connexions. || 每当你学一个新词，神经元之间就会建立或加强一些连接。
+Votre cerveau change donc un peu, chaque jour. || 所以，你的大脑每天都在发生一点点变化。
+Il aime trois choses : le sommeil, le mouvement et la répétition. || 它喜欢三样东西：睡眠、运动和重复。
+Bonne nouvelle : relire ce magazine, c'est de la répétition. || 好消息：重读这本杂志，就是一种重复。
+
+@note culture | Le mythe des 10 %
+Non, nous n'utilisons pas seulement 10 % de notre cerveau. C'est un mythe très populaire, mais faux : l'imagerie médicale montre que toutes les zones du cerveau travaillent, à des moments différents.
+
+不，我们并不是只用了大脑的10%。这是一个流传很广的谣言：医学影像显示，大脑所有区域都会工作，只是在不同的时刻。
+@end
+
+@vocab
+cerveau | n.m. | sɛʁ.vo | 大脑 | brain | Le cerveau consomme beaucoup d'énergie. | 大脑消耗大量能量。 | le cerveau humain · un cerveau (= un génie) | des cerveaux · cérébral |
+peser | v. | pə.ze | 称重；重（多少） | to weigh | Ce sac pèse cinq kilos. | 这个包重五公斤。 | peser lourd · se peser | je pèse, nous pesons · le poids |
+corps | n.m. | kɔʁ | 身体 | body | Le corps humain a 206 os. | 人体有206块骨头。 | le corps et l'esprit · un garde du corps | (invariable) | 发音 /kɔʁ/，p 和 s 不发音。
+énergie | n.f. | e.nɛʁ.ʒi | 能量；精力 | energy | Je n'ai plus d'énergie le soir. | 我晚上就没精力了。 | les énergies renouvelables | énergique (adj.) |
+dormir | v. | dɔʁ.miʁ | 睡觉 | to sleep | Je dors huit heures par nuit. | 我每晚睡八个小时。 | bien dormir · dormir comme un bébé | je dors, nous dormons · p.p. dormi · le dortoir |
+milliard | n.m. | mi.ljaʁ | 十亿 | billion | La Chine a 1,4 milliard d'habitants. | 中国有14亿人口。 | des milliards de… · un milliardaire | un million | 1 milliard = 10亿；注意 *1,4* 用逗号表示小数点。
+créer | v. | kʁe.e | 创造；创建 | to create | Elle crée sa propre entreprise. | 她在创办自己的公司。 | créer un compte · créer des liens | la création · créatif |
+renforcer | v. | ʁɑ̃.fɔʁ.se | 加强 | to strengthen | Le sport renforce le cœur. | 运动能强健心脏。 | renforcer une relation | nous renforçons · le renfort |
+sommeil | n.m. | sɔ.mɛj | 睡眠 | sleep | Le manque de sommeil est dangereux. | 睡眠不足很危险。 | avoir sommeil · un sommeil profond | | *J'ai sommeil* = 我困了（✗ je suis sommeil）。
+mouvement | n.m. | muv.mɑ̃ | 运动；动作 | movement | Le mouvement est bon pour le cerveau. | 运动对大脑有益。 | en mouvement · un mouvement social | bouger · mouvoir |
+@end
+
+@expr
+J'ai faim. / J'ai soif. | 我饿了／我渴了 | neutre | Avec **avoir**, comme *j'ai sommeil, j'ai peur, j'ai froid*. | J'ai faim, on mange ? || 我饿了，我们吃饭吧？
+J'ai la dalle. | 我饿死了 | familier | Argot pour *j'ai très faim*. Entre amis seulement. | J'ai la dalle, je mangerais un cheval ! || 我饿得能吃下一头牛！
+@end
+
+%% ───────── POÉSIE ─────────
+@piece poesie | Premier matin | 第一个早晨 | A1
+@deck Un poème original pour tous ceux qui arrivent dans une ville où ils ne comprennent rien. || 一首原创小诗，献给所有初到一座城市、一句话也听不懂的人。
+@meta themes=immigration, arrivée, langue; topics=culture
+@poem Premier matin | La rédaction
+Je ne connais pas la rue, || 我不认识这条街，
+je ne connais pas les mots, || 我不认识这些词，
+je ne connais pas le prix || 我不知道
+d'un café et d'un croissant chaud. || 一杯咖啡和一个热可颂的价钱。
+
+Mais le soleil, je le connais. || 可是太阳，我认识。
+Le pain qui sent bon, je le connais. || 散发香味的面包，我认识。
+Le sourire de la boulangère, || 面包店老板娘的微笑，
+ça, c'est une langue de partout. || 那是一种到处都通的语言。
+
+Demain, je dis « bonjour ». || 明天，我说“您好”。
+Après-demain, « merci ». || 后天，说“谢谢”。
+Et un matin, sans le savoir, || 总有一个早晨，在不知不觉中，
+je suis d'ici. || 我就属于这里了。
+@end
+
+@vocab
+prix | n.m. | pʁi | 价格；奖 | price; prize | Quel est le prix de ce livre ? | 这本书多少钱？ | à moitié prix · le prix Nobel | (invariable) |
+boulangère | n.f. | bu.lɑ̃.ʒɛʁ | 面包店老板娘；面包师（女） | baker (woman) | La boulangère me connaît. | 面包店老板娘认识我。 | | boulanger (m.) · la boulangerie |
+langue | n.f. | lɑ̃ɡ | 语言；舌头 | language; tongue | Le français est une langue difficile ? | 法语是一门难学的语言吗？ | une langue étrangère · la langue maternelle · tirer la langue | | *Avoir la langue bien pendue* = 能说会道。
+demain | adv. | də.mɛ̃ | 明天 | tomorrow | À demain ! | 明天见！ | demain matin · après-demain | hier · aujourd'hui |
+savoir | v. | sa.vwaʁ | 知道；会 | to know (a fact); to know how | Je ne sais pas nager. | 我不会游泳。 | savoir + inf. · savoir que… · je sais pas (oral) | je sais, il sait, nous savons · p.p. su · le savoir | *savoir* + 事实/技能；*connaître* + 人/地方。
+d'ici | loc. | di.si | 本地的；从这里 | from here, local | Vous n'êtes pas d'ici ? | 您不是本地人吧？ | les gens d'ici · d'ici demain (= avant demain) | ici |
+@end
+
+@note think | « Je le connais »
+Dans le poème, *le soleil, je le connais* : on annonce le sujet, puis on le reprend avec **le**. Les Français parlent comme ça tout le temps : *Ce film, je l'adore. Paris, je la connais bien.* C'est une façon naturelle de mettre un mot en valeur.
+
+先说出话题，再用代词 *le / la* 指回来——法国人说话一直这样，用来强调。这和中文“这部电影，我很喜欢”的语序几乎一样！
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Douze mots pour survivre | 生存必备十二句 | A1
+@deck Si vous ne retenez qu'une page de ce numéro, gardez celle-ci. || 如果这一期你只记住一页，就记住这一页。
+@meta characters=Inès, Marie; themes=conversation, oral; topics=vie quotidienne
+[Inès] Ça va ? || 还好吗？
+[Marie] Bof. || 一般般吧。
+[Inès] Bof ? Qu'est-ce qui se passe ? || 一般般？怎么了？
+[Marie] Rien. Le travail, la vie… Ça dépend des jours. || 没什么。工作、生活……看日子吧。
+[Inès] On va boire un verre ? || 去喝一杯？
+[Marie] Bonne idée. Mais pas tard. || 好主意。不过别太晚。
+[Inès] D'accord. Pas de souci. || 好。没问题。
+[Marie] Et toi, ça va ? || 你呢，还好吗？
+[Inès] Moi ? Carrément ! J'ai deux jours de repos. || 我？好得很！我有两天假。
+[Marie] Tant mieux pour toi ! || 那真替你高兴！
+
+@expr
+Ça va ? — Ça va. | 还好吗？——还好。 | familier | La question et la réponse peuvent être identiques. Ce n'est pas une vraie question sur votre santé. | — Salut, ça va ? — Ça va, et toi ? || ——嗨，还好吗？——还好，你呢？
+Bof. | 一般般；无所谓 | familier | Avec une petite moue. Pas enthousiaste. Très français ! | — Le film ? — Bof… || ——电影怎么样？——就那样吧……
+Ça dépend. | 看情况 | neutre | La réponse préférée des Français. Ajoutez *de* + nom : *ça dépend du prix*. | — Tu viens ce soir ? — Ça dépend de l'heure. || ——你今晚来吗？——看几点。
+D'accord. / OK. | 好的 | neutre | Pour accepter. À l'écrit rapide : *dac*, *ok*. | D'accord, à demain. || 好的，明天见。
+Pas de souci. | 没问题 | familier | Très courant, même au travail. Les puristes préfèrent *pas de problème*. | — Tu peux m'aider ? — Pas de souci ! || ——你能帮我吗？——没问题！
+Bien sûr. | 当然 | neutre | Accord évident. *Bien sûr que oui / que non !* pour insister. | — Je peux m'asseoir ? — Bien sûr ! || ——我可以坐下吗？——当然！
+C'est pas grave. | 没关系 | familier | Après une excuse. Version écrite correcte : *Ce n'est pas grave*. | — Pardon, je suis en retard. — C'est pas grave. || ——抱歉，我迟到了。——没关系。
+Tant mieux ! | 那太好了！ | neutre | Une bonne nouvelle pour l'autre. | — J'ai trouvé un appart ! — Tant mieux ! || ——我找到房子了！——那太好了！
+Tant pis. | 算了；那也没办法 | neutre | On accepte une petite déception. | Il n'y a plus de croissants ? Tant pis. || 可颂卖完了？那算了。
+Je sais pas. | 我不知道 | familier | À l'oral, on dit souvent /ʃe.pa/ (« chais pas »). | — Il est où ? — Chais pas. || ——他在哪儿？——不知道。
+Carrément ! | 绝对的！当然！ | familier | Un « oui » enthousiaste. Aussi : *c'est carrément nul* (= complètement). | — Tu viens à la fête ? — Carrément ! || ——你来派对吗？——必须的！
+Grave ! | 超级！太对了！ | familier | Argot jeune : *grave* = très, ou « oui, totalement ». Ne pas utiliser au travail. | — Il est beau, non ? — Grave ! || ——他很帅吧？——帅爆了！
+@end
+
+@note slang | Le « ne » qui disparaît
+À l'oral, les Français suppriment presque toujours le **ne** de la négation : *c'est pas grave, je sais pas, j'ai pas le temps*. C'est normal et naturel. Mais à l'écrit (et au TCF !), écrivez toujours **ne… pas**.
+
+口语中法国人几乎总是省略 *ne*。这很自然，但写作时（以及 TCF 考试中！）一定要写完整的 *ne… pas*。
+@end
+
+@speak Votre défi
+Répondez à voix haute à trois personnes imaginaires : (1) votre collègue vous dit *Ça va ?* le lundi matin ; (2) un ami propose un film que vous n'aimez pas trop ; (3) un serveur vous dit qu'il n'y a plus de croissants. Utilisez *bof, ça dépend, tant pis*.
+
+用 *bof, ça dépend, tant pis* 大声回应三个场景。
+@end
+
+@badge Premier contact || 初次接触 || J'ai lu l'Ouverture jusqu'à la page B1, même sans tout comprendre.
+@badge Bonjour d'abord || 先说您好 || J'ai commandé quelque chose en français (pour de vrai ou à voix haute).
+@badge Humour niveau 1 || 幽默一级 || J'ai compris « Alain Térieur » sans regarder le chinois.
+@badge Une phrase imparfaite || 一句不完美的话 || J'ai dit une phrase en français à une vraie personne.
+@badge Lecteur de nuit || 夜读者 || J'ai lu tout le N°1 en moins de deux semaines.
