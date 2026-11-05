@@ -1,0 +1,358 @@
+@issue 1 | A1 | Primeras veces | 第一次 | Primer café, primera cita, primer chiste. || 第一杯咖啡，第一次约会，第一个听懂的笑话。
+@cast La mujer=女人, El señor=老先生
+
+%% ───────── EDITORIAL ─────────
+@piece edito | Todas las primeras veces | 所有的第一次 | A1
+Bienvenido. || 欢迎。
+Esto es una revista. No es un libro de texto ni un examen. || 这是一本杂志。不是教科书，也不是考试。
+Aquí hablamos de amor, de trabajo, de café, del cerebro, de chistes y de grandes preguntas. || 在这里，我们聊爱情、工作、咖啡、大脑、笑话，还有那些大问题。
+En español, claro. || 当然，用西班牙语聊。
+Hoy tal vez entiendes una frase de cada tres. Es normal. || 今天，你也许三句里只能看懂一句。这很正常。
+Dentro de seis meses vas a volver a leer esta página y vas a sonreír. || 六个月后，你再读这一页，会忍不住微笑。
+Este número habla de primeras veces: el primer café, la primera cita, el primer chiste en español. || 这一期讲的是“第一次”：第一杯咖啡，第一次约会，第一次听懂西语笑话。
+Todas las primeras veces son un poco ridículas. Y todas son importantes. || 所有的第一次都有点可笑。但每一次都很重要。
+Buena lectura. — La redacción || 祝阅读愉快。——编辑部
+
+@vocab
+frase | s. f. | ˈfɾa.se | 句子 | sentence | Esta frase es demasiado larga. | 这个句子太长了。 | una frase sencilla · terminar la frase | | 假朋友：英语 *phrase* = 词组；西语 *frase* = 完整的句子。
+entender | v. | en.ten.ˈdeɾ | 理解；听懂 | to understand | No entiendo esta pregunta. | 我不明白这个问题。 | entender un idioma · darse a entender | entiendo, entiendes, entendemos · = comprender | e → ie：*entiendo*，但 *entendemos*。
+cita | s. f. | ˈsi.ta | 约会；预约；引语 | date; appointment; quote | Tengo cita con el doctor a las diez. | 我十点约了医生。 | una primera cita · hacer una cita · una cita a ciegas | citar (v.) | 同一个词既是“约会”也是“预约（看病、办事）”，还是“引语”。
+chiste | s. m. | ˈtʃis.te | 笑话 | joke | Siempre cuenta el mismo chiste. | 他总讲同一个笑话。 | contar un chiste · ¿cuál es el chiste? · un chiste malo | chistoso (adj.) | 墨西哥：*¿Cuál es el chiste?* = 有什么意义？*Chistoso* = 好笑的。
+ridículo | adj. | ri.ˈdi.ku.lo | 可笑的；荒唐的 | ridiculous | ¡No seas ridículo! | 别犯傻了！ | sentirse ridículo · hacer el ridículo | ridícula (f.) · ridiculizar | *Hacer el ridículo* = 出洋相。
+lectura | s. f. | lek.ˈtu.ɾa | 阅读 | reading | La lectura es mi placer de la noche. | 阅读是我晚上的乐趣。 | buena lectura · un libro de lectura | leer · el lector, la lectora | 假朋友：英语 *lecture* = 讲座（*conferencia*）。
+redacción | s. f. | re.dak.ˈsjon | 编辑部；写作 | editorial team; writing | La redacción del periódico trabaja de noche. | 报社编辑部在夜里工作。 | la redacción de un periódico · una redacción (ejercicio escolar) | redactar · el redactor |
+@end
+
+%% ───────── LA SERIE 1 ─────────
+@piece serial | El libro olvidado | 被遗忘的书 | A1
+@deck Episodio 1. María espera una llamada. Y el mesero tiene un mensaje para ella. || 第一集。玛丽亚在等一个电话。而服务员有话要带给她。
+@meta characters=María, Inés, la señora Robles, el mesero, Lucas; setting=departamento, café, Ciudad de México; themes=trabajo, encuentro, duda; topics=trabajo
+Martes, seis de la tarde. Suena el celular de María. || 星期二，下午六点。玛丽亚的手机响了。
+[María] ¿Bueno? || 喂？
+[La señora Robles] Buenas tardes, María. Habla Elena Robles, de la agencia Taller Norte. || 下午好，玛丽亚。我是北方工作室的埃莱娜·罗夫莱斯。
+[La señora Robles] Tengo una buena noticia: el puesto es suyo. Empieza el lunes. || 我有个好消息：这个职位是您的了。您下周一开始上班。
+María no dice nada. Cierra los ojos. || 玛丽亚什么也没说。她闭上了眼睛。
+[La señora Robles] ¿María? ¿Sigue ahí? || 玛丽亚？您还在吗？
+[María] ¡Sí! Sí, perdón. ¡Gracias, muchísimas gracias! || 在！在，不好意思。谢谢，太谢谢您了！
+
+En la cocina, Inés baila con una cuchara en la mano. || 厨房里，伊内丝手里拿着一把勺子跳起舞来。
+Inés es la compañera de departamento de María. Es enfermera, habla fuerte y le encantan los chismes. || 伊内丝是玛丽亚的室友。她是护士，说话嗓门大，特别爱听八卦。
+[Inés] ¡Mi roomie tiene trabajo de planta! ¡Hay que festejar! || 我室友拿到正式工作啦！得庆祝一下！
+[María] ¿Hoy? Me duele la cabeza… || 今晚？我头疼……
+[Inés] No, no, no. Hoy no se habla de dolor de cabeza. Hoy se festeja. || 不不不。今晚不许说头疼。今晚只庆祝。
+
+Al día siguiente, en la mañana, María regresa al cafecito. || 第二天早上，玛丽亚又回到了那家小咖啡馆。
+¿Por qué? No sabe. Bueno… sabe un poco. || 为什么？她自己也说不清。嗯……其实她有点清楚。
+La mesa junto a la ventana está vacía. || 窗边那张桌子空着。
+[El mesero] ¡Ah! ¡La bufanda roja! || 啊！红围巾！
+[María] ¿Perdón? || 什么？
+[El mesero] Usted es la señorita del lunes, ¿no? El señor del celular… Le dejó algo. || 您是星期一那位小姐吧？就是那位掉手机的先生……他给您留了样东西。
+El mesero le da un libro a María. Una novela amarilla, un poco maltratada. || 服务员递给玛丽亚一本书。一本黄色的小说，有点旧了。
+Es el libro de Lucas. || 是卢卡斯的书。
+
+Dentro del libro hay un papelito. || 书里夹着一张小纸条。
+«Para María (la bufanda roja). Ya terminé el libro. Está muy bueno. ¡Ahora le toca a usted! ¿Y la entrevista? — Lucas» || “给玛丽亚（红围巾）。这本书我看完了，非常好看。现在轮到您了！面试怎么样？——卢卡斯”
+Abajo hay un número de teléfono: 55 3998 1245. || 下面写着一个电话号码：55 3998 1245。
+María lee el papelito una vez, dos veces, tres veces. || 玛丽亚把纸条读了一遍、两遍、三遍。
+[El mesero] Vino ayer. Y hoy en la mañana también. Creo que espera una respuesta. || 他昨天来过。今天早上也来了。我想，他在等回音。
+[María] ¿Viene todos los días? || 他每天都来吗？
+[El mesero] Desde el lunes, sí. Antes, nunca. || 从星期一开始，是的。以前从来没来过。
+María se ríe. Su corazón también. || 玛丽亚笑了。她的心也在笑。
+
+En la noche, le enseña el papelito a Inés. || 晚上，她把纸条拿给伊内丝看。
+[Inés] ¿Te deja su número en un libro? Eso es muy romántico… o muy raro. || 他把电话号码夹在书里留给你？这要么很浪漫……要么很奇怪。
+[María] Las dos cosas, creo. || 我觉得两者都有。
+[Inés] ¿Y qué? ¿Le marcas? || 那你给他打电话吗？
+[María] ¡No! No le marco. Le… escribo, tal vez. || 不！我不打电话。我……也许给他发个消息。
+María agarra su celular. Escribe: «Hola, Lucas, soy María.» || 玛丽亚拿起手机，写道：“你好，卢卡斯，我是玛丽亚。”
+Lo borra. || 她删掉了。
+Escribe: «¡Hola! ¡Gracias por el libro!» || 她又写：“嗨！谢谢你的书！”
+Lo borra otra vez. || 她又删掉了。
+[Inés] ¡Dame ese celular! || 把手机给我！
+[María] ¡Ni loca! || 想都别想！
+A medianoche, el mensaje sigue sin salir. Pero el libro está abierto, en la página uno. || 到了午夜，消息还是没发出去。但那本书已经翻开了，停在第一页。
+
+@vocab
+sonar | v. | so.ˈnaɾ | （铃、电话）响 | to ring | ¡Te está sonando el celular! | 你的手机响了！ | suena el despertador · sonar el timbre · me suena (= me parece conocido) | suena (o → ue) · el sonido | *Me suena* = 听着耳熟。
+noticia | s. f. | no.ˈti.sja | 消息；新闻 | (a piece of) news | Tengo una buena y una mala noticia. | 我有一个好消息和一个坏消息。 | una buena noticia · las noticias (en la tele) | noticiero (MX, = telediario ES) |
+empezar | v. | em.pe.ˈsaɾ | 开始 | to begin, to start | La película empieza a las ocho. | 电影八点开始。 | empezar a + inf. · empezar un trabajo | empiezo, empiezas (e → ie) · empecé (z → c) · = comenzar |
+cerrar | v. | se.ˈraɾ | 关；闭上 | to close | Cierra la puerta, por favor. | 请关上门。 | cerrar los ojos · cerrar con llave · la tienda cierra a las nueve | cierro (e → ie) · cerrado (adj.) |
+compañero de departamento | loc. s. m. | kom.pa.ˈɲe.ɾo de de.paɾ.ta.ˈmen.to | 合租室友 | flatmate, roommate | Mi compañera de departamento es enfermera. | 我的室友是护士。 | compartir departamento · buscar roomie | compañera (f.) · el roomie (coloq. MX) | 墨西哥年轻人常说 *roomie*（来自英语）；⚑ 西班牙说 *compañero de piso*。
+enfermero | s. m. | en.feɾ.ˈme.ɾo | 护士 | nurse | Los enfermeros trabajan muchas veces de noche. | 护士经常上夜班。 | enfermera de noche · la enfermería | enfermera (f.) · enfermo (adj.) · la enfermedad | 职业前不加冠词：*Es enfermera.*
+festejar | v. | fes.te.ˈxaɾ | 庆祝 | to celebrate | Festejamos su cumpleaños el sábado. | 我们星期六给他过生日。 | festejar un cumpleaños · hay que festejar | la fiesta · el festejo | = *celebrar*（更正式）。
+doler | v. | do.ˈleɾ | 疼 | to hurt | Me duele la espalda. | 我背疼。 | me duele la cabeza · me duelen los pies | duele (o → ue) · el dolor · doloroso | 结构像 *gustar*：*me duele* + 单数，*me duelen* + 复数。
+al día siguiente | loc. adv. | al ˈdi.a si.ˈɡjen.te | 第二天；次日 | the next day | Al día siguiente, llueve. | 第二天下雨了。 | al día siguiente en la mañana · de un día para otro | siguiente (adj.) · seguir | *mañana* = 明天（从今天算）；*al día siguiente* = 第二天（从过去某天算）。
+vacío | adj. | ba.ˈsi.o | 空的 | empty | El refri está vacío. | 冰箱是空的。 | una calle vacía · sentirse vacío | vacía (f.) · vaciar (v.) · el vacío | *El refri* = 冰箱（墨西哥口语）；⚑ 西班牙说 *la nevera*。
+dejar | v. | de.ˈxaɾ | 留下；让；放下 | to leave (behind); to let | Déjame un mensaje. | 给我留个言。 | dejar un recado · dejar a alguien (= terminar una relación) · dejar de + inf. | | *Dejar de fumar* = 戒烟；*Me dejó* = 他把我甩了。
+borrar | v. | bo.ˈraɾ | 删除；擦掉 | to delete, to erase | Borro la foto. | 我把照片删了。 | borrar un mensaje · borrar el pizarrón | la goma (de borrar) · el borrador | *El borrador* = 草稿，也是板擦。
+raro | adj. | ˈra.ɾo | 奇怪的；罕见的 | strange, weird; rare | Qué raro, no contesta. | 真奇怪，他不回复。 | un tipo raro · ¡qué raro! | rara (f.) · rara vez (= casi nunca) |
+medianoche | s. f. | me.dja.ˈno.tʃe | 午夜；半夜十二点 | midnight | El bar cierra a medianoche. | 酒吧半夜十二点关门。 | a medianoche | el mediodía (= 12 h del día) |
+marcar | v. | maɾ.ˈkaɾ | （墨西哥）打电话；标记；进球 | to call (Mexico); to mark; to score | Márcame cuando llegues. | 到了给我打电话。 | marcarle a alguien · marcar un gol | marqué (c → qu) · la marca | ⚑ En España: *llamar*. *Marcar un gol* = 进球。
+@end
+
+@expr
+¿Bueno? | 喂？（墨西哥接电话） | México | En México se contesta el teléfono así. ⚑ En España: *¿Sí?*, *¿Diga?* o *¿Dígame?*; en Argentina: *¿Hola?* | ¿Bueno? ¿Quién habla? || 喂？请问是哪位？
+¡Hay que festejar! | 得庆祝一下！ | coloquial | Después de una buena noticia. | ¿Ya tienes tu licencia? ¡Hay que festejar! || 你拿到驾照了？得庆祝一下！
+¡Ni loca! / ¡Ni loco! | 想都别想！绝不！ | coloquial | Un «no» muy fuerte, muchas veces con humor. También: *¡Ni de chiste!* (MX). | — ¿Le prestas tu coche? — ¡Ni loco! || ——你把车借给他？——想都别想！
+Las dos cosas. | 两者都是。 | neutro | Respuesta corta e inteligente a «¿A o B?». | — ¿Estás cansada o triste? — Las dos cosas. || ——你是累了还是难过？——都有。
+@end
+
+@note culture | De planta, por honorarios: las palabras mágicas del trabajo en México
+Un trabajo **de planta** es un empleo fijo, con contrato sin fecha de fin y **prestaciones de ley**: seguro social (IMSS), vacaciones, **aguinaldo** (un sueldo extra en diciembre). Trabajar **por honorarios** es cobrar como independiente, sin esas prestaciones. Para rentar un departamento o pedir un crédito, el trabajo de planta lo hace todo más fácil.
+
+**de planta** = 正式、长期的工作，有法定福利（社保、假期、年终奖）。**por honorarios** = 按劳务报酬结算，没有福利。⚑ 在西班牙，长期合同叫 *contrato indefinido*，短期的叫 *contrato temporal*。
+@end
+
+@rappel Ser, estar, tener | 三个“基础动词” | A1 |
+**ser** (soy, eres, es, somos, son) = identidad, profesión: *es enfermera*. **estar** (estoy, estás, está, estamos, están) = lugar y estado: *está nerviosa, está en la cocina*. Muchas sensaciones usan **tener**: *tener hambre, tener frío, tener 27 años*. Para el dolor: *me duele*.
+= Inés **es** enfermera. **Tengo** una buena noticia. Me **duele** la cabeza. || 伊内丝是护士。我有个好消息。我头疼。
+@end
+
+@q ¡Te toca!
+1. ¿Quién le llama a María? ¿Por qué?
+2. ¿Quién es Inés? Da tres datos.
+3. ¿Qué le da el mesero a María?
+4. ¿Lucas va al café todos los días? ¿Desde cuándo?
+5. ¿Por qué no sale el mensaje de María?
+@end
+@a
+1. La señora Robles (Elena Robles), de la agencia Taller Norte: el puesto es de María, empieza el lunes.
+2. Es la compañera de departamento de María; es enfermera; habla fuerte y le encantan los chismes.
+3. Un libro (la novela amarilla de Lucas) con un papelito y un número de teléfono.
+4. Sí, desde el lunes (el día del encuentro). Antes, nunca.
+5. Porque escribe y luego borra: duda, no sabe qué decir.
+@end
+
+%% ───────── VIDA COTIDIANA ─────────
+@piece vie | En el café: guía de supervivencia | 咖啡馆生存指南 | A1
+@deck Primera mañana en la Ciudad de México. Wei pide un café… y aprende la regla número uno. || 在墨西哥城的第一个早晨。张伟点了一杯咖啡……也学到了第一条规矩。
+@meta characters=Wei, la mesera, un señor; setting=café, Ciudad de México; themes=cortesía, choque cultural; topics=consumo, cultura
+Hace dos años, Wei llega a la Ciudad de México. Habla un poco de inglés y nada de español. || 两年前，张伟来到墨西哥城。他会说一点英语，西班牙语一句也不会。
+Primera mañana. Entra a un café y dice, como en su libro: || 第一个早晨。他走进一家咖啡馆，照着课本上说：
+[Wei] Quiero un café. || 我要一杯咖啡。
+La mesera lo mira. No sonríe. || 女服务员看着他，没有笑。
+[La mesera] Buenos días. || 早上好。
+[Wei] Eh… Quiero un café. || 呃……我要一杯咖啡。
+[La mesera] Buenos días, joven. || 早上好，年轻人。
+Wei no entiende. ¿Por qué repite «buenos días»? || 张伟没明白。她为什么一直重复“早上好”？
+Un señor en la barra se ríe bajito. || 吧台边一位老先生轻轻地笑了。
+[El señor] Aquí primero se saluda. Siempre. Luego se pide. Y se pide bonito. || 在这儿，要先打招呼。永远如此。然后再点单。而且要客客气气地点。
+[Wei] ¡Ah! Buenos días, señorita. ¿Me da un café, por favor? || 啊！早上好，小姐。请给我来一杯咖啡，好吗？
+[La mesera] ¡Con gusto! || 乐意为您效劳！
+Esta vez, sonríe. || 这一次，她笑了。
+El café llega en un jarrito de barro. Es dulce y huele a canela. || 咖啡端上来了，盛在一只小陶罐里。甜甜的，带着肉桂香。
+Wei mira el jarrito. Piensa: «¿Canela? ¿En el café?» || 张伟看着小陶罐，心想：“肉桂？放在咖啡里？”
+Hoy, Wei pide como un chilango. Esta es su guía. || 如今，张伟点咖啡已经像个地道的墨西哥城人了。下面是他的指南。
+
+@h La guía de Wei || 张伟的点单指南
+Un café de olla se prepara con canela y piloncillo, en una olla de barro. || 陶罐咖啡用肉桂和粗制红糖，在陶锅里煮成。
+Un americano es un expreso con mucha agua: largo y suave. || 美式咖啡就是兑了很多水的浓缩咖啡：量大，味淡。
+Un lechero es un café con mucha leche caliente. || lechero 是加了大量热牛奶的咖啡。
+Un cortado es un expreso con un poquito de leche. || cortado 是加了一点点牛奶的浓缩咖啡。
+Para llamar al mesero, se dice «¡Joven!» o «¡Disculpe!». Nunca se truenan los dedos. || 叫服务员时说“年轻人！”或“打扰一下！”。千万别打响指。
+Para pagar, se dice: «La cuenta, por favor.» || 买单时说：“请结账。”
+La propina no está incluida: se deja entre el 10 y el 15 por ciento. || 小费不包含在价格里：一般给10%到15%。
+Al salir, se dice «gracias, buen día». Y a la gente que come: «¡Provecho!» || 离开时说“谢谢，祝您今天愉快”。对正在吃饭的人说：“慢用！”
+
+@vocab
+pedir | v. | pe.ˈdiɾ | 点（菜、饮料）；请求 | to order; to ask for | ¿Ya saben qué van a pedir? | 你们想好点什么了吗？ | pedir un café · pedir ayuda · pedir perdón | pido, pides (e → i) · el pedido | *preguntar* = 问问题；*pedir* = 要东西、请求。
+mesero | s. m. | me.ˈse.ɾo | （墨西哥）服务员 | waiter (Mexico) | El mesero nos trae la carta. | 服务员拿来菜单。 | llamar al mesero | mesera (f.) · la mesa | ⚑ En España: *el camarero*. 叫服务员：*¡Joven!*、*¡Disculpe!*。
+repetir | v. | re.pe.ˈtiɾ | 重复 | to repeat | ¿Me lo puede repetir, por favor? | 您能再说一遍吗？ | repetir una pregunta · repetir el año (escuela) | repito (e → i) · la repetición | 救命句：*¿Me lo puede repetir más despacio?*
+barra | s. f. | ˈba.ra | 吧台；柜台；条 | bar, counter | ¿Nos sentamos en la barra? | 我们坐吧台吧？ | en la barra · una barra de chocolate · barra libre | |
+saludar | v. | sa.lu.ˈdaɾ | 打招呼；问候 | to greet, to say hello | Primero se saluda, luego se pide. | 先打招呼，再点单。 | saludar a alguien · saludar de beso · salúdame a tu mamá | el saludo | *Salúdame a…* = 替我问候……
+taza | s. f. | ˈta.sa | 杯子（带把手） | cup | ¿Una taza de té? | 来杯茶吗？ | una taza de café | el vaso (sin asa) · la tacita |
+barro | s. m. | ˈba.ro | 陶土；泥 | clay; mud | Las ollas de barro de Oaxaca son famosas. | 瓦哈卡的陶锅很有名。 | un jarrito de barro · olla de barro | el barrial |
+canela | s. f. | ka.ˈne.la | 肉桂 | cinnamon | El café de olla lleva canela. | 陶罐咖啡里放了肉桂。 | una raja de canela · canela en polvo | | *Ser canela fina* = 非常出色（口语，较老派）。
+caliente | adj. | ka.ˈljen.te | 热的；烫的 | hot | ¡Cuidado, está muy caliente! | 小心，很烫！ | agua caliente · un chocolate caliente | el calor · calentar | ⚠ 说人时 *estoy caliente* 有性暗示！觉得热要说 *tengo calor*。
+costar | v. | kos.ˈtaɾ | 值（多少钱）；费力 | to cost | ¿Cuánto cuesta? | 这个多少钱？ | costar caro · costar trabajo | cuesta (o → ue) · el costo | *Me cuesta trabajo* = 对我来说很费劲（墨西哥常用）。
+caro | adj. | ˈka.ɾo | 贵的 | expensive | La colonia Condesa es cara. | 康德萨区物价很高。 | salir caro · más barato | cara (f.) · barato (≠) |
+cuenta | s. f. | ˈkuen.ta | 账单；账户 | the bill; account | ¡La cuenta, por favor! | 请结账！ | pedir la cuenta · una cuenta de banco | contar (v.) | 另一个意思见 *darse cuenta*（意识到）。
+propina | s. f. | pɾo.ˈpi.na | 小费 | tip | Le dejo veinte pesos de propina. | 我留了二十比索小费。 | dejar propina · la propina incluida | |
+incluido | adj. | in.klu.ˈi.do | 包含的 | included | El desayuno está incluido. | 含早餐。 | todo incluido · servicio incluido | incluir (v.) |
+¡Provecho! | interj. | pɾo.ˈbe.tʃo | 慢用！（对吃饭的人说） | enjoy your meal | — ¡Provecho! — ¡Gracias! | ——慢用！——谢谢！ | ¡buen provecho! | aprovechar (v.) | 在墨西哥，路过别人吃饭的桌子、离开饭馆时都会说。
+@end
+
+@expr
+¿Me da…? / ¿Me puede dar…? | 请给我……（礼貌） | neutro | La forma amable de pedir en México. *Quiero* es correcto, pero suena exigente, como un niño. | ¿Me da una concha, por favor? || 请给我一个贝壳面包。
+¡Con gusto! | 乐意效劳！ | neutro | Respuesta amable a un «gracias» o a un pedido. Muy mexicano. | — Gracias. — ¡Con gusto! || ——谢谢。——不客气！
+La cuenta, por favor. | 请结账。 | neutro | En el restaurante, en el café. También se puede hacer el gesto de escribir en el aire. | Disculpe, ¿nos trae la cuenta, por favor? || 打扰一下，请给我们结账。
+¿Me lo puede repetir? | 您能再说一遍吗？ | neutro | La frase más útil de tu primer año. | Perdón, ¿me lo puede repetir más despacio? || 不好意思，您能说慢一点再讲一遍吗？
+@end
+
+@note culture | La regla número uno: saludar primero
+En México, entrar a una tienda, a un consultorio o incluso a un elevador sin decir **buenos días** (hasta mediodía), **buenas tardes** o **buenas noches** se ve muy mal. Y se pide con suavidad: *¿me da…?, ¿me regala…?, por favor*. Al pasar entre la gente: **con permiso**. Al irse: **gracias, que le vaya bien**.
+
+在墨西哥，进商店、诊所甚至电梯不打招呼会显得很没礼貌。点东西要用柔和的说法：*¿me da…?*（能给我……吗？）。从人群中穿过时说 *con permiso*（借过）。很多“墨西哥人很热情”的印象，正是来自这些小小的礼貌用语。
+@end
+
+@note espana | Un café en Madrid
+En España, «un café» suele ser **un café solo** (un expreso). Un **cortado** lleva un poco de leche, un **café con leche**, mucha. Para llamar al camarero: **¡Perdona!** o **¡Oiga!** Para pagar: **¿Me cobras?** La propina no es obligatoria: se redondea o se dejan unas monedas.
+
+在西班牙，“un café”通常指 *café solo*（浓缩咖啡）。叫服务员说 *¡Perdona!*；买单常说 *¿Me cobras?*（帮我结一下账？）。小费不是必须的，凑个整或留几个硬币就行。
+@end
+
+@rappel Un, una, el, la: el género | 名词的阴阳性与冠词 | A1 |
+Cada sustantivo es **masculino** o **femenino**: *un café, un jarrito* / *una taza, una concha*. **un / una** = uno cualquiera; **el / la** = el que ya conocemos. Plural: **unos / unas**, **los / las**. Casi siempre *-o* = masculino, *-a* = femenino (¡pero *el día, la mano*!). Aprende cada palabra **con** su artículo.
+= ¿Me da **un** café? — ¡**El** café huele a canela! || 请给我一杯咖啡。——这咖啡有肉桂味！
+@end
+
+@q ¡Te toca!
+1. ¿Por qué la mesera repite «buenos días»?
+2. ¿Cuál es la diferencia entre «quiero» y «¿me da…?»?
+3. Quieres un café con mucha leche caliente. ¿Qué pides?
+4. En México, tu cuenta es de 200 pesos. ¿Cuánto dejas de propina?
+@end
+@a
+1. Porque Wei no saluda: en México primero se saluda y luego se pide.
+2. *Quiero* es directo, casi exigente; *¿me da…?* es la forma amable.
+3. Un lechero (o un café con leche).
+4. Entre 20 y 30 pesos (10 a 15 %).
+@end
+
+%% ───────── HUMOR ─────────
+@piece humour | Cinco chistes para empezar | 入门笑话五则 | A1
+@deck A los hispanohablantes les encantan los juegos de palabras. Estos clásicos los conoce cualquier niño. || 说西语的人超爱文字游戏。下面这些经典笑话，小孩子个个都会。
+@meta themes=juegos de palabras, humor absurdo; topics=cultura
+¿Cómo se llama el campeón japonés de buceo? || 日本潜水冠军叫什么名字？
+— Tokofondo. ¿Y el subcampeón? — Kasitoko. || ——“碰到底”。那亚军呢？——“差点碰到”。
+
+— ¿Qué le dice un pez a otro pez? || ——一条鱼对另一条鱼说什么？
+— Nada. || ——“游泳”。（也是“什么都没说”）
+
+Van dos y se cae el de en medio. || 两个人走着，中间那个摔倒了。
+
+— Mamá, mamá, en la escuela me dicen distraído. || ——妈妈，妈妈，学校里的人都说我心不在焉。
+— Niño, tu casa es la de enfrente. || ——孩子，你家在对面。
+
+Un señor va con el doctor. || 一个人去看医生。
+«Doctor, me duele todo. Si me toco la cabeza, me duele. Si me toco la panza, me duele. ¡Si me toco la rodilla, me duele!» || “医生，我浑身都疼！我一摸头，疼。一摸肚子，疼。一摸膝盖，也疼！”
+El doctor lo mira… y le dice: «Señor, tiene el dedo roto.» || 医生看了看……说：“先生，是您的手指骨折了。”
+
+@note funny | ¿Por qué da risa?
+1. **Tokofondo** suena como *toco fondo* (我碰到底了), y **Kasitoko** como *casi toco* (我差一点碰到)。Los «nombres japoneses» inventados son todo un género en México y en España.
+2. **Nada** es el verbo *nadar* (游泳) y también *nada* (什么都没有)。¡El pez no dice nada… porque nada!
+3. Humor **absurdo**: si son dos, no hay «de en medio». La lógica imposible es el chiste.
+4. El niño está tan distraído que ni siquiera está en su casa. Los chistes de «Mamá, mamá…» son un clásico infantil.
+5. La trampa está en la lógica: no duele la cabeza ni la rodilla, ¡duele el **dedo** que toca!
+
+西语笑话很多靠**一词多义**和**谐音**。看懂第一个，你就正式入门了。
+@end
+
+@vocab
+campeón | s. m. | kam.pe.ˈon | 冠军 | champion | Es el campeón del mundo. | 他是世界冠军。 | campeón de natación · el subcampeón | campeona (f.) · el campeonato |
+buceo | s. m. | bu.ˈse.o | 潜水 | diving | En Cozumel hay buceo increíble. | 科苏梅尔岛的潜水棒极了。 | hacer buceo · clases de buceo | bucear (v.) · el buzo |
+fondo | s. m. | ˈfon.do | 底；尽头；背景 | bottom; back; background | El baño está al fondo, a la derecha. | 洗手间在最里面右手边。 | al fondo · tocar fondo · en el fondo (= en realidad) | profundo (adj.) | *Tocar fondo* = 跌到谷底；*en el fondo* = 说到底、其实。
+pez | s. m. | pes | 鱼（活的） | fish (alive) | En el río hay muchos peces. | 河里有很多鱼。 | un pez de colores · estar como pez en el agua | los peces (pl.) · el pescado | 活鱼是 *pez*；做成菜的鱼是 *pescado*！
+nadar | v. | na.ˈdaɾ | 游泳 | to swim | ¿Sabes nadar? | 你会游泳吗？ | nadar en el mar · nadar de muertito (MX, = flotar) | la natación · el nadador |
+nada | pron. | ˈna.da | 什么都没有 | nothing | No hay nada en el refri. | 冰箱里什么都没有。 | no… nada · de nada · nada más | | *De nada* = 不客气；*nada más* = 仅此而已。
+en medio | loc. adv. | en ˈme.djo | 在中间 | in the middle | Siéntate en medio. | 坐中间吧。 | en medio de · el de en medio | el medio · la mitad |
+distraído | adj. | dis.tɾa.ˈi.do | 心不在焉的；分心的 | absent-minded, distracted | Perdón, estaba distraída. | 不好意思，我刚才走神了。 | ser distraído · estar distraído | distraerse (v.) · la distracción |
+enfrente | adv. | en.ˈfɾen.te | 对面 | opposite, across the street | La farmacia está enfrente. | 药店在对面。 | enfrente de · la casa de enfrente | el frente |
+tocar | v. | to.ˈkaɾ | 触摸；演奏；轮到 | to touch; to play (music); to be one's turn | ¡No toques, está caliente! | 别碰，很烫！ | tocar la guitarra · te toca a ti | toqué (c → qu) | *Te toca* = 轮到你了（我们的练习标题！）。
+cabeza | s. f. | ka.ˈbe.sa | 头 | head | Voltea la cabeza. | 她转过头。 | dolor de cabeza · de cabeza (= al revés) | el cabezón (coloq.) |
+panza | s. f. | ˈpan.sa | （口语）肚子 | belly, tummy | Me duele la panza. | 我肚子疼。 | dolor de panza · echar panza (= engordar) | panzón (adj.) | ⚑ En España: *la tripa* o *la barriga*. 更正式：*el estómago*。
+rodilla | s. f. | ro.ˈdi.ʝa | 膝盖 | knee | Está de rodillas frente a ella. | 他跪在她面前。 | ponerse de rodillas | |
+dedo | s. m. | ˈde.do | 手指；脚趾 | finger; toe | ¡No señales a la gente con el dedo! | 别用手指指人！ | el dedo gordo · los dedos del pie | | *Dedo* 既是手指也是脚趾。
+roto | adj. | ˈro.to | 断了的；坏了的；破的 | broken | Mi celular está roto. | 我的手机坏了。 | una pierna rota · un corazón roto | romper (v., p.p. roto) | *roto* 是 *romper* 的不规则过去分词。
+@end
+
+@expr
+¿Te sabes el chiste de…? | 你听过那个……的笑话吗？ | coloquial | La fórmula para empezar un chiste. También: *Van dos y…*, *Era un señor que…* | ¿Te sabes el chiste del pez? || 你听过那个鱼的笑话吗？
+Me duele todo. | 我浑身都疼。 | neutro | Después del deporte, de una gripa, de una mudanza. | Después de la mudanza, me duele todo. || 搬完家，我浑身都疼。
+Morirse de risa | 笑死了 | coloquial | Exageración muy común. Por escrito: *jajaja*, *jsjsjs*. | Tu mensaje… ¡me muero de risa! || 你的消息，笑死我了！
+@end
+
+%% ───────── BELLAS FRASES ─────────
+@piece phrases | Saludar con estilo | 有格调地打招呼 | A1
+@deck Hay diez maneras de decir «hola». Cada una dice también quién eres. || 打招呼有十种方式。每一种都在说明你是谁。
+@meta themes=saludos, presentaciones, registro; topics=relaciones
+@versions Presentarse: seis maneras
+NEUTRO || ¡Hola! Me llamo Wei, soy nuevo. || 你好！我叫张伟，我是新来的。 || En el trabajo, con los vecinos, en todas partes. 工作、邻居，到处都能用。
+COLOQUIAL || ¡Qué onda! Soy Wei. || 嗨！我是张伟。 || Entre jóvenes, en una fiesta (México). *Soy…* suena más natural que *me llamo*. 年轻人之间、聚会里（墨西哥）。
+JUGUETÓN || Hola, soy Wei. No conozco a nadie aquí… bueno, ahora a ti. || 嗨，我是张伟。我在这儿谁也不认识……现在认识你了。 || Con una sonrisa. Perfecto en una fiesta. 配上微笑，聚会上效果很好。
+ROMÁNTICO || Buenas noches. Solo quería saludarte antes de que termine la fiesta. || 晚上好。我只是想在聚会结束前，跟你打声招呼。 || Sencillo, honesto, sin presión. 简单、真诚、不给压力。
+FORMAL || Buenos días, permítame presentarme: Wei Zhang, del área de diseño. || 您好，请允许我自我介绍：张伟，设计部的。 || Junta, cliente, contexto oficial. 会议、客户、正式场合。
+ESPAÑA || ¡Hola! Soy Wei, ¿y tú? || 嗨！我是张伟，你呢？ || En Madrid, se dan dos besos (uno en cada mejilla), incluso la primera vez. 在马德里，初次见面也会贴面两次。
+@end
+
+@expr
+¡Hola! ¿Qué tal? | 你好！怎么样？ | neutro | Sirve en casi todas las situaciones, con amigos y con desconocidos. | ¡Hola! ¿Qué tal tu día? || 你好！今天过得怎么样？
+¿Qué onda? | 嗨，咋样？ | México | Muy mexicano y muy informal. Respuesta: *Nada, aquí nomás.* No con tu jefa el primer día. | ¿Qué onda, güey? ¿Cómo estás? || 嗨，哥们，你怎么样？
+Buenas. | 你好（随意） | coloquial | Forma corta de *buenos días / buenas tardes / buenas noches*. Sirve a cualquier hora. | ¡Buenas! ¿Hay mesa para dos? || 你好！有两人的位子吗？
+Nos vemos. | 回头见！ | neutro | Para despedirse. También: *¡Al rato!* (MX), *¡Hasta luego!* | Bueno, ya me voy. ¡Nos vemos! || 好，我走了。回见！
+¡Que te vaya bien! | 一路顺利！祝你顺利！ | neutro | Despedida cálida, muy común en México. Respuesta: *¡Igualmente!* | Gracias por todo. ¡Que te vaya bien! — ¡Igualmente! || 谢谢你做的一切。祝你顺利！——你也是！
+Buen día. / Que tengas buen día. | 祝你今天愉快 | neutro | Al salir de una tienda o despedirse de un colega. Respuesta: *¡Igualmente!* | Gracias, buen día. — ¡Igualmente! || 谢谢，祝您今天愉快！——您也是！
+@end
+
+@vocab
+presentarse | v. prnl. | pɾe.sen.ˈtaɾ.se | 自我介绍；出现 | to introduce oneself | Me presento: me llamo Wei. | 我来自我介绍一下：我叫张伟。 | presentarse a una entrevista · presentarle a alguien a alguien | la presentación · presentar |
+nuevo | adj. | ˈnue.bo | 新的；新来的 | new | Soy nuevo en el equipo. | 我是团队里的新人。 | un trabajo nuevo · de nuevo (= otra vez) | nueva (f.) · la novedad | *De nuevo* = 又一次。
+conocer | v. | ko.no.ˈseɾ | 认识；了解 | to know (a person, a place) | ¿Conoces Madrid? | 你去过马德里吗？ | conocer a alguien · conocerse | conozco (yo) · el conocimiento · conocido | *conocer* + 人／地方；*saber* + 事实／会做的事。人前要加 *a*：*conozco a Rafa*。
+nadie | pron. | ˈna.dje | 没有人 | nobody | No hay nadie. | 一个人都没有。 | no… nadie · nadie sabe | alguien (≠) |
+mejilla | s. f. | me.ˈxi.ʝa | 脸颊 | cheek | Le da un beso en la mejilla. | 他在她脸颊上亲了一下。 | un beso en la mejilla | el cachete (coloq. MX) |
+fiesta | s. f. | ˈfjes.ta | 聚会；节日 | party; holiday | Hacemos una fiesta el sábado. | 我们星期六办个聚会。 | una fiesta en casa · ir de fiesta · día de fiesta | fiestero (adj.) | *Ir de fiesta* = 出去玩、去夜生活。
+@end
+
+@note think | ¿«Me llamo» o «soy»?
+Los libros enseñan *Me llamo Wei*. Es correcto. Pero al hablar, casi todo el mundo dice **Soy Wei**. Para preguntar: **¿Y tú?** o **¿Cómo te llamas?** Con una persona mayor o en un contexto formal: **¿Cómo se llama usted?**
+
+课本上教 *Me llamo…*，没错；但在口语里，大多数人直接说 *Soy…*。听起来更轻松、更自然。
+@end
+
+%% ───────── AMOR ─────────
+@piece amour | «¿Vienes seguido por aquí?» | “你常来这儿吗？” | A1
+@deck La frase para ligar más famosa del mundo hispano. ¿Y la más ridícula? Rafa hace la prueba. || 西语世界最有名的搭讪台词，也是最老套的？拉法亲自测试。
+@meta characters=Rafa, la mujer; setting=bar, Condesa, Ciudad de México; themes=ligar, humor, señales; topics=relaciones
+Sábado en la noche, en un bar de la Condesa. Rafa ve a una mujer en la barra. || 星期六晚上，康德萨区的一家酒吧。拉法看见吧台边有个女人。
+Tiene el pelo corto y una sonrisa enorme. || 她留着短发，笑容灿烂。
+Rafa se arma de valor. || 拉法鼓足了勇气。
+[Rafa] Buenas noches. ¿Vienes seguido por aquí? || 晚上好。你常来这儿吗？
+[La mujer] Todas las noches. || 每天晚上都来。
+[Rafa] ¿Ah, sí? ¡Entonces te gusta mucho este bar! || 是吗？那你一定很喜欢这家酒吧！
+[La mujer] No tanto. Trabajo aquí. || 也不算。我在这儿上班。
+Pasa detrás de la barra y se pone un mandil. || 她走到吧台后面，系上了围裙。
+[La mujer] Bueno, ¿qué te sirvo? || 那么，你想喝点什么？
+Rafa se ríe. Ella también. Rafa se queda toda la noche. || 拉法笑了。她也笑了。他待了一整晚。
+
+«¿Vienes seguido por aquí?» es LA frase cliché para ligar. Todo el mundo la conoce. || “你常来这儿吗？”是搭讪界最老套的一句话。人人都知道。
+A veces funciona… justamente porque da risa. || 它有时候反而管用……恰恰因为它让人发笑。
+El secreto no es la frase. Es la mirada, la sonrisa y saber escuchar. || 秘诀不在台词，而在于眼神、微笑和倾听。
+
+@versions Empezar una conversación: cinco maneras
+NEUTRO || ¿Es la primera vez que vienes? || 你是第一次来这儿吗？ || Una pregunta real, fácil, sin presión. 一个真实的问题，简单，没有压力。
+COLOQUIAL || ¿Y tú de dónde conoces a los de la fiesta? || 那你是怎么认识这群人的？ || En una fiesta en casa de amigos. 朋友家的聚会上。
+JUGUETÓN || Tengo una pregunta importante: ¿la música aquí siempre está así de mala? || 我有个重要的问题：这里的音乐一直都这么烂吗？ || Criticar juntos al DJ crea complicidad. 一起吐槽 DJ，马上就有了默契。
+ROMÁNTICO || No suelo hacer esto, pero de verdad tenía ganas de hablar contigo. || 我平时不这么做，但我真的很想跟你说说话。 || La honestidad es rara, por eso toca el corazón. Dilo con calma. 坦诚很少见，所以打动人。语气要平静。
+FORMAL || Disculpe que la interrumpa. ¿Le puedo invitar una copa? || 抱歉打扰您。我可以请您喝一杯吗？ || Clásico y educado. El *usted* crea una distancia elegante. 经典而礼貌；用 usted 保持一种优雅的距离。
+@end
+
+@note tip | ¿Tiene ganas de platicar? Las señales
+**Más bien sí:** hace preguntas, se ríe, se voltea hacia ti, se queda. **Más bien no:** respuestas muy cortas, mira su celular, busca a sus amigos con los ojos. En ese caso: **«Bueno, que te la pases bien»**, una sonrisa, y te vas. Saber irse es muy atractivo.
+
+**积极信号**：对方提问、笑、身体转向你、不急着走。**消极信号**：回答很短、看手机、用眼睛找朋友。这时说一句 *Bueno, que te la pases bien*（玩得开心），笑一笑，离开。懂得适时离开，本身就很有魅力。
+@end
+
+@vocab
+ligar | v. | li.ˈɡaɾ | 搭讪；撩 | to flirt, to pick someone up | Siempre intenta ligar en el gimnasio. | 他总想在健身房搭讪。 | ligar con alguien · ligar en una fiesta | ligué (g → gu) · el ligue (coloq.) | 墨西哥还常说 *echarle los perros a alguien*、*tirarle la onda a alguien*。
+seguido | adv. | se.ˈɡi.do | （墨西哥）经常 | often (Mexico) | Voy seguido al cine. | 我经常去看电影。 | muy seguido | = a menudo, con frecuencia | ⚑ En España: *a menudo*. 另一个意思：*dos días seguidos* = 连续两天。
+pelo | s. m. | ˈpe.lo | 头发；毛 | hair | Tiene el pelo largo. | 她留着长发。 | el pelo corto · lavarse el pelo · tomar el pelo | el cabello (formal) | *Tomarle el pelo a alguien* = 开某人玩笑、捉弄某人。
+corto | adj. | ˈkoɾ.to | 短的 | short (length) | La película es corta: una hora. | 电影很短：一个小时。 | el pelo corto · a corto plazo | corta (f.) · acortar | 人“矮”用 *bajo* 或 *chaparro*（墨西哥口语），不用 *corto*。
+valor | s. m. | ba.ˈloɾ | 勇气；价值 | courage; value | Hace falta valor para cambiar de país. | 换一个国家生活需要勇气。 | armarse de valor · el valor de una casa | valiente (adj.) · valer | 同一个词：勇气，也是价值。
+servir | v. | seɾ.ˈbiɾ | 服务；端上；有用 | to serve; to be useful | ¿Le sirvo un café? | 给您来杯咖啡？ | servir la comida · ¿para qué sirve? | sirvo (e → i) · el servicio | *¿Para qué sirve?* = 这有什么用？
+mandil | s. m. | man.ˈdil | （墨西哥）围裙 | apron (Mexico) | El cocinero lleva un mandil blanco. | 厨师系着白围裙。 | ponerse el mandil | | ⚑ En España: *el delantal*.
+mirada | s. f. | mi.ˈɾa.da | 目光；眼神 | look, gaze | Tiene una mirada muy dulce. | 他的眼神很温柔。 | cruzar miradas · una mirada de odio | mirar (v.) |
+escuchar | v. | es.ku.ˈtʃaɾ | 听；倾听 | to listen (to) | Escúchame bien. | 好好听我说。 | escuchar música · saber escuchar | | 不加介词：*escuchar la radio*。在墨西哥 *escuchar* 也常用来表示“听见”（= *oír*）。
+soler | v. | so.ˈleɾ | 通常；惯于 | to usually do | Suelo tomar el metro. | 我通常坐地铁。 | soler + inf. | suelo, sueles (o → ue) | 很有用的动词：*suelo…* = 我一般会……
+invitar | v. | in.bi.ˈtaɾ | 邀请；请客 | to invite; to treat (someone) | Te invito un café. | 我请你喝杯咖啡。 | invitar a alguien a cenar · yo invito | la invitación · el invitado | *Yo invito* = 我请客（意味着我付钱！）。
+@end
+
+@expr
+Armarse de valor | 鼓足勇气 | neutro | Antes de algo difícil. | Me armé de valor y le marqué. || 我鼓足勇气给她打了电话。
+¿Qué te sirvo? / ¿Qué le sirvo? | 你想喝点什么？ | neutro | Lo que dice el barman o el mesero. | — ¿Qué le sirvo? — Una cerveza, por favor. || ——您想喝点什么？——一杯啤酒，谢谢。
+¡Qué mala onda! | 真扫兴！真差劲！ | México | Para criticar una situación, una fiesta, a una persona. Lo contrario: *¡Qué buena onda!* | Cancelaron el concierto. ¡Qué mala onda! || 演唱会取消了。真扫兴！
+@end
+
+@rappel Hacer preguntas | 怎么提问 | A1 |
+En español, la pregunta usa casi siempre el mismo orden que la afirmación: solo cambia la **entonación** y los signos **¿…?** Las palabras interrogativas llevan tilde: **qué, quién, dónde, cuándo, cómo, cuánto, por qué**.
+= ¿Vienes seguido por aquí? — ¿Qué te sirvo? || 你常来这儿吗？——你想喝点什么？
+@end

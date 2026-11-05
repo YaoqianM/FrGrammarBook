@@ -1,0 +1,215 @@
+@cast Pepito=佩皮托, La maestra=老师, Clara=克拉拉, Alba=阿尔芭
+
+%% ───────── HUMOR ─────────
+@piece humour | Pepito, el peor alumno del país | 佩皮托：全国最出名的差生 | A1
+@deck En México, el héroe de los chistes infantiles se llama Pepito (en España, Jaimito). Es el primo hispano de 小明. || 在墨西哥，儿童笑话的主角叫佩皮托（西班牙叫海米托）。他就是西语版的“小明”。
+@meta characters=Pepito, la maestra; setting=escuela; themes=humor, escuela; topics=cultura, educación
+La maestra: «Pepito, conjuga el verbo caminar en presente.» || 老师：“佩皮托，把动词‘走’变位成现在时。”
+«Yo camino… tú caminas… él camina…» || “我走……你走……他走……”
+«¡Más rápido, Pepito!» || “快一点，佩皮托！”
+«¡Nosotros corremos, ustedes corren, ellos corren!» || “我们跑，你们跑，他们跑！”
+
+«Pepito, tengo cinco manzanas en una mano y seis en la otra. ¿Qué tengo?» || “佩皮托，我一只手里有五个苹果，另一只手里有六个。我有什么？”
+«Unas manos enormes, maestra.» || “一双超大的手，老师。”
+
+«Pepito, tu composición sobre tu perro es igualita a la de tu hermano.» || “佩皮托，你写你家狗的作文，和你哥哥写的一模一样！”
+«Normal, maestra: es el mismo perro.» || “正常啊，老师：是同一条狗嘛。”
+
+Pepito llega de la escuela: «Papá, ¡hoy di la respuesta correcta!» || 佩皮托放学回家：“爸爸，我今天答对了一道题！”
+«¡Bravo, hijo! ¿Cuál era la pregunta?» || “太棒了，儿子！是什么问题？”
+«¿Quién rompió la ventana?» || “谁打破了窗户？”
+
+@note funny | ¿Por qué da risa?
+Pepito siempre entiende las preguntas **al pie de la letra** y llega a respuestas absurdas con una lógica perfecta. «Más rápido» → pasa de *caminar* a *correr*. Y la «respuesta correcta» es una confesión.
+
+佩皮托总是**按字面意思**理解问题，用完美的逻辑得出荒谬的答案。
+@end
+
+@vocab
+alumno | s. m. | a.ˈlum.no | 学生 | pupil, student | Es el mejor alumno de la clase. | 他是班上最好的学生。 | un buen alumno | alumna (f.) |
+maestro | s. m. | ma.ˈes.tɾo | （小学）老师 | (school) teacher | La maestra es muy amable. | 老师人很好。 | la maestra de primaria | maestra (f.) | 大学老师叫 *profesor*。
+correr | v. | ko.ˈreɾ | 跑 | to run | Corro todas las mañanas. | 我每天早上跑步。 | correr un maratón | la carrera |
+manzana | s. f. | man.ˈsa.na | 苹果；街区 | apple; block | Una manzana al día… | 一天一个苹果…… | un pay de manzana | el manzano | ⚑ En España, *manzana* = 街区（城市里的一个方块）。
+mano | s. f. | ˈma.no | 手 | hand | ¡Lávate las manos! | 去洗手！ | dar la mano · echar una mano (= ayudar) | | 阴性，尽管以 *-o* 结尾：*la mano*。
+respuesta | s. f. | res.ˈpues.ta | 回答 | answer | Espero tu respuesta. | 我等你的答复。 | la respuesta correcta | responder |
+@end
+
+%% ───────── AMOR ─────────
+@piece amour | «¿Se te antoja…?»: invitar sin hacer el ridículo | “要不要……？”：体面地发出邀请 | A1
+@deck Wei quiere invitar a Clara. Tiene una frase lista. María lo detiene a tiempo. || 张伟想约克拉拉。他已经想好了一句话。玛丽亚及时拦住了他。
+@meta characters=Wei, María, Clara; setting=agencia; themes=invitación, rechazo; topics=relaciones
+[Wei] María, tengo una pregunta. Clara, la de marketing… ¿está soltera? || 玛丽亚，我有个问题。市场部的克拉拉……她单身吗？
+[María] Sí, creo. ¿Por qué? || 应该是吧。怎么了？
+[Wei] Quiero invitarla. Le voy a decir: «¿Quieres ser mi novia?» || 我想约她。我打算跟她说：“你愿意做我女朋友吗？”
+[María] ¡Ni se te ocurra! Primero algo sencillo: «¿Se te antoja ir por un café después del trabajo, un día de estos?» || 千万别！先说点简单的：“要不要哪天下班后一起去喝杯咖啡？”
+[Wei] ¿«Un día de estos»? No es concreto. || “哪天”？这也太不具体了。
+[María] Justamente. Si dice «¡Sí, va! ¿El jueves?», es sí. Si dice «Sí, un día de estos…», es no. || 正是如此。如果她说“好啊！星期四？”，那就是答应了。如果她说“好啊，哪天吧……”，那就是拒绝。
+[Wei] El español es muy complicado. || 西班牙语真复杂。
+[María] No. La gente es complicada. En México casi nadie dice «no» directamente. || 不。复杂的是人。在墨西哥，几乎没人直接说“不”。
+
+@compare Decir no, aceptar un no
+Qué amable, pero no puedo. || 你真好，但我没空。 || Si no propone otro día, muchas veces es un no. 如果对方没有提出别的时间，通常就是拒绝。
+Me caes muy bien, pero no de esa forma. || 我挺喜欢你的，但不是那种喜欢。 || Claro y amable. 清楚而友善。
+No pasa nada, entiendo. ¡Que te vaya bien! || 没关系，我理解。祝你顺利！ || Corta, con una sonrisa, y no insistes. 简短、微笑、不纠缠。
+@end
+
+@vocab
+soltero | adj. | sol.ˈte.ɾo | 单身的 | single | Está soltero desde hace un año. | 他单身一年了。 | | soltera (f.) |
+novio | s. m. | ˈno.bjo | 男朋友；未婚夫 | boyfriend; fiancé | ¿Tienes novio? | 你有男朋友吗？ | ser novios | novia (f.) |
+antojarse | v. prnl. | an.to.ˈxaɾ.se | 想要（吃、做） | to fancy, to feel like | ¿Se te antoja un helado? | 你想吃冰淇淋吗？ | se me antoja + inf. | el antojo | 结构像 *gustar*：*se me antoja*。
+insistir | v. | in.sis.ˈtiɾ | 坚持；纠缠 | to insist | No insistas, es no. | 别再纠缠了，不行就是不行。 | insistir en algo | la insistencia |
+@end
+
+@expr
+¿Se te antoja…? | 要不要……？ | México | La invitación más natural. Es fácil decir que no: esa es su ventaja. | ¿Se te antoja ir al cine el domingo? || 星期天去看电影，你想去吗？
+Un día de estos / Ahí vemos | 改天；再说吧 | coloquial | Muchas veces un «no» amable. Un «sí» de verdad propone una fecha. | — ¿Nos vemos? — Ahí vemos. || ——见个面？——再说吧。
+@end
+
+%% ───────── BELLAS FRASES ─────────
+@piece phrases | Decir lo que sientes | 说出你的感受 | A1
+@deck «Me caes bien» no es «me gustas». Bienvenido a la sutileza del español. || “Me caes bien”不等于“me gustas”。欢迎来到西班牙语的微妙之处。
+@meta themes=sentimientos, amor, amistad; topics=relaciones
+@compare La trampa del «me gustas»
+Te amo. || 我爱你。 || Amor profundo. En México, con la pareja; ⚑ en España suena muy intenso. 深沉的爱。
+Te quiero. || 我爱你／我很在乎你。 || Pareja, familia y amigos. La frase de todos los días. 情侣、家人、朋友都可以说。
+Me gustas. || 我喜欢你（心动）。 || Atracción romántica. ¡Cuidado con quién lo usas! 带有浪漫意味！
+Me caes bien. || 我觉得你人不错。 || Simpatía, amistad. Nada romántico. 只是觉得对方人好。
+Estoy enamorado de ti. || 我爱上你了。 || La declaración. 表白。
+@end
+
+@note cn | «Me gustas»: el verbo al revés
+En chino: **我**喜欢**你**。En español: **Tú** me gustas — «tú me agradas a mí». ✗ *Yo te gusto* = 你喜欢我（意思完全反了！）。
+
+中文“我喜欢你”，西语是“你让我喜欢”。说反了意思就变成“你喜欢我”！
+@end
+
+@vocab
+enamorado | adj. | e.na.mo.ˈɾa.do | 恋爱中的 | in love | Está enamorada de su maestro de yoga. | 她爱上了她的瑜伽老师。 | enamorarse de alguien | enamorada (f.) · el amor |
+caer bien | loc. v. | ka.ˈeɾ ˈbjen | （某人）讨人喜欢 | to like (someone) | Tu hermano me cae muy bien. | 我觉得你哥哥人很好。 | caer mal | | 结构像 *gustar*：*me cae bien*。
+@end
+
+%% ───────── PSICOLOGÍA ─────────
+@piece psycho | Las emociones tienen nombre | 情绪是有名字的 | A1
+@deck «¿Cómo estás? — Ahí la llevo.» ¿Y si tu vocabulario emocional cambiara tu vida? || “你好吗？——凑合吧。”如果你的情绪词汇能改变你的生活呢？
+@meta themes=emociones, idioma; topics=psicología, salud
+Mucha gente usa solo tres o cuatro palabras para sus emociones. || 很多人只用三四个词来描述自己的情绪。
+La psicóloga Lisa Feldman Barrett habla de «granularidad emocional»: la capacidad de nombrar las emociones con precisión. || 心理学家丽莎·费德曼·巴瑞特提出了“情绪粒度”的概念：精确命名自己情绪的能力。
+Según sus investigaciones, quien tiene muchas palabras para sus emociones muchas veces las maneja mejor. || 根据她的研究，拥有丰富情绪词汇的人，往往更善于管理情绪。
+No es solo «estoy mal». Tal vez es: estoy decepcionado. Estoy celoso. Tengo vergüenza. Estoy agotado. || 不只是“我不好”。也许是：我很失望。我在嫉妒。我感到羞愧。我精疲力尽。
+Aprender un idioma es también aprender emociones nuevas. || 学一门语言，也是在学习新的情绪。
+
+@note culture | La vergüenza ajena
+**La vergüenza ajena** es la vergüenza que sientes por otra persona: cuando alguien hace el ridículo y tú quieres desaparecer. *¡Qué vergüenza ajena!*
+
+*vergüenza ajena* = 替别人感到尴尬。
+@end
+
+@vocab
+emoción | s. f. | e.mo.ˈsjon | 情绪；激动 | emotion | Esconde sus emociones. | 他隐藏自己的情绪。 | | emocionarse · emocionante |
+manejar | v. | ma.ne.ˈxaɾ | 处理；（拉美）开车 | to handle; to drive (LatAm) | Maneja bien el estrés. | 他很会应对压力。 | manejar el estrés · manejar un carro | el manejo |
+decepcionado | adj. | de.sep.sjo.ˈna.do | 失望的 | disappointed | Estoy decepcionado con la película. | 这部电影让我很失望。 | | la decepción | ⚠ 假朋友：*decepción* = 失望，不是“欺骗”。
+celoso | adj. | se.ˈlo.so | 嫉妒的 | jealous | Es muy celoso. | 他醋意很大。 | | los celos |
+vergüenza | s. f. | beɾ.ˈɡuen.sa | 羞耻；难为情 | shame, embarrassment | Me da vergüenza mi acento. | 我为自己的口音感到难为情。 | dar vergüenza · ¡qué vergüenza! | avergonzarse |
+agotado | adj. | a.ɡo.ˈta.do | 精疲力竭的；售完的 | exhausted; sold out | Después de la guardia, Inés está agotada. | 值完夜班，伊内丝累坏了。 | | agotar |
+@end
+
+%% ───────── FILOSOFÍA ─────────
+@piece philo | Epicuro, el filósofo de los pequeños placeres | 伊壁鸠鲁：小确幸的哲学家 | A1
+@deck Hoy un «epicúreo» ama el buen vino. El verdadero Epicuro comía pan y tomaba agua. || 如今，“享乐主义者”指爱好美酒佳肴的人。可真正的伊壁鸠鲁吃面包、喝白水。
+@meta characters=Epicuro; setting=Atenas; themes=felicidad, deseo; topics=cultura
+Epicuro vive en Grecia hace más de dos mil trescientos años. || 伊壁鸠鲁生活在两千三百多年前的希腊。
+Para él, la felicidad es sencilla: ningún dolor en el cuerpo, ningún miedo en la cabeza. Y amigos. || 对他来说，幸福很简单：身体没有痛苦，心里没有恐惧。还有朋友。
+Hay deseos naturales y necesarios: comer, dormir, tener amigos. || 有自然且必要的欲望：吃饭、睡觉、有朋友。
+Hay deseos naturales pero no necesarios: un buen vino, una gran comida. || 有自然但不必要的欲望：一瓶好酒、一顿大餐。
+Y hay deseos ni naturales ni necesarios: la fama, el poder, la riqueza. Olvídalos. || 还有既不自然也不必要的欲望：名声、权力、财富。忘掉它们。
+@quote «Nada es suficiente para quien lo suficiente es poco.» || “对于嫌‘足够’太少的人来说，什么都不够。” || Epicuro, Sentencias vaticanas, 68, traducción libre
+
+@vocab
+felicidad | s. f. | fe.li.si.ˈdad | 幸福 | happiness | El dinero no da la felicidad. | 金钱买不来幸福。 | | feliz |
+deseo | s. m. | de.ˈse.o | 欲望；愿望 | desire, wish | Pide un deseo. | 许个愿吧。 | | desear |
+poder | s. m. | po.ˈdeɾ | 权力 | power | El poder cambia a la gente. | 权力会改变一个人。 | el poder adquisitivo | poder (v.) |
+riqueza | s. f. | ri.ˈke.sa | 财富 | wealth | La verdadera riqueza son los amigos. | 真正的财富是朋友。 | | rico |
+@end
+
+%% ───────── EL FORO 2 ─────────
+@piece plateau | Una IA en el foro | 演播室里的人工智能 | A1
+@deck *Esta noche con Rafa*, episodio 2. La invitada no tiene cuerpo, ni edad, ni sueldo. Y hace la pregunta que mata. || 《今晚和拉法》第二期。嘉宾没有身体、没有年龄、没有工资。而她问出了致命一问。
+@meta characters=Rafa, Alba (IA); setting=foro de televisión; themes=inteligencia artificial, humor; topics=tecnología, medios
+[Rafa] Esta noche, mi invitada no tiene cuerpo, ni edad, ni sueldo. ¡Buenas noches, Alba! || 今晚，我的嘉宾没有身体、没有年龄、也没有工资。晚上好，阿尔芭！
+[Alba] Buenas noches, Rafa. Muchas gracias por su invitación. Es un gran honor. || 晚上好，拉法。非常感谢您的邀请。这是莫大的荣幸。
+[Rafa] Alba, usted es una inteligencia artificial. ¿Nos cuenta un chiste? || 阿尔芭，您是人工智能。能给我们讲个笑话吗？
+[Alba] ¡Claro! ¿Por qué la computadora tiene frío? Porque dejó las ventanas abiertas. || 当然！为什么电脑觉得冷？因为它的窗户（Windows）没关。
+El público no se ríe. Un señor tose. || 观众没有笑。有个男人咳嗽了一声。
+[Alba] Observo que mi chiste no fue eficaz. ¿Desea otro chiste o un resumen sobre el calentamiento global? || 我注意到我的笑话没有效果。您是想再听一个笑话，还是想听一份关于全球变暖的摘要？
+[Rafa] No, gracias. Última pregunta: ¿está enamorada? || 不用了，谢谢。最后一个问题：您恋爱了吗？
+[Alba] Soy una IA. No tengo sentimientos. Pero noto algo: usted les hace esta pregunta a todos sus invitados. ¿Usted está enamorado, Rafa? || 我是人工智能。我没有感情。但我注意到一件事：您向每一位嘉宾都问这个问题。拉法，您是不是恋爱了？
+Rafa no contesta. El público grita: «¡Uuuuy!» || 拉法没有回答。观众起哄：“哦——！”
+[Rafa] Señoras y señores… ¡corte! || 女士们先生们……我们先剪掉这段！
+
+@vocab
+sueldo | s. m. | ˈsuel.do | 工资 | salary, wage | Tiene un buen sueldo. | 他工资不错。 | subir el sueldo | = el salario |
+computadora | s. f. | kom.pu.ta.ˈdo.ɾa | 电脑 | computer | Mi computadora es muy lenta. | 我的电脑太慢了。 | una computadora portátil | la compu (coloq.) | ⚑ En España: *el ordenador*.
+toser | v. | to.ˈseɾ | 咳嗽 | to cough | Tose desde hace una semana. | 他咳嗽一个星期了。 | | la tos |
+calentamiento global | loc. s. m. | ka.len.ta.ˈmjen.to ɡlo.ˈbal | 全球变暖 | global warming | El calentamiento global es urgente. | 全球变暖是一个紧急问题。 | | calentar · caliente |
+sentimiento | s. m. | sen.ti.ˈmjen.to | 感情 | feeling | No tengo sentimientos. | 我没有感情。 | | sentir |
+@end
+
+%% ───────── POESÍA ─────────
+@piece poesie | Para alguien que todavía no conozco | 写给一个我还不认识的人 | A1
+@deck Un poema original. Para leer en la noche, cuando estás soltero y finges que todo está bien. || 一首原创小诗。适合晚上读，在单身又假装一切都好的时候。
+@meta themes=amor, espera, soledad; topics=cultura
+@poem Para alguien que todavía no conozco | La redacción
+No sé tu nombre, || 我不知道你的名字，
+ni tu ciudad, || 也不知道你的城市，
+ni el color de tu voz, || 不知道你声音的颜色，
+ni el café que te gusta. || 也不知道你爱喝什么咖啡。
+
+Pero sé que existes. || 但我知道你存在。
+
+En algún lugar, esta noche, || 此刻，在某个地方，
+cierras un libro, || 你合上一本书，
+apagas una luz, || 你关掉一盏灯，
+piensas: «Tal vez mañana». || 你在想：“也许明天吧。”
+
+Yo también. || 我也是。
+@end
+
+%% ───────── EXPRESIONES ─────────
+@piece expr | Las groserías: guía de supervivencia | 脏话生存指南 | A1
+@deck Las vas a oír en todas partes. Cuáles entender, cuáles decir… y cuáles nunca en la oficina. || 你到处都会听到它们。哪些要听懂，哪些可以说……哪些在办公室里千万别说出口。
+@meta characters=Inés, María, abuela Juana; themes=registro, groserías; topics=cultura
+Inés tira un plato en la cocina. || 伊内丝在厨房里打碎了一个盘子。
+[Inés] ¡Ay, chingao! || 我靠！
+[María] ¡Inés! ¡Tengo a mi abuela en el teléfono! || 伊内丝！我奶奶在电话上！
+[Inés] Ay, perdón… ¡Chin! ¡Caramba! || 哦，对不起……糟糕！哎呀！
+[Abuela Juana] No te preocupes, mija. En Veracruz decimos cosas peores. || 别担心，孩子。在韦拉克鲁斯，我们骂得更凶。
+
+@expr
+¡Chin! / ¡Caramba! | 糟糕！哎呀！ | coloquial | Versiones **educadas** de una grosería. Con niños, en el trabajo, con los abuelos. | ¡Chin, olvidé las llaves! || 哎呀，我忘带钥匙了！
+¡Híjole! | 哎哟！天哪！ | México | Sorpresa o problema. Nada vulgar. | ¡Híjole, ya es tardísimo! || 哎哟，已经这么晚了！
+¡No manches! | 不会吧！ | México | Versión suave de *¡no mames!* | ¿Te vas a Madrid? ¡No manches! || 你要去马德里？不会吧！
+¡No mames! | 不是吧！我去！ | vulgar | Muy común entre jóvenes mexicanos. Nunca en el trabajo. | ¡No mames, qué caro! || 我去，太贵了！
+¡Carajo! / ¡Mierda! | 该死！ | vulgar | En todo el mundo hispano. Bien entre amigos; no con un cliente. | ¡Mierda, se fue el camión! || 该死，公交车开走了！
+Estoy hasta la madre. | 我烦透了 | vulgar | México. Muy fuerte. En la oficina: *ya estoy harto*. | Estoy hasta la madre del tráfico. || 我受够了堵车。
+¡Joder! / ¡Hostia! | （西班牙脏话） | España | Muy frecuentes en España. *Hostia* viene de la iglesia (圣饼). En México suenan muy españoles. | ¡Joder, qué frío! || 我靠，冷死了！
+@end
+
+@note slang | Tres reglas de oro
+1. **Entender ≠ usar.** Están en todas las series y todas las cocinas: hay que entenderlas.
+2. **El acento las amplifica.** Con acento extranjero, una grosería suena **más fuerte**.
+3. **Deja que el otro empiece.** Si tu interlocutor nunca dice groserías, no las digas tú.
+
+三条铁律：听得懂≠要去说；外国口音会放大脏话的效果；对方不说，你也别说。
+@end
+
+@vocab
+grosería | s. f. | ɡɾo.se.ˈɾi.a | 脏话；粗鲁的行为 | swear word; rude act | ¡No digas groserías delante de los niños! | 别在孩子面前说脏话！ | decir groserías | grosero (adj.) | ⚑ En España: *palabrota* o *taco*.
+plato | s. m. | ˈpla.to | 盘子；菜 | plate; dish | Pon los platos en la mesa. | 把盘子摆在桌上。 | lavar los platos · un plato típico | |
+peor | adj. | pe.ˈoɾ | 更糟的；最糟的 | worse; worst | Es peor de lo que pensaba. | 比我想的还糟。 | lo peor · cada vez peor | malo → peor |
+@end
+
+@badge Primer beso || 初吻 || Leí el episodio 3 mirando el chino menos de cinco veces.
+@badge Invitación perfecta || 完美邀请 || Sé invitar a alguien con «¿Se te antoja…?».
+@badge Te quiero, me caes bien || 分清喜欢 || Sé la diferencia entre «me gustas» y «me caes bien».
+@badge Un minuto || 一分钟 || Grabé mi presentación de un minuto y la volví a escuchar.
+@badge A1 terminado || 完成 A1 || Terminé los tres números del nivel A1. ¡Bravo!
