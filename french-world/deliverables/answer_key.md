@@ -95,3 +95,55 @@
 3. Un mensonge qu'on vous avoue peut être pardonné ; un mensonge qu'on découvre seul est beaucoup plus difficile à pardonner.
 4. Qu'il a eu peur de la perdre et qu'il a fui ; c'est sa façon de faire, et il veut changer.
 5. Elle comprend que Marie et Lucas ont passé la nuit ensemble. Par discrétion, et parce qu'elle est contente pour eux.
+
+## N°7 · La photo (p. )
+
+1. Dans un café, Lucas rit avec une femme brune très belle qui lui tient les mains ; elle se lève et le serre longtemps dans ses bras.
+2. Elle se souvient de Théo : ses messages, ses « réunions tardives », ses mensonges pendant six mois.
+3. Pour faire une surprise (présenter sa sœur). C'est ironique parce que Lucas avait reproché à Marie de lui avoir menti.
+4. Un laboratoire de recherche en IA à Montréal lui a fait une offre de travail ; il le sait depuis trois semaines.
+5. Elle veut dire que Lucas envisage sérieusement de partir : il n'a pas refusé, et il le lui a caché.
+
+## N°7 · Le voisin du dessus (p. )
+
+1. Le premier est amical et poli (compliment + *pourriez-vous*) ; le deuxième est formel et froid (*je vous rappelle que*, la loi) ; le troisième est une explosion de colère, sans politesse.
+2. Il devient sourd et n'entend plus les notes douces ; il joue la nuit parce que c'est le moment où il a peur — le jour, il fait semblant que tout va bien.
+3. Elle lève la main quand une note est trop forte, et met la main sur son cœur quand elle est trop faible.
+4. Il la cherche des yeux pour savoir si son nocturne était juste ; elle met la main sur son cœur : c'était parfait, et aussi : elle est émue.
+5. Exemple : *Bonsoir, je n'arrive plus à dormir et je suis épuisée. Est-ce qu'on pourrait se parler demain pour trouver une solution ensemble ? Élodie.*
+
+## N°8 · Montréal (p. )
+
+1. Il travaille sur des modèles de langage qui comprendraient mieux les langues rares (breton, cri, tibétain). C'est ce que Lucas rêve de faire depuis dix ans.
+2. « Si je te le disais, ça devenait réel. Et si ça devenait réel, il fallait choisir. »
+3. Parler seulement au conditionnel. Ex. : « Si j'acceptais, je partirais en mars. » / « Si je venais avec toi, je ferais quoi là-bas ? »
+4. Parce qu'elle partirait pour lui et non pour elle-même, en abandonnant un travail qu'elle aime ; elle finirait par le lui reprocher.
+5. Elle cherche comment immigrer au Canada. Elle commence à envisager sérieusement de partir — pour elle aussi, pas seulement pour Lucas.
+
+## N°9 · Ce qu'on ne dit pas (p. )
+
+1. Il a décidé de rester à Paris et de refuser l'offre. Marie refuse parce qu'elle ne veut pas qu'il renonce à son rêve pour elle (il en rêve depuis dix ans).
+2. Elle veut d'abord construire quelque chose à elle (travail, vie) ; elle ne veut pas être seulement « la copine de Lucas » à Montréal.
+3. Il pense que c'est Marie qui a choisi (la séparation). Réponse libre pour l'accord.
+4. Elle pense qu'elle a bien fait : « Tu as choisi ta vie au lieu de suivre la sienne. Ça s'appelle grandir. »
+5. Il lui a écrit qu'il était désolé d'être parti comme ça, qu'il comprenait maintenant, qu'il ne lui demandait rien et qu'il avait laissé quelque chose pour elle au café.
+6. Elle a besoin que quelque chose change : c'est un petit signe qu'une nouvelle étape de sa vie commence.
+
+## N°10 · Lettres d'hiver (p. )
+
+1. « Le froid brûle comme le feu » ; « j'ai l'impression que mon visage va se casser » ; il marche « comme un pingouin qui aurait raté sa vocation ».
+2. Le modèle a traduit un vieux conte cri jamais écrit ; une vieille dame a pleuré de bonheur : c'est la première fois que son travail touche quelqu'un aussi profondément.
+3. Il regrette de ne pas avoir parlé de l'offre dès le premier jour ; ils auraient pu décider ensemble au lieu que Marie décide seule, sous pression.
+4. Il croyait que fuir le protégeait ; en réalité, cela obligeait les autres à prendre les décisions difficiles à sa place.
+5. Elle a croisé Théo et n'a « rien ressenti » ; elle trouve cela « reposant ».
+6. *J'aurais dû* (regret), *les choses se seraient passées* (hypothèse sur le passé), *tu aurais eu le temps*, *nous aurions décidé*, *j'aurais aimé* (regret / souhait non réalisé).
+7. Au début, Maigret (et Lucas) lui semblait bizarre ; elle le comprend mieux maintenant : c'est une façon indirecte de dire qu'elle comprend Lucas et qu'elle tient encore à lui.
+
+## N°11 · Ce que Marie a construit (p. )
+
+1. Il a obtenu de bons résultats au TCF Canada et il a été invité à présenter une demande de résidence permanente.
+2. Diriger le nouveau bureau de l'agence à Montréal pendant au moins un an. Elle la choisit parce que Marie l'a mérité : le partenariat a été obtenu en grande partie grâce à son projet de Lyon.
+3. Elle a peur qu'on pense qu'elle part pour Lucas. Mme Lambert répond qu'elle lui propose le poste parce qu'elle l'a mérité, et que sa vie privée ne regarde qu'elle.
+4. Partir pour quelqu'un (il y a un an) et partir pour soi (aujourd'hui) ne sont pas la même décision, même si la destination est la même.
+5. Elle a pris sa décision : elle va partir au Québec (la tuque = bonnet québécois). Le rouge rappelle l'écharpe rouge de la première rencontre.
+6. Subjonctifs : *que quelqu'un ouvre*, *que vous en fassiez partie*, *que ce soit vous qui le dirigiez*, *bien que ce soit*, *qu'on pense*, *pour que vous rejoigniez*, *sans que personne me juge*. Gérondif : *en mangeant*, *en étant payée*.

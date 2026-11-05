@@ -42,3 +42,29 @@
 | Topic | 中文 | Issue | Page |
 |---|---|---|---:|
 | Imparfait ou passé composé ? | 未完成过去时还是复合过去时？ | N°0 | 25 |
+| Le plus-que-parfait | 愈过去时 | N°7 |  |
+| Le futur dans le passé | 过去将来时 | N°7 |  |
+| Le futur simple | 简单将来时 | N°7 |  |
+| Dont | 关系代词 dont | N°7 |  |
+| Le conditionnel présent | 条件式现在时 | N°8 |  |
+| Si + imparfait → conditionnel | 假设句：si + 未完成过去时 → 条件式 | N°8 |  |
+| Si + plus-que-parfait (avant-goût) | 假设过去（预告） | N°8 |  |
+| Les doubles pronoms | 双宾语代词的顺序 | N°8 |  |
+| L'impératif avec un pronom | 带代词的命令式 | N°8 |  |
+| Le subjonctif présent | 虚拟式现在时 | N°9 |  |
+| Quand utiliser le subjonctif ? | 什么时候用虚拟式？ | N°9 |  |
+| Le discours indirect | 间接引语 | N°9 |  |
+| Je pense que / Je ne pense pas que | 观点的直陈式与虚拟式 | N°9 |  |
+| Les connecteurs : cause, conséquence, opposition | 逻辑连接词 | N°9 |  |
+
+## B2
+
+| Topic | 中文 | Issue | Page |
+|---|---|---|---:|
+| Le conditionnel passé | 条件式过去时 | N°10 |  |
+| Si + plus-que-parfait → conditionnel passé | 与过去事实相反的假设 | N°10 |  |
+| La concordance des temps dans le récit | 叙事中的时态配合 | N°10 |  |
+| Les conjonctions + subjonctif | 接虚拟式的连词 | N°11 |  |
+| Le gérondif | 副动词 | N°11 |  |
+| La voix passive | 被动语态 | N°11 |  |
+| Le subjonctif passé | 虚拟式过去时 | N°11 |  |

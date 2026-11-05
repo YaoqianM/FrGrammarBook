@@ -4,6 +4,8 @@
 |---|---|---:|---:|---:|---:|---:|---:|
 | A1 | N°1, N°2, N°3 | 41 | 518 | 5096 | 390 | 87 | 12 |
 | A2 | N°4, N°5, N°6 | 42 | 478 | 6184 | 366 | 67 | 12 |
+| B1 | N°7, N°8, N°9 | 46 | 518 | 7807 | 385 | 57 | 14 |
+| B2 | N°10, N°11 | 30 | 299 | 5618 | 285 | 40 | 7 |
 
 ## A1 — grammar covered
 
@@ -40,6 +42,30 @@
 ## B1 — grammar covered
 
 - Imparfait ou passé composé ? (未完成过去时还是复合过去时？) — N°0
+- Le plus-que-parfait (愈过去时) — N°7
+- Le futur dans le passé (过去将来时) — N°7
+- Le futur simple (简单将来时) — N°7
+- Dont (关系代词 dont) — N°7
+- Le conditionnel présent (条件式现在时) — N°8
+- Si + imparfait → conditionnel (假设句：si + 未完成过去时 → 条件式) — N°8
+- Si + plus-que-parfait (avant-goût) (假设过去（预告）) — N°8
+- Les doubles pronoms (双宾语代词的顺序) — N°8
+- L'impératif avec un pronom (带代词的命令式) — N°8
+- Le subjonctif présent (虚拟式现在时) — N°9
+- Quand utiliser le subjonctif ? (什么时候用虚拟式？) — N°9
+- Le discours indirect (间接引语) — N°9
+- Je pense que / Je ne pense pas que (观点的直陈式与虚拟式) — N°9
+- Les connecteurs : cause, conséquence, opposition (逻辑连接词) — N°9
+
+## B2 — grammar covered
+
+- Le conditionnel passé (条件式过去时) — N°10
+- Si + plus-que-parfait → conditionnel passé (与过去事实相反的假设) — N°10
+- La concordance des temps dans le récit (叙事中的时态配合) — N°10
+- Les conjonctions + subjonctif (接虚拟式的连词) — N°11
+- Le gérondif (副动词) — N°11
+- La voix passive (被动语态) — N°11
+- Le subjonctif passé (虚拟式过去时) — N°11
 
 ## A1 — sections
 
@@ -75,3 +101,41 @@
 - LE DÉBAT: 2
 - AMOUR & RELATIONS: 2
 - LE PLATEAU: 1
+
+## B1 — sections
+
+- VIE QUOTIDIENNE: 5
+- ÉDITO: 3
+- FEUILLETON: 3
+- HISTOIRES: 3
+- LE DÉBAT: 3
+- AMOUR & RELATIONS: 3
+- PSYCHOLOGIE: 3
+- PHILOSOPHIE & IDÉES: 3
+- SCIENCE & MONDE MODERNE: 3
+- POÉSIE & LITTÉRATURE: 3
+- BELLES PHRASES: 3
+- EXPRESSIONS & CONVERSATION: 3
+- HUMOUR & CULTURE: 2
+- CINÉ-PHILO: 2
+- IDÉES QUI DÉRANGENT: 2
+- LE PLATEAU: 2
+
+## B2 — sections
+
+- ÉDITO: 2
+- FEUILLETON: 2
+- HISTOIRES: 2
+- VIE QUOTIDIENNE: 2
+- LE DÉBAT: 2
+- IDÉES QUI DÉRANGENT: 2
+- PSYCHOLOGIE: 2
+- PHILOSOPHIE & IDÉES: 2
+- LE PLATEAU: 2
+- SCIENCE & MONDE MODERNE: 2
+- AMOUR & RELATIONS: 2
+- POÉSIE & LITTÉRATURE: 2
+- BELLES PHRASES: 2
+- EXPRESSIONS & CONVERSATION: 2
+- CINÉ-PHILO: 1
+- HUMOUR & CULTURE: 1

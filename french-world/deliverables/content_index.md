@@ -87,3 +87,79 @@
 | 6 | IDÉES QUI DÉRANGENT | Le voyage ne vous changera pas | 旅行不会改变你 | A2 | 304 |
 | 6 | POÉSIE & LITTÉRATURE | Marée basse | 退潮 | A2 | 306 |
 | 6 | EXPRESSIONS & CONVERSATION | Voyager en dix expressions | 十个旅行表达 | A2 | 308 |
+| 7 | ÉDITO | Choisir, c'est renoncer | 选择就是放弃 | B1 |  |
+| 7 | FEUILLETON | La photo | 照片 | B1 |  |
+| 7 | HISTOIRES | Le voisin du dessus | 楼上的邻居 | B1 |  |
+| 7 | VIE QUOTIDIENNE | Conduire au Québec : le guide du nouvel arrivant | 在魁北克开车：新移民指南 | B1 |  |
+| 7 | HUMOUR & CULTURE | Râler, le sport national | 发牢骚：法国的国民运动 | B1 |  |
+| 7 | LE DÉBAT | En amour, faut-il tout se dire ? | 在爱情里，需要把一切都说出来吗？ | B1 |  |
+| 7 | AMOUR & RELATIONS | La jalousie : preuve d'amour ou poison ? | 嫉妒：爱的证明还是毒药？ | B1 |  |
+| 7 | PSYCHOLOGIE | Vingt-quatre confitures : le paradoxe du choix | 二十四种果酱：选择的悖论 | B1 |  |
+| 7 | PHILOSOPHIE & IDÉES | Sartre et le garçon de café | 萨特与咖啡馆侍者 | B1 |  |
+| 7 | CINÉ-PHILO | « Jusqu'ici tout va bien » : La Haine | “到目前为止一切都好”：《恨》 | B1 |  |
+| 7 | SCIENCE & MONDE MODERNE | Le cerveau amoureux | 恋爱中的大脑 | B1 |  |
+| 7 | IDÉES QUI DÉRANGENT | Quatre mille semaines | 四千个星期 | B1 |  |
+| 7 | POÉSIE & LITTÉRATURE | Demain, dès l'aube | 明天，天一亮 | B1 |  |
+| 7 | BELLES PHRASES | Donner son avis avec nuance | 有分寸地表达观点 | B1 |  |
+| 7 | EXPRESSIONS & CONVERSATION | Le corps parle : tête, cœur, pieds | 身体会说话：头、心、脚 | B1 |  |
+| 8 | ÉDITO | Le pays des « si » | “如果”之国 | B1 |  |
+| 8 | FEUILLETON | Montréal | 蒙特利尔 | B1 |  |
+| 8 | HISTOIRES | Trente secondes | 三十秒 | B1 |  |
+| 8 | VIE QUOTIDIENNE | Immigrer au Canada : Wei explique | 移民加拿大：张伟来讲解 | B1 |  |
+| 8 | VIE QUOTIDIENNE | Négocier son salaire sans trembler | 谈薪不发抖 | B1 |  |
+| 8 | LE PLATEAU | Le futurologue | 未来学家 | B1 |  |
+| 8 | LE DÉBAT | L'IA va-t-elle voler nos emplois ? | 人工智能会抢走我们的工作吗？ | B1 |  |
+| 8 | AMOUR & RELATIONS | L'amour à distance : six heures de décalage | 异地恋：六个小时的时差 | B1 |  |
+| 8 | PSYCHOLOGIE | « J'ai déjà investi cinq ans » : le piège des coûts irrécupérables | “我已经投入了五年”：沉没成本陷阱 | B1 |  |
+| 8 | PHILOSOPHIE & IDÉES | Le voile d'ignorance | 无知之幕 | B1 |  |
+| 8 | IDÉES QUI DÉRANGENT | L'argent fait-il le bonheur ? Oui. Et non. | 金钱能带来幸福吗？能。也不能。 | B1 |  |
+| 8 | SCIENCE & MONDE MODERNE | Et si on vivait sur Mars ? | 如果我们住在火星上？ | B1 |  |
+| 8 | POÉSIE & LITTÉRATURE | L'Invitation au voyage | 邀游 | B1 |  |
+| 8 | BELLES PHRASES | « Et si on… ? » : proposer, imaginer, séduire | “要不我们……？”：提议、想象、打动人心 | B1 |  |
+| 8 | EXPRESSIONS & CONVERSATION | Avec des si… : les expressions de l'imaginaire | 要是……：关于想象的表达 | B1 |  |
+| 9 | ÉDITO | Il faut qu'on parle | 我们得谈谈 | B1 |  |
+| 9 | FEUILLETON | Ce qu'on ne dit pas | 未说出口的话 | B1 |  |
+| 9 | HISTOIRES | Les mots de ma mère | 母亲的话 | B1 |  |
+| 9 | VIE QUOTIDIENNE | Donner (et recevoir) un feedback au travail | 在职场给出（和接受）反馈 | B1 |  |
+| 9 | VIE QUOTIDIENNE | Écrire une réclamation qui marche | 写一封有效的投诉信 | B1 |  |
+| 9 | HUMOUR & CULTURE | Malentendus franco-chinois | 中法误会 | B1 |  |
+| 9 | LE PLATEAU | La thérapeute de couple | 婚姻咨询师 | B1 |  |
+| 9 | LE DÉBAT | Faut-il interdire les téléphones aux moins de quinze ans ? | 是否应该禁止十五岁以下青少年使用手机？ | B1 |  |
+| 9 | AMOUR & RELATIONS | Rompre avec respect, et survivre à une rupture | 体面地分手，熬过分手 | B1 |  |
+| 9 | PSYCHOLOGIE | La communication non violente en quatre étapes | 非暴力沟通四步法 | B1 |  |
+| 9 | PHILOSOPHIE & IDÉES | Simone de Beauvoir : « On ne naît pas femme » | 西蒙娜·德·波伏瓦：“女人不是天生的” | B1 |  |
+| 9 | CINÉ-PHILO | Intouchables : rire avec, pas rire de | 《触不可及》：一起笑，而不是嘲笑 | B1 |  |
+| 9 | SCIENCE & MONDE MODERNE | Un cœur brisé fait-il vraiment mal ? | 心碎真的会痛吗？ | B1 |  |
+| 9 | POÉSIE & LITTÉRATURE | La Cigale et la Fourmi | 蝉和蚂蚁 | B1 |  |
+| 9 | BELLES PHRASES | Dire les choses difficiles | 说出难以开口的话 | B1 |  |
+| 9 | EXPRESSIONS & CONVERSATION | Le subjonctif sans peur : dix expressions toutes faites | 不怕虚拟式：十个现成的表达 | B1 |  |
+| 10 | ÉDITO | Le temps qu'il fait, le temps qui passe | 天气与时光 | B2 |  |
+| 10 | FEUILLETON | Lettres d'hiver | 冬日来信 | B2 |  |
+| 10 | HISTOIRES | La dernière séance | 最后一场 | B2 |  |
+| 10 | VIE QUOTIDIENNE | Les impôts : deux pays, deux systèmes, (au moins) deux déclarations | 税务：两个国家，两套制度，（至少）两份申报 | B2 |  |
+| 10 | LE DÉBAT | La semaine de quatre jours : utopie ou évidence ? | 四天工作制：乌托邦还是理所当然？ | B2 |  |
+| 10 | IDÉES QUI DÉRANGENT | La retraite est une invention récente | 退休是一项新近的发明 | B2 |  |
+| 10 | PSYCHOLOGIE | Ce que nous regrettons vraiment | 我们真正后悔的是什么 | B2 |  |
+| 10 | PHILOSOPHIE & IDÉES | Pascal : « demeurer en repos dans une chambre » | 帕斯卡：“安静地待在一个房间里” | B2 |  |
+| 10 | LE PLATEAU | L'homme sans smartphone | 没有智能手机的人 | B2 |  |
+| 10 | SCIENCE & MONDE MODERNE | Pourquoi le temps passe-t-il plus vite en vieillissant ? | 为什么人越老，时间过得越快？ | B2 |  |
+| 10 | AMOUR & RELATIONS | « Restons amis » : possible ou piège ? | “做回朋友吧”：可能，还是陷阱？ | B2 |  |
+| 10 | POÉSIE & LITTÉRATURE | Mignonne, allons voir si la rose | 宝贝，我们去看看那朵玫瑰 | B2 |  |
+| 10 | CINÉ-PHILO | Amélie Poulain et le goût des petites choses | 艾米莉与小事物的滋味 | B2 |  |
+| 10 | BELLES PHRASES | Exprimer le regret avec élégance | 优雅地表达遗憾 | B2 |  |
+| 10 | EXPRESSIONS & CONVERSATION | Le temps en quinze expressions | 关于时间的十五个表达 | B2 |  |
+| 11 | ÉDITO | Les mots qui changent les choses | 改变事物的话语 | B2 |  |
+| 11 | FEUILLETON | Ce que Marie a construit | 玛丽建立的一切 | B2 |  |
+| 11 | HISTOIRES | Le discours du témoin | 伴郎致辞 | B2 |  |
+| 11 | VIE QUOTIDIENNE | Prendre la parole en public : la boîte à outils | 当众讲话：工具箱 | B2 |  |
+| 11 | HUMOUR & CULTURE | Coiffeurs, jeux de mots et passion française | 理发店、文字游戏与法国人的热情 | B2 |  |
+| 11 | LE DÉBAT | Peut-on séparer l'œuvre de l'artiste ? | 能否把作品与艺术家分开？ | B2 |  |
+| 11 | PSYCHOLOGIE | Les six armes de la persuasion | 说服的六种武器 | B2 |  |
+| 11 | PHILOSOPHIE & IDÉES | Voltaire et la phrase qu'il n'a jamais écrite | 伏尔泰与他从未写过的那句话 | B2 |  |
+| 11 | LE PLATEAU | Le ministre qui ne répondait jamais | 从不正面回答的部长 | B2 |  |
+| 11 | AMOUR & RELATIONS | Écrire une lettre d'amour sans être ridicule | 写一封不显得可笑的情书 | B2 |  |
+| 11 | SCIENCE & MONDE MODERNE | La langue que vous parlez change-t-elle votre façon de penser ? | 你说的语言会改变你的思维方式吗？ | B2 |  |
+| 11 | POÉSIE & LITTÉRATURE | Le Dormeur du val | 山谷里的长眠者 | B2 |  |
+| 11 | IDÉES QUI DÉRANGENT | La politesse est un mensonge utile | 礼貌是一种有用的谎言 | B2 |  |
+| 11 | BELLES PHRASES | Convaincre : six figures de rhétorique | 说服：六种修辞手法 | B2 |  |
+| 11 | EXPRESSIONS & CONVERSATION | Mots et paroles : douze expressions | 话语：十二个表达 | B2 |  |

@@ -447,6 +447,8 @@ class Renderer:
             if not line.strip() or line.startswith("%%"):
                 continue
             f = split_fields(line)
+            if len(f) > 1 and f[1] == "~":      # placeholder: word already taught, nothing to add
+                continue
             if len(f) < 6:
                 self.ctx.errors.append(f"{loc}: vocab needs ≥6 fields: {line[:60]}")
                 continue
