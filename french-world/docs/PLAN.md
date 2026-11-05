@@ -131,3 +131,12 @@ cefr_coverage.md · repetition_report.md
 - Bilingual row = one grid row [nº | FR | ZH], never split across pages.
 - Running header: masthead (left) + issue · level · title (right); page number bottom centre.
 - Clickable TOC, per-issue contents, PDF bookmarks, vocabulary/grammar/expression indexes link to pages.
+
+## 9. Production status
+
+- **Batch 1 — done:** front matter, Ouverture, N°1–N°6 (A1, A2) · 85 pieces · 1,081 rows · 800 vocab · 169 expressions · ~333 pages.
+- Grammar is **reminders only** (user request): `@rappel Title | 中文 | level | chapter` → chapter of `French_Grammar_TCF_Canada_B2.pdf` (ch. 1–33, Annexe A–C).
+- **Batch 2 — next:** N°7–N°9 (B1), N°10–N°12 (B2), N°13 Vers le C1, TCF Canada section (reading practice + writing/speaking prompts; method is in grammar book ch. 31–33), full indexes.
+- Before writing new vocab: check `build/headwords.txt` (all headwords so far). Mark deliberate repeats with `~word` (review card). Duplicate check is per headword + part of speech.
+- Recurring formats to keep: Le Plateau (Karim's talk show; guests so far: Mamie Rose, Alba the AI, Brandon the pickup coach), Le Débat (pour/contre with connectors), Idées qui dérangent (+ « Et si c'était faux ? » counter-note), Belles phrases (@versions with 5–6 registers), Expressions (@expr with register labels).
+- Serial so far: Ep 6 ended in Brittany — Marie told Lucas everything; first night together; Mamie Jeanne's lesson: « On peut pardonner un mensonge qu'on vous avoue… ». Next: Ep 7 « La photo » (Camille, the sister, mistaken for a rival).

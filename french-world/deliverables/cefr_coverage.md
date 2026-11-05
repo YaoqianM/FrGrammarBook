@@ -3,7 +3,7 @@
 | Level | Issues | Pieces | Aligned rows | French words in rows | New vocabulary | Expressions | Grammar topics |
 |---|---|---:|---:|---:|---:|---:|---:|
 | A1 | N°1, N°2, N°3 | 41 | 518 | 5096 | 390 | 87 | 12 |
-| A2 | N°4, N°5 | 28 | 333 | 4287 | 258 | 51 | 9 |
+| A2 | N°4, N°5, N°6 | 42 | 478 | 6184 | 366 | 67 | 12 |
 
 ## A1 — grammar covered
 
@@ -33,6 +33,9 @@
 - Ce, cet, cette, ces (指示形容词) — N°5
 - L'impératif (命令式) — N°5
 - Plus… que, moins… que, aussi… que (比较级) — N°5
+- Imparfait ou passé composé ? (suite) (未完成过去时还是复合过去时？（续）) — N°6
+- Qui, que : les relatifs simples (关系代词 qui 和 que) — N°6
+- Les pronoms y et en (代词 y 和 en) — N°6
 
 ## B1 — grammar covered
 
@@ -57,18 +60,18 @@
 
 ## A2 — sections
 
-- VIE QUOTIDIENNE: 3
-- ÉDITO: 2
-- FEUILLETON: 2
-- HISTOIRES: 2
-- HUMOUR & CULTURE: 2
-- PSYCHOLOGIE: 2
-- PHILOSOPHIE & IDÉES: 2
-- SCIENCE & MONDE MODERNE: 2
-- BELLES PHRASES: 2
-- IDÉES QUI DÉRANGENT: 2
-- POÉSIE & LITTÉRATURE: 2
-- EXPRESSIONS & CONVERSATION: 2
-- LE DÉBAT: 1
-- AMOUR & RELATIONS: 1
+- VIE QUOTIDIENNE: 4
+- ÉDITO: 3
+- FEUILLETON: 3
+- HISTOIRES: 3
+- HUMOUR & CULTURE: 3
+- PSYCHOLOGIE: 3
+- PHILOSOPHIE & IDÉES: 3
+- SCIENCE & MONDE MODERNE: 3
+- BELLES PHRASES: 3
+- IDÉES QUI DÉRANGENT: 3
+- POÉSIE & LITTÉRATURE: 3
+- EXPRESSIONS & CONVERSATION: 3
+- LE DÉBAT: 2
+- AMOUR & RELATIONS: 2
 - LE PLATEAU: 1

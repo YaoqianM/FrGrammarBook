@@ -1,0 +1,263 @@
+%% ───────── LE DÉBAT ─────────
+@piece debat | La ville ou la campagne ? | 城市还是乡村？ | A2
+@deck Mamie Jeanne n'a jamais vécu en ville. Karim n'a jamais vu une vache de près. Nous les avons mis face à face. || 让娜奶奶从没在城市里生活过。卡里姆从没近距离见过一头牛。我们让他们面对面。
+@meta characters=Mamie Jeanne, Karim; themes=ville, campagne, mode de vie; topics=logement, environnement, société
+@h La campagne : Mamie Jeanne, 84 ans || 乡村：让娜奶奶，84岁
+D'abord, à la campagne, on respire. À Paris, vous respirez quoi ? Des pots d'échappement. || 首先，在乡下，人能呼吸。在巴黎，你们呼吸的是什么？汽车尾气。
+Ensuite, ici, tout le monde se connaît. Quand je suis malade, la voisine m'apporte de la soupe. || 其次，在这里，人人都相互认识。我生病的时候，邻居会给我送汤。
+En plus, la vie est moins chère. Pour le prix d'un studio à Paris, j'ai une maison avec un jardin et la mer en face. || 而且，生活成本更低。巴黎一间单身公寓的价钱，在这儿能买一座带花园、面朝大海的房子。
+Et le silence ! Vous savez ce que c'est, le silence, jeune homme ? || 还有安静！你知道什么是安静吗，年轻人？
+[Karim] J'en ai entendu parler. Dans un documentaire. || 我听说过。在一部纪录片里。
+
+@h La ville : Karim, 34 ans || 城市：卡里姆，34岁
+D'abord, en ville, il y a du travail. Mes amis de province sont tous venus à Paris pour en trouver. || 首先，城市里有工作。我外省的朋友们全都来巴黎找工作了。
+Ensuite, il y a tout, tout de suite : des cinémas, des théâtres, des restaurants du monde entier à deux heures du matin. || 其次，这里什么都有，而且随时都有：电影院、剧院，凌晨两点还有来自全世界的餐馆。
+Par contre, à la campagne, sans voiture, on fait comment ? Le bus passe deux fois par jour. || 相反，在乡下，没有车怎么办？公交一天才来两趟。
+Et puis, en ville, personne ne vous connaît. Pour certaines personnes, c'est la liberté. || 还有，在城市里，没人认识你。对有些人来说，这就是自由。
+[Mamie Jeanne] Pour d'autres, c'est la solitude. || 对另一些人来说，这就是孤独。
+[Karim] Touché. || 被您说中了。
+
+@note culture | Les néoruraux
+Depuis le Covid, beaucoup de Français ont quitté les grandes villes pour la campagne ou les villes moyennes, grâce au **télétravail**. On les appelle parfois les **néoruraux**. Au Québec, le phénomène existe aussi : des Montréalais partent vers les **régions** (Estrie, Laurentides…).
+
+疫情以来，得益于远程办公，很多法国人离开大城市，搬到乡村或中等城市，被称为“新乡村居民”（*néoruraux*）。魁北克也有类似现象：蒙特利尔人搬往各个地区。
+@end
+
+@vocab
+vache | n.f. | vaʃ | 母牛 | cow | Les vaches regardent passer les trains. | 奶牛看着火车驶过。 | | | 口语形容词 *vache* = 刻薄的：*Il est vache avec moi*。*La vache !* = 我的天！
+face à face | loc. adv. | fas a fas | 面对面 | face to face | On doit parler face à face. | 我们得当面谈谈。 | un face-à-face (n.m.) | la face |
+pot d'échappement | n.m. | po de.ʃap.mɑ̃ | 排气管；尾气 | exhaust pipe | L'odeur des pots d'échappement. | 汽车尾气的味道。 | | échapper |
+studio | n.m. | sty.djo | 单间公寓；工作室 | studio flat | Il loue un studio de 20 m². | 他租了一个20平米的单间。 | | | ⚜ 魁北克：*un 1 ½*（一个半）。
+documentaire | n.m. | dɔ.ky.mɑ̃.tɛʁ | 纪录片 | documentary | J'ai vu un documentaire sur les requins. | 我看了一部关于鲨鱼的纪录片。 | | un document |
+province | n.f. | pʁɔ.vɛ̃s | 外省（巴黎以外）；省 | the provinces; province | Il vient de province. | 他是外省人。 | en province · la province de Québec | provincial | 在法国，*la province* = 巴黎以外的地方；在加拿大，*une province* = 一个省。
+télétravail | n.m. | te.le.tʁa.vaj | 远程办公 | remote work | Je suis en télétravail le lundi. | 我周一远程办公。 | faire du télétravail | télétravailler |
+touché | adj. | tu.ʃe | 说中了；被感动的 | touché; touched | Ton message m'a beaucoup touchée. | 你的消息让我很感动。 | | toucher | 辩论中被对方说中时说 *Touché !*（源自击剑）。
+@end
+
+@rappel Les pronoms y et en | 代词 y 和 en | A2 | 16
+**y** remplace **à + chose / lieu** : *Tu vas à Paris ? — Oui, j'**y** vais.* **en** remplace **de + chose** ou une quantité : *Tu parles de la campagne ? — Oui, j'**en** parle.* / *Des amis ? J'**en** ai trois.*
+= J'**en** ai entendu parler. — Ils sont venus à Paris pour **en** trouver (du travail). || 我听说过。——他们来巴黎找工作。
+@end
+
+%% ───────── AMOUR ─────────
+@piece amour | Après le rendez-vous : le texto (et le ghosting) | 约会之后：短信（以及“搞消失”） | A2
+@deck Il est 23 h 47. Le rendez-vous était génial. Vous écrivez maintenant ? Demain ? Jamais ? Petit guide d'une époque compliquée. || 晚上十一点四十七分。约会很棒。你现在就发消息？明天？还是永远不发？一个复杂时代的小指南。
+@meta themes=SMS, ghosting, communication, respect; topics=relations, technologie
+Il existe un petit rituel très français après une soirée : « Je suis bien rentré(e) ! » || 法国人在一个夜晚之后有个小仪式：“我已经安全到家了！”
+Ce message dit deux choses. La première : je suis en sécurité. La deuxième : je pense encore à toi. || 这条消息说了两件事。第一：我安全了。第二：我还在想你。
+Faut-il attendre trois jours avant d'écrire ? Non. Cette « règle » vient des films des années 90. || 要不要等三天再发消息？不必。这条“规矩”来自90年代的电影。
+Si vous avez passé une bonne soirée, dites-le. Simplement. Le soir même ou le lendemain. || 如果你度过了一个美好的夜晚，就说出来。简单地说。当晚或者第二天都可以。
+Et si vous n'avez pas envie de revoir la personne ? || 那如果你不想再见这个人了呢？
+Le « ghosting », c'est disparaître sans explication : on ne répond plus, jamais. || “搞消失”（ghosting）就是不做任何解释地消失：不再回复，永远不回。
+C'est facile pour celui qui part. C'est très dur pour celui qui reste avec ses questions. || 对离开的人来说很容易。对留下来满腹疑问的人来说，却很残酷。
+Un message court et honnête prend trente secondes. Et il laisse une porte propre. || 一条简短而诚实的消息只需三十秒。它能让这扇门体面地关上。
+
+@versions Écrire après un rendez-vous : cinq façons
+NEUTRE || Merci pour cette soirée, j'ai passé un très bon moment. || 谢谢今晚的陪伴，我过得很开心。 || Sûr et clair. 安全、清楚。
+FAMILIER || Bien rentré ! C'était trop bien ce soir 😊 → On remet ça ? || 到家啦！今晚太开心了 → 下次再约？ || *On remet ça ?* = on recommence ? 意思是“再来一次？”
+JOUEUR || Je te dois toujours une revanche au baby-foot. Samedi ? || 桌上足球我还欠你一场复仇赛。星期六？ || Un prétexte drôle pour un deuxième rendez-vous. 用一个有趣的借口约第二次。
+ROMANTIQUE || Je suis rentrée, et je souris encore. C'est de ta faute. || 我到家了，现在还在笑。都怪你。 || Léger mais clair sur les sentiments. 轻松，但感情表达得很清楚。
+REFUS POLI || Merci pour la soirée. Je t'ai trouvé très sympa, mais je ne ressens pas d'étincelle. Je te souhaite le meilleur. || 谢谢今晚。我觉得你人很好，但我没有心动的感觉。祝你一切都好。 || Le contraire du ghosting : trente secondes de courage. 和“搞消失”相反：只需三十秒的勇气。
+@end
+
+@vocab
+rituel | n.m. | ʁi.tɥɛl | 仪式；惯例 | ritual | Le café du matin, c'est mon rituel. | 早上那杯咖啡是我的仪式。 | | un rite |
+sécurité | n.f. | se.ky.ʁi.te | 安全 | safety, security | Pour ta sécurité, rentre en taxi. | 为了安全，打车回家吧。 | en sécurité · la sécurité sociale | sûr · sécuriser | *la Sécurité sociale*（la Sécu）= 法国社会保障体系。
+ghoster | v. | ɡo.ste | （口语）搞消失；突然断联 | to ghost | Il m'a ghostée après trois rendez-vous. | 约会三次之后，他就人间蒸发了。 | se faire ghoster | le ghosting | Anglicisme, très fréquent.
+propre | adj. | pʁɔpʁ | 干净的；体面的；自己的 | clean; proper; own | Ma propre maison. / Une maison propre. | 我自己的房子。／一座干净的房子。 | | la propreté | 位置改变意思：*ma propre voiture*（我自己的车）≠ *ma voiture propre*（我干净的车）。
+revanche | n.f. | ʁə.vɑ̃ʃ | 复仇赛；报复 | rematch; revenge | Je veux ma revanche ! | 我要复仇！ | prendre sa revanche · en revanche (= par contre) | | *en revanche* = 相反（比 *par contre* 更书面）。
+baby-foot | n.m. | ba.bi.fut | 桌上足球 | table football | Il y a un baby-foot dans le bar. | 酒吧里有一台桌上足球。 | | |
+étincelle | n.f. | e.tɛ̃.sɛl | 火花 | spark | Il n'y a pas d'étincelle entre nous. | 我们之间没有火花。 | | étinceler |
+@end
+
+@expr
+Je suis bien rentré(e). | 我已平安到家。 | neutre | Le message rituel après une soirée, surtout pour rassurer. | Bien rentrée, merci pour ce soir ! || 平安到家，谢谢今晚！
+On remet ça ? | 下次再来？ | familier | Proposer de recommencer (une soirée, un verre, un rendez-vous). | C'était génial. On remet ça la semaine prochaine ? || 太棒了。下周再来一次？
+Je te souhaite le meilleur. | 祝你一切都好。 | neutre | Pour terminer gentiment une relation ou une conversation. | Je pars à Montréal. Je te souhaite le meilleur. || 我要去蒙特利尔了。祝你一切都好。
+@end
+
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | Parler de ses souvenirs | 谈论回忆 | A2
+@deck « Je me souviens » est écrit sur toutes les plaques d'immatriculation du Québec. Voici comment on le dit avec élégance. || “我记得”印在魁北克每一块车牌上。下面教你如何优雅地说出你的回忆。
+@meta themes=souvenirs, nostalgie, récit; topics=culture
+@versions Ouvrir un souvenir : six façons
+NEUTRE || Je me souviens de mon premier jour à Paris. || 我记得我在巴黎的第一天。 || *Se souvenir **de*** + nom. 后面接 de。
+FAMILIER || Ça me rappelle quand j'étais petit… || 这让我想起我小时候…… || Un objet, une odeur, une chanson déclenche le souvenir. 一个物件、一种气味、一首歌唤起了回忆。
+ROMANTIQUE || Chaque fois que je sens l'odeur des crêpes, je pense à toi. || 每次闻到可丽饼的香味，我就会想起你。 || Lier une sensation à une personne : très français. 把一种感官体验和一个人联系起来：很法式。
+NOSTALGIQUE || À l'époque, on n'avait pas de téléphone. On s'écrivait des lettres. || 那时候，我们没有手机。我们互相写信。 || *À l'époque* + imparfait : la formule des grands-parents. 爷爷奶奶的经典句式。
+SOUTENU || Ce lieu me ramène vingt ans en arrière. || 这个地方把我带回二十年前。 || Élégant, à l'écrit comme à l'oral. 优雅，口语书面皆宜。
+QUÉBEC || Je me souviens. || 我记得。 || La devise du Québec, sur les plaques de voiture depuis 1978. Un rappel de son histoire française. 魁北克的格言，1978年起印在车牌上。
+@end
+
+@vocab
+plaque d'immatriculation | n.f. | plak di.ma.tʁi.ky.la.sjɔ̃ | 车牌 | number plate | Note la plaque d'immatriculation ! | 记下车牌号！ | | immatriculer |
+déclencher | v. | de.klɑ̃.ʃe | 引发；触发 | to trigger | Cette chanson déclenche mes souvenirs. | 这首歌勾起了我的回忆。 | déclencher une alarme · déclencher une crise | le déclenchement |
+ramener | v. | ʁam.ne | 带回 | to bring back | Je te ramène chez toi ? | 我送你回家？ | ramener qqn en arrière | je ramène |
+en arrière | loc. adv. | ɑ̃.na.ʁjɛʁ | 向后；往回 | backwards | Il fait un pas en arrière. | 他后退了一步。 | revenir en arrière | ≠ en avant |
+devise | n.f. | də.viz | 格言；外币 | motto; currency | « Liberté, Égalité, Fraternité » est la devise de la France. | “自由、平等、博爱”是法国的格言。 | les devises étrangères | | 一词两义：格言 / 外汇。
+@end
+
+%% ───────── PSYCHOLOGIE ─────────
+@piece psycho | La nostalgie, une maladie qui fait du bien | 乡愁：一种让人舒服的病 | A2
+@deck Au XVIIᵉ siècle, c'était une maladie. Aujourd'hui, les psychologues pensent qu'elle nous protège. || 在17世纪，它被视为一种疾病。如今，心理学家认为它在保护我们。
+@meta themes=nostalgie, mémoire, émotions, exil; topics=psychologie, santé, immigration
+Le mot « nostalgie » a été inventé en 1688 par un jeune médecin suisse, Johannes Hofer. || “乡愁”（nostalgia）这个词是1688年由一位年轻的瑞士医生约翰内斯·霍费尔创造的。
+Il l'a formé avec deux mots grecs : « nostos », le retour, et « algos », la douleur. || 他用两个希腊词构成了它：nostos，意为“归乡”；algos，意为“痛苦”。
+La douleur du retour impossible. || 无法归去的痛苦。
+À l'époque, c'était une vraie maladie. On l'observait chez des soldats suisses loin de chez eux. || 在当时，这是一种真正的疾病。人们在远离家乡的瑞士士兵身上观察到它。
+Ils dormaient mal, ils ne mangeaient plus, ils pleuraient en entendant les chansons de leurs montagnes. || 他们睡不好，吃不下，一听到家乡山里的歌就流泪。
+Aujourd'hui, les psychologues voient la nostalgie autrement. || 如今，心理学家对乡愁有了不同的看法。
+Des chercheurs comme Constantine Sedikides, en Angleterre, ont montré qu'elle a souvent des effets positifs. || 英国的康斯坦丁·塞迪基德斯等研究者发现，乡愁往往有积极作用。
+Quand on se sent seul ou perdu, un souvenir heureux nous rappelle qu'on a été aimé. || 当我们感到孤独或迷茫时，一段幸福的回忆会提醒我们：我们曾被爱过。
+La nostalgie donne du sens à la vie. Elle relie hier et aujourd'hui. || 乡愁赋予生命意义。它把昨天和今天连在一起。
+Pour quelqu'un qui vit loin de son pays, c'est précieux. || 对一个远离故国的人来说，这很珍贵。
+Alors, quand vous mangez des raviolis de Chengdu un soir de pluie à Paris, ce n'est pas de la faiblesse. || 所以，当你在巴黎某个下雨的夜晚吃着成都的抄手，这并不是软弱。
+C'est votre cerveau qui prend soin de vous. || 那是你的大脑在照顾你。
+
+@vocab
+nostalgie | n.f. | nɔs.tal.ʒi | 乡愁；怀旧 | nostalgia | J'ai la nostalgie de mon enfance. | 我怀念我的童年。 | avoir la nostalgie de · par nostalgie | nostalgique |
+retour | n.m. | ʁə.tuʁ | 归来；返回 | return | Bon retour ! | 一路平安回来！ | un aller-retour · le retour au pays | retourner | *un aller-retour* = 往返票。
+soldat | n.m. | sɔl.da | 士兵 | soldier | Les soldats rentrent chez eux. | 士兵们回家了。 | | |
+autrement | adv. | o.tʁə.mɑ̃ | 用别的方式；否则 | differently; otherwise | Je vois les choses autrement. | 我看待事情的方式不同。 | autrement dit (= in other words) | autre | *Autrement dit…* = 换句话说……
+sens | n.m. | sɑ̃s | 意义；方向；感官 | meaning; direction; sense | Ça n'a pas de sens ! | 这毫无意义！ | le sens de la vie · dans le bon sens · les cinq sens | sensé | 发音 /sɑ̃s/，s 要读出来。
+relier | v. | ʁə.lje | 连接 | to link, to connect | Un pont relie les deux villes. | 一座桥连接着两座城市。 | | un lien |
+précieux | adj. | pʁe.sjø | 珍贵的 | precious | Ton temps est précieux. | 你的时间很宝贵。 | une pierre précieuse | précieuse (f.) |
+faiblesse | n.f. | fɛ.blɛs | 软弱；弱点 | weakness | Pleurer n'est pas une faiblesse. | 哭不是软弱。 | | faible · faiblir |
+prendre soin de | loc. v. | pʁɑ̃dʁ swɛ̃ də | 照顾 | to take care of | Prends soin de toi. | 照顾好自己。 | | le soin · soigner | *Prends soin de toi* = 保重。
+@end
+
+%% ───────── PHILOSOPHIE ─────────
+@piece philo | Montaigne en voyage : « Je sais bien ce que je fuis » | 旅途中的蒙田：“我很清楚自己在逃避什么” | A2
+@deck À 47 ans, Montaigne quitte son château pour dix-sept mois de voyage. Pourquoi ? Sa réponse est d'une honnêteté rare. || 47岁那年，蒙田离开城堡，开始了十七个月的旅行。为什么？他的回答坦诚得罕见。
+@meta characters=Montaigne; setting=Europe, 1580; themes=voyage, fuite, curiosité; topics=philosophie, voyages
+En 1580, Montaigne a quarante-sept ans. Il vient de publier ses *Essais*. || 1580年，蒙田四十七岁。他刚刚出版了《随笔集》。
+Il a des douleurs aux reins, une femme, une fille, un château. Et il part. || 他患有肾痛，有妻子、女儿和一座城堡。可他出发了。
+Pendant dix-sept mois, il traverse la Suisse, l'Allemagne et l'Italie, à cheval. || 十七个月里，他骑着马穿越了瑞士、德国和意大利。
+Il mange comme les gens du pays. Il refuse les auberges pour Français. Il veut être dépaysé. || 他吃当地人的饭。他拒绝住专门接待法国人的客栈。他想要感受异乡。
+Quand on lui demande pourquoi il voyage, il répond ceci : || 当有人问他为什么旅行时，他这样回答：
+@quote « Je sais bien ce que je fuis, mais non pas ce que je cherche. » || “我很清楚自己在逃避什么，却不知道自己在寻找什么。” || Montaigne, Essais, livre III, chapitre 9 « De la vanité »
+C'est une réponse étonnante. La plupart des gens disent : « Je pars pour découvrir. » || 这是个惊人的回答。大多数人会说：“我出发是为了探索。”
+Montaigne avoue : je pars d'abord pour quitter quelque chose. Le reste, je verrai bien. || 蒙田却承认：我出发首先是为了离开某些东西。至于其他，到时再说。
+Et vous ? Quand vous êtes parti(e) de chez vous, vous saviez ce que vous fuyiez ? || 你呢？当你离开家乡时，你知道自己在逃避什么吗？
+Et aujourd'hui, savez-vous ce que vous cherchez ? || 那今天，你知道自己在寻找什么吗？
+
+@vocab
+rein | n.m. | ʁɛ̃ | 肾；（复数）腰 | kidney; (pl.) lower back | J'ai mal aux reins. | 我腰疼。 | | rénal | *avoir mal aux reins* 常指“腰疼”。
+à cheval | loc. adv. | a ʃə.val | 骑马 | on horseback | Ils traversent le désert à cheval. | 他们骑马穿越沙漠。 | | un cheval (pl. des chevaux) |
+auberge | n.f. | o.bɛʁʒ | 客栈；旅馆 | inn | Une auberge de jeunesse. | 青年旅舍。 | | un aubergiste | 俗语：*On n'est pas sortis de l'auberge* = 麻烦还多着呢。
+dépaysé | adj. | de.pe.i.ze | 身处异乡感到陌生的 | out of one's element, disoriented | À Tokyo, je me suis senti complètement dépaysé. | 在东京，我感到完全像到了另一个世界。 | | dépaysée (f.) · le dépaysement |
+étonnant | adj. | e.tɔ.nɑ̃ | 令人惊讶的 | surprising | C'est étonnant ! | 真令人惊讶！ | | étonnante (f.) · étonner · l'étonnement |
+@end
+
+%% ───────── SCIENCE ─────────
+@piece science | Les arbres se parlent-ils ? | 树木会彼此交谈吗？ | A2
+@deck Un « internet des forêts » sous nos pieds ? L'idée a fait le tour du monde. Les scientifiques, eux, discutent encore. || 我们脚下有一个“森林互联网”？这个想法传遍了世界。而科学家们仍在争论。
+@meta themes=forêt, champignons, controverse scientifique; topics=environnement, science
+Sous une forêt, il y a des kilomètres de petits fils blancs : des champignons. || 在森林地下，有长达数公里的白色细丝：那是真菌。
+Ils vivent avec les racines des arbres. Ils donnent de l'eau et des minéraux aux arbres, et les arbres leur donnent du sucre. || 它们和树根共生。它们给树提供水和矿物质，树则给它们糖分。
+Dans les années 1990, la chercheuse canadienne Suzanne Simard a fait une découverte célèbre. || 20世纪90年代，加拿大研究者苏珊娜·西马德有一项著名的发现。
+Grâce à ces champignons, du carbone passait d'un arbre à un autre. || 借助这些真菌，碳会从一棵树传到另一棵树。
+Les journalistes ont adoré : « Les arbres se parlent ! Les mères nourrissent leurs enfants ! Il existe un internet des forêts ! » || 记者们爱死了这个说法：“树木会交谈！母树会喂养子树！森林里存在一个互联网！”
+Des livres, des films et des documentaires ont répété cette belle histoire. || 很多书、电影和纪录片都重复着这个美丽的故事。
+Mais en 2023, une équipe de chercheurs a analysé toutes les études sur le sujet. || 但在2023年，一个研究团队分析了这一主题的所有研究。
+Leur conclusion : les réseaux de champignons existent, mais les preuves que les arbres « s'entraident » ou « communiquent » sont beaucoup plus faibles qu'on le dit. || 他们的结论是：真菌网络确实存在，但“树木互相帮助”或“彼此交流”的证据，比人们说的要弱得多。
+Alors, les arbres se parlent-ils ? Peut-être un peu. Peut-être pas comme dans les films. || 那么，树木会彼此交谈吗？也许有一点。也许不像电影里演的那样。
+C'est ça, la science : une belle histoire doit toujours présenter ses preuves. || 这就是科学：一个美丽的故事，必须拿出它的证据。
+
+@note source | Les sources
+Suzanne W. Simard et al., *Nature*, 1997. Justine Karst, Melanie D. Jones et Jason D. Hoeksema, « Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests », *Nature Ecology & Evolution*, 2023.
+@end
+
+@vocab
+forêt | n.f. | fɔ.ʁɛ | 森林 | forest | On se promène en forêt le dimanche. | 我们星期天去森林散步。 | en forêt · une forêt tropicale | forestier |
+champignon | n.m. | ʃɑ̃.pi.ɲɔ̃ | 蘑菇；真菌 | mushroom; fungus | Une pizza aux champignons. | 一个蘑菇披萨。 | aller aux champignons | | 口语 *appuyer sur le champignon* = 猛踩油门。
+racine | n.f. | ʁa.sin | 根 | root | Cet arbre a des racines profondes. | 这棵树根扎得很深。 | prendre racine · retrouver ses racines | | *retrouver ses racines* = 寻根。
+découverte | n.f. | de.ku.vɛʁt | 发现 | discovery | C'est une découverte importante. | 这是一个重要的发现。 | partir à la découverte de… | découvrir |
+nourrir | v. | nu.ʁiʁ | 喂养；滋养 | to feed | Il faut nourrir le chat. | 得喂猫了。 | nourrir sa famille · se nourrir | la nourriture |
+analyser | v. | a.na.li.ze | 分析 | to analyse | Les chercheurs analysent les données. | 研究人员在分析数据。 | | l'analyse |
+s'entraider | v. pron. | sɑ̃.tʁɛ.de | 互相帮助 | to help each other | Les voisins s'entraident. | 邻居们互帮互助。 | | l'entraide · aider |
+faible | adj. | fɛbl | 弱的 | weak | Le signal est faible. | 信号很弱。 | un point faible | la faiblesse |
+@end
+
+%% ───────── IDÉES QUI DÉRANGENT ─────────
+@piece idees | Le voyage ne vous changera pas | 旅行不会改变你 | A2
+@deck « Partir, ça va tout changer ! » Un poète romain avait déjà la réponse il y a deux mille ans. Elle n'est pas agréable. || “出走就能改变一切！”两千年前，一位罗马诗人就给出了答案。这个答案并不讨喜。
+@meta themes=voyage, fuite, changement, immigration; topics=voyages, psychologie, immigration
+On pense souvent : « Si je pars loin, je serai une autre personne. » || 我们常常想：“如果我去远方，我就会变成另一个人。”
+Nouvelle ville, nouvelle langue, nouvelle vie. || 新城市，新语言，新生活。
+Le poète latin Horace a écrit une phrase très dure sur ce sujet : || 拉丁诗人贺拉斯就此写过一句很残酷的话：
+@quote « Ils changent de ciel, non d'âme, ceux qui courent au-delà des mers. » || “那些远渡重洋的人，改变的只是天空，而不是灵魂。” || Horace, Épîtres, I, 11 (traduction libre)
+Vous prenez l'avion. Mais vos peurs prennent l'avion avec vous. || 你坐上了飞机。可你的恐惧也和你一起坐上了飞机。
+Vos habitudes, vos doutes, votre façon de fuir les conflits : tout ça arrive à Montréal en même temps que vos valises. || 你的习惯、你的怀疑、你逃避冲突的方式：这一切都会和你的行李同时抵达蒙特利尔。
+Ce n'est pas un argument contre le voyage. C'est un argument contre l'illusion. || 这不是反对旅行的理由。而是反对幻想的理由。
+Le voyage ne change pas les gens. Il leur montre qui ils sont, avec moins de décor autour. || 旅行不会改变人。它只是让人看清自己是谁——在少了些布景的地方。
+Ce qui change les gens, c'est ce qu'ils décident de faire, une fois arrivés. || 改变一个人的，是他到达之后决定去做的事。
+
+@note idea | Et si c'était faux ?
+Beaucoup d'immigrés disent l'inverse : « Je suis devenu quelqu'un d'autre. » Parler une autre langue, c'est parfois avoir une autre personnalité : plus directe en anglais, plus drôle en français, plus prudente en chinois. Horace a peut-être raison sur **l'âme**. Mais la langue, elle, change quelque chose. À vous de juger.
+
+很多移民的说法正好相反：“我变成了另一个人。”说另一种语言，有时就像拥有另一种性格：说英语时更直接，说法语时更幽默，说中文时更谨慎。贺拉斯关于“灵魂”的说法也许是对的，但语言确实会改变些什么。由你来判断。
+@end
+
+@vocab
+latin | adj. / n.m. | la.tɛ̃ | 拉丁的；拉丁语 | Latin | Le français vient du latin. | 法语源自拉丁语。 | | latine (f.) |
+au-delà de | loc. prép. | o.də.la də | 在……之外 | beyond | Au-delà de la montagne, il y a la mer. | 山的那边是大海。 | l'au-delà (= 来世) | |
+doute | n.m. | dut | 怀疑；疑虑 | doubt | J'ai un doute. | 我有点怀疑。 | sans doute (= probablement) · sans aucun doute (= certainement) | douter · douteux | ⚠ *sans doute* = 大概（不是“毫无疑问”）；*sans aucun doute* 才是“毫无疑问”。
+conflit | n.m. | kɔ̃.fli | 冲突 | conflict | Il évite les conflits. | 他回避冲突。 | un conflit d'intérêts | |
+valise | n.f. | va.liz | 行李箱 | suitcase | J'ai fait ma valise hier soir. | 我昨晚收拾好了行李。 | faire sa valise · défaire sa valise | |
+illusion | n.f. | i.ly.zjɔ̃ | 幻想；错觉 | illusion | Ne te fais pas d'illusions. | 别抱幻想了。 | une illusion d'optique | illusoire |
+décor | n.m. | de.kɔʁ | 布景；装饰 | scenery, setting | Le décor du film est magnifique. | 电影的布景很美。 | changer de décor | décorer · la décoration |
+@end
+
+%% ───────── POÉSIE ─────────
+@piece poesie | Marée basse | 退潮 | A2
+@deck Un poème original écrit à Douarnenez, pour tous ceux qui attendent que quelque chose revienne. || 一首写于杜阿尔讷内的原创诗，献给所有等待某样东西归来的人。
+@meta setting=Douarnenez, Bretagne; themes=mer, attente, retour; topics=culture
+@poem Marée basse | La rédaction
+À marée basse, la mer s'en va. || 退潮时，大海离去。
+Elle laisse les bateaux couchés sur le sable, || 它把船只留在沙滩上，
+les algues, les coquillages, || 留下海藻、贝壳，
+et les enfants qui cherchent des crabes. || 还有寻找螃蟹的孩子们。
+
+Personne ne pleure. || 没有人哭泣。
+Les vieux pêcheurs fument sur le quai. || 老渔夫们在码头上抽烟。
+Ils savent une chose que nous oublions : || 他们懂得一件我们常常忘记的事：
+ce qui part n'est pas toujours perdu. || 离去的，并不总是失去。
+
+Six heures plus tard, sans bruit, || 六个小时后，悄无声息地，
+la mer revient prendre les bateaux. || 大海回来接走了船只。
+Elle n'a rien promis. || 它什么也没承诺过。
+Elle revient, c'est tout. || 它就是回来了，仅此而已。
+@end
+
+@vocab
+marée | n.f. | ma.ʁe | 潮汐 | tide | À marée haute, la plage disparaît. | 涨潮时，海滩就不见了。 | marée basse · marée haute · une marée noire (= 石油泄漏) | |
+sable | n.m. | sabl | 沙 | sand | Les enfants jouent dans le sable. | 孩子们在沙子里玩。 | une plage de sable fin | |
+algue | n.f. | alɡ | 海藻 | seaweed | Il y a des algues sur la plage. | 海滩上有海藻。 | | |
+coquillage | n.m. | kɔ.ki.jaʒ | 贝壳 | shell | Elle ramasse des coquillages. | 她在捡贝壳。 | | une coquille |
+pêcheur | n.m. | pɛ.ʃœʁ | 渔夫 | fisherman | Les pêcheurs partent à quatre heures. | 渔夫们凌晨四点出海。 | | pêcher · la pêche | 注意：*un pêcheur*（渔夫）≠ *un pécheur*（罪人）。
+promettre | v. | pʁɔ.mɛtʁ | 承诺 | to promise | Je te promets de revenir. | 我答应你会回来。 | promettre de + inf. | p.p. promis · une promesse |
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Voyager en dix expressions | 十个旅行表达 | A2
+@deck De la valise au décalage horaire, les mots qu'on emporte partout. || 从行李箱到时差，这些词你走到哪儿都用得上。
+@meta themes=voyage; topics=voyages, transports
+@expr
+Avoir le mal du pays | 想家；思乡 | neutre | La nostalgie de son pays quand on vit à l'étranger. | Le premier hiver à Montréal, j'ai eu le mal du pays. || 在蒙特利尔的第一个冬天，我很想家。
+Faire ses valises | 收拾行李；（引申）离开 | neutre | Au sens propre ou figuré : *Elle a fait ses valises* = elle est partie (le quitter). | Après la dispute, il a fait ses valises. || 吵架之后，他收拾行李走了。
+Partir sur un coup de tête | 一时冲动就出发 | familier | Sans réfléchir, sans plan. | On est partis à Lisbonne sur un coup de tête. || 我们一时兴起就去了里斯本。
+Se mettre au vert | 去乡下休养 | familier | Aller à la campagne pour se reposer. | Ce week-end, je me mets au vert en Bretagne. || 这周末我去布列塔尼乡下放松一下。
+Le décalage horaire | 时差 | neutre | Entre Paris et Montréal : six heures. Entre Paris et Pékin : six ou sept heures. | Je suis encore en décalage horaire. || 我的时差还没倒过来。
+C'est le bout du monde ! | 天涯海角！ | familier | Un endroit très loin… ou qui semble loin. Le Finistère = « la fin de la terre ». | Douarnenez ? C'est le bout du monde ! || 杜阿尔讷内？那可是天涯海角！
+Bon voyage ! / Bonne route ! | 旅途愉快！／一路顺风！ | neutre | *Bonne route* pour un voyage en voiture. | Bonne route, et appelle-moi en arrivant ! || 一路顺风，到了给我打电话！
+Voyager léger | 轻装出行 | neutre | Avec peu de bagages. Aussi au sens figuré : sans trop de soucis. | Je voyage toujours léger : un sac à dos, c'est tout. || 我总是轻装出行：一个背包，就这样。
+Avoir la bougeotte | 闲不住；总想出门 | familier | Ne pas pouvoir rester au même endroit. | Depuis qu'il est retraité, il a la bougeotte. || 他退休后就闲不住，总想到处跑。
+En route ! | 出发！ | familier | Pour partir, avec énergie. | Tout le monde est prêt ? En route ! || 大家都准备好了吗？出发！
+@end
+
+@badge Bretagne || 布列塔尼 || J'ai compris la phrase de Mamie Jeanne sur les deux mensonges.
+@badge Bilingue Québec || 魁北克通 || Je sais ce qu'on mange au « dîner » à Montréal.
+@badge Pas de ghosting || 不玩消失 || J'ai écrit un message de refus poli (même imaginaire).
+@badge Je me souviens || 我记得 || J'ai raconté un souvenir d'enfance avec « Quand j'étais petit(e)… ».
+@badge A2 terminé || 完成 A2 || J'ai fini les six premiers numéros. Le B1 m'attend !

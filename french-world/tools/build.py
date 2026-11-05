@@ -823,6 +823,9 @@ def sommaire(R, ctx):
             fr = KINDS[p.kind][0]
             rows.append(f'<a class="s-p" href="#{p.id}"><span class="s-k">{fr}</span><span class="s-t">{inline(p.title)}</span>'
                         f'<span class="s-d"></span><span class="s-n">{R.page(p.id)}</span></a>')
+    if not any(i.level in ("B1", "B2", "C1") for i in ctx.issues):
+        rows.append('<div class="s-vol">Volume III · B1 · Volume IV · B2 · Vers le C1 · TCF Canada — '
+                    'lot 2 · 第二批交付</div>')
     for bid, t in BACK:
         rows.append(f'<a class="s-i s-back" href="#{bid}"><span class="s-num">◆</span><span class="s-t">{t}</span>'
                     f'<span class="s-d"></span><span class="s-n">{R.page(bid)}</span></a>')
