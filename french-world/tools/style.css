@@ -39,7 +39,7 @@ strong { font-weight: 700; color: #fff; }
 em { font-style: italic; }
 mark { background: rgba(201,165,92,.22); color: #fff; padding: 0 2px; border-radius: 2px; }
 code { font-family: "DejaVu Sans Mono", monospace; font-size: 0.82em; color: var(--gold2); background: #1d1d1d; padding: 0 3px; border-radius: 3px; }
-.mk { position: absolute; font-size: 2px; color: var(--bg); letter-spacing: 0; line-height: 0; }
+.mk { position: absolute; white-space: nowrap; hyphens: none; font-size: 2px; color: var(--bg); letter-spacing: 0; line-height: 0; }
 .ic { width: 1.25em; height: 1.25em; vertical-align: -0.28em; margin-right: 0.45em; flex: none; }
 .kz { font-family: "Noto Sans SC", sans-serif; letter-spacing: 0.1em; color: var(--muted); margin-left: 0.6em; font-weight: 500; }
 .pb { break-before: page; }
@@ -341,3 +341,7 @@ tr { break-inside: avoid; }
 .rb strong { color: #fff; }
 .rb em { color: var(--gold2); }
 .rb .exs { margin: 0.5mm 0 1.5mm; }
+
+.lvl-TCF { color: #f0a8a0; border-color: #8a3f38; }
+.tcf-h { font-family: "Playfair Display", serif; font-weight: 700; font-size: 12pt; color: var(--gold2); margin: 4mm 0 1mm; border-bottom: 1px solid #3a3020; padding-bottom: 0.5mm; break-after: avoid; }
+.tcf-l { margin-bottom: 1mm; }

@@ -9,9 +9,9 @@ The full grammar explanations live in `../French_Grammar_TCF_Canada_B2.pdf`; eve
 |---|---|---|
 | 1–6 | N°1 → N°3 (A1) | introduce yourself, order, ask questions, understand short texts · 自我介绍、点餐、提问、读懂短文 |
 | 7–12 | N°4 → N°6 (A2) | tell a story in the past, talk about work, housing, health · 用过去时讲故事，谈工作、住房、健康 |
-| 13–18 | N°7 → N°9 (B1) — *batch 2* | give and defend an opinion, imagine, argue · 表达并捍卫观点、假设、论证 |
-| 19–24 | N°10 → N°13 (B2 → C1) — *batch 2* | nuance, debate, understand implicit meaning · 表达细微差别、辩论、理解言外之意 |
-| 25–26 | TCF Canada section — *batch 2* | mock tests, writing and speaking · 模拟题、写作与口语 |
+| 13–18 | N°7 → N°9 (B1) | give and defend an opinion, imagine, argue · 表达并捍卫观点、假设、论证 |
+| 19–24 | N°10 → N°13 (B2 → C1) | nuance, debate, understand implicit meaning · 表达细微差别、辩论、理解言外之意 |
+| 25–26 | TCF Canada section | mock tests, writing and speaking · 模拟题、写作与口语 |
 
 ## One session (30–40 min) · 每次学习
 
@@ -24,7 +24,7 @@ The full grammar explanations live in `../French_Grammar_TCF_Canada_B2.pdf`; eve
 ## Importing the vocabulary into Anki · 导入 Anki
 
 File → Import → `anki_vocabulary.tsv`. The file declares tab separators, HTML and three fields (Front, Back, Tags).
-Tags: `FW::A1`, `FW::A2`, and one tag per TCF topic (`FW::travail`, `FW::logement`, `FW::santé`…), so you can study by level or by topic.
+Tags: `FW::A1` … `FW::C1`, and one tag per TCF topic (`FW::travail`, `FW::logement`, `FW::santé`…), so you can study by level or by topic.
 
 ## Tracking your progress · 追踪进度
 

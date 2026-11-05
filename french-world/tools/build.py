@@ -327,7 +327,7 @@ class Renderer:
         self.dupes = []
 
     def mark(self, mid):
-        return f'<span class="mk">§{mid}§</span>'
+        return f'<span class="mk">§{mid.replace("-", "_")}§</span>'
 
     def page(self, mid):
         return self.pages.get(mid, "")
@@ -679,6 +679,10 @@ def assign_ids(ctx):
             p.id = f"p{iss.num}-{j}"
 
 
+def iss_label(iss):
+    return f"N°{iss.num}" if str(iss.num).isdigit() else str(iss.num)
+
+
 def cover_html():
     return (ROOT / "tools" / "cover.html").read_text(encoding="utf-8")
 
@@ -696,7 +700,7 @@ def issue_opener(R, iss, stats):
         tag = f'<div class="io-tag">{inline(iss.tag_fr)}</div><div class="io-tagz">{inline(iss.tag_zh)}</div>'
     return (f'<section class="iopen" id="{iss.id}">'
             f'<div class="io-top"><span class="io-mast">THE FRENCH WORLD</span><span class="lvl lvl-{iss.level}">{iss.level}</span></div>'
-            f'<div class="io-num">N°{iss.num}</div>'
+            f'<div class="io-num">{iss_label(iss)}</div>'
             f'<h1 class="io-title">{inline(iss.title)}{R.mark(iss.id)}</h1><div class="io-zh">{html.escape(iss.title_zh)}</div>{tag}'
             f'<div class="io-stats"><span><b>{len(iss.pieces)}</b> articles · 篇</span><span><b>{s["new"]}</b> mots nouveaux · 新词</span>'
             f'<span><b>{s["expr"]}</b> expressions · 表达</span><span><b>{s["gram"]}</b> rappels de grammaire · 语法提示</span></div>'
@@ -718,8 +722,10 @@ def issue_tracker(R, iss, stats, target):
                     for m in range(500, target + 1, 500))
     tid = f"trk{iss.num}"
     return (f'<section class="tracker" id="{tid}"><div class="kicker">{icon("star")}<span>CARNET DE PROGRÈS</span><span class="kz">进度手册</span>'
-            f'<span class="lvl lvl-{iss.level}">N°{iss.num}</span></div>'
-            f'<h2 class="pt">Vous avez terminé le N°{iss.num} !{R.mark(tid)}</h2><div class="ptz">你读完了第 {iss.num} 期！</div>'
+            f'<span class="lvl lvl-{iss.level}">{iss_label(iss)}</span></div>'
+            + (f'<h2 class="pt">Vous avez terminé le N°{iss.num} !{R.mark(tid)}</h2><div class="ptz">你读完了第 {iss.num} 期！</div>'
+               if str(iss.num).isdigit() else
+               f'<h2 class="pt">Section terminée !{R.mark(tid)}</h2><div class="ptz">你完成了这一部分！</div>') +
             f'<div class="counter"><div class="cbig">{s["cum"]:,}'.replace(",", " ") +
             f'</div><div class="clab">mots et expressions rencontrés depuis le début<br><span class="kz">从第一页起你已遇到的单词与表达</span></div>'
             f'<div class="cadd">+{s["new"]} mots · +{s["expr"]} expressions dans ce numéro</div>'
@@ -800,7 +806,7 @@ def build():
 def page_rules(ctx):
     css = []
     for iss in ctx.issues:
-        label = f"N° {iss.num} · {iss.level} · {iss.title} · {iss.title_zh}".replace('"', '\\"')
+        label = f"{iss_label(iss)} · {iss.title} · {iss.title_zh}".replace('"', '\\"')
         css.append(f'.iss-{iss.num} {{ page: iss{iss.num}; }}\n'
                    f'@page iss{iss.num} {{ @top-right {{ content: "{label}"; }} }}\n')
     return "\n".join(css)
@@ -814,12 +820,13 @@ def sommaire(R, ctx):
                     f' <span class="s-z">{html.escape(p.title_zh)}</span></span><span class="s-d"></span><span class="s-n">{R.page(p.id)}</span></a>')
     cur_level = None
     vol = {"A1": "Volume I · A1 · 入门", "A2": "Volume II · A2 · 基础", "B1": "Volume III · B1 · 进阶",
-           "B2": "Volume IV · B2 · 中高级", "C1": "Bonus · Vers le C1 · 冲刺 C1"}
+           "B2": "Volume IV · B2 · 中高级", "C1": "Bonus · Vers le C1 · 冲刺 C1",
+           "TCF": "Section TCF Canada · TCF 加拿大专项"}
     for iss in ctx.issues:
         if iss.level != cur_level:
             cur_level = iss.level
             rows.append(f'<div class="s-vol">{vol.get(iss.level, iss.level)}</div>')
-        rows.append(f'<a class="s-i" href="#{iss.id}"><span class="s-num">N°{iss.num}</span><span class="s-t">{inline(iss.title)}'
+        rows.append(f'<a class="s-i" href="#{iss.id}"><span class="s-num">{iss_label(iss)}</span><span class="s-t">{inline(iss.title)}'
                     f' <span class="s-z">{html.escape(iss.title_zh)}</span></span><span class="s-d"></span><span class="s-n">{R.page(iss.id)}</span></a>')
         for p in iss.pieces:
             fr = KINDS[p.kind][0]
@@ -838,7 +845,14 @@ def sommaire(R, ctx):
 
 BACK = [("bk-ans", "Corrigés · 练习答案"), ("bk-voc", "Index du vocabulaire · 词汇索引"),
         ("bk-exp", "Glossaire des expressions et de l'argot · 表达与俚语词汇表"),
+        ("bk-tcf", "Vocabulaire du TCF par thème · TCF 主题词汇"),
         ("bk-gram", "Index de grammaire · 语法索引"), ("bk-cont", "Index des contenus · 内容索引")]
+
+TCF_TOPICS = [("travail", "工作"), ("logement", "住房"), ("immigration", "移民"), ("santé", "健康"),
+              ("argent", "金钱"), ("économie", "经济"), ("société", "社会"), ("environnement", "环境"),
+              ("technologie", "科技"), ("éducation", "教育"), ("transports", "交通"), ("justice", "司法"),
+              ("administration", "行政"), ("médias", "媒体"), ("culture", "文化"), ("relations", "人际关系"),
+              ("psychologie", "心理"), ("consommation", "消费"), ("science", "科学")]
 
 
 def backmatter(R, ctx):
@@ -846,7 +860,7 @@ def backmatter(R, ctx):
     # answer key
     out.append(f'<section class="bk" id="bk-ans"><div class="kicker">{icon("pen")}<span>CORRIGÉS</span><span class="kz">练习答案</span></div>'
                f'<h1 class="bk-h">Corrigés{R.mark("bk-ans")}</h1><div class="ans">')
-    groups = [("Ouverture", ctx.front)] + [(f"N°{i.num} · {i.title}", i.pieces) for i in ctx.issues]
+    groups = [("Ouverture", ctx.front)] + [(f"{iss_label(i)} · {i.title}", i.pieces) for i in ctx.issues]
     for gname, plist in groups:
         items = [p for p in plist if p.answers]
         if not items:
@@ -880,6 +894,27 @@ def backmatter(R, ctx):
                    f'<span class="reg {reg_class(e["reg"])}">{html.escape(e["reg"])}</span>'
                    f'<span class="eiz">{inline(e["zh"])}</span><span class="vin">{R.page(e["id"])}</span></a>')
     out.append("</div></section>")
+    # TCF vocabulary by topic (selection: higher levels first)
+    out.append(f'<section class="bk" id="bk-tcf"><div class="kicker">{icon("leaf")}<span>VOCABULAIRE DU TCF PAR THÈME</span><span class="kz">TCF 主题词汇</span></div>'
+               f'<h1 class="bk-h">Le vocabulaire du TCF par thème{R.mark("bk-tcf")}</h1>'
+               f'<p class="bk-intro">Une sélection des mots du magazine classés selon les grands thèmes de l\'examen, les plus avancés en premier. '
+               f'按考试常见主题整理的杂志词汇精选，较难的词排在前面。完整列表：<code>deliverables/tcf_vocabulary.md</code></p>')
+    rank = {"C1": 0, "B2": 1, "B1": 2, "A2": 3, "A1": 4}
+    newv = [v for v in ctx.vocab if not v["review"]]
+    for topic, tzh in TCF_TOPICS:
+        ws = [v for v in newv if topic in v["topics"]]
+        if not ws:
+            continue
+        ws = sorted(ws, key=lambda v: (0 if v["topics"][:1] == [topic] else 1,
+                                       rank.get(v["level"], 5), sort_key(v["word"])))[:36]
+        ws = sorted(ws, key=lambda v: sort_key(v["word"]))
+        out.append(f'<div class="tcf-h">{html.escape(topic.capitalize())} <span class="kz">{tzh}</span></div><div class="vidx tcf-l">')
+        for v in ws:
+            out.append(f'<a class="vi" href="#{v["id"]}"><span class="viw">{inline(v["word"])}</span>'
+                       f'<span class="vip">{html.escape(v["pos"])}</span> <span class="viz">{inline(v["zh"])}</span>'
+                       f'<span class="vil">{v["level"]}</span><span class="vin">{R.page(v["id"])}</span></a>')
+        out.append("</div>")
+    out.append("</section>")
     # grammar index
     out.append(f'<section class="bk" id="bk-gram"><div class="kicker">{icon("gear")}<span>INDEX DE GRAMMAIRE</span><span class="kz">语法索引</span></div>'
                f'<h1 class="bk-h">Index de grammaire{R.mark("bk-gram")}</h1><div class="gidx">')
@@ -902,8 +937,8 @@ def backmatter(R, ctx):
             continue
         out.append(f'<div class="ci-h">{icon(ic)}{fr} <span class="kz">{zh}</span></div>')
         for p in ps:
-            num = p.issue.num if p.issue else "—"
-            out.append(f'<a class="ci" href="#{p.id}"><span class="cin">N°{num}</span><span class="cit">{inline(p.title)}</span>'
+            num = iss_label(p.issue) if p.issue else "—"
+            out.append(f'<a class="ci" href="#{p.id}"><span class="cin">{num}</span><span class="cit">{inline(p.title)}</span>'
                        f'<span class="lvl lvl-{p.level[:2]}">{html.escape(p.level)}</span><span class="vin">{R.page(p.id)}</span></a>')
     out.append("</div></section></div>")
     return "".join(out)

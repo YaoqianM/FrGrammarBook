@@ -8,6 +8,6 @@ reader = PdfReader(root / "build" / "book.pdf")
 pages = {}
 for i, p in enumerate(reader.pages):
     for m in re.finditer(r"§([\w-]+)§", (p.extract_text() or "").replace("\n", "")):
-        pages.setdefault(m.group(1), i + 1)
+        pages.setdefault(m.group(1).replace("_", "-"), i + 1)
 (root / "build" / "pages.json").write_text(json.dumps(pages))
 print(f"{len(reader.pages)} pages, {len(pages)} markers located")

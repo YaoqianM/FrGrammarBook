@@ -6,7 +6,7 @@ A ~220-page French grammar book in **French, English and Chinese** (法·英·�
 
 ## 📰 New: *The French World* — a bilingual reading magazine (A1 → B2)
 
-A dark-mode French ⇄ Chinese reading magazine for iPad, with a serial love story, stories, humour, talk-show parodies, debates, philosophy, practical life in Paris and Montréal, and 800+ vocabulary cards. Batch 1 (A1–A2) is out: **[`french-world/The_French_World.pdf`](french-world/The_French_World.pdf)** · details in [`french-world/README.md`](french-world/README.md).
+A dark-mode French ⇄ Chinese reading magazine for iPad, with a serial love story, stories, humour, talk-show parodies, debates, philosophy, practical life in Paris and Montréal, and 1,700+ vocabulary cards. The complete magazine (A1 → B2 + C1 bonus + TCF section, ≈ 710 pages): **[`french-world/The_French_World.pdf`](french-world/The_French_World.pdf)** · details in [`french-world/README.md`](french-world/README.md).
 
 ## Contents
 
