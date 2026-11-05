@@ -1,0 +1,172 @@
+%% ───────── SCIENCE ─────────
+@piece science | L'IA, comment ça marche ? | 人工智能是怎么运作的？ | A2
+@deck Lucas l'explique à Marie avec une phrase : « Elle devine le mot suivant. » C'est simple… et vertigineux. || 卢卡斯用一句话向玛丽解释：“它猜下一个词。”很简单……又令人眩晕。
+@meta characters=Lucas, Marie; themes=intelligence artificielle, langage, fiabilité; topics=technologie, science, travail
+Les IA comme ChatGPT, Claude ou Gemini s'appellent des « grands modèles de langage ». || 像 ChatGPT、Claude 或 Gemini 这样的人工智能，被称为“大语言模型”。
+Elles ont « lu » une quantité énorme de textes : des livres, des sites, des articles, des conversations. || 它们“读”过海量的文本：书籍、网站、文章、对话。
+Leur travail de base est très simple : deviner le mot suivant. || 它们的基本工作很简单：猜下一个词。
+« Le chat dort sur le… » ? L'IA calcule : « canapé », « lit », « toit »… et elle choisit. || “猫睡在……”上？人工智能计算一下：“沙发”、“床”、“屋顶”……然后做出选择。
+En répétant ça des milliards de fois, elle peut écrire un mail, un poème, un programme. || 把这一过程重复数十亿次，它就能写邮件、写诗、写程序。
+Elle écrit plus vite qu'un humain. Elle connaît plus de langues que n'importe quel traducteur. || 它写得比人快。它懂的语言比任何一个翻译都多。
+Mais elle ne « sait » pas les choses comme nous. || 但它并不像我们一样“知道”事情。
+Parfois, elle invente des faits, des dates, des livres qui n'existent pas, avec beaucoup d'assurance. || 有时候，它会非常笃定地编造事实、日期，甚至根本不存在的书。
+On appelle ça des « hallucinations ». || 这被称为“幻觉”。
+Sur ce point, elle est moins fiable qu'un bon dictionnaire. || 在这一点上，它不如一本好词典可靠。
+Le conseil de Lucas : utilisez l'IA pour pratiquer le français — conversation, correction, explications. || 卢卡斯的建议：用人工智能来练法语——对话、改错、讲解。
+Mais vérifiez toujours les informations importantes. Surtout pour l'immigration, la santé et l'argent. || 但重要的信息一定要核实。尤其是关于移民、健康和钱的事。
+
+@vocab
+modèle | n.m. | mɔ.dɛl | 模型；榜样；款式 | model | Ce téléphone est le dernier modèle. | 这款手机是最新型号。 | un modèle de langage · prendre modèle sur qqn | modéliser |
+langage | n.m. | lɑ̃.ɡaʒ | 语言（能力）；言语 | language (faculty), speech | Le langage du corps. | 肢体语言。 | le langage informatique · un langage familier | | *la langue* = 具体语种（法语、汉语）；*le langage* = 语言能力、表达方式。
+deviner | v. | də.vi.ne | 猜 | to guess | Devine qui j'ai vu ! | 猜猜我看见谁了！ | deviner la réponse | une devinette (= 谜语) |
+suivant | adj. | sɥi.vɑ̃ | 下一个的；以下的 | next, following | Au suivant ! | 下一位！ | la page suivante · le jour suivant | suivante (f.) · suivre |
+calculer | v. | kal.ky.le | 计算 | to calculate | Calcule le total. | 算一下总数。 | | un calcul · une calculatrice |
+programme | n.m. | pʁɔ.ɡʁam | 程序；节目单；计划 | program; schedule | Quel est le programme de ce soir ? | 今晚有什么安排？ | un programme informatique · au programme | programmer · un programmeur |
+assurance | n.f. | a.sy.ʁɑ̃s | 自信；保险 | confidence; insurance | Il parle avec beaucoup d'assurance. | 他说话非常自信。 | une assurance auto · l'assurance maladie | assurer · s'assurer | 一词两义：自信 / 保险（TCF 高频）。
+hallucination | n.f. | a.ly.si.na.sjɔ̃ | 幻觉 | hallucination | J'ai des hallucinations ou c'est Karim à la télé ? | 我出现幻觉了，还是电视上那个真是卡里姆？ | | halluciner (fam. = être très surpris) | 口语 *J'hallucine !* = 我简直不敢相信！
+fiable | adj. | fjabl | 可靠的 | reliable | Cette source n'est pas fiable. | 这个信息来源不可靠。 | une voiture fiable | la fiabilité |
+vérifier | v. | ve.ʁi.fje | 核实；检查 | to check, to verify | Vérifie l'adresse avant de partir. | 出发前核对一下地址。 | | une vérification · vrai |
+@end
+
+@rappel Plus… que, moins… que, aussi… que | 比较级 | A2 | 18
+**plus** + adjectif/adverbe + **que** (更……), **moins… que** (不如……), **aussi… que** (和……一样). Irréguliers : **bon → meilleur**, **bien → mieux**. Avec un nom : **plus de / moins de / autant de** + nom.
+= Elle écrit **plus vite qu'**un humain, mais elle est **moins fiable qu'**un dictionnaire. || 它写得比人快，却不如词典可靠。
+@end
+
+%% ───────── PHILOSOPHIE ─────────
+@piece philo | Épictète : ce qui dépend de nous | 爱比克泰德：什么取决于我们 | A2
+@deck Il était esclave. On lui a cassé la jambe. Il est devenu l'un des philosophes les plus libres de l'histoire. || 他曾是奴隶。他的腿被人打断过。他却成了历史上最自由的哲学家之一。
+@meta characters=Épictète; setting=Rome, Nicopolis, Antiquité; themes=stoïcisme, contrôle, liberté intérieure; topics=philosophie, travail
+Épictète est né vers l'an 50, en Asie Mineure, dans la Turquie actuelle. Il est né esclave. || 爱比克泰德约于公元50年出生在小亚细亚，也就是今天的土耳其。他生来就是奴隶。
+Il a vécu à Rome, chez un maître riche et cruel. || 他住在罗马，属于一个富有而残暴的主人。
+On raconte qu'un jour, le maître a tordu la jambe d'Épictète, pour s'amuser. || 据说有一天，主人为了取乐，扭他的腿。
+Épictète a dit calmement : « Tu vas la casser. » Le maître a continué. La jambe s'est cassée. || 爱比克泰德平静地说：“你会把它弄断的。”主人继续扭。腿断了。
+Et Épictète a dit : « Je te l'avais bien dit. » || 爱比克泰德说：“我早就跟你说过了。”
+Plus tard, il a été libéré. Il a ouvert une école de philosophie en Grèce, à Nicopolis. || 后来，他获得了自由。他在希腊的尼科波利斯开办了一所哲学学校。
+
+Son idée principale tient en une phrase : il y a ce qui dépend de nous, et ce qui ne dépend pas de nous. || 他的核心思想可以用一句话概括：有些事取决于我们，有些事不取决于我们。
+Ce qui dépend de nous : nos jugements, nos désirs, nos actions. || 取决于我们的：我们的判断、我们的欲望、我们的行动。
+Ce qui ne dépend pas de nous : notre corps, notre réputation, l'opinion des autres, la météo, la décision du recruteur. || 不取决于我们的：我们的身体、我们的名声、别人的看法、天气、招聘官的决定。
+Le malheur, selon lui, vient d'une erreur : on veut contrôler ce qui ne dépend pas de nous. || 在他看来，不幸来自一个错误：我们想去控制那些不取决于我们的东西。
+Un entretien d'embauche ? Votre préparation dépend de vous. Le choix final, non. || 求职面试？你的准备取决于你。最终的选择，不取决于你。
+Une histoire d'amour ? Votre honnêteté dépend de vous. Les sentiments de l'autre, non. || 一段感情？你的诚实取决于你。对方的感情，不取决于你。
+@quote « Ce qui trouble les hommes, ce ne sont pas les choses, mais les jugements qu'ils portent sur les choses. » || “困扰人的不是事物本身，而是人对事物的看法。” || Épictète, Manuel, V (recueilli par son élève Arrien)
+
+@vocab
+esclave | n.m./f. | ɛs.klav | 奴隶 | slave | Il est esclave de son téléphone. | 他是手机的奴隶。 | l'esclavage | |
+cruel | adj. | kʁy.ɛl | 残忍的 | cruel | C'est une décision cruelle. | 这是一个残酷的决定。 | | cruelle (f.) · la cruauté |
+tordre | v. | tɔʁdʁ | 扭；拧 | to twist | Je me suis tordu la cheville. | 我扭到脚踝了。 | tordre le bras · se tordre de rire | p.p. tordu · tordu (adj. = 古怪的) | *se tordre de rire* = 笑弯了腰。
+jambe | n.f. | ʒɑ̃b | 腿 | leg | Il s'est cassé la jambe au ski. | 他滑雪时摔断了腿。 | | | 俗语：*Ça me fait une belle jambe !* = 这对我有什么用！（讽刺）
+libérer | v. | li.be.ʁe | 释放 | to free, to release | Les otages ont été libérés. | 人质被释放了。 | se libérer (= se rendre disponible) | la libération · libre | *Je peux me libérer à 16 h* = 我四点可以抽出空。
+dépendre de | v. | de.pɑ̃dʁ də | 取决于；依赖 | to depend on | Ça dépend de toi. | 这取决于你。 | ça dépend · dépendre de ses parents | la dépendance · dépendant |
+jugement | n.m. | ʒyʒ.mɑ̃ | 判断；看法；判决 | judgement | Ne porte pas de jugement trop vite. | 别太快下判断。 | porter un jugement sur… | juger |
+météo | n.f. | me.te.o | 天气预报；天气 | weather (forecast) | Tu as regardé la météo ? | 你看天气预报了吗？ | la météo de demain | la météorologie |
+malheur | n.m. | ma.lœʁ | 不幸 | misfortune | Il a eu beaucoup de malheurs. | 他遭遇了很多不幸。 | par malheur · faire un malheur (= avoir un grand succès) | malheureux · ≠ le bonheur | 口语 *faire un malheur* 反而是“大获成功”！
+troubler | v. | tʁu.ble | 扰乱；使不安 | to disturb, to trouble | Sa question m'a troublé. | 他的问题让我心神不宁。 | | le trouble · trouble (adj.) |
+@end
+
+@note cn | Le stoïcisme et la pensée chinoise
+Beaucoup de lecteurs chinois trouvent Épictète familier : il rappelle l'idée de **尽人事，听天命** (faire tout ce qu'on peut, puis accepter le résultat). Les Romains et les Chinois n'ont jamais lu les mêmes livres… et pourtant.
+
+很多中国读者会觉得爱比克泰德很熟悉：这不就是“尽人事，听天命”吗？罗马人和中国人从未读过同样的书……却得出了相似的结论。
+@end
+
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | Dire non au travail sans se fâcher avec personne | 在职场说“不”，又不得罪人 | A2
+@deck Votre chef vous demande un dossier « pour hier ». Vous en avez déjà cinq. Six façons de répondre. || 上司让你“昨天就”交一份材料。你手上已经有五份了。六种回答方式。
+@meta themes=limites, communication professionnelle, assertivité; topics=travail
+@versions Refuser une tâche : six façons
+NEUTRE || Je ne vais pas pouvoir, désolé. J'ai déjà trop de choses cette semaine. || 恐怕不行，抱歉。我这周已经有太多事了。 || Simple et honnête. 简单诚实。
+FAMILIER || Là, ce n'est pas possible, je suis sous l'eau. || 现在不行，我已经忙得焦头烂额了。 || Entre collègues proches. *Être sous l'eau* = débordé. 关系好的同事之间。
+JOUEUR || Avec plaisir… dans une autre vie. Cette semaine, je suis complet. || 乐意之至……下辈子吧。这周我已经排满了。 || L'humour adoucit le refus. 幽默能让拒绝变得柔和。
+DIPLOMATIQUE || Je comprends l'urgence. Je peux le faire, mais il faudra décaler le dossier Martin. Qu'est-ce qui est prioritaire pour vous ? || 我理解这件事很急。我可以做，但马丁那份材料就得往后推。对您来说，哪个更优先？ || La meilleure technique : on ne dit pas non, on demande de choisir. 最好的办法：不说“不”，而是让对方做选择。
+FERME || Non, ce n'est pas dans mes missions. || 不行，这不在我的职责范围内。 || Clair, sans agressivité. À utiliser quand on abuse de vous. 清楚明确，不带攻击性。被人得寸进尺时用。
+QUÉBEC || Je suis dans le jus cette semaine, je ne peux pas. || 我这周忙疯了，做不了。 || *Être dans le jus* = être débordé (québécois). 魁北克说法。
+@end
+
+@note tip | Le « oui, mais » et la question des priorités
+Dire **non** directement à un supérieur est difficile dans beaucoup de cultures. La phrase magique : **« Qu'est-ce qui est prioritaire pour vous ? »** Vous ne refusez pas : vous montrez la réalité. Votre chef doit choisir. Et vous restez « la personne qui veut aider ».
+
+对上司直接说“不”在很多文化里都很难。神奇的一句话：“对您来说，哪个更优先？”你没有拒绝，而是展示了现实。让上司去做选择，而你依然是那个“乐于帮忙的人”。
+@end
+
+@expr
+Être débordé | 忙不过来 | neutre | Trop de travail. Mot officiel du bureau. | Désolé, je suis débordé en ce moment. || 抱歉，我最近忙不过来。
+Être sous l'eau | 忙得焦头烂额 | familier | Image : on se noie dans le travail. | Rappelle-moi lundi, là je suis sous l'eau. || 星期一再打给我吧，我现在忙得不可开交。
+Décaler | 推迟；挪一下时间 | neutre | Déplacer une réunion, une date, une tâche. | On peut décaler la réunion à jeudi ? || 会议能挪到星期四吗？
+C'est prioritaire. | 这是优先事项。 | neutre | Pour indiquer l'ordre des tâches. | La sécurité, c'est prioritaire. || 安全第一。
+@end
+
+%% ───────── POÉSIE ─────────
+@piece poesie | Lundi matin | 星期一早上 | A2
+@deck Un poème original, au passé composé, pour tous ceux qui détestent le lundi. C'est-à-dire tout le monde. || 一首原创小诗，用复合过去时写成，献给所有讨厌星期一的人。也就是所有人。
+@meta themes=travail, humour, routine; topics=travail, culture
+@poem Lundi matin | La rédaction
+Le réveil a sonné. Je l'ai frappé. || 闹钟响了。我拍了它一巴掌。
+Il a sonné encore. Je l'ai supplié. || 它又响了。我向它求饶。
+J'ai bu mon café, noir comme mon humeur, || 我喝了咖啡，黑得像我的心情，
+j'ai pris le métro, plein comme ma boîte mail. || 我坐上地铁，满得像我的邮箱。
+
+Au bureau, mon chef a dit : « Bonne semaine ! » || 到了公司，上司说：“祝大家这周愉快！”
+J'ai souri. Je n'ai pas dit ce que je pensais. || 我笑了笑。我没说出心里的想法。
+
+À midi, j'ai regardé par la fenêtre : || 中午，我望向窗外：
+un pigeon dormait sur le toit d'en face. || 一只鸽子在对面的屋顶上睡觉。
+J'ai pensé : lui, il a compris quelque chose. || 我想：它倒是看透了什么。
+
+Lundi, tu n'es pas un jour. Tu es une épreuve. || 星期一，你不是一天。你是一场考验。
+Mais vendredi existe. || 可星期五是存在的。
+Je l'ai vu, une fois. || 我见过它，一次。
+@end
+
+@vocab
+frapper | v. | fʁa.pe | 打；敲 | to hit; to knock | On frappe à la porte. | 有人在敲门。 | frapper fort · ça m'a frappé (= étonné) | une frappe | *Ça m'a frappé* = 这让我印象深刻。
+supplier | v. | sy.pli.je | 恳求 | to beg | Je t'en supplie, aide-moi ! | 求求你，帮帮我！ | je t'en supplie | une supplication |
+humeur | n.f. | y.mœʁ | 心情 | mood | Il est de mauvaise humeur. | 他心情不好。 | de bonne humeur · d'humeur à… | | ⚠ Faux ami : *humour* (幽默) ≠ *humeur* (心情)。
+boîte mail | n.f. | bwat mɛl | 邮箱 | inbox | Ma boîte mail est pleine. | 我的邮箱满了。 | | un mail · un courriel (⚜) | ⚜ 魁北克：*un courriel* = 电子邮件。
+pigeon | n.m. | pi.ʒɔ̃ | 鸽子；冤大头 | pigeon; sucker | Je me suis fait pigeonner ! | 我被坑了！ | | pigeonner (fam.) | 口语 *Je suis le pigeon* = 我成了冤大头。
+épreuve | n.f. | e.pʁœv | 考验；考试科目 | ordeal; test (exam) | L'épreuve orale dure douze minutes. | 口试持续十二分钟。 | une épreuve écrite · mettre à l'épreuve | éprouver | TCF 用词：*l'épreuve de compréhension écrite* = 阅读理解考试。
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Le français du bureau : de la machine à café au mail | 职场法语：从咖啡机到电子邮件 | A2
+@deck Au bureau, on parle deux langues : celle de la machine à café et celle des mails. Il faut les deux. || 在办公室，人们说两种语言：咖啡机旁的语言和邮件里的语言。两种都得会。
+@meta themes=travail, registre, mail professionnel; topics=travail
+@h À la machine à café || 咖啡机旁
+[Marie] T'as bossé tout le week-end ? || 你整个周末都在加班？
+[Wei] Oui, le client a tout changé vendredi soir. || 是啊，客户星期五晚上把一切都改了。
+[Marie] Classique. Tu fais le pont jeudi ? || 老套路了。你星期四请假连休吗？
+[Wei] J'ai posé deux jours de RTT. Je pars à Lyon. || 我请了两天调休假。我要去里昂。
+[Marie] Tu as bien raison. Il faut décrocher un peu. || 你做得对。得放松一下了。
+
+@h Dans un mail || 邮件里
+Bonjour Madame Lambert, || 朗贝尔女士，您好：
+Suite à notre réunion de ce matin, je vous envoie la nouvelle version du logo. || 根据今天上午的会议，现将新版标志发给您。
+Je reste à votre disposition pour toute question. || 如有任何问题，请随时与我联系。
+N'hésitez pas à revenir vers moi si besoin. || 如有需要，欢迎随时回复我。
+Bien cordialement, || 此致敬礼
+Marie Laurent || 玛丽·洛朗
+
+@expr
+Bosser | 干活；上班 | familier | = travailler. *Le boulot* et *le taf* = le travail. | Je bosse demain matin. || 我明天上午上班。
+Faire le pont | 搭桥休假 | neutre | Prendre le jour entre un jour férié et le week-end. Sport national français ! | Le 1er mai est un jeudi : on fait le pont ! || 五一是星期四：我们连休吧！
+Poser un jour / des RTT | 请一天假／调休 | neutre | *RTT* = jours de repos liés à la réduction du temps de travail (France). | J'ai posé mon vendredi. || 我星期五请假了。
+Décrocher | 放松；断开；接电话 | familier | Arrêter de penser au travail. Aussi : *décrocher le téléphone*. | En vacances, je décroche complètement. || 度假时我彻底放空。
+Suite à… | 根据……；继……之后 | soutenu | Début classique d'un mail pro. | Suite à notre échange téléphonique… || 根据我们的电话沟通……
+Je reste à votre disposition. | 我随时听候您的吩咐。 | soutenu | Formule de fin de mail, très fréquente. | Je reste à votre disposition pour en discuter. || 我随时可以与您讨论。
+Revenir vers quelqu'un | 回复某人；再联系某人 | neutre | Jargon de bureau très courant (critiqué par les puristes). | Je reviens vers vous demain. || 我明天再回复您。
+Bien cordialement | 此致；敬上 | soutenu | La fin de mail standard. Plus chaleureux : *Belle journée*. Plus formel : *Je vous prie d'agréer…* | Bien cordialement, Wei Zhang || 此致，张伟
+Au plaisir ! | 期待再联系！ | québec | Fin de mail ou de conversation, très québécoise et chaleureuse. | Merci pour tout, au plaisir ! || 谢谢一切，期待再见！
+@end
+
+@vocab
+jour férié | n.m. | ʒuʁ fe.ʁje | 法定节假日 | public holiday | Le 14 juillet est un jour férié. | 7月14日是法定假日。 | | | 法国国庆节 = 7月14日；⚜ 魁北克的节日 = 6月24日（*la Saint-Jean*）。
+disposition | n.f. | dis.po.zi.sjɔ̃ | 支配；安排 | disposal; arrangement | Je suis à votre disposition. | 我听候您的安排。 | mettre à disposition · prendre des dispositions | disposer · disponible |
+échange | n.m. | e.ʃɑ̃ʒ | 交流；交换 | exchange, conversation | Merci pour cet échange. | 谢谢这次交流。 | un échange d'idées · en échange de | échanger |
+@end
+
+@badge Pas de mensonge || 不撒谎 || J'ai compris pourquoi Lucas part sans dire au revoir.
+@badge Candidat || 求职者 || J'ai répondu à voix haute aux six questions d'entretien.
+@badge Second degré || 听懂反话 || J'ai reconnu le sarcasme dans « Bravo, champion ».
+@badge Deux minutes || 两分钟 || J'ai lu une phrase de ce magazine chaque jour pendant une semaine.
+@badge Bien cordialement || 此致敬礼 || J'ai écrit un mail professionnel court en français.

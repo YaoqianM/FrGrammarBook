@@ -1,0 +1,695 @@
+#separator:tab
+#html:true
+#columns:Front	Back	Tags
+quitter <i>(v.)</i><br>/ki.te/	离开（某地、某人）<br><i>to leave (a place, a person)</i><br><br>Je quitte le bureau à six heures.<br>我六点离开办公室。	FW::A1 FW::travail FW::vie_quotidienne
+quartier <i>(n.m.)</i><br>/kaʁ.tje/	街区；城区<br><i>neighbourhood, district</i><br><br>Mon quartier est calme le soir.<br>我住的街区晚上很安静。	FW::A1 FW::travail FW::vie_quotidienne
+froid <i>(adj. / n.m.)</i><br>/fʁwa/	冷的；寒冷<br><i>cold</i><br><br>Il fait froid ce matin.<br>今天早上很冷。	FW::A1 FW::travail FW::vie_quotidienne
+briller <i>(v.)</i><br>/bʁi.je/	发光；闪耀<br><i>to shine</i><br><br>Le soleil brille sur la Seine.<br>阳光照耀着塞纳河。	FW::A1 FW::travail FW::vie_quotidienne
+porter <i>(v.)</i><br>/pɔʁ.te/	穿着；戴着；拿着<br><i>to wear; to carry</i><br><br>Elle porte une robe bleue.<br>她穿着一条蓝色连衣裙。	FW::A1 FW::travail FW::vie_quotidienne
+manteau <i>(n.m.)</i><br>/mɑ̃.to/	大衣；外套<br><i>(winter) coat</i><br><br>Prends ton manteau, il fait froid !<br>带上大衣，天冷！	FW::A1 FW::travail FW::vie_quotidienne
+écharpe <i>(n.f.)</i><br>/e.ʃaʁp/	围巾<br><i>scarf</i><br><br>Il oublie toujours son écharpe.<br>他总是忘带围巾。	FW::A1 FW::travail FW::vie_quotidienne
+entretien <i>(n.m.)</i><br>/ɑ̃.tʁə.tjɛ̃/	面试；会谈<br><i>interview; meeting</i><br><br>J'ai un entretien demain matin.<br>我明天上午有个面试。	FW::A1 FW::travail FW::vie_quotidienne
+nerveux <i>(adj.)</i><br>/nɛʁ.vø/	紧张的<br><i>nervous</i><br><br>Je suis toujours nerveux avant un examen.<br>考试前我总是很紧张。	FW::A1 FW::travail FW::vie_quotidienne
+se passer <i>(v. pron.)</i><br>/sə pa.se/	发生；进行（得怎么样）<br><i>to happen; to go (well/badly)</i><br><br>Comment ça s'est passé ?<br>进行得怎么样？	FW::A1 FW::travail FW::vie_quotidienne
+sentir <i>(v.)</i><br>/sɑ̃.tiʁ/	闻起来；感觉到<br><i>to smell; to feel</i><br><br>Ça sent bon ici !<br>这里好香！	FW::A1 FW::travail FW::vie_quotidienne
+s'asseoir <i>(v. pron.)</i><br>/sa.swaʁ/	坐下<br><i>to sit down</i><br><br>Asseyez-vous, je vous en prie.<br>请坐。	FW::A1 FW::travail FW::vie_quotidienne
+encore <i>(adv.)</i><br>/ɑ̃.kɔʁ/	还；仍然；再<br><i>still; again; more</i><br><br>Tu es encore là ?<br>你还在这儿？	FW::A1 FW::travail FW::vie_quotidienne
+remarquer <i>(v.)</i><br>/ʁə.maʁ.ke/	注意到；发现<br><i>to notice</i><br><br>Tu as remarqué quelque chose ?<br>你注意到什么了吗？	FW::A2 FW::travail FW::vie_quotidienne
+une trentaine <i>(n.f.)</i><br>/tʁɑ̃.tɛn/	三十左右<br><i>about thirty</i><br><br>Il a une trentaine d'années.<br>他三十岁上下。	FW::A2 FW::travail FW::vie_quotidienne
+barbe <i>(n.f.)</i><br>/baʁb/	胡子<br><i>beard</i><br><br>Il se laisse pousser la barbe.<br>他开始留胡子。	FW::A2 FW::travail FW::vie_quotidienne
+glisser <i>(v.)</i><br>/ɡli.se/	滑；滑落<br><i>to slip, to slide</i><br><br>Attention, ça glisse !<br>小心，地滑！	FW::A2 FW::travail FW::vie_quotidienne
+poche <i>(n.f.)</i><br>/pɔʃ/	口袋<br><i>pocket</i><br><br>J'ai mis les clés dans ma poche.<br>我把钥匙放进口袋了。	FW::A2 FW::travail FW::vie_quotidienne
+hésiter <i>(v.)</i><br>/e.zi.te/	犹豫<br><i>to hesitate</i><br><br>N'hésitez pas à me poser des questions.<br>有问题尽管问我。	FW::A2 FW::travail FW::vie_quotidienne
+se pencher <i>(v. pron.)</i><br>/sə pɑ̃.ʃe/	弯腰；俯身<br><i>to lean, to bend down</i><br><br>Il se penche vers elle.<br>他向她俯过身去。	FW::A2 FW::travail FW::vie_quotidienne
+ramasser <i>(v.)</i><br>/ʁa.ma.se/	捡起<br><i>to pick up</i><br><br>Ramasse tes affaires !<br>把你的东西捡起来！	FW::A2 FW::travail FW::vie_quotidienne
+faire tomber <i>(loc. v.)</i><br>/fɛʁ tɔ̃.be/	把……弄掉<br><i>to drop (something)</i><br><br>J'ai fait tomber mon verre.<br>我把杯子弄掉了。	FW::A2 FW::travail FW::vie_quotidienne
+rire <i>(v. / n.m.)</i><br>/ʁiʁ/	笑；笑声<br><i>to laugh; laughter</i><br><br>Elle rit tout le temps.<br>她总是在笑。	FW::A2 FW::travail FW::vie_quotidienne
+abîmé <i>(adj.)</i><br>/a.bi.me/	损坏的；破旧的<br><i>damaged, worn</i><br><br>Mon téléphone est un peu abîmé.<br>我的手机有点坏了。	FW::A2 FW::travail FW::vie_quotidienne
+bouquiniste <i>(n.m./f.)</i><br>/bu.ki.nist/	旧书商<br><i>second-hand bookseller</i><br><br>Les bouquinistes de Paris vendent des livres depuis le XVIᵉ siècle.<br>巴黎的旧书商从16世纪起就在卖书了。	FW::A2 FW::travail FW::vie_quotidienne
+planter <i>(v.)</i><br>/plɑ̃.te/	种植；（口语）死机，崩溃；放鸽子<br><i>to plant; (inf.) to crash; to stand someone up</i><br><br>Mon ordi a encore planté.<br>我的电脑又死机了。	FW::A2 FW::travail FW::vie_quotidienne
+poste <i>(n.m.)</i><br>/pɔst/	职位；岗位<br><i>position, job</i><br><br>Elle cherche un poste de graphiste.<br>她在找一个平面设计师的职位。	FW::A2 FW::travail FW::vie_quotidienne
+jeter un coup d'œil <i>(loc. v.)</i><br>/ʒə.te œ̃ ku dœj/	瞥一眼；看一下<br><i>to take a quick look</i><br><br>Tu peux jeter un coup d'œil à mon CV ?<br>你能帮我看一眼简历吗？	FW::B1 FW::travail FW::vie_quotidienne
+se rendre compte <i>(v. pron.)</i><br>/sə ʁɑ̃dʁ kɔ̃t/	意识到；发觉<br><i>to realize</i><br><br>Je me suis rendu compte de mon erreur.<br>我意识到了自己的错误。	FW::B1 FW::travail FW::vie_quotidienne
+risquer de <i>(v.)</i><br>/ʁis.ke də/	有可能……（多指不好的事）<br><i>to be likely to, to risk</i><br><br>Dépêche-toi, on risque de rater le train.<br>快点，我们可能赶不上火车了。	FW::B1 FW::travail FW::vie_quotidienne
+avaler <i>(v.)</i><br>/a.va.le/	吞下；一口喝完<br><i>to swallow, to gulp down</i><br><br>Il avale son sandwich en deux minutes.<br>他两分钟就把三明治吞下去了。	FW::B1 FW::travail FW::vie_quotidienne
+ranger <i>(v.)</i><br>/ʁɑ̃.ʒe/	整理；收拾<br><i>to tidy up, to put away</i><br><br>Range ta chambre !<br>收拾你的房间！	FW::B1 FW::travail FW::vie_quotidienne
+quitte <i>(adj.)</i><br>/kit/	两清的；扯平的<br><i>even, quits</i><br><br>Tu m'as invité hier, je t'invite aujourd'hui : on est quittes.<br>你昨天请了我，今天我请你：我们扯平了。	FW::B1 FW::travail FW::vie_quotidienne
+pressé <i>(adj.)</i><br>/pʁɛ.se/	匆忙的；赶时间的<br><i>in a hurry</i><br><br>Désolé, je suis pressé.<br>抱歉，我赶时间。	FW::B1 FW::travail FW::vie_quotidienne
+s'attendre à <i>(v. pron.)</i><br>/sa.tɑ̃dʁ a/	预料到；期待<br><i>to expect</i><br><br>Je ne m'attendais pas à ça !<br>我没想到会这样！	FW::B1 FW::travail FW::vie_quotidienne
+pas mal de <i>(loc.)</i><br>/pa mal də/	不少；相当多<br><i>quite a lot of</i><br><br>Il y a pas mal de monde ce soir.<br>今晚人挺多的。	FW::B1 FW::travail FW::vie_quotidienne
+par cœur <i>(loc. adv.)</i><br>/paʁ kœʁ/	背诵；熟记<br><i>by heart</i><br><br>Je connais ce film par cœur.<br>这部电影我熟得能背下来。	FW::B1 FW::travail FW::vie_quotidienne
+le jour J <i>(loc. n.m.)</i><br>/lə ʒuʁ ʒi/	关键的那一天；D日<br><i>D-Day, the big day</i><br><br>Le jour J, tout le monde est stressé.<br>到了那天，所有人都很紧张。	FW::B1 FW::travail FW::vie_quotidienne
+recruteur <i>(n.m.)</i><br>/ʁə.kʁy.tœʁ/	招聘人员<br><i>recruiter</i><br><br>Le recruteur m'a rappelé ce matin.<br>招聘官今天上午给我回了电话。	FW::B1 FW::travail FW::vie_quotidienne
+forcément <i>(adv.)</i><br>/fɔʁ.se.mɑ̃/	必然；一定<br><i>necessarily</i><br><br>Ce n'est pas forcément vrai.<br>这不一定是真的。	FW::B1 FW::travail FW::vie_quotidienne
+admettre <i>(v.)</i><br>/ad.mɛtʁ/	承认；接纳<br><i>to admit</i><br><br>J'admets que j'ai eu tort.<br>我承认我错了。	FW::B1 FW::travail FW::vie_quotidienne
+avoir envie de <i>(loc. v.)</i><br>/a.vwaʁ ɑ̃.vi də/	想要；很想（做）<br><i>to feel like, to want</i><br><br>J'ai envie d'un chocolat chaud.<br>我想喝杯热巧克力。	FW::B1 FW::travail FW::vie_quotidienne
+avoir confiance en soi <i>(loc. v.)</i><br>/a.vwaʁ kɔ̃.fjɑ̃s ɑ̃ swa/	有自信<br><i>to be self-confident</i><br><br>Elle a enfin confiance en elle.<br>她终于有自信了。	FW::B1 FW::travail FW::vie_quotidienne
+se retourner <i>(v. pron.)</i><br>/sə ʁə.tuʁ.ne/	转身；回头<br><i>to turn around</i><br><br>Ne te retourne pas !<br>别回头！	FW::B1 FW::travail FW::vie_quotidienne
+phrase <i>(n.f.)</i><br>/fʁɑz/	句子<br><i>sentence</i><br><br>Cette phrase est trop longue.<br>这个句子太长了。	FW::A1 
+comprendre <i>(v.)</i><br>/kɔ̃.pʁɑ̃dʁ/	理解；听懂<br><i>to understand</i><br><br>Je ne comprends pas cette question.<br>我不明白这个问题。	FW::A1 
+rendez-vous <i>(n.m.)</i><br>/ʁɑ̃.de.vu/	约会；预约<br><i>date; appointment</i><br><br>J'ai rendez-vous chez le médecin à dix heures.<br>我十点约了医生。	FW::A1 
+blague <i>(n.f.)</i><br>/blaɡ/	笑话；玩笑<br><i>joke</i><br><br>Il raconte toujours la même blague.<br>他总讲同一个笑话。	FW::A1 
+ridicule <i>(adj.)</i><br>/ʁi.di.kyl/	可笑的；荒唐的<br><i>ridiculous</i><br><br>Ne sois pas ridicule !<br>别犯傻了！	FW::A1 
+lecture <i>(n.f.)</i><br>/lɛk.tyʁ/	阅读<br><i>reading</i><br><br>La lecture, c'est mon plaisir du soir.<br>阅读是我晚上的乐趣。	FW::A1 
+rédaction <i>(n.f.)</i><br>/ʁe.dak.sjɔ̃/	编辑部；写作<br><i>editorial team; writing</i><br><br>La rédaction du journal travaille la nuit.<br>报社编辑部在夜里工作。	FW::A1 
+sonner <i>(v.)</i><br>/sɔ.ne/	（铃、电话）响<br><i>to ring</i><br><br>Ton téléphone sonne !<br>你的手机响了！	FW::A1 FW::travail FW::vie_quotidienne
+nouvelle <i>(n.f.)</i><br>/nu.vɛl/	消息<br><i>news (one piece of)</i><br><br>J'ai une bonne et une mauvaise nouvelle.<br>我有一个好消息和一个坏消息。	FW::A1 FW::travail FW::vie_quotidienne
+commencer <i>(v.)</i><br>/kɔ.mɑ̃.se/	开始<br><i>to begin, to start</i><br><br>Le film commence à vingt heures.<br>电影晚上八点开始。	FW::A1 FW::travail FW::vie_quotidienne
+fermer <i>(v.)</i><br>/fɛʁ.me/	关；闭上<br><i>to close</i><br><br>Ferme la porte, s'il te plaît.<br>请关上门。	FW::A1 FW::travail FW::vie_quotidienne
+colocataire <i>(n.m./f.)</i><br>/kɔ.lɔ.ka.tɛʁ/	合租室友<br><i>flatmate, roommate</i><br><br>Ma colocataire est infirmière.<br>我的室友是护士。	FW::A1 FW::travail FW::vie_quotidienne
+infirmier <i>(n.m.)</i><br>/ɛ̃.fiʁ.mje/	护士<br><i>nurse</i><br><br>Les infirmiers travaillent souvent la nuit.<br>护士经常上夜班。	FW::A1 FW::travail FW::vie_quotidienne
+fêter <i>(v.)</i><br>/fe.te/	庆祝<br><i>to celebrate</i><br><br>On fête son anniversaire samedi.<br>我们星期六给他过生日。	FW::A1 FW::travail FW::vie_quotidienne
+avoir mal à <i>(loc. v.)</i><br>/a.vwaʁ mal a/	……疼<br><i>to have a pain in, to hurt</i><br><br>J'ai mal au dos.<br>我背疼。	FW::A1 FW::travail FW::vie_quotidienne
+lendemain <i>(n.m.)</i><br>/lɑ̃d.mɛ̃/	次日；第二天<br><i>the next day</i><br><br>Le lendemain, il pleut.<br>第二天下雨了。	FW::A1 FW::travail FW::vie_quotidienne
+vide <i>(adj.)</i><br>/vid/	空的<br><i>empty</i><br><br>Le frigo est vide.<br>冰箱是空的。	FW::A1 FW::travail FW::vie_quotidienne
+laisser <i>(v.)</i><br>/lɛ.se/	留下；让<br><i>to leave (behind); to let</i><br><br>Laisse-moi un message.<br>给我留个言。	FW::A1 FW::travail FW::vie_quotidienne
+effacer <i>(v.)</i><br>/e.fa.se/	删除；擦掉<br><i>to delete, to erase</i><br><br>J'efface la photo.<br>我把照片删了。	FW::A1 FW::travail FW::vie_quotidienne
+bizarre <i>(adj.)</i><br>/bi.zaʁ/	奇怪的<br><i>strange, weird</i><br><br>C'est bizarre, il ne répond pas.<br>真奇怪，他不回复。	FW::A1 FW::travail FW::vie_quotidienne
+minuit <i>(n.m.)</i><br>/mi.nɥi/	午夜；半夜十二点<br><i>midnight</i><br><br>Le bar ferme à minuit.<br>酒吧半夜十二点关门。	FW::A1 FW::travail FW::vie_quotidienne
+commander <i>(v.)</i><br>/kɔ.mɑ̃.de/	点（菜、饮料）；订购<br><i>to order</i><br><br>Vous avez choisi ? Je peux prendre votre commande ?<br>您选好了吗？可以点单了吗？	FW::A1 FW::vie_quotidienne FW::consommation
+serveur <i>(n.m.)</i><br>/sɛʁ.vœʁ/	服务员<br><i>waiter</i><br><br>Le serveur apporte la carte.<br>服务员拿来菜单。	FW::A1 FW::vie_quotidienne FW::consommation
+répéter <i>(v.)</i><br>/ʁe.pe.te/	重复<br><i>to repeat</i><br><br>Vous pouvez répéter, s'il vous plaît ?<br>您能再说一遍吗？	FW::A1 FW::vie_quotidienne FW::consommation
+comptoir <i>(n.m.)</i><br>/kɔ̃.twaʁ/	吧台；柜台<br><i>counter, bar</i><br><br>On boit un café au comptoir ?<br>我们在吧台喝杯咖啡？	FW::A1 FW::vie_quotidienne FW::consommation
+d'abord <i>(adv.)</i><br>/da.bɔʁ/	首先<br><i>first</i><br><br>D'abord, on dit bonjour. Ensuite, on commande.<br>首先说您好，然后再点单。	FW::A1 FW::vie_quotidienne FW::consommation
+tasse <i>(n.f.)</i><br>/tas/	杯子（带把手）<br><i>cup</i><br><br>Une tasse de thé ?<br>来杯茶吗？	FW::A1 FW::vie_quotidienne FW::consommation
+fort <i>(adj.)</i><br>/fɔʁ/	浓的；强壮的；大声的<br><i>strong; loud</i><br><br>Ce café est trop fort pour moi.<br>这咖啡对我来说太浓了。	FW::A1 FW::vie_quotidienne FW::consommation
+mousse <i>(n.f.)</i><br>/mus/	泡沫；慕斯<br><i>foam; mousse</i><br><br>J'aime la mousse du cappuccino.<br>我喜欢卡布奇诺的奶泡。	FW::A1 FW::vie_quotidienne FW::consommation
+coûter <i>(v.)</i><br>/ku.te/	值（多少钱）<br><i>to cost</i><br><br>Combien ça coûte ?<br>这个多少钱？	FW::A1 FW::vie_quotidienne FW::consommation
+cher <i>(adj.)</i><br>/ʃɛʁ/	贵的；亲爱的<br><i>expensive; dear</i><br><br>Paris est une ville chère.<br>巴黎是个物价很高的城市。	FW::A1 FW::vie_quotidienne FW::consommation
+terrasse <i>(n.f.)</i><br>/tɛ.ʁas/	露天座<br><i>terrace, outdoor seating</i><br><br>On s'assoit en terrasse ? Il fait beau !<br>我们坐露天座吧？天气真好！	FW::A1 FW::vie_quotidienne FW::consommation
+addition <i>(n.f.)</i><br>/a.di.sjɔ̃/	账单；加法<br><i>the bill, the check</i><br><br>L'addition, s'il vous plaît !<br>请结账！	FW::A1 FW::vie_quotidienne FW::consommation
+pourboire <i>(n.m.)</i><br>/puʁ.bwaʁ/	小费<br><i>tip</i><br><br>Il laisse un euro de pourboire.<br>他留了一欧元小费。	FW::A1 FW::vie_quotidienne FW::consommation
+compris <i>(adj.)</i><br>/kɔ̃.pʁi/	包含的<br><i>included</i><br><br>Le petit-déjeuner est compris.<br>含早餐。	FW::A1 FW::vie_quotidienne FW::consommation
+pièce <i>(n.f.)</i><br>/pjɛs/	硬币；房间；零件<br><i>coin; room; part</i><br><br>Tu as une pièce de deux euros ?<br>你有两欧元硬币吗？	FW::A1 FW::vie_quotidienne FW::consommation
+fils <i>(n.m.)</i><br>/fis/	儿子<br><i>son</i><br><br>Ils ont deux fils et une fille.<br>他们有两个儿子和一个女儿。	FW::A1 FW::culture
+s'appeler <i>(v. pron.)</i><br>/sa.ple/	名叫<br><i>to be called</i><br><br>Comment tu t'appelles ? — Je m'appelle Léa.<br>你叫什么名字？——我叫莱娅。	FW::A1 FW::culture
+jaune <i>(adj.)</i><br>/ʒon/	黄色的<br><i>yellow</i><br><br>Le taxi jaune attend devant la gare.<br>黄色出租车在车站前等着。	FW::A1 FW::culture
+attendre <i>(v.)</i><br>/a.tɑ̃dʁ/	等待<br><i>to wait (for)</i><br><br>J'attends le bus depuis vingt minutes.<br>我等公交车已经二十分钟了。	FW::A1 FW::culture
+respirer <i>(v.)</i><br>/ʁɛs.pi.ʁe/	呼吸<br><i>to breathe</i><br><br>Respire lentement.<br>慢慢呼吸。	FW::A1 FW::culture
+fesses <i>(n.f.pl.)</i><br>/fɛs/	屁股<br><i>buttocks, bum</i><br><br>Il tombe sur les fesses.<br>他一屁股摔在地上。	FW::A1 FW::culture
+mourir <i>(v.)</i><br>/mu.ʁiʁ/	死<br><i>to die</i><br><br>Je meurs de faim !<br>我饿死了！	FW::A1 FW::culture
+partout <i>(adv.)</i><br>/paʁ.tu/	到处<br><i>everywhere</i><br><br>Il y a du monde partout.<br>到处都是人。	FW::A1 FW::culture
+toucher <i>(v.)</i><br>/tu.ʃe/	触摸；感动<br><i>to touch; to move (emotionally)</i><br><br>Ne touche pas ! C'est chaud.<br>别碰！很烫。	FW::A1 FW::culture
+tête <i>(n.f.)</i><br>/tɛt/	头<br><i>head</i><br><br>Elle tourne la tête.<br>她转过头。	FW::A1 FW::culture
+ventre <i>(n.m.)</i><br>/vɑ̃tʁ/	肚子<br><i>belly, stomach</i><br><br>J'ai mal au ventre.<br>我肚子疼。	FW::A1 FW::culture
+genou <i>(n.m.)</i><br>/ʒə.nu/	膝盖<br><i>knee</i><br><br>Il est à genoux devant elle.<br>他跪在她面前。	FW::A1 FW::culture
+doigt <i>(n.m.)</i><br>/dwa/	手指<br><i>finger</i><br><br>Ne montre pas les gens du doigt !<br>别用手指指人！	FW::A1 FW::culture
+cassé <i>(adj.)</i><br>/ka.se/	断了的；坏了的<br><i>broken</i><br><br>Mon téléphone est cassé.<br>我的手机坏了。	FW::A1 FW::culture
+se présenter <i>(v. pron.)</i><br>/sə pʁe.zɑ̃.te/	自我介绍<br><i>to introduce oneself</i><br><br>Je me présente : je m'appelle Wei.<br>我来自我介绍一下：我叫张伟。	FW::A1 FW::vie_quotidienne FW::relations
+nouveau <i>(adj.)</i><br>/nu.vo/	新的；新来的<br><i>new</i><br><br>Je suis nouveau dans l'équipe.<br>我是团队里的新人。	FW::A1 FW::vie_quotidienne FW::relations
+connaître <i>(v.)</i><br>/kɔ.nɛtʁ/	认识；了解<br><i>to know (a person, a place)</i><br><br>Tu connais Montréal ?<br>你了解蒙特利尔吗？	FW::A1 FW::vie_quotidienne FW::relations
+personne <i>(pron.)</i><br>/pɛʁ.sɔn/	没有人<br><i>nobody</i><br><br>Il n'y a personne.<br>一个人都没有。	FW::A1 FW::vie_quotidienne FW::relations
+sauf <i>(prép.)</i><br>/sof/	除了<br><i>except</i><br><br>Tout le monde est là, sauf Karim.<br>大家都到了，除了卡里姆。	FW::A1 FW::vie_quotidienne FW::relations
+soirée <i>(n.f.)</i><br>/swa.ʁe/	晚上；晚会<br><i>evening; party</i><br><br>On organise une soirée samedi.<br>我们星期六办个聚会。	FW::A1 FW::vie_quotidienne FW::relations
+draguer <i>(v.)</i><br>/dʁa.ɡe/	搭讪；撩<br><i>to hit on, to flirt with</i><br><br>Il drague toutes les filles du bureau.<br>他撩办公室里所有的女孩。	FW::A1 FW::relations
+souvent <i>(adv.)</i><br>/su.vɑ̃/	经常<br><i>often</i><br><br>Je vais souvent au cinéma.<br>我经常去看电影。	FW::A1 FW::relations
+cheveux <i>(n.m.pl.)</i><br>/ʃə.vø/	头发<br><i>hair</i><br><br>Elle a les cheveux longs.<br>她留着长发。	FW::A1 FW::relations
+court <i>(adj.)</i><br>/kuʁ/	短的<br><i>short (length)</i><br><br>Le film est court : une heure.<br>电影很短：一个小时。	FW::A1 FW::relations
+courage <i>(n.m.)</i><br>/ku.ʁaʒ/	勇气<br><i>courage</i><br><br>Il faut du courage pour changer de pays.<br>换一个国家生活需要勇气。	FW::A1 FW::relations
+servir <i>(v.)</i><br>/sɛʁ.viʁ/	服务；端上；有用<br><i>to serve</i><br><br>Je vous sers un café ?<br>给您来杯咖啡？	FW::A1 FW::relations
+tablier <i>(n.m.)</i><br>/ta.bli.je/	围裙<br><i>apron</i><br><br>Le boulanger porte un tablier blanc.<br>面包师系着白围裙。	FW::A1 FW::relations
+regard <i>(n.m.)</i><br>/ʁə.ɡaʁ/	目光；眼神<br><i>look, gaze</i><br><br>Il a un regard très doux.<br>他的眼神很温柔。	FW::A1 FW::relations
+écoute <i>(n.f.)</i><br>/e.kut/	倾听<br><i>listening</i><br><br>L'écoute est la base d'une bonne relation.<br>倾听是好关系的基础。	FW::A1 FW::relations
+nul <i>(adj.)</i><br>/nyl/	差劲的；烂的<br><i>rubbish, lame</i><br><br>Ce film est nul !<br>这部电影太烂了！	FW::A1 FW::relations
+d'habitude <i>(loc. adv.)</i><br>/da.bi.tyd/	平常；通常<br><i>usually</i><br><br>D'habitude, je prends le métro.<br>平常我坐地铁。	FW::A1 FW::relations
+offrir <i>(v.)</i><br>/ɔ.fʁiʁ/	赠送；请（客）<br><i>to offer; to give (a gift)</i><br><br>Je t'offre un verre ?<br>我请你喝一杯？	FW::A1 FW::relations
+étudiant <i>(n.m.)</i><br>/e.ty.djɑ̃/	大学生<br><i>(university) student</i><br><br>Il est étudiant en médecine.<br>他是医学院的学生。	FW::A1 FW::logement FW::vie_quotidienne
+escalier <i>(n.m.)</i><br>/ɛs.ka.lje/	楼梯<br><i>stairs, staircase</i><br><br>Je prends l'escalier, pas l'ascenseur.<br>我走楼梯，不坐电梯。	FW::A1 FW::logement FW::vie_quotidienne
+gratter <i>(v.)</i><br>/ɡʁa.te/	抓；挠；刮<br><i>to scratch</i><br><br>Le chien gratte à la porte.<br>狗在挠门。	FW::A1 FW::logement FW::vie_quotidienne
+neige <i>(n.f.)</i><br>/nɛʒ/	雪<br><i>snow</i><br><br>Il y a beaucoup de neige cet hiver.<br>今年冬天雪很多。	FW::A1 FW::logement FW::vie_quotidienne
+s'installer <i>(v. pron.)</i><br>/sɛ̃s.ta.le/	安顿下来；定居<br><i>to settle (in)</i><br><br>Ils s'installent à Montréal en mai.<br>他们五月在蒙特利尔安家。	FW::A1 FW::logement FW::vie_quotidienne
+canapé <i>(n.m.)</i><br>/ka.na.pe/	沙发<br><i>sofa, couch</i><br><br>On regarde un film sur le canapé ?<br>我们在沙发上看部电影？	FW::A1 FW::logement FW::vie_quotidienne
+collier <i>(n.m.)</i><br>/kɔ.lje/	项圈；项链<br><i>collar; necklace</i><br><br>Elle porte un collier en or.<br>她戴着一条金项链。	FW::A1 FW::logement FW::vie_quotidienne
+donner à manger <i>(loc. v.)</i><br>/dɔ.ne a mɑ̃.ʒe/	喂（食）<br><i>to feed</i><br><br>Tu peux donner à manger au chat ce week-end ?<br>这个周末你能帮我喂猫吗？	FW::A1 FW::logement FW::vie_quotidienne
+mentir <i>(v.)</i><br>/mɑ̃.tiʁ/	撒谎<br><i>to lie</i><br><br>Tu mens ! Je le sais.<br>你撒谎！我知道。	FW::A1 FW::logement FW::vie_quotidienne
+fromage <i>(n.m.)</i><br>/fʁɔ.maʒ/	奶酪<br><i>cheese</i><br><br>La France a plus de mille fromages.<br>法国有一千多种奶酪。	FW::A1 FW::logement FW::vie_quotidienne
+morceau <i>(n.m.)</i><br>/mɔʁ.so/	一块；一段<br><i>piece, bit</i><br><br>Tu veux un morceau de gâteau ?<br>你想来一块蛋糕吗？	FW::A1 FW::logement FW::vie_quotidienne
+revenir <i>(v.)</i><br>/ʁə.və.niʁ/	回来<br><i>to come back</i><br><br>Je reviens dans cinq minutes !<br>我五分钟后回来！	FW::A1 FW::logement FW::vie_quotidienne
+bras <i>(n.m.)</i><br>/bʁa/	手臂<br><i>arm</i><br><br>Il la prend dans ses bras.<br>他把她搂进怀里。	FW::A1 FW::logement FW::vie_quotidienne
+pantoufle <i>(n.f.)</i><br>/pɑ̃.tufl/	拖鞋（室内）<br><i>slipper</i><br><br>Il met ses pantoufles en rentrant.<br>他一回家就换上拖鞋。	FW::A1 FW::logement FW::vie_quotidienne
+triste <i>(adj.)</i><br>/tʁist/	悲伤的<br><i>sad</i><br><br>Pourquoi tu es triste ?<br>你为什么难过？	FW::A1 FW::logement FW::vie_quotidienne
+silencieux <i>(adj.)</i><br>/si.lɑ̃.sjø/	安静的；沉默的<br><i>silent, quiet</i><br><br>La maison est silencieuse la nuit.<br>夜里房子很安静。	FW::A1 FW::logement FW::vie_quotidienne
+fleuve <i>(n.m.)</i><br>/flœv/	大河（入海的）<br><i>(large) river</i><br><br>Le Saint-Laurent est un fleuve immense.<br>圣劳伦斯河是一条巨大的河流。	FW::A1 FW::logement FW::vie_quotidienne
+désolé <i>(adj.)</i><br>/de.zɔ.le/	抱歉的<br><i>sorry</i><br><br>Désolé, je suis en retard.<br>抱歉，我迟到了。	FW::A1 FW::logement FW::vie_quotidienne
+sourire <i>(v. / n.m.)</i><br>/su.ʁiʁ/	微笑<br><i>to smile; a smile</i><br><br>Elle a un joli sourire.<br>她笑容很好看。	FW::A1 FW::psychologie FW::culture
+visage <i>(n.m.)</i><br>/vi.zaʒ/	脸；面孔<br><i>face</i><br><br>Je n'oublie jamais un visage.<br>我从不会忘记一张脸。	FW::A1 FW::psychologie FW::culture
+copier <i>(v.)</i><br>/kɔ.pje/	复制；抄袭<br><i>to copy</i><br><br>Ne copie pas sur ton voisin !<br>别抄你同桌的！	FW::A1 FW::psychologie FW::culture
+apprendre <i>(v.)</i><br>/a.pʁɑ̃dʁ/	学习；得知；教<br><i>to learn; to teach</i><br><br>J'apprends le français depuis trois mois.<br>我学法语三个月了。	FW::A1 FW::psychologie FW::culture
+chercheur <i>(n.m.)</i><br>/ʃɛʁ.ʃœʁ/	研究员<br><i>researcher</i><br><br>Les chercheurs étudient le cerveau.<br>研究人员在研究大脑。	FW::A1 FW::psychologie FW::culture
+sûr <i>(adj.)</i><br>/syʁ/	确定的；安全的<br><i>sure; safe</i><br><br>Tu es sûr ?<br>你确定吗？	FW::A1 FW::psychologie FW::culture
+heureux <i>(adj.)</i><br>/ø.ʁø/	幸福的；高兴的<br><i>happy</i><br><br>Je suis heureux de te voir.<br>见到你我很高兴。	FW::A1 FW::psychologie FW::culture
+inconnu <i>(n.m. / adj.)</i><br>/ɛ̃.kɔ.ny/	陌生人；未知的<br><i>stranger; unknown</i><br><br>Ne parle pas aux inconnus !<br>别跟陌生人说话！	FW::A1 FW::psychologie FW::culture
+rue <i>(n.f.)</i><br>/ʁy/	街道<br><i>street</i><br><br>J'habite dans une petite rue calme.<br>我住在一条安静的小街上。	FW::A1 FW::psychologie FW::culture
+sembler <i>(v.)</i><br>/sɑ̃.ble/	似乎；看起来<br><i>to seem</i><br><br>Tu sembles fatigué.<br>你看起来很累。	FW::A1 FW::psychologie FW::culture
+ailleurs <i>(adv.)</i><br>/a.jœʁ/	别处<br><i>elsewhere</i><br><br>Allons manger ailleurs.<br>我们去别处吃吧。	FW::A1 FW::psychologie FW::culture
+prêt <i>(adj.)</i><br>/pʁɛ/	准备好的<br><i>ready</i><br><br>Tu es prêt ? On part !<br>你准备好了吗？我们出发！	FW::A1 FW::psychologie
+nécessaire <i>(adj.)</i><br>/ne.se.sɛʁ/	必要的<br><i>necessary</i><br><br>Ce n'est pas nécessaire de crier.<br>没必要大喊大叫。	FW::A1 FW::psychologie
+au début <i>(loc. adv.)</i><br>/o de.by/	起初；一开始<br><i>at the beginning</i><br><br>Au début, je ne comprenais rien.<br>一开始我什么也听不懂。	FW::A1 FW::psychologie
+faute <i>(n.f.)</i><br>/fot/	错误；过错<br><i>mistake; fault</i><br><br>Il y a trois fautes dans ta phrase.<br>你的句子里有三个错误。	FW::A1 FW::psychologie
+preuve <i>(n.f.)</i><br>/pʁœv/	证据；证明<br><i>proof</i><br><br>Tu as une preuve ?<br>你有证据吗？	FW::A1 FW::psychologie
+essayer <i>(v.)</i><br>/e.se.je/	尝试；试穿<br><i>to try</i><br><br>J'essaie de parler plus lentement.<br>我尽量说慢一点。	FW::A1 FW::psychologie
+même si <i>(conj.)</i><br>/mɛm si/	即使<br><i>even if</i><br><br>Je viens, même si je suis fatigué.<br>即使我很累，我也会来。	FW::A1 FW::psychologie
+surtout <i>(adv.)</i><br>/syʁ.tu/	尤其；特别是<br><i>above all, especially</i><br><br>J'aime le sport, surtout le tennis.<br>我喜欢运动，尤其是网球。	FW::A1 FW::psychologie
+parfait <i>(adj.)</i><br>/paʁ.fɛ/	完美的<br><i>perfect</i><br><br>Personne n'est parfait.<br>人无完人。	FW::A1 FW::psychologie
+siècle <i>(n.m.)</i><br>/sjɛkl/	世纪<br><i>century</i><br><br>Nous sommes au XXIᵉ siècle.<br>我们身处21世纪。	FW::A1 FW::culture FW::philosophie
+château <i>(n.m.)</i><br>/ʃa.to/	城堡<br><i>castle</i><br><br>Les châteaux de la Loire sont magnifiques.<br>卢瓦尔河谷的城堡非常壮观。	FW::A1 FW::culture FW::philosophie
+célèbre <i>(adj.)</i><br>/se.lɛbʁ/	著名的<br><i>famous</i><br><br>C'est un acteur très célèbre.<br>他是位非常有名的演员。	FW::A1 FW::culture FW::philosophie
+peur <i>(n.f.)</i><br>/pœʁ/	害怕<br><i>fear</i><br><br>J'ai peur des chiens.<br>我怕狗。	FW::A1 FW::culture FW::philosophie
+mort <i>(n.f. / adj.)</i><br>/mɔʁ/	死亡；死的<br><i>death; dead</i><br><br>Il parle de la mort sans tristesse.<br>他谈论死亡时并不悲伤。	FW::A1 FW::culture FW::philosophie
+amitié <i>(n.f.)</i><br>/a.mi.tje/	友谊<br><i>friendship</i><br><br>Notre amitié dure depuis vingt ans.<br>我们的友谊已经维持了二十年。	FW::A1 FW::culture FW::philosophie
+utile <i>(adj.)</i><br>/y.til/	有用的<br><i>useful</i><br><br>Ce dictionnaire est très utile.<br>这本词典很有用。	FW::A1 FW::culture FW::philosophie
+réseau <i>(n.m.)</i><br>/ʁe.zo/	网络；人脉<br><i>network</i><br><br>Il a un grand réseau professionnel.<br>他的职业人脉很广。	FW::A1 FW::culture FW::philosophie
+explication <i>(n.f.)</i><br>/ɛks.pli.ka.sjɔ̃/	解释<br><i>explanation</i><br><br>Il n'y a pas d'explication simple.<br>没有简单的解释。	FW::A1 FW::culture FW::philosophie
+cerveau <i>(n.m.)</i><br>/sɛʁ.vo/	大脑<br><i>brain</i><br><br>Le cerveau consomme beaucoup d'énergie.<br>大脑消耗大量能量。	FW::A1 FW::santé FW::science
+peser <i>(v.)</i><br>/pə.ze/	称重；重（多少）<br><i>to weigh</i><br><br>Ce sac pèse cinq kilos.<br>这个包重五公斤。	FW::A1 FW::santé FW::science
+corps <i>(n.m.)</i><br>/kɔʁ/	身体<br><i>body</i><br><br>Le corps humain a 206 os.<br>人体有206块骨头。	FW::A1 FW::santé FW::science
+énergie <i>(n.f.)</i><br>/e.nɛʁ.ʒi/	能量；精力<br><i>energy</i><br><br>Je n'ai plus d'énergie le soir.<br>我晚上就没精力了。	FW::A1 FW::santé FW::science
+dormir <i>(v.)</i><br>/dɔʁ.miʁ/	睡觉<br><i>to sleep</i><br><br>Je dors huit heures par nuit.<br>我每晚睡八个小时。	FW::A1 FW::santé FW::science
+milliard <i>(n.m.)</i><br>/mi.ljaʁ/	十亿<br><i>billion</i><br><br>La Chine a 1,4 milliard d'habitants.<br>中国有14亿人口。	FW::A1 FW::santé FW::science
+créer <i>(v.)</i><br>/kʁe.e/	创造；创建<br><i>to create</i><br><br>Elle crée sa propre entreprise.<br>她在创办自己的公司。	FW::A1 FW::santé FW::science
+renforcer <i>(v.)</i><br>/ʁɑ̃.fɔʁ.se/	加强<br><i>to strengthen</i><br><br>Le sport renforce le cœur.<br>运动能强健心脏。	FW::A1 FW::santé FW::science
+sommeil <i>(n.m.)</i><br>/sɔ.mɛj/	睡眠<br><i>sleep</i><br><br>Le manque de sommeil est dangereux.<br>睡眠不足很危险。	FW::A1 FW::santé FW::science
+mouvement <i>(n.m.)</i><br>/muv.mɑ̃/	运动；动作<br><i>movement</i><br><br>Le mouvement est bon pour le cerveau.<br>运动对大脑有益。	FW::A1 FW::santé FW::science
+prix <i>(n.m.)</i><br>/pʁi/	价格；奖<br><i>price; prize</i><br><br>Quel est le prix de ce livre ?<br>这本书多少钱？	FW::A1 FW::culture
+boulangère <i>(n.f.)</i><br>/bu.lɑ̃.ʒɛʁ/	面包店老板娘；面包师（女）<br><i>baker (woman)</i><br><br>La boulangère me connaît.<br>面包店老板娘认识我。	FW::A1 FW::culture
+langue <i>(n.f.)</i><br>/lɑ̃ɡ/	语言；舌头<br><i>language; tongue</i><br><br>Le français est une langue difficile ?<br>法语是一门难学的语言吗？	FW::A1 FW::culture
+demain <i>(adv.)</i><br>/də.mɛ̃/	明天<br><i>tomorrow</i><br><br>À demain !<br>明天见！	FW::A1 FW::culture
+savoir <i>(v.)</i><br>/sa.vwaʁ/	知道；会<br><i>to know (a fact); to know how</i><br><br>Je ne sais pas nager.<br>我不会游泳。	FW::A1 FW::culture
+d'ici <i>(loc.)</i><br>/di.si/	本地的；从这里<br><i>from here, local</i><br><br>Vous n'êtes pas d'ici ?<br>您不是本地人吧？	FW::A1 FW::culture
+immeuble <i>(n.m.)</i><br>/i.mœbl/	楼房；公寓楼<br><i>(apartment) building</i><br><br>J'habite dans un immeuble de six étages.<br>我住在一栋六层的楼里。	FW::A1 
+vivre <i>(v.)</i><br>/vivʁ/	生活；活着<br><i>to live</i><br><br>Ils vivent ensemble depuis deux ans.<br>他们同居两年了。	FW::A1 
+ensemble <i>(adv. / n.m.)</i><br>/ɑ̃.sɑ̃bl/	一起；整体<br><i>together; whole</i><br><br>On travaille ensemble ?<br>我们一起干吧？	FW::A1 
+recevoir <i>(v.)</i><br>/ʁə.sə.vwaʁ/	收到；接待<br><i>to receive</i><br><br>J'ai reçu ton message.<br>我收到你的消息了。	FW::A1 
+devenir <i>(v.)</i><br>/də.və.niʁ/	变成<br><i>to become</i><br><br>Il veut devenir médecin.<br>他想成为医生。	FW::A1 
+se réveiller <i>(v. pron.)</i><br>/sə ʁe.ve.je/	醒来<br><i>to wake up</i><br><br>Je me réveille à sept heures.<br>我七点醒。	FW::A1 FW::vie_quotidienne FW::relations
+réfléchir <i>(v.)</i><br>/ʁe.fle.ʃiʁ/	思考；考虑<br><i>to think (carefully)</i><br><br>Je dois réfléchir avant de répondre.<br>我得想一想再回答。	FW::A1 FW::vie_quotidienne FW::relations
+poser <i>(v.)</i><br>/po.ze/	放下；提出<br><i>to put (down); to ask</i><br><br>Pose ton sac ici.<br>把你的包放这儿。	FW::A1 FW::vie_quotidienne FW::relations
+enfin <i>(adv.)</i><br>/ɑ̃.fɛ̃/	终于；最后；嗯……<br><i>finally; well…</i><br><br>Enfin, tu es là !<br>你终于来了！	FW::A1 FW::vie_quotidienne FW::relations
+félicitations <i>(n.f.pl.)</i><br>/fe.li.si.ta.sjɔ̃/	祝贺<br><i>congratulations</i><br><br>Félicitations pour ton diplôme !<br>恭喜你毕业！	FW::A1 FW::vie_quotidienne FW::relations
+rare <i>(adj.)</i><br>/ʁaʁ/	罕见的；难得的<br><i>rare</i><br><br>C'est rare, un homme qui écoute.<br>懂得倾听的男人很少见。	FW::A1 FW::vie_quotidienne FW::relations
+tutoyer <i>(v.)</i><br>/ty.twa.je/	用 tu 称呼<br><i>to say « tu » to someone</i><br><br>On peut se tutoyer ?<br>我们可以用“你”相称吗？	FW::A1 FW::vie_quotidienne FW::relations
+marché <i>(n.m.)</i><br>/maʁ.ʃe/	市场；集市<br><i>market</i><br><br>Le marché est ouvert le samedi.<br>集市星期六开。	FW::A1 FW::vie_quotidienne FW::relations
+inviter <i>(v.)</i><br>/ɛ̃.vi.te/	邀请；请客<br><i>to invite; to treat</i><br><br>Je t'invite ! C'est moi qui paie.<br>我请客！我来付。	FW::A1 FW::vie_quotidienne FW::relations
+fromager <i>(n.m.)</i><br>/fʁɔ.ma.ʒe/	奶酪商<br><i>cheesemonger</i><br><br>Le fromager nous fait goûter un comté.<br>奶酪商让我们尝了一块孔泰。	FW::A1 FW::vie_quotidienne FW::relations
+écran <i>(n.m.)</i><br>/e.kʁɑ̃/	屏幕<br><i>screen</i><br><br>Les enfants passent trop de temps devant les écrans.<br>孩子们在屏幕前花的时间太多了。	FW::A1 FW::vie_quotidienne FW::relations
+épouser <i>(v.)</i><br>/e.pu.ze/	娶；嫁<br><i>to marry</i><br><br>Il veut épouser sa copine.<br>他想娶他女朋友。	FW::A1 FW::vie_quotidienne FW::relations
+bloquer <i>(v.)</i><br>/blɔ.ke/	封锁；（社交）拉黑<br><i>to block</i><br><br>Il m'a bloquée sur Instagram !<br>他在 Instagram 上把我拉黑了！	FW::A1 FW::vie_quotidienne FW::relations
+reconnaître <i>(v.)</i><br>/ʁə.kɔ.nɛtʁ/	认出；承认<br><i>to recognize; to admit</i><br><br>Je ne te reconnais pas avec ces lunettes !<br>你戴这副眼镜我都认不出来了！	FW::A1 FW::vie_quotidienne FW::relations
+truc <i>(n.m.)</i><br>/tʁyk/	东西；玩意儿；拿手的<br><i>thing, stuff; one's thing</i><br><br>C'est quoi, ce truc ?<br>这是什么玩意儿？	FW::A1 FW::vie_quotidienne FW::relations
+partager <i>(v.)</i><br>/paʁ.ta.ʒe/	分享；分担<br><i>to share</i><br><br>On partage un dessert ?<br>我们分一份甜点吧？	FW::A1 FW::vie_quotidienne FW::relations
+vibrer <i>(v.)</i><br>/vi.bʁe/	震动<br><i>to vibrate</i><br><br>Mon téléphone vibre dans ma poche.<br>我的手机在口袋里震动。	FW::A1 FW::vie_quotidienne FW::transports
+rater <i>(v.)</i><br>/ʁa.te/	错过；搞砸<br><i>to miss; to fail</i><br><br>J'ai raté mon train !<br>我错过火车了！	FW::A1 FW::vie_quotidienne FW::transports
+venir chercher <i>(loc. v.)</i><br>/və.niʁ ʃɛʁ.ʃe/	来接（某人）<br><i>to come and pick up</i><br><br>Je viens te chercher à la gare.<br>我来车站接你。	FW::A1 FW::vie_quotidienne FW::transports
+batterie <i>(n.f.)</i><br>/bat.ʁi/	电池；电量；架子鼓<br><i>battery; drums</i><br><br>Je n'ai plus de batterie.<br>我手机没电了。	FW::A1 FW::vie_quotidienne FW::transports
+pleuvoir <i>(v.)</i><br>/plø.vwaʁ/	下雨<br><i>to rain</i><br><br>Il pleut depuis ce matin.<br>从早上开始一直在下雨。	FW::A1 FW::vie_quotidienne FW::transports
+arrêt <i>(n.m.)</i><br>/a.ʁɛ/	车站（公交）；停止<br><i>(bus) stop; stop</i><br><br>Je descends au prochain arrêt.<br>我下一站下车。	FW::A1 FW::vie_quotidienne FW::transports
+en face de <i>(loc. prép.)</i><br>/ɑ̃ fas də/	在……对面<br><i>opposite, across from</i><br><br>La pharmacie est en face de la gare.<br>药店在火车站对面。	FW::A1 FW::vie_quotidienne FW::transports
+urgent <i>(adj.)</i><br>/yʁ.ʒɑ̃/	紧急的<br><i>urgent</i><br><br>C'est urgent, appelle-moi !<br>很急，给我打电话！	FW::A1 FW::vie_quotidienne FW::transports
+charger <i>(v.)</i><br>/ʃaʁ.ʒe/	充电；装载<br><i>to charge; to load</i><br><br>Je charge mon téléphone la nuit.<br>我晚上给手机充电。	FW::A1 FW::vie_quotidienne FW::transports
+vivant <i>(adj.)</i><br>/vi.vɑ̃/	活着的；生动的<br><i>alive; lively</i><br><br>Un quartier très vivant.<br>一个很热闹的街区。	FW::A1 FW::vie_quotidienne FW::transports
+permis de conduire <i>(n.m.)</i><br>/pɛʁ.mi də kɔ̃.dɥiʁ/	驾照<br><i>driving licence</i><br><br>Il passe son permis de conduire demain.<br>他明天考驾照。	FW::A1 FW::vie_quotidienne FW::transports
+voiture <i>(n.f.)</i><br>/vwa.tyʁ/	汽车<br><i>car</i><br><br>On y va en voiture ?<br>我们开车去吧？	FW::A1 FW::vie_quotidienne FW::transports
+voix <i>(n.f.)</i><br>/vwa/	声音；嗓音<br><i>voice</i><br><br>Il a une voix grave.<br>他嗓音低沉。	FW::A1 FW::vie_quotidienne FW::transports
+quelque part <i>(loc. adv.)</i><br>/kɛl.kə paʁ/	某处<br><i>somewhere</i><br><br>J'ai laissé mes clés quelque part.<br>我把钥匙落在某个地方了。	FW::A1 FW::vie_quotidienne FW::transports
+oublier <i>(v.)</i><br>/u.bli.je/	忘记<br><i>to forget</i><br><br>N'oublie pas ton parapluie !<br>别忘了带伞！	FW::A1 FW::vie_quotidienne FW::transports
+gare <i>(n.f.)</i><br>/ɡaʁ/	火车站<br><i>(train) station</i><br><br>Le train part de la gare de Lyon.<br>火车从里昂站出发。	FW::A1 FW::transports FW::vie_quotidienne
+ligne <i>(n.f.)</i><br>/liɲ/	线路；线<br><i>line</i><br><br>Prends la ligne 4.<br>坐4号线。	FW::A1 FW::transports FW::vie_quotidienne
+descendre <i>(v.)</i><br>/de.sɑ̃dʁ/	下（车、楼）；下降<br><i>to get off; to go down</i><br><br>On descend au prochain arrêt.<br>我们下一站下车。	FW::A1 FW::transports FW::vie_quotidienne
+monter <i>(v.)</i><br>/mɔ̃.te/	上（车、楼）；登<br><i>to get on; to go up</i><br><br>Monte dans la voiture !<br>上车！	FW::A1 FW::transports FW::vie_quotidienne
+couloir <i>(n.m.)</i><br>/ku.lwaʁ/	走廊；通道<br><i>corridor</i><br><br>Les toilettes sont au bout du couloir.<br>洗手间在走廊尽头。	FW::A1 FW::transports FW::vie_quotidienne
+suivre <i>(v.)</i><br>/sɥivʁ/	跟随；沿着；关注<br><i>to follow</i><br><br>Suivez-moi, s'il vous plaît.<br>请跟我来。	FW::A1 FW::transports FW::vie_quotidienne
+panneau <i>(n.m.)</i><br>/pa.no/	指示牌；牌子<br><i>sign, panel</i><br><br>Regarde le panneau : c'est à droite.<br>看指示牌：在右边。	FW::A1 FW::transports FW::vie_quotidienne
+correspondance <i>(n.f.)</i><br>/kɔ.ʁɛs.pɔ̃.dɑ̃s/	换乘；通信<br><i>connection, transfer</i><br><br>J'ai une correspondance à Lyon.<br>我要在里昂转车。	FW::A1 FW::transports FW::vie_quotidienne
+sortie <i>(n.f.)</i><br>/sɔʁ.ti/	出口；外出<br><i>exit; outing</i><br><br>La sortie est par là.<br>出口在那边。	FW::A1 FW::transports FW::vie_quotidienne
+heure de pointe <i>(n.f.)</i><br>/œʁ də pwɛ̃t/	高峰时段<br><i>rush hour</i><br><br>Évite le métro à l'heure de pointe.<br>避开高峰时段坐地铁。	FW::A1 FW::transports FW::vie_quotidienne
+serré <i>(adj.)</i><br>/se.ʁe/	紧的；挤的<br><i>tight; packed</i><br><br>On est serrés comme des sardines.<br>我们挤得像沙丁鱼一样。	FW::A1 FW::transports FW::vie_quotidienne
+souterrain <i>(adj.)</i><br>/su.tɛ.ʁɛ̃/	地下的<br><i>underground</i><br><br>Il y a un parking souterrain.<br>那儿有一个地下停车场。	FW::A1 FW::transports FW::vie_quotidienne
+magasin <i>(n.m.)</i><br>/ma.ɡa.zɛ̃/	商店<br><i>shop, store</i><br><br>Les magasins ferment à vingt heures.<br>商店晚上八点关门。	FW::A1 FW::transports FW::vie_quotidienne
+faire ses courses <i>(loc. v.)</i><br>/fɛʁ se kuʁs/	购物（买日用品）<br><i>to do the shopping</i><br><br>Je fais mes courses le samedi.<br>我星期六去买东西。	FW::A1 FW::transports FW::vie_quotidienne
+dehors <i>(adv.)</i><br>/də.ɔʁ/	在外面<br><i>outside</i><br><br>Il fait froid dehors.<br>外面很冷。	FW::A1 FW::transports FW::vie_quotidienne
+bise <i>(n.f.)</i><br>/biz/	贴面礼；（北）风<br><i>kiss on the cheek</i><br><br>On se fait la bise ?<br>我们行个贴面礼？	FW::A1 FW::culture FW::travail
+joue <i>(n.f.)</i><br>/ʒu/	脸颊<br><i>cheek</i><br><br>Il a les joues rouges.<br>他脸颊通红。	FW::A1 FW::culture FW::travail
+tendre <i>(v.)</i><br>/tɑ̃dʁ/	伸出；递给<br><i>to hold out</i><br><br>Il me tend la main.<br>他向我伸出手。	FW::A1 FW::culture FW::travail
+lèvre <i>(n.f.)</i><br>/lɛvʁ/	嘴唇<br><i>lip</i><br><br>Elle a du rouge à lèvres.<br>她涂了口红。	FW::A1 FW::culture FW::travail
+peau <i>(n.f.)</i><br>/po/	皮肤<br><i>skin</i><br><br>Il a la peau très blanche.<br>他的皮肤很白。	FW::A1 FW::culture FW::travail
+région <i>(n.f.)</i><br>/ʁe.ʒjɔ̃/	地区；大区<br><i>region</i><br><br>La Bretagne est une région magnifique.<br>布列塔尼是一个很美的地区。	FW::A1 FW::culture FW::travail
+d'accord <i>(loc.)</i><br>/da.kɔʁ/	同意的<br><i>agreed, in agreement</i><br><br>Je ne suis pas d'accord avec toi.<br>我不同意你的看法。	FW::A1 FW::culture FW::travail
+se cogner <i>(v. pron.)</i><br>/sə kɔ.ɲe/	撞到<br><i>to bump (into)</i><br><br>Je me suis cogné la tête.<br>我撞到头了。	FW::A1 FW::culture FW::travail
+nez <i>(n.m.)</i><br>/ne/	鼻子<br><i>nose</i><br><br>J'ai le nez qui coule.<br>我流鼻涕。	FW::A1 FW::culture FW::travail
+recommencer <i>(v.)</i><br>/ʁə.kɔ.mɑ̃.se/	重新开始<br><i>to start again</i><br><br>On recommence depuis le début.<br>我们从头再来。	FW::A1 FW::culture FW::travail
+animer <i>(v.)</i><br>/a.ni.me/	主持；使活跃<br><i>to host; to liven up</i><br><br>Elle anime une émission de radio.<br>她主持一档广播节目。	FW::A1 FW::culture FW::médias
+émission <i>(n.f.)</i><br>/e.mi.sjɔ̃/	（电视、广播）节目；排放<br><i>(TV/radio) show; emission</i><br><br>C'est mon émission préférée.<br>这是我最喜欢的节目。	FW::A1 FW::culture FW::médias
+invité <i>(n.m.)</i><br>/ɛ̃.vi.te/	客人；嘉宾<br><i>guest</i><br><br>Les invités arrivent à huit heures.<br>客人八点到。	FW::A1 FW::culture FW::médias
+plateau <i>(n.m.)</i><br>/pla.to/	演播室；托盘；高原<br><i>(TV) set; tray; plateau</i><br><br>Silence sur le plateau !<br>演播室请安静！	FW::A1 FW::culture FW::médias
+chemise <i>(n.f.)</i><br>/ʃə.miz/	衬衫<br><i>shirt</i><br><br>Il porte une chemise blanche.<br>他穿着白衬衫。	FW::A1 FW::culture FW::médias
+horrible <i>(adj.)</i><br>/ɔ.ʁibl/	可怕的；难看的<br><i>horrible, awful</i><br><br>Il fait un temps horrible.<br>天气糟透了。	FW::A1 FW::culture FW::médias
+public <i>(n.m. / adj.)</i><br>/py.blik/	观众；公众；公共的<br><i>audience; public</i><br><br>Le public applaudit.<br>观众鼓掌。	FW::A1 FW::culture FW::médias
+abonné <i>(n.m.)</i><br>/a.bɔ.ne/	订阅者；粉丝<br><i>subscriber, follower</i><br><br>Elle a un million d'abonnés.<br>她有一百万粉丝。	FW::A1 FW::culture FW::médias
+vérité <i>(n.f.)</i><br>/ve.ʁi.te/	真相；真话<br><i>truth</i><br><br>Dis-moi la vérité.<br>告诉我真相。	FW::A1 FW::culture FW::médias
+dessert <i>(n.m.)</i><br>/de.sɛʁ/	甜点<br><i>dessert</i><br><br>Qu'est-ce que tu prends en dessert ?<br>你甜点要什么？	FW::A1 FW::culture FW::médias
+marié <i>(adj.)</i><br>/ma.ʁje/	已婚的<br><i>married</i><br><br>Ils sont mariés depuis dix ans.<br>他们结婚十年了。	FW::A1 FW::culture FW::médias
+regretter <i>(v.)</i><br>/ʁə.ɡʁɛ.te/	后悔；遗憾；想念<br><i>to regret; to miss</i><br><br>Je ne regrette rien.<br>我无怨无悔。	FW::A1 FW::culture FW::médias
+dur <i>(adj.)</i><br>/dyʁ/	硬的；难的；严厉的<br><i>hard; tough</i><br><br>La vie est dure à Paris.<br>在巴黎生活很艰难。	FW::A1 FW::culture FW::médias
+compliment <i>(n.m.)</i><br>/kɔ̃.pli.mɑ̃/	赞美；恭维<br><i>compliment</i><br><br>Merci pour le compliment !<br>谢谢夸奖！	FW::A1 FW::relations
+cadeau <i>(n.m.)</i><br>/ka.do/	礼物<br><i>gift, present</i><br><br>C'est un cadeau pour toi.<br>这是送你的礼物。	FW::A1 FW::relations
+gêner <i>(v.)</i><br>/ʒɛ.ne/	打扰；使尴尬<br><i>to bother; to embarrass</i><br><br>Ça vous gêne si j'ouvre la fenêtre ?<br>我开窗户您介意吗？	FW::A1 FW::relations
+veste <i>(n.f.)</i><br>/vɛst/	外套；夹克<br><i>jacket</i><br><br>Prends ta veste, il fait frais.<br>带上外套，天有点凉。	FW::A1 FW::relations
+aller bien à qqn <i>(loc. v.)</i><br>/a.le bjɛ̃ a/	适合某人<br><i>to suit someone</i><br><br>Cette couleur te va bien.<br>这个颜色很适合你。	FW::A1 FW::relations
+précis <i>(adj.)</i><br>/pʁe.si/	精确的；具体的<br><i>precise</i><br><br>Sois plus précis, s'il te plaît.<br>请说得具体一点。	FW::A1 FW::relations
+façon <i>(n.f.)</i><br>/fa.sɔ̃/	方式<br><i>way, manner</i><br><br>J'aime sa façon de parler.<br>我喜欢他说话的方式。	FW::A1 FW::relations
+raconter <i>(v.)</i><br>/ʁa.kɔ̃.te/	讲述<br><i>to tell (a story)</i><br><br>Raconte-moi ta journée !<br>跟我讲讲你今天过得怎么样！	FW::A1 FW::relations
+sujet <i>(n.m.)</i><br>/sy.ʒɛ/	话题；主题<br><i>subject, topic</i><br><br>Changeons de sujet.<br>我们换个话题吧。	FW::A1 FW::relations
+intéressant <i>(adj.)</i><br>/ɛ̃.te.ʁɛ.sɑ̃/	有趣的；有意思的<br><i>interesting</i><br><br>C'est un livre très intéressant.<br>这是一本很有意思的书。	FW::A1 FW::relations
+gentil <i>(adj.)</i><br>/ʒɑ̃.ti/	善良的；客气的<br><i>kind, nice</i><br><br>Tu es trop gentil !<br>你人真好！	FW::A1 FW::relations
+facture <i>(n.f.)</i><br>/fak.tyʁ/	发票；账单<br><i>bill, invoice</i><br><br>J'ai payé la facture d'électricité.<br>我交了电费单。	FW::A1 FW::relations
+argent <i>(n.m.)</i><br>/aʁ.ʒɑ̃/	钱；银<br><i>money; silver</i><br><br>Je n'ai pas d'argent sur moi.<br>我身上没带钱。	FW::A1 FW::société FW::travail
+perdre <i>(v.)</i><br>/pɛʁdʁ/	失去；丢失；输<br><i>to lose</i><br><br>J'ai perdu mes clés !<br>我把钥匙弄丢了！	FW::A1 FW::société FW::travail
+gagner <i>(v.)</i><br>/ɡa.ɲe/	赚；赢<br><i>to earn; to win</i><br><br>Il gagne bien sa vie.<br>他收入不错。	FW::A1 FW::société FW::travail
+pour toujours <i>(loc. adv.)</i><br>/puʁ tu.ʒuʁ/	永远<br><i>forever</i><br><br>Je t'aime pour toujours.<br>我永远爱你。	FW::A1 FW::société FW::travail
+emprunter <i>(v.)</i><br>/ɑ̃.pʁœ̃.te/	借（进）<br><i>to borrow</i><br><br>Je peux emprunter ton stylo ?<br>我能借你的笔用一下吗？	FW::A1 FW::société FW::travail
+milliardaire <i>(n.m./f.)</i><br>/mi.ljaʁ.dɛʁ/	亿万富翁<br><i>billionaire</i><br><br>Il est devenu milliardaire avec une appli.<br>他靠一个应用程序成了亿万富翁。	FW::A1 FW::société FW::travail
+échanger <i>(v.)</i><br>/e.ʃɑ̃.ʒe/	交换；兑换<br><i>to exchange</i><br><br>On échange nos numéros ?<br>我们交换一下电话号码？	FW::A1 FW::société FW::travail
+lié <i>(adj.)</i><br>/lje/	相关的；联系在一起的<br><i>linked, related</i><br><br>Ces deux problèmes sont liés.<br>这两个问题是相关的。	FW::A1 FW::société FW::travail
+assez <i>(adv.)</i><br>/a.se/	足够；相当<br><i>enough; quite</i><br><br>J'en ai assez !<br>我受够了！	FW::A1 FW::société FW::travail
+foule <i>(n.f.)</i><br>/ful/	人群<br><i>crowd</i><br><br>Il y a une foule énorme devant le musée.<br>博物馆前人山人海。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+compter <i>(v.)</i><br>/kɔ̃.te/	数；计算；有<br><i>to count; to have (inhabitants)</i><br><br>La ville compte trois millions d'habitants.<br>这座城市有三百万居民。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+habitant <i>(n.m.)</i><br>/a.bi.tɑ̃/	居民<br><i>inhabitant</i><br><br>Les habitants du quartier sont sympas.<br>这个街区的居民人都不错。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+seul <i>(adj.)</i><br>/sœl/	独自的；孤独的；唯一的<br><i>alone; lonely; only</i><br><br>Elle vit seule.<br>她一个人住。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+lien <i>(n.m.)</i><br>/ljɛ̃/	联系；纽带；链接<br><i>bond; link</i><br><br>Il y a un lien fort entre eux.<br>他们之间有很深的羁绊。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+copain <i>(n.m.)</i><br>/kɔ.pɛ̃/	朋友；男朋友<br><i>friend, buddy; boyfriend</i><br><br>C'est un copain de lycée.<br>他是我的高中同学（朋友）。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+tôt <i>(adv.)</i><br>/to/	早<br><i>early</i><br><br>Je me lève tôt.<br>我起得早。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+activité <i>(n.f.)</i><br>/ak.ti.vi.te/	活动<br><i>activity</i><br><br>Les enfants ont beaucoup d'activités.<br>孩子们有很多活动。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+chorale <i>(n.f.)</i><br>/kɔ.ʁal/	合唱团<br><i>choir</i><br><br>Elle chante dans une chorale.<br>她在合唱团唱歌。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+cours <i>(n.m.)</i><br>/kuʁ/	课<br><i>class, course</i><br><br>J'ai un cours de français ce soir.<br>我今晚有法语课。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+voisin <i>(n.m.)</i><br>/vwa.zɛ̃/	邻居<br><i>neighbour</i><br><br>Mon voisin joue du piano la nuit.<br>我的邻居晚上弹钢琴。	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+effort <i>(n.m.)</i><br>/e.fɔʁ/	努力<br><i>effort</i><br><br>Fais un effort !<br>努把力！	FW::A1 FW::psychologie FW::santé FW::vie_quotidienne
+ciel <i>(n.m.)</i><br>/sjɛl/	天空<br><i>sky</i><br><br>Le ciel est gris aujourd'hui.<br>今天天空灰蒙蒙的。	FW::A1 FW::science FW::environnement
+lumière <i>(n.f.)</i><br>/ly.mjɛʁ/	光；灯光<br><i>light</i><br><br>Éteins la lumière, s'il te plaît.<br>请把灯关掉。	FW::A1 FW::science FW::environnement
+contenir <i>(v.)</i><br>/kɔ̃t.niʁ/	包含<br><i>to contain</i><br><br>Ce plat contient des noix.<br>这道菜含有坚果。	FW::A1 FW::science FW::environnement
+couleur <i>(n.f.)</i><br>/ku.lœʁ/	颜色<br><i>colour</i><br><br>Quelle est ta couleur préférée ?<br>你最喜欢什么颜色？	FW::A1 FW::science FW::environnement
+traverser <i>(v.)</i><br>/tʁa.vɛʁ.se/	穿过；横穿<br><i>to cross</i><br><br>Traverse la rue au feu vert.<br>绿灯时过马路。	FW::A1 FW::science FW::environnement
+rencontrer <i>(v.)</i><br>/ʁɑ̃.kɔ̃.tʁe/	遇见；结识<br><i>to meet</i><br><br>J'ai rencontré ma femme à Lyon.<br>我在里昂认识了我妻子。	FW::A1 FW::science FW::environnement
+rebondir <i>(v.)</i><br>/ʁə.bɔ̃.diʁ/	弹回；反弹<br><i>to bounce</i><br><br>La balle rebondit sur le mur.<br>球从墙上弹了回来。	FW::A1 FW::science FW::environnement
+coucher de soleil <i>(n.m.)</i><br>/ku.ʃe də sɔ.lɛj/	日落<br><i>sunset</i><br><br>On regarde le coucher de soleil sur la mer.<br>我们在海边看日落。	FW::A1 FW::science FW::environnement
+sensible <i>(adj.)</i><br>/sɑ̃.sibl/	敏感的<br><i>sensitive</i><br><br>Il est très sensible à la critique.<br>他对批评非常敏感。	FW::A1 FW::science FW::environnement
+envoyer <i>(v.)</i><br>/ɑ̃.vwa.je/	发送；寄<br><i>to send</i><br><br>Envoie-moi la photo !<br>把照片发给我！	FW::A1 FW::science FW::environnement
+renard <i>(n.m.)</i><br>/ʁə.naʁ/	狐狸<br><i>fox</i><br><br>Le renard est un animal très malin.<br>狐狸是一种很狡猾的动物。	FW::A1 FW::culture FW::philosophie
+apprivoiser <i>(v.)</i><br>/a.pʁi.vwa.ze/	驯养；使亲近<br><i>to tame</i><br><br>Il est difficile d'apprivoiser un chat sauvage.<br>驯服一只野猫很难。	FW::A1 FW::culture FW::philosophie
+publier <i>(v.)</i><br>/py.bli.je/	出版；发布<br><i>to publish; to post</i><br><br>Elle publie une photo par jour.<br>她每天发一张照片。	FW::A1 FW::culture FW::philosophie
+traduire <i>(v.)</i><br>/tʁa.dɥiʁ/	翻译<br><i>to translate</i><br><br>Tu peux me traduire ce mot ?<br>你能帮我翻译这个词吗？	FW::A1 FW::culture FW::philosophie
+signifier <i>(v.)</i><br>/si.ɲi.fje/	意思是；意味着<br><i>to mean</i><br><br>Qu'est-ce que ce mot signifie ?<br>这个词是什么意思？	FW::A1 FW::culture FW::philosophie
+unique <i>(adj.)</i><br>/y.nik/	唯一的；独一无二的<br><i>unique; only</i><br><br>Tu es unique pour moi.<br>你对我来说是独一无二的。	FW::A1 FW::culture FW::philosophie
+l'un pour l'autre <i>(loc.)</i><br>/lœ̃ puʁ lotʁ/	彼此为对方<br><i>for each other</i><br><br>Ils sont faits l'un pour l'autre.<br>他们天生一对。	FW::A1 FW::culture FW::philosophie
+l'essentiel <i>(n.m.)</i><br>/le.sɑ̃.sjɛl/	最重要的东西<br><i>the essential, the main thing</i><br><br>L'essentiel, c'est d'être en bonne santé.<br>最重要的是身体健康。	FW::A1 FW::culture FW::philosophie
+invisible <i>(adj.)</i><br>/ɛ̃.vi.zibl/	看不见的<br><i>invisible</i><br><br>L'air est invisible.<br>空气是看不见的。	FW::A1 FW::culture FW::philosophie
+chaussure <i>(n.f.)</i><br>/ʃo.syʁ/	鞋<br><i>shoe</i><br><br>Enlève tes chaussures, s'il te plaît.<br>请把鞋脱掉。	FW::A1 FW::culture
+porte <i>(n.f.)</i><br>/pɔʁt/	门<br><i>door</i><br><br>Quelqu'un frappe à la porte.<br>有人在敲门。	FW::A1 FW::culture
+s'ouvrir <i>(v. pron.)</i><br>/su.vʁiʁ/	打开；敞开<br><i>to open</i><br><br>Les portes s'ouvrent automatiquement.<br>门会自动打开。	FW::A1 FW::culture
+autre <i>(adj. / pron.)</i><br>/otʁ/	别的；另一个<br><i>other, another</i><br><br>Tu veux un autre café ?<br>你要再来一杯咖啡吗？	FW::A1 FW::culture
+ressentir <i>(v.)</i><br>/ʁə.sɑ̃.tiʁ/	感受到<br><i>to feel (an emotion)</i><br><br>Qu'est-ce que tu ressens ?<br>你有什么感受？	FW::A1 
+baiser <i>(n.m.)</i><br>/bɛ.ze/	吻<br><i>kiss</i><br><br>Un premier baiser, ça ne s'oublie pas.<br>初吻是忘不掉的。	FW::A1 
+manquer <i>(v.)</i><br>/mɑ̃.ke/	缺少；想念；错过<br><i>to miss; to lack</i><br><br>Il manque une chaise.<br>少了一把椅子。	FW::A1 
+profil <i>(n.m.)</i><br>/pʁɔ.fil/	资料页；侧面<br><i>profile</i><br><br>Ta photo de profil est très jolie.<br>你的头像很好看。	FW::A1 
+en avance <i>(loc. adv.)</i><br>/ɑ̃.na.vɑ̃s/	提前<br><i>early (ahead of time)</i><br><br>Je suis en avance de dix minutes.<br>我提前了十分钟。	FW::A1 FW::relations FW::consommation
+crier <i>(v.)</i><br>/kʁi.je/	喊叫<br><i>to shout</i><br><br>Ne crie pas, je ne suis pas sourd !<br>别喊，我又不是聋子！	FW::A1 FW::relations FW::consommation
+fraise <i>(n.f.)</i><br>/fʁɛz/	草莓<br><i>strawberry</i><br><br>Une tarte aux fraises, s'il vous plaît.<br>请来一块草莓挞。	FW::A1 FW::relations FW::consommation
+disparaître <i>(v.)</i><br>/dis.pa.ʁɛtʁ/	消失<br><i>to disappear</i><br><br>Mon chat a disparu !<br>我的猫不见了！	FW::A1 FW::relations FW::consommation
+d'un coup <i>(loc. adv.)</i><br>/dœ̃ ku/	一下子；突然<br><i>all at once, suddenly</i><br><br>D'un coup, la lumière s'éteint.<br>突然，灯灭了。	FW::A1 FW::relations FW::consommation
+conseiller <i>(v.)</i><br>/kɔ̃.se.je/	建议；推荐<br><i>to advise, to recommend</i><br><br>Qu'est-ce que vous me conseillez ?<br>您推荐什么？	FW::A1 FW::relations FW::consommation
+doux <i>(adj.)</i><br>/du/	温和的；柔软的；甜的<br><i>soft; mild; sweet</i><br><br>Il fait doux aujourd'hui.<br>今天天气温和。	FW::A1 FW::relations FW::consommation
+tout bas <i>(loc. adv.)</i><br>/tu ba/	小声地<br><i>in a low voice</i><br><br>Elle me dit quelque chose tout bas.<br>她小声跟我说了句话。	FW::A1 FW::relations FW::consommation
+banc <i>(n.m.)</i><br>/bɑ̃/	长椅<br><i>bench</i><br><br>On s'assoit sur un banc ?<br>我们去长椅上坐坐？	FW::A1 FW::relations FW::consommation
+correct <i>(adj.)</i><br>/kɔ.ʁɛkt/	正确的；规矩的<br><i>correct; decent</i><br><br>Ta phrase est correcte.<br>你的句子是对的。	FW::A1 FW::relations FW::consommation
+sérieux <i>(adj.)</i><br>/se.ʁjø/	认真的；严肃的；严重的<br><i>serious</i><br><br>Tu es sérieux ?<br>你是认真的吗？	FW::A1 FW::relations FW::consommation
+enlever <i>(v.)</i><br>/ɑ̃l.ve/	拿走；脱掉<br><i>to remove, to take off</i><br><br>Enlève ton manteau, assieds-toi.<br>把大衣脱了，坐吧。	FW::A1 FW::relations FW::consommation
+bouger <i>(v.)</i><br>/bu.ʒe/	动；移动<br><i>to move</i><br><br>Ne bouge pas, je prends la photo !<br>别动，我要拍照了！	FW::A1 FW::relations FW::consommation
+s'embrasser <i>(v. pron.)</i><br>/sɑ̃.bʁa.se/	接吻；相拥<br><i>to kiss (each other)</i><br><br>Ils s'embrassent sous la pluie.<br>他们在雨中接吻。	FW::A1 FW::relations FW::consommation
+goût <i>(n.m.)</i><br>/ɡu/	味道；品味<br><i>taste</i><br><br>Ce plat n'a pas de goût.<br>这道菜没味道。	FW::A1 FW::relations FW::consommation
+éteindre <i>(v.)</i><br>/e.tɛ̃dʁ/	关掉（灯、电器）；熄灭<br><i>to switch off</i><br><br>Éteins ton téléphone pendant le film.<br>看电影时把手机关掉。	FW::A1 FW::relations FW::consommation
+application <i>(n.f.)</i><br>/a.pli.ka.sjɔ̃/	应用程序；运用<br><i>app; application</i><br><br>Télécharge l'application, c'est gratuit.<br>下载这个应用吧，免费的。	FW::A1 FW::relations FW::technologie
+moche <i>(adj.)</i><br>/mɔʃ/	丑的<br><i>ugly</i><br><br>Il est moche, ce pull !<br>这件毛衣真丑！	FW::A1 FW::relations FW::technologie
+miroir <i>(n.m.)</i><br>/mi.ʁwaʁ/	镜子<br><i>mirror</i><br><br>Elle se regarde dans le miroir.<br>她在照镜子。	FW::A1 FW::relations FW::technologie
+lever les yeux <i>(loc. v.)</i><br>/lə.ve le.zjø/	抬眼<br><i>to look up</i><br><br>Il lève les yeux de son livre.<br>他从书本上抬起眼睛。	FW::A1 FW::relations FW::technologie
+éclater de rire <i>(loc. v.)</i><br>/e.kla.te də ʁiʁ/	突然大笑<br><i>to burst out laughing</i><br><br>Toute la classe éclate de rire.<br>全班哄堂大笑。	FW::A1 FW::relations FW::technologie
+cernes <i>(n.m.pl.)</i><br>/sɛʁn/	黑眼圈<br><i>dark circles (under the eyes)</i><br><br>J'ai des cernes, je dors mal.<br>我有黑眼圈，睡得不好。	FW::A1 FW::relations FW::technologie
+ronfler <i>(v.)</i><br>/ʁɔ̃.fle/	打呼噜<br><i>to snore</i><br><br>Mon mari ronfle comme un tracteur.<br>我丈夫打呼噜像拖拉机一样。	FW::A1 FW::relations FW::technologie
+meilleur <i>(adj.)</i><br>/mɛ.jœʁ/	更好的；最好的<br><i>better; best</i><br><br>C'est le meilleur restaurant du quartier.<br>这是这一带最好的餐厅。	FW::A1 FW::relations FW::technologie
+supprimer <i>(v.)</i><br>/sy.pʁi.me/	删除；取消<br><i>to delete; to remove</i><br><br>J'ai supprimé ses messages.<br>我删了他的消息。	FW::A1 FW::relations FW::technologie
+nationalité <i>(n.f.)</i><br>/na.sjɔ.na.li.te/	国籍<br><i>nationality</i><br><br>Quelle est votre nationalité ?<br>您是哪国人？	FW::A1 FW::travail FW::immigration
+sud-ouest <i>(n.m.)</i><br>/sy.dwɛst/	西南<br><i>south-west</i><br><br>Bordeaux est dans le sud-ouest de la France.<br>波尔多在法国西南部。	FW::A1 FW::travail FW::immigration
+depuis <i>(prép.)</i><br>/də.pɥi/	自从；……以来<br><i>since; for</i><br><br>J'habite ici depuis deux ans.<br>我在这儿住了两年了。	FW::A1 FW::travail FW::immigration
+graphiste <i>(n.m./f.)</i><br>/ɡʁa.fist/	平面设计师<br><i>graphic designer</i><br><br>Elle est graphiste indépendante.<br>她是自由职业平面设计师。	FW::A1 FW::travail FW::immigration
+créatif <i>(adj.)</i><br>/kʁe.a.tif/	有创造力的<br><i>creative</i><br><br>C'est une équipe très créative.<br>这是一个非常有创造力的团队。	FW::A1 FW::travail FW::immigration
+cuisiner <i>(v.)</i><br>/kɥi.zi.ne/	做饭<br><i>to cook</i><br><br>Il cuisine très bien.<br>他做饭很好吃。	FW::A1 FW::travail FW::immigration
+spécialité <i>(n.f.)</i><br>/spe.sja.li.te/	拿手菜；特色；专业<br><i>speciality</i><br><br>La spécialité de Lyon, c'est la quenelle.<br>里昂的特色菜是鱼丸（quenelle）。	FW::A1 FW::travail FW::immigration
+épicé <i>(adj.)</i><br>/e.pi.se/	辣的；加香料的<br><i>spicy</i><br><br>Je n'aime pas les plats trop épicés.<br>我不喜欢太辣的菜。	FW::A1 FW::travail FW::immigration
+projet <i>(n.m.)</i><br>/pʁɔ.ʒɛ/	计划；项目<br><i>plan; project</i><br><br>Quels sont tes projets pour l'été ?<br>你夏天有什么计划？	FW::A1 FW::travail FW::immigration
+loisir <i>(n.m.)</i><br>/lwa.ziʁ/	休闲；业余爱好<br><i>leisure; hobby</i><br><br>Quels sont vos loisirs ?<br>您有什么业余爱好？	FW::A1 FW::travail FW::immigration
+retenir <i>(v.)</i><br>/ʁə.tə.niʁ/	记住；留住<br><i>to remember; to hold back</i><br><br>Je ne retiens jamais les noms.<br>我总是记不住名字。	FW::A1 FW::travail FW::immigration
+se souvenir de <i>(v. pron.)</i><br>/sə su.və.niʁ də/	记得<br><i>to remember</i><br><br>Tu te souviens de moi ?<br>你还记得我吗？	FW::A1 FW::travail FW::immigration
+cabinet <i>(n.m.)</i><br>/ka.bi.nɛ/	诊所；事务所<br><i>(doctor's) practice, office</i><br><br>Le cabinet est fermé le samedi.<br>诊所星期六不开门。	FW::A1 FW::santé FW::vie_quotidienne
+gorge <i>(n.f.)</i><br>/ɡɔʁʒ/	喉咙<br><i>throat</i><br><br>J'ai mal à la gorge.<br>我喉咙痛。	FW::A1 FW::santé FW::vie_quotidienne
+fièvre <i>(n.f.)</i><br>/fjɛvʁ/	发烧<br><i>fever</i><br><br>Il a 39 de fièvre.<br>他发烧39度。	FW::A1 FW::santé FW::vie_quotidienne
+patient <i>(n.m. / adj.)</i><br>/pa.sjɑ̃/	病人；耐心的<br><i>patient</i><br><br>Sois patient, ça arrive.<br>耐心点，快好了。	FW::A1 FW::santé FW::vie_quotidienne
+épeler <i>(v.)</i><br>/e.ple/	拼写<br><i>to spell</i><br><br>Vous pouvez épeler votre nom ?<br>您能拼一下您的名字吗？	FW::A1 FW::santé FW::vie_quotidienne
+après-midi <i>(n.m./f.)</i><br>/a.pʁɛ.mi.di/	下午<br><i>afternoon</i><br><br>Je travaille l'après-midi.<br>我下午上班。	FW::A1 FW::santé FW::vie_quotidienne
+apporter <i>(v.)</i><br>/a.pɔʁ.te/	带来<br><i>to bring (a thing)</i><br><br>Apporte du vin, je fais le dîner.<br>带点葡萄酒来，我做晚饭。	FW::A1 FW::santé FW::vie_quotidienne
+en ligne <i>(loc. adv.)</i><br>/ɑ̃ liɲ/	在线；网上<br><i>online</i><br><br>Je paie mes factures en ligne.<br>我在网上交账单。	FW::A1 FW::santé FW::vie_quotidienne
+indispensable <i>(adj.)</i><br>/ɛ̃.dis.pɑ̃.sabl/	必不可少的<br><i>essential</i><br><br>Un bon dictionnaire est indispensable.<br>一本好词典必不可少。	FW::A1 FW::santé FW::vie_quotidienne
+cancre <i>(n.m.)</i><br>/kɑ̃kʁ/	差生；懒学生<br><i>dunce, bad student</i><br><br>Au lycée, j'étais un cancre en maths.<br>高中时我数学很差。	FW::A1 FW::culture FW::éducation
+maîtresse <i>(n.f.)</i><br>/mɛ.tʁɛs/	（小学）女老师；情妇<br><i>(primary school) teacher; mistress</i><br><br>La maîtresse est très gentille.<br>老师人很好。	FW::A1 FW::culture FW::éducation
+conjuguer <i>(v.)</i><br>/kɔ̃.ʒy.ɡe/	动词变位；结合<br><i>to conjugate; to combine</i><br><br>Conjugue le verbe être.<br>把 être 变位。	FW::A1 FW::culture FW::éducation
+courir <i>(v.)</i><br>/ku.ʁiʁ/	跑<br><i>to run</i><br><br>Je cours tous les matins.<br>我每天早上跑步。	FW::A1 FW::culture FW::éducation
+pomme <i>(n.f.)</i><br>/pɔm/	苹果<br><i>apple</i><br><br>Une pomme par jour…<br>一天一个苹果……	FW::A1 FW::culture FW::éducation
+main <i>(n.f.)</i><br>/mɛ̃/	手<br><i>hand</i><br><br>Lave-toi les mains !<br>去洗手！	FW::A1 FW::culture FW::éducation
+à cause de <i>(loc. prép.)</i><br>/a koz də/	因为（不好的原因）<br><i>because of</i><br><br>Je suis en retard à cause des grèves.<br>因为罢工我迟到了。	FW::A1 FW::culture FW::éducation
+ralentir <i>(v.)</i><br>/ʁa.lɑ̃.tiʁ/	减速；放慢<br><i>to slow down</i><br><br>Ralentis, tu vas trop vite !<br>慢点，你开太快了！	FW::A1 FW::culture FW::éducation
+rentrer <i>(v.)</i><br>/ʁɑ̃.tʁe/	回家；回来<br><i>to go/come home</i><br><br>Je rentre tard ce soir.<br>我今晚回来得晚。	FW::A1 FW::culture FW::éducation
+réponse <i>(n.f.)</i><br>/ʁe.pɔ̃s/	回答；答复<br><i>answer, reply</i><br><br>J'attends ta réponse.<br>我等你的答复。	FW::A1 FW::culture FW::éducation
+célibataire <i>(adj. / n.)</i><br>/se.li.ba.tɛʁ/	单身的<br><i>single</i><br><br>Il est célibataire depuis un an.<br>他单身一年了。	FW::A1 FW::relations
+sortir avec <i>(loc. v.)</i><br>/sɔʁ.tiʁ a.vɛk/	和……交往（谈恋爱）<br><i>to date, to go out with</i><br><br>Elle sort avec Paul depuis trois mois.<br>她和保罗交往三个月了。	FW::A1 FW::relations
+couple <i>(n.m.)</i><br>/kupl/	情侣；夫妻<br><i>couple</i><br><br>Ils sont en couple depuis longtemps.<br>他们在一起很久了。	FW::A1 FW::relations
+copine <i>(n.f.)</i><br>/kɔ.pin/	女性朋友；女朋友<br><i>(girl)friend</i><br><br>C'est ma copine depuis l'école.<br>她是我从小学起的好朋友。	FW::A1 FW::relations
+libre <i>(adj.)</i><br>/libʁ/	自由的；空闲的<br><i>free</i><br><br>Tu es libre ce soir ?<br>你今晚有空吗？	FW::A1 FW::relations
+témoin <i>(n.m.)</i><br>/te.mwɛ̃/	证人；见证人<br><i>witness</i><br><br>Tu es mon témoin de mariage ?<br>你愿意做我的婚礼见证人吗？	FW::A1 FW::relations
+disponible <i>(adj.)</i><br>/dis.pɔ.nibl/	有空的；可用的<br><i>available</i><br><br>Je ne suis pas disponible lundi.<br>我星期一没空。	FW::A1 FW::relations
+compliqué <i>(adj.)</i><br>/kɔ̃.pli.ke/	复杂的<br><i>complicated</i><br><br>C'est compliqué, notre histoire.<br>我们的事情很复杂。	FW::A1 FW::relations
+insister <i>(v.)</i><br>/ɛ̃.sis.te/	坚持；纠缠<br><i>to insist</i><br><br>N'insiste pas, c'est non.<br>别再纠缠了，不行就是不行。	FW::A1 FW::relations
+amoureux <i>(adj. / n.m.)</i><br>/a.mu.ʁø/	恋爱中的；恋人<br><i>in love; lover</i><br><br>Elle est amoureuse de son prof de yoga.<br>她爱上了她的瑜伽老师。	FW::A1 FW::relations
+tenir à <i>(v.)</i><br>/tə.niʁ a/	珍惜；在乎；坚持要<br><i>to care about; to insist on</i><br><br>Je tiens à toi.<br>你对我很重要。	FW::A1 FW::relations
+avoir hâte de <i>(loc. v.)</i><br>/a.vwaʁ ɑt də/	迫不及待<br><i>to look forward to, can't wait</i><br><br>J'ai hâte de partir en vacances !<br>我迫不及待想去度假！	FW::A1 FW::relations
+réclamer <i>(v.)</i><br>/ʁe.kla.me/	要求；索要<br><i>to demand, to ask for</i><br><br>Le bébé réclame sa mère.<br>宝宝要找妈妈。	FW::A1 FW::relations
+absence <i>(n.f.)</i><br>/ap.sɑ̃s/	缺席；不在<br><i>absence</i><br><br>Son absence est remarquée.<br>他的缺席引人注意。	FW::A1 FW::relations
+émotion <i>(n.f.)</i><br>/e.mo.sjɔ̃/	情绪；感动<br><i>emotion</i><br><br>Il cache ses émotions.<br>他隐藏自己的情绪。	FW::A1 FW::psychologie FW::santé
+nommer <i>(v.)</i><br>/nɔ.me/	命名；任命<br><i>to name; to appoint</i><br><br>Comment tu vas nommer ton chat ?<br>你打算给猫起什么名字？	FW::A1 FW::psychologie FW::santé
+gérer <i>(v.)</i><br>/ʒe.ʁe/	管理；应对<br><i>to manage, to handle</i><br><br>Je gère !<br>我搞得定！	FW::A1 FW::psychologie FW::santé
+déçu <i>(adj.)</i><br>/de.sy/	失望的<br><i>disappointed</i><br><br>Je suis déçu par ce film.<br>这部电影让我很失望。	FW::A1 FW::psychologie FW::santé
+jaloux <i>(adj.)</i><br>/ʒa.lu/	嫉妒的<br><i>jealous</i><br><br>Il est jaloux de son frère.<br>他嫉妒他哥哥。	FW::A1 FW::psychologie FW::santé
+honte <i>(n.f.)</i><br>/ɔ̃t/	羞耻；难为情<br><i>shame</i><br><br>J'ai honte de mon accent.<br>我为自己的口音感到难为情。	FW::A1 FW::psychologie FW::santé
+épuisé <i>(adj.)</i><br>/e.pɥi.ze/	精疲力竭的；售完的<br><i>exhausted; sold out</i><br><br>Après la nuit de travail, Inès est épuisée.<br>上完夜班，伊内丝累坏了。	FW::A1 FW::psychologie FW::santé
+inverse <i>(n.m. / adj.)</i><br>/ɛ̃.vɛʁs/	相反<br><i>the opposite, reverse</i><br><br>C'est l'inverse !<br>正好相反！	FW::A1 FW::psychologie FW::santé
+dépaysement <i>(n.m.)</i><br>/de.pe.iz.mɑ̃/	身处异乡的新奇感<br><i>feeling of being in a foreign place, change of scenery</i><br><br>Pour moi, Montréal, c'est le dépaysement total.<br>对我来说，蒙特利尔完全是另一个世界。	FW::A1 FW::psychologie FW::santé
+bonheur <i>(n.m.)</i><br>/bɔ.nœʁ/	幸福<br><i>happiness</i><br><br>L'argent ne fait pas le bonheur.<br>金钱买不来幸福。	FW::A1 FW::philosophie
+douleur <i>(n.f.)</i><br>/du.lœʁ/	疼痛；痛苦<br><i>pain</i><br><br>J'ai une douleur dans le dos.<br>我背上有个地方疼。	FW::A1 FW::philosophie
+désir <i>(n.m.)</i><br>/de.ziʁ/	欲望；愿望<br><i>desire</i><br><br>Tes désirs sont des ordres.<br>你的愿望就是命令。	FW::A1 FW::philosophie
+naturel <i>(adj.)</i><br>/na.ty.ʁɛl/	自然的<br><i>natural</i><br><br>C'est naturel d'avoir peur.<br>害怕是很自然的。	FW::A1 FW::philosophie
+gloire <i>(n.f.)</i><br>/ɡlwaʁ/	荣耀；名声<br><i>glory, fame</i><br><br>Il cherche la gloire et l'argent.<br>他追求名利。	FW::A1 FW::philosophie
+pouvoir <i>(n.m.)</i><br>/pu.vwaʁ/	权力<br><i>power</i><br><br>Le pouvoir change les gens.<br>权力会改变一个人。	FW::A1 FW::philosophie
+richesse <i>(n.f.)</i><br>/ʁi.ʃɛs/	财富<br><i>wealth</i><br><br>La vraie richesse, ce sont les amis.<br>真正的财富是朋友。	FW::A1 FW::philosophie
+satisfaire <i>(v.)</i><br>/sa.tis.fɛʁ/	满足<br><i>to satisfy</i><br><br>C'est difficile de satisfaire tout le monde.<br>很难让所有人都满意。	FW::A1 FW::philosophie
+profiter de <i>(v.)</i><br>/pʁɔ.fi.te də/	享受；利用<br><i>to enjoy; to take advantage of</i><br><br>Profite de tes vacances !<br>好好享受你的假期！	FW::A1 FW::philosophie
+suffire <i>(v.)</i><br>/sy.fiʁ/	足够<br><i>to be enough</i><br><br>Ça suffit !<br>够了！	FW::A1 FW::philosophie
+bâiller <i>(v.)</i><br>/ba.je/	打哈欠<br><i>to yawn</i><br><br>Arrête de bâiller, c'est contagieux !<br>别打哈欠了，会传染的！	FW::A1 FW::science FW::santé
+contagieux <i>(adj.)</i><br>/kɔ̃.ta.ʒjø/	传染的<br><i>contagious</i><br><br>Son rire est contagieux.<br>他的笑声很有感染力。	FW::A1 FW::science FW::santé
+scientifique <i>(n. / adj.)</i><br>/sjɑ̃.ti.fik/	科学家；科学的<br><i>scientist; scientific</i><br><br>Les scientifiques étudient le climat.<br>科学家们在研究气候。	FW::A1 FW::science FW::santé
+hypothèse <i>(n.f.)</i><br>/i.pɔ.tɛz/	假设<br><i>hypothesis</i><br><br>C'est seulement une hypothèse.<br>这只是一个假设。	FW::A1 FW::science FW::santé
+refroidir <i>(v.)</i><br>/ʁə.fʁwa.diʁ/	冷却；变凉<br><i>to cool down</i><br><br>Laisse refroidir le gâteau.<br>让蛋糕凉一下。	FW::A1 FW::science FW::santé
+ventilateur <i>(n.m.)</i><br>/vɑ̃.ti.la.tœʁ/	电风扇<br><i>fan</i><br><br>Il fait chaud, allume le ventilateur.<br>好热，开电扇吧。	FW::A1 FW::science FW::santé
+en même temps <i>(loc. adv.)</i><br>/ɑ̃ mɛm tɑ̃/	同时<br><i>at the same time</i><br><br>On ne peut pas tout faire en même temps.<br>不可能同时做所有事。	FW::A1 FW::science FW::santé
+attraper <i>(v.)</i><br>/a.tʁa.pe/	抓住；染上（病）<br><i>to catch</i><br><br>J'ai attrapé un rhume.<br>我感冒了。	FW::A1 FW::science FW::santé
+maître <i>(n.m.)</i><br>/mɛtʁ/	主人；师父；（小学）男老师<br><i>master; owner</i><br><br>Le chien attend son maître.<br>狗在等它的主人。	FW::A1 FW::science FW::santé
+s'ennuyer <i>(v. pron.)</i><br>/sɑ̃.nɥi.je/	感到无聊<br><i>to be bored</i><br><br>Je m'ennuie au travail.<br>我上班觉得无聊。	FW::A1 FW::technologie FW::psychologie
+dès que <i>(conj.)</i><br>/dɛ kə/	一……就……<br><i>as soon as</i><br><br>Appelle-moi dès que tu arrives.<br>你一到就给我打电话。	FW::A1 FW::technologie FW::psychologie
+douche <i>(n.f.)</i><br>/duʃ/	淋浴<br><i>shower</i><br><br>Je prends une douche le matin.<br>我早上洗澡。	FW::A1 FW::technologie FW::psychologie
+pousser <i>(v.)</i><br>/pu.se/	生长；推<br><i>to grow; to push</i><br><br>Les plantes poussent vite au printemps.<br>春天植物长得很快。	FW::A1 FW::technologie FW::psychologie
+espace <i>(n.m.)</i><br>/ɛs.pas/	空间；太空<br><i>space</i><br><br>Il n'y a pas assez d'espace ici.<br>这里空间不够。	FW::A1 FW::technologie FW::psychologie
+inventer <i>(v.)</i><br>/ɛ̃.vɑ̃.te/	发明；编造<br><i>to invent; to make up</i><br><br>Tu inventes ! Ce n'est pas vrai.<br>你瞎编！这不是真的。	FW::A1 FW::technologie FW::psychologie
+jeu <i>(n.m.)</i><br>/ʒø/	游戏<br><i>game</i><br><br>On joue à un jeu de société ?<br>我们玩个桌游吧？	FW::A1 FW::technologie FW::psychologie
+désagréable <i>(adj.)</i><br>/de.za.ɡʁe.abl/	令人不快的<br><i>unpleasant</i><br><br>Il fait une chaleur désagréable.<br>热得让人难受。	FW::A1 FW::technologie FW::psychologie
+salaire <i>(n.m.)</i><br>/sa.lɛʁ/	工资<br><i>salary, wage</i><br><br>Il a un bon salaire.<br>他工资不错。	FW::A1 FW::technologie FW::médias
+honneur <i>(n.m.)</i><br>/ɔ.nœʁ/	荣誉；荣幸<br><i>honour</i><br><br>C'est un honneur de vous rencontrer.<br>能见到您是我的荣幸。	FW::A1 FW::technologie FW::médias
+intelligence artificielle <i>(n.f.)</i><br>/ɛ̃.te.li.ʒɑ̃s aʁ.ti.fi.sjɛl/	人工智能<br><i>artificial intelligence</i><br><br>L'intelligence artificielle change le travail.<br>人工智能正在改变工作。	FW::A1 FW::technologie FW::médias
+ordinateur <i>(n.m.)</i><br>/ɔʁ.di.na.tœʁ/	电脑<br><i>computer</i><br><br>Mon ordinateur est trop lent.<br>我的电脑太慢了。	FW::A1 FW::technologie FW::médias
+tousser <i>(v.)</i><br>/tu.se/	咳嗽<br><i>to cough</i><br><br>Il tousse depuis une semaine.<br>他咳嗽一个星期了。	FW::A1 FW::technologie FW::médias
+constater <i>(v.)</i><br>/kɔ̃s.ta.te/	注意到；确认<br><i>to note, to observe</i><br><br>Je constate que vous êtes en retard.<br>我注意到您迟到了。	FW::A1 FW::technologie FW::médias
+efficace <i>(adj.)</i><br>/e.fi.kas/	有效的<br><i>effective, efficient</i><br><br>Ce médicament est très efficace.<br>这药很有效。	FW::A1 FW::technologie FW::médias
+réchauffement climatique <i>(n.m.)</i><br>/ʁe.ʃof.mɑ̃ kli.ma.tik/	全球变暖<br><i>global warming</i><br><br>Le réchauffement climatique est une urgence.<br>全球变暖是一个紧急问题。	FW::A1 FW::technologie FW::médias
+avoir l'air <i>(loc. v.)</i><br>/a.vwaʁ lɛʁ/	看起来<br><i>to look, to seem</i><br><br>Tu as l'air fatigué.<br>你看起来很累。	FW::A1 FW::technologie FW::médias
+avis <i>(n.m.)</i><br>/a.vi/	意见；看法；通知<br><i>opinion; notice</i><br><br>À mon avis, il a raison.<br>依我看，他是对的。	FW::A1 FW::technologie FW::médias
+sentiment <i>(n.m.)</i><br>/sɑ̃.ti.mɑ̃/	感情；感觉<br><i>feeling</i><br><br>J'ai le sentiment qu'il ment.<br>我感觉他在撒谎。	FW::A1 FW::technologie FW::médias
+couper <i>(v.)</i><br>/ku.pe/	剪；切；关掉<br><i>to cut</i><br><br>Coupe le pain, s'il te plaît.<br>请把面包切一下。	FW::A1 FW::technologie FW::médias
+exister <i>(v.)</i><br>/ɛɡ.zis.te/	存在<br><i>to exist</i><br><br>Les fantômes n'existent pas.<br>鬼是不存在的。	FW::A1 FW::culture
+faire semblant <i>(loc. v.)</i><br>/fɛʁ sɑ̃.blɑ̃/	假装<br><i>to pretend</i><br><br>Il fait semblant de dormir.<br>他在装睡。	FW::A1 FW::culture
+gros mot <i>(n.m.)</i><br>/ɡʁo mo/	脏话<br><i>swear word</i><br><br>Ne dis pas de gros mots devant les enfants !<br>别在孩子面前说脏话！	FW::A1 FW::culture
+jurer <i>(v.)</i><br>/ʒy.ʁe/	发誓；骂脏话<br><i>to swear (both senses)</i><br><br>Je te jure, c'est vrai !<br>我发誓，这是真的！	FW::A1 FW::culture
+pire <i>(adj.)</i><br>/piʁ/	更糟的；最糟的<br><i>worse; worst</i><br><br>C'est pire que je pensais.<br>比我想的还糟。	FW::A1 FW::culture
+assiette <i>(n.f.)</i><br>/a.sjɛt/	盘子<br><i>plate</i><br><br>Mets les assiettes sur la table.<br>把盘子摆在桌上。	FW::A1 FW::culture
+pénible <i>(adj.)</i><br>/pe.nibl/	讨厌的；艰辛的<br><i>annoying; tiring</i><br><br>Il est pénible avec ses questions !<br>他问东问西，真烦人！	FW::A1 FW::culture
+raconter des histoires <i>(loc. v.)</i><br>/ʁa.kɔ̃.te de.zis.twaʁ/	讲故事；（口语）胡扯<br><i>to tell stories; to tell tall tales</i><br><br>Arrête de raconter des histoires !<br>别瞎扯了！	FW::A2 
+dernier <i>(adj.)</i><br>/dɛʁ.nje/	上一个；最后的<br><i>last</i><br><br>La semaine dernière, il a plu tous les jours.<br>上周每天都下雨。	FW::A2 
+inquiétant <i>(adj.)</i><br>/ɛ̃.kje.tɑ̃/	令人不安的<br><i>worrying</i><br><br>Son silence est inquiétant.<br>他的沉默令人担心。	FW::A2 
+mémoire <i>(n.f.)</i><br>/me.mwaʁ/	记忆；记忆力<br><i>memory</i><br><br>J'ai une mémoire de poisson rouge.<br>我的记忆力跟金鱼一样。	FW::A2 
+confident <i>(n.m.)</i><br>/kɔ̃.fi.dɑ̃/	知己；可倾诉的人<br><i>confidant</i><br><br>Ma sœur est ma confidente.<br>我姐姐是我的知心人。	FW::A2 
+se retrouver <i>(v. pron.)</i><br>/sə ʁə.tʁu.ve/	碰面；重逢；发现自己处于<br><i>to meet (up); to find oneself</i><br><br>On se retrouve devant le cinéma ?<br>我们在电影院门口碰面？	FW::A2 FW::relations
+taper <i>(v.)</i><br>/ta.pe/	敲；打；打字<br><i>to hit, to bang; to type</i><br><br>Il tape à la porte.<br>他在敲门。	FW::A2 FW::relations
+mur <i>(n.m.)</i><br>/myʁ/	墙<br><i>wall</i><br><br>Il y a une photo sur le mur.<br>墙上有一张照片。	FW::A2 FW::relations
+rappeler <i>(v.)</i><br>/ʁa.ple/	提醒；回电话<br><i>to remind; to call back</i><br><br>Rappelle-moi ce soir !<br>今晚给我回个电话！	FW::A2 FW::relations
+fait <i>(n.m.)</i><br>/fɛ/	事实<br><i>fact</i><br><br>Les faits sont clairs.<br>事实很清楚。	FW::A2 FW::relations
+tromper <i>(v.)</i><br>/tʁɔ̃.pe/	欺骗；对……不忠<br><i>to cheat on; to deceive</i><br><br>Il a trompé sa femme.<br>他背叛了他的妻子。	FW::A2 FW::relations
+découvrir <i>(v.)</i><br>/de.ku.vʁiʁ/	发现<br><i>to discover, to find out</i><br><br>J'ai découvert un petit restaurant génial.<br>我发现了一家超棒的小餐厅。	FW::A2 FW::relations
+pleurer <i>(v.)</i><br>/plœ.ʁe/	哭<br><i>to cry</i><br><br>Le film m'a fait pleurer.<br>那部电影把我看哭了。	FW::A2 FW::relations
+s'arrêter <i>(v. pron.)</i><br>/sa.ʁɛ.te/	停下<br><i>to stop</i><br><br>Le bus s'arrête devant chez moi.<br>公交车在我家门口停。	FW::A2 FW::relations
+urgences <i>(n.f.pl.)</i><br>/yʁ.ʒɑ̃s/	急诊（科）<br><i>emergency room</i><br><br>Il est aux urgences depuis trois heures.<br>他在急诊室待了三个小时了。	FW::A2 FW::relations
+vider <i>(v.)</i><br>/vi.de/	清空<br><i>to empty</i><br><br>Il faut vider le frigo avant de partir.<br>走之前得把冰箱清空。	FW::A2 FW::transports FW::relations
+écouteurs <i>(n.m.pl.)</i><br>/e.ku.tœʁ/	耳机<br><i>earphones</i><br><br>J'ai oublié mes écouteurs.<br>我忘带耳机了。	FW::A2 FW::transports FW::relations
+costume <i>(n.m.)</i><br>/kɔs.tym/	西装；服装<br><i>suit; costume</i><br><br>Il porte un costume pour le mariage.<br>他穿西装去参加婚礼。	FW::A2 FW::transports FW::relations
+cravate <i>(n.f.)</i><br>/kʁa.vat/	领带<br><i>tie</i><br><br>Il déteste porter une cravate.<br>他讨厌系领带。	FW::A2 FW::transports FW::relations
+boîte <i>(n.f.)</i><br>/bwat/	盒子；（口语）公司；夜店<br><i>box; (fam.) company; club</i><br><br>Je travaille dans une petite boîte.<br>我在一家小公司上班。	FW::A2 FW::transports FW::relations
+manifestation <i>(n.f.)</i><br>/ma.ni.fɛs.ta.sjɔ̃/	游行；示威<br><i>demonstration, protest</i><br><br>Il y a une manifestation contre la réforme.<br>有一场反对改革的游行。	FW::A2 FW::transports FW::relations
+se relever <i>(v. pron.)</i><br>/sə ʁəl.ve/	重新站起来<br><i>to get back up</i><br><br>Elle est tombée, mais elle s'est relevée.<br>她跌倒了，但又站了起来。	FW::A2 FW::transports FW::relations
+robe <i>(n.f.)</i><br>/ʁɔb/	连衣裙<br><i>dress</i><br><br>Tu as une jolie robe !<br>你的裙子真漂亮！	FW::A2 FW::transports FW::relations
+quai <i>(n.m.)</i><br>/ke/	站台；河岸<br><i>platform; quay</i><br><br>Le train part du quai 7.<br>火车从7号站台出发。	FW::A2 FW::transports FW::relations
+continuer <i>(v.)</i><br>/kɔ̃.ti.nɥe/	继续<br><i>to continue</i><br><br>Continue, c'est très bien !<br>继续，很好！	FW::A2 FW::transports FW::relations
+longtemps <i>(adv.)</i><br>/lɔ̃.tɑ̃/	很久<br><i>(for) a long time</i><br><br>Je t'ai attendu longtemps.<br>我等了你很久。	FW::A2 FW::transports FW::relations
+armoire <i>(n.f.)</i><br>/aʁ.mwaʁ/	衣柜<br><i>wardrobe</i><br><br>Mets tes vêtements dans l'armoire.<br>把衣服放进衣柜。	FW::A2 FW::transports FW::relations
+garder <i>(v.)</i><br>/ɡaʁ.de/	保留；看守<br><i>to keep; to look after</i><br><br>Garde la monnaie !<br>不用找了！	FW::A2 FW::transports FW::relations
+louer <i>(v.)</i><br>/lwe/	租（进或出）<br><i>to rent</i><br><br>Je loue un studio à Lyon.<br>我在里昂租了一个单间公寓。	FW::A2 FW::logement FW::immigration
+salon <i>(n.m.)</i><br>/sa.lɔ̃/	客厅；展会<br><i>living room; trade fair</i><br><br>On regarde la télé dans le salon.<br>我们在客厅看电视。	FW::A2 FW::logement FW::immigration
+mètre carré <i>(n.m.)</i><br>/mɛtʁ ka.ʁe/	平方米<br><i>square metre</i><br><br>L'appartement fait quarante mètres carrés.<br>这套公寓四十平方米。	FW::A2 FW::logement FW::immigration
+loyer <i>(n.m.)</i><br>/lwa.je/	房租<br><i>rent</i><br><br>Le loyer est trop cher à Paris.<br>巴黎的房租太贵了。	FW::A2 FW::logement FW::immigration
+charges <i>(n.f.pl.)</i><br>/ʃaʁʒ/	物业杂费<br><i>(building) service charges</i><br><br>Le loyer est de 900 euros, plus 80 euros de charges.<br>房租900欧，另加80欧杂费。	FW::A2 FW::logement FW::immigration
+dossier <i>(n.m.)</i><br>/do.sje/	材料；档案；文件夹<br><i>file, application</i><br><br>Votre dossier est complet ?<br>您的材料齐全了吗？	FW::A2 FW::logement FW::immigration
+fiche de paie <i>(n.f.)</i><br>/fiʃ də pɛ/	工资单<br><i>payslip</i><br><br>Gardez toutes vos fiches de paie.<br>保存好所有的工资单。	FW::A2 FW::logement FW::immigration
+garant <i>(n.m.)</i><br>/ɡa.ʁɑ̃/	担保人<br><i>guarantor</i><br><br>Mes parents sont mes garants.<br>我父母是我的担保人。	FW::A2 FW::logement FW::immigration
+gratuit <i>(adj.)</i><br>/ɡʁa.tɥi/	免费的<br><i>free (of charge)</i><br><br>L'entrée est gratuite le dimanche.<br>星期天免费入场。	FW::A2 FW::logement FW::immigration
+déménager <i>(v.)</i><br>/de.me.na.ʒe/	搬家<br><i>to move (house)</i><br><br>On déménage le mois prochain.<br>我们下个月搬家。	FW::A2 FW::logement FW::immigration
+bail <i>(n.m.)</i><br>/baj/	租约<br><i>lease</i><br><br>J'ai signé un bail de trois ans.<br>我签了三年的租约。	FW::A2 FW::logement FW::immigration
+chauffage <i>(n.m.)</i><br>/ʃo.faʒ/	暖气<br><i>heating</i><br><br>Le chauffage est compris dans le loyer.<br>暖气费含在房租里。	FW::A2 FW::logement FW::immigration
+interdit <i>(adj.)</i><br>/ɛ̃.tɛʁ.di/	禁止的<br><i>forbidden</i><br><br>Il est interdit de fumer ici.<br>这里禁止吸烟。	FW::A2 FW::logement FW::immigration
+propriétaire <i>(n.m./f.)</i><br>/pʁɔ.pʁi.je.tɛʁ/	房东；业主<br><i>owner; landlord</i><br><br>Le propriétaire passe demain.<br>房东明天过来。	FW::A2 FW::logement FW::immigration
+pharmacie <i>(n.f.)</i><br>/faʁ.ma.si/	药店<br><i>pharmacy, chemist's</i><br><br>La pharmacie est ouverte le dimanche ?<br>药店星期天开门吗？	FW::A2 FW::culture
+préservatif <i>(n.m.)</i><br>/pʁe.zɛʁ.va.tif/	避孕套<br><i>condom</i><br><br><br>	FW::A2 FW::culture
+conservateur <i>(n.m. / adj.)</i><br>/kɔ̃.sɛʁ.va.tœʁ/	防腐剂；保守的<br><i>preservative; conservative</i><br><br>Sans conservateurs ni colorants.<br>不含防腐剂和色素。	FW::A2 FW::culture
+excité <i>(adj.)</i><br>/ɛk.si.te/	激动的；（性）兴奋的<br><i>over-excited; aroused</i><br><br>Les enfants sont excités avant Noël.<br>圣诞节前孩子们很兴奋。	FW::A2 FW::culture
+impatient <i>(adj.)</i><br>/ɛ̃.pa.sjɑ̃/	不耐烦的；迫不及待的<br><i>impatient; eager</i><br><br>Je suis impatient de te voir.<br>我迫不及待想见你。	FW::A2 FW::culture
+réunion <i>(n.f.)</i><br>/ʁe.y.njɔ̃/	会议；聚会<br><i>meeting</i><br><br>J'ai une réunion à 14 heures.<br>我下午两点有个会。	FW::A2 FW::culture
+enceinte <i>(adj.f.)</i><br>/ɑ̃.sɛ̃t/	怀孕的<br><i>pregnant</i><br><br>Elle est enceinte de six mois.<br>她怀孕六个月了。	FW::A2 FW::culture
+je n'en peux plus <i>(loc.)</i><br>/ʒə nɑ̃ pø ply/	我受不了了；我吃不下了<br><i>I can't take any more</i><br><br>J'ai couru dix kilomètres, je n'en peux plus !<br>我跑了十公里，实在不行了！	FW::A2 FW::culture
+librairie <i>(n.f.)</i><br>/li.bʁɛ.ʁi/	书店<br><i>bookshop</i><br><br>J'achète mes livres dans une petite librairie.<br>我在一家小书店买书。	FW::A2 FW::culture
+actuellement <i>(adv.)</i><br>/ak.tɥɛl.mɑ̃/	目前；现在<br><i>currently</i><br><br>Actuellement, je cherche du travail.<br>我目前在找工作。	FW::A2 FW::culture
+éventuellement <i>(adv.)</i><br>/e.vɑ̃.tɥɛl.mɑ̃/	可能的话；必要时<br><i>possibly, if need be</i><br><br>Je peux éventuellement venir lundi.<br>有必要的话我星期一可以来。	FW::A2 FW::culture
+blessure <i>(n.f.)</i><br>/blɛ.syʁ/	伤口；伤害<br><i>injury, wound</i><br><br>C'est une blessure légère.<br>这是轻伤。	FW::A2 FW::culture
+matcher <i>(v.)</i><br>/ma.tʃe/	（交友软件）配对<br><i>to match</i><br><br>On a matché hier soir.<br>我们昨晚配对成功了。	FW::A2 FW::relations FW::technologie FW::société
+architecte <i>(n.m./f.)</i><br>/aʁ.ʃi.tɛkt/	建筑师<br><i>architect</i><br><br>Son frère est architecte.<br>他哥哥是建筑师。	FW::A2 FW::relations FW::technologie FW::société
+aventure <i>(n.f.)</i><br>/a.vɑ̃.tyʁ/	冒险；（短暂的）恋情<br><i>adventure; fling</i><br><br>C'était juste une aventure.<br>那只是一段露水情缘。	FW::A2 FW::relations FW::technologie FW::société
+gagner du temps <i>(loc. v.)</i><br>/ɡa.ɲe dy tɑ̃/	节省时间；拖延时间<br><i>to save time; to buy time</i><br><br>On prend un taxi pour gagner du temps.<br>我们打车节省时间。	FW::A2 FW::relations FW::technologie FW::société
+étude <i>(n.f.)</i><br>/e.tyd/	研究；学业<br><i>study</i><br><br>Une étude récente montre que…<br>最近一项研究表明……	FW::A2 FW::relations FW::technologie FW::société
+supermarché <i>(n.m.)</i><br>/sy.pɛʁ.maʁ.ʃe/	超市<br><i>supermarket</i><br><br>Le supermarché ferme à 21 heures.<br>超市晚上九点关门。	FW::A2 FW::relations FW::technologie FW::société
+juger <i>(v.)</i><br>/ʒy.ʒe/	评判；审判<br><i>to judge</i><br><br>Ne juge pas les gens trop vite.<br>别太快评判别人。	FW::A2 FW::relations FW::technologie FW::société
+moyen <i>(adj.)</i><br>/mwa.jɛ̃/	一般的；平均的<br><i>average</i><br><br>Le film était moyen.<br>电影一般般。	FW::A2 FW::relations FW::technologie FW::société
+odeur <i>(n.f.)</i><br>/ɔ.dœʁ/	气味<br><i>smell</i><br><br>J'adore l'odeur du café.<br>我爱咖啡的香味。	FW::A2 FW::relations FW::technologie FW::société
+choix <i>(n.m.)</i><br>/ʃwa/	选择<br><i>choice</i><br><br>Tu n'as pas le choix.<br>你别无选择。	FW::A2 FW::relations FW::technologie FW::société
+satisfait <i>(adj.)</i><br>/sa.tis.fɛ/	满意的<br><i>satisfied</i><br><br>Vous êtes satisfait du service ?<br>您对服务满意吗？	FW::A2 FW::relations FW::technologie FW::société
+algorithme <i>(n.m.)</i><br>/al.ɡɔ.ʁitm/	算法<br><i>algorithm</i><br><br>L'algorithme choisit les vidéos pour toi.<br>算法替你挑选视频。	FW::A2 FW::relations FW::technologie FW::société
+déranger <i>(v.)</i><br>/de.ʁɑ̃.ʒe/	打扰；使不便<br><i>to disturb, to bother</i><br><br>Excusez-moi de vous déranger.<br>抱歉打扰您。	FW::A2 FW::relations
+recette <i>(n.f.)</i><br>/ʁə.sɛt/	菜谱；配方；收入<br><i>recipe</i><br><br>Tu me donnes la recette ?<br>你能把菜谱给我吗？	FW::A2 FW::relations
+détester <i>(v.)</i><br>/de.tɛs.te/	讨厌<br><i>to hate</i><br><br>Je déteste me lever tôt.<br>我讨厌早起。	FW::A2 FW::relations
+psy <i>(n.m./f.)</i><br>/psi/	心理医生（口语）<br><i>shrink, therapist</i><br><br>Elle va chez le psy une fois par semaine.<br>她每周看一次心理医生。	FW::A2 FW::relations
+impressionner <i>(v.)</i><br>/ɛ̃.pʁɛ.sjɔ.ne/	给人深刻印象<br><i>to impress</i><br><br>Il veut impressionner ses parents.<br>他想给她父母留个好印象。	FW::A2 FW::relations
+réserver <i>(v.)</i><br>/ʁe.zɛʁ.ve/	预订<br><i>to book, to reserve</i><br><br>J'ai réservé une table pour deux.<br>我订了一张两人桌。	FW::A2 FW::relations
+refuser <i>(v.)</i><br>/ʁə.fy.ze/	拒绝<br><i>to refuse</i><br><br>Ma carte a été refusée.<br>我的卡被拒了。	FW::A2 FW::relations
+carte bancaire <i>(n.f.)</i><br>/kaʁt bɑ̃.kɛʁ/	银行卡<br><i>bank card</i><br><br>On peut payer par carte bancaire ?<br>可以刷卡吗？	FW::A2 FW::relations
+moitié <i>(n.f.)</i><br>/mwa.tje/	一半<br><i>half</i><br><br>Je te donne la moitié.<br>我给你一半。	FW::A2 FW::relations
+morale <i>(n.f.)</i><br>/mɔ.ʁal/	寓意；道德<br><i>moral (of a story)</i><br><br>Quelle est la morale de l'histoire ?<br>这个故事的寓意是什么？	FW::A2 FW::relations
+expérience <i>(n.f.)</i><br>/ɛks.pe.ʁjɑ̃s/	实验；经验<br><i>experiment; experience</i><br><br>Il a dix ans d'expérience.<br>他有十年经验。	FW::A2 FW::psychologie FW::travail
+durer <i>(v.)</i><br>/dy.ʁe/	持续<br><i>to last</i><br><br>Le film dure deux heures.<br>电影长两个小时。	FW::A2 FW::psychologie FW::travail
+note <i>(n.f.)</i><br>/nɔt/	分数；笔记；账单<br><i>grade; note; bill</i><br><br>J'ai eu une bonne note en maths.<br>我数学考了个好分数。	FW::A2 FW::psychologie FW::travail
+ressembler à <i>(v.)</i><br>/ʁə.sɑ̃.ble a/	像<br><i>to look like, to resemble</i><br><br>Tu ressembles à ta mère.<br>你长得像你妈妈。	FW::A2 FW::psychologie FW::travail
+semestre <i>(n.m.)</i><br>/sə.mɛstʁ/	学期；半年<br><i>semester</i><br><br>Les examens sont à la fin du semestre.<br>考试在学期末。	FW::A2 FW::psychologie FW::travail
+posture <i>(n.f.)</i><br>/pɔs.tyʁ/	姿态<br><i>posture</i><br><br>Une bonne posture donne confiance.<br>好的姿态让人显得自信。	FW::A2 FW::psychologie FW::travail
+juste <i>(adj. / adv.)</i><br>/ʒyst/	公正的；准确的；刚好；只是<br><i>fair; accurate; just</i><br><br>Ce n'est pas juste !<br>这不公平！	FW::A2 FW::psychologie FW::travail
+qualité <i>(n.f.)</i><br>/ka.li.te/	优点；质量<br><i>quality</i><br><br>Quelle est ta plus grande qualité ?<br>你最大的优点是什么？	FW::A2 FW::psychologie FW::travail
+honnête <i>(adj.)</i><br>/ɔ.nɛt/	诚实的<br><i>honest</i><br><br>Sois honnête avec moi.<br>对我诚实点。	FW::A2 FW::psychologie FW::travail
+compétent <i>(adj.)</i><br>/kɔ̃.pe.tɑ̃/	能干的；称职的<br><i>competent</i><br><br>C'est une médecin très compétente.<br>她是一位非常称职的医生。	FW::A2 FW::psychologie FW::travail
+énormément <i>(adv.)</i><br>/e.nɔʁ.me.mɑ̃/	非常；极其<br><i>enormously</i><br><br>Ça compte énormément pour moi.<br>这对我来说非常重要。	FW::A2 FW::psychologie FW::travail
+se méfier de <i>(v. pron.)</i><br>/sə me.fje də/	提防；不信任<br><i>to be wary of</i><br><br>Méfie-toi de lui.<br>提防他一点。	FW::A2 FW::psychologie FW::travail
+élève <i>(n.m./f.)</i><br>/e.lɛv/	学生（中小学）；门生<br><i>pupil; disciple</i><br><br>Elle a trente élèves dans sa classe.<br>她班上有三十个学生。	FW::A2 FW::philosophie
+sage <i>(adj.)</i><br>/saʒ/	智慧的；乖的<br><i>wise; well-behaved</i><br><br>Sois sage !<br>要乖哦！	FW::A2 FW::philosophie
+avoir l'impression <i>(loc. v.)</i><br>/a.vwaʁ lɛ̃.pʁɛ.sjɔ̃/	觉得；有……的感觉<br><i>to have the feeling</i><br><br>J'ai l'impression qu'il ment.<br>我感觉他在撒谎。	FW::A2 FW::philosophie
+enquête <i>(n.f.)</i><br>/ɑ̃.kɛt/	调查<br><i>investigation; survey</i><br><br>La police mène l'enquête.<br>警方正在调查。	FW::A2 FW::philosophie
+réputation <i>(n.f.)</i><br>/ʁe.py.ta.sjɔ̃/	名声<br><i>reputation</i><br><br>Ce restaurant a une bonne réputation.<br>这家餐厅口碑很好。	FW::A2 FW::philosophie
+justice <i>(n.f.)</i><br>/ʒys.tis/	正义；司法<br><i>justice</i><br><br>Ils demandent justice.<br>他们要求公正。	FW::A2 FW::philosophie
+contradiction <i>(n.f.)</i><br>/kɔ̃.tʁa.dik.sjɔ̃/	矛盾<br><i>contradiction</i><br><br>Il y a une contradiction dans ton argument.<br>你的论点自相矛盾。	FW::A2 FW::philosophie
+puissant <i>(adj.)</i><br>/pɥi.sɑ̃/	强大的；有权势的<br><i>powerful</i><br><br>Un moteur très puissant.<br>一台功率很大的发动机。	FW::A2 FW::philosophie
+condamner <i>(v.)</i><br>/kɔ̃.da.ne/	判刑；谴责<br><i>to sentence; to condemn</i><br><br>Il a été condamné à deux ans de prison.<br>他被判两年监禁。	FW::A2 FW::philosophie
+poison <i>(n.m.)</i><br>/pwa.zɔ̃/	毒药<br><i>poison</i><br><br>Ce champignon est un poison.<br>这种蘑菇有毒。	FW::A2 FW::philosophie
+faire le ménage <i>(loc. v.)</i><br>/fɛʁ lə me.naʒ/	打扫卫生<br><i>to do the housework, to clean</i><br><br>Je fais le ménage le samedi.<br>我星期六打扫卫生。	FW::A2 FW::santé FW::science
+rêver <i>(v.)</i><br>/ʁɛ.ve/	做梦；梦想<br><i>to dream</i><br><br>J'ai rêvé de toi cette nuit.<br>我昨晚梦见你了。	FW::A2 FW::santé FW::science
+trier <i>(v.)</i><br>/tʁi.je/	分类；挑选<br><i>to sort</i><br><br>Il faut trier les déchets.<br>垃圾要分类。	FW::A2 FW::santé FW::science
+repos <i>(n.m.)</i><br>/ʁə.po/	休息<br><i>rest</i><br><br>Tu as besoin de repos.<br>你需要休息。	FW::A2 FW::santé FW::science
+leçon <i>(n.f.)</i><br>/lə.sɔ̃/	课；教训<br><i>lesson</i><br><br>Ça m'a servi de leçon.<br>这给了我一个教训。	FW::A2 FW::santé FW::science
+souris <i>(n.f.)</i><br>/su.ʁi/	老鼠；鼠标<br><i>mouse</i><br><br>Le chat attrape une souris.<br>猫抓住一只老鼠。	FW::A2 FW::santé FW::science
+liquide <i>(n.m. / adj.)</i><br>/li.kid/	液体；液态的<br><i>liquid</i><br><br>Buvez beaucoup de liquide.<br>多喝水。	FW::A2 FW::santé FW::science
+nettoyer <i>(v.)</i><br>/nɛ.twa.je/	清洁<br><i>to clean</i><br><br>J'ai nettoyé toute la maison.<br>我把整个房子打扫干净了。	FW::A2 FW::santé FW::science
+irritable <i>(adj.)</i><br>/i.ʁi.tabl/	易怒的<br><i>irritable</i><br><br>Quand il a faim, il est irritable.<br>他一饿就容易发火。	FW::A2 FW::santé FW::science
+recommander <i>(v.)</i><br>/ʁə.kɔ.mɑ̃.de/	推荐；建议<br><i>to recommend</i><br><br>Je te recommande ce livre.<br>我向你推荐这本书。	FW::A2 FW::santé FW::science
+au moins <i>(loc. adv.)</i><br>/o mwɛ̃/	至少<br><i>at least</i><br><br>Il faut au moins deux heures.<br>至少需要两个小时。	FW::A2 FW::santé FW::science
+conteur <i>(n.m.)</i><br>/kɔ̃.tœʁ/	讲故事的人<br><i>storyteller</i><br><br>C'est un excellent conteur.<br>他非常会讲故事。	FW::A2 FW::culture
+accrocher <i>(v.)</i><br>/a.kʁɔ.ʃe/	挂；吸引<br><i>to hang; to hook</i><br><br>Ce début de film m'accroche tout de suite.<br>这部电影的开头一下子就吸引了我。	FW::A2 FW::culture
+tranquille <i>(adj.)</i><br>/tʁɑ̃.kil/	安静的；平静的<br><i>quiet, calm</i><br><br>Laisse-moi tranquille !<br>别烦我！	FW::A2 FW::culture
+violon <i>(n.m.)</i><br>/vjɔ.lɔ̃/	小提琴<br><i>violin</i><br><br>Elle joue du violon depuis l'enfance.<br>她从小拉小提琴。	FW::A2 FW::culture
+accompagner <i>(v.)</i><br>/a.kɔ̃.pa.ɲe/	陪同；伴奏<br><i>to accompany</i><br><br>Je t'accompagne à la gare.<br>我送你去车站。	FW::A2 FW::culture
+wagon <i>(n.m.)</i><br>/va.ɡɔ̃/	车厢<br><i>(train) carriage</i><br><br>Le wagon-restaurant est au milieu du train.<br>餐车在列车中部。	FW::A2 FW::culture
+applaudir <i>(v.)</i><br>/a.plo.diʁ/	鼓掌<br><i>to applaud</i><br><br>Le public applaudit pendant cinq minutes.<br>观众鼓掌五分钟。	FW::A2 FW::culture
+contrôleur <i>(n.m.)</i><br>/kɔ̃.tʁo.lœʁ/	查票员；检查员<br><i>ticket inspector</i><br><br>Le contrôleur demande les billets.<br>查票员在查票。	FW::A2 FW::culture
+souvenir <i>(n.m.)</i><br>/suv.niʁ/	回忆；纪念品<br><i>memory; souvenir</i><br><br>J'ai de bons souvenirs de Lyon.<br>我对里昂有很美好的回忆。	FW::A2 FW::psychologie FW::justice
+accident <i>(n.m.)</i><br>/ak.si.dɑ̃/	事故<br><i>accident</i><br><br>Il a eu un accident de vélo.<br>他骑车出了事故。	FW::A2 FW::psychologie FW::justice
+vitesse <i>(n.f.)</i><br>/vi.tɛs/	速度<br><i>speed</i><br><br>Attention à la vitesse !<br>注意车速！	FW::A2 FW::psychologie FW::justice
+s'écraser <i>(v. pron.)</i><br>/se.kʁa.ze/	撞毁；坠毁<br><i>to crash</i><br><br>L'avion s'est écrasé dans la mer.<br>飞机坠入海中。	FW::A2 FW::psychologie FW::justice
+élevé <i>(adj.)</i><br>/el.ve/	高的（数值）<br><i>high</i><br><br>Les prix sont très élevés.<br>价格很高。	FW::A2 FW::psychologie FW::justice
+verre <i>(n.m.)</i><br>/vɛʁ/	玻璃；杯子<br><i>glass</i><br><br>Un verre d'eau, s'il vous plaît.<br>请给我一杯水。	FW::A2 FW::psychologie FW::justice
+reconstruire <i>(v.)</i><br>/ʁə.kɔ̃s.tʁɥiʁ/	重建<br><i>to rebuild</i><br><br>Après le divorce, elle a reconstruit sa vie.<br>离婚后，她重建了自己的生活。	FW::A2 FW::psychologie FW::justice
+modifier <i>(v.)</i><br>/mɔ.di.fje/	修改<br><i>to modify</i><br><br>Je dois modifier mon mot de passe.<br>我得改一下密码。	FW::A2 FW::psychologie FW::justice
+dispute <i>(n.f.)</i><br>/dis.pyt/	争吵<br><i>argument, quarrel</i><br><br>Ils ont eu une grosse dispute.<br>他们大吵了一架。	FW::A2 FW::psychologie FW::justice
+témoin oculaire <i>(n.m.)</i><br>/te.mwɛ̃ ɔ.ky.lɛʁ/	目击证人<br><i>eyewitness</i><br><br>La police cherche des témoins oculaires.<br>警方在寻找目击证人。	FW::A2 FW::psychologie FW::justice
+langueur <i>(n.f.)</i><br>/lɑ̃.ɡœʁ/	倦怠；忧郁的慵懒<br><i>languor, listlessness</i><br><br>Une douce langueur d'été.<br>夏日里一种温柔的慵懒。	FW::A2 FW::culture FW::littérature
+pénétrer <i>(v.)</i><br>/pe.ne.tʁe/	进入；渗透<br><i>to penetrate, to enter</i><br><br>La lumière pénètre dans la pièce.<br>光线照进了房间。	FW::A2 FW::culture FW::littérature
+toit <i>(n.m.)</i><br>/twa/	屋顶<br><i>roof</i><br><br>Il y a un chat sur le toit.<br>屋顶上有一只猫。	FW::A2 FW::culture FW::littérature
+chant <i>(n.m.)</i><br>/ʃɑ̃/	歌声；歌唱<br><i>song, singing</i><br><br>Le chant des oiseaux me réveille.<br>鸟鸣声把我叫醒。	FW::A2 FW::culture FW::littérature
+raison <i>(n.f.)</i><br>/ʁɛ.zɔ̃/	理由；道理<br><i>reason</i><br><br>Tu as raison !<br>你说得对！	FW::A2 FW::culture FW::littérature
+trahison <i>(n.f.)</i><br>/tʁa.i.zɔ̃/	背叛<br><i>betrayal</i><br><br>Pour elle, c'est une trahison.<br>对她来说，这是一种背叛。	FW::A2 FW::culture FW::littérature
+deuil <i>(n.m.)</i><br>/dœj/	哀悼；丧事<br><i>mourning, grief</i><br><br>Elle est en deuil de son père.<br>她在为父亲服丧。	FW::A2 FW::culture FW::littérature
+peine <i>(n.f.)</i><br>/pɛn/	痛苦；悲伤；刑罚<br><i>sorrow; penalty</i><br><br>Ça me fait de la peine.<br>这让我很难过。	FW::A2 FW::culture FW::littérature
+haine <i>(n.f.)</i><br>/ɛn/	仇恨<br><i>hatred</i><br><br>La haine ne résout rien.<br>仇恨解决不了任何问题。	FW::A2 FW::culture FW::littérature
+à l'envers <i>(loc. adv.)</i><br>/a lɑ̃.vɛʁ/	反过来；颠倒<br><i>upside down; inside out; backwards</i><br><br>Ton pull est à l'envers !<br>你的毛衣穿反了！	FW::A2 FW::culture
+pote <i>(n.m./f.)</i><br>/pɔt/	哥们；朋友<br><i>mate, buddy</i><br><br>C'est mon meilleur pote.<br>他是我最好的哥们。	FW::A2 FW::culture
+discret <i>(adj.)</i><br>/dis.kʁɛ/	低调的；谨慎的<br><i>discreet</i><br><br>Elle est très discrète sur sa vie privée.<br>她对自己的私生活非常低调。	FW::A2 FW::culture
+stylé <i>(adj.)</i><br>/sti.le/	有型的；酷的<br><i>stylish, cool</i><br><br>Ta veste est trop stylée !<br>你的外套太酷了！	FW::A2 FW::culture
+en moyenne <i>(loc. adv.)</i><br>/ɑ̃ mwa.jɛn/	平均<br><i>on average</i><br><br>En moyenne, je dors sept heures.<br>我平均睡七个小时。	FW::A2 
+réussir <i>(v.)</i><br>/ʁe.y.siʁ/	成功；通过<br><i>to succeed; to pass</i><br><br>Elle a réussi son examen !<br>她考试通过了！	FW::A2 
+chef <i>(n.m./f.)</i><br>/ʃɛf/	上司；领导；主厨<br><i>boss; chef</i><br><br>Mon chef est en vacances.<br>我的上司在休假。	FW::A2 
+orage <i>(n.m.)</i><br>/ɔ.ʁaʒ/	雷雨<br><i>storm</i><br><br>Il y a de l'orage dans l'air.<br>山雨欲来风满楼。	FW::A2 
+s'excuser <i>(v. pron.)</i><br>/sɛks.ky.ze/	道歉<br><i>to apologize</i><br><br>Il s'est excusé devant tout le monde.<br>他当着所有人的面道了歉。	FW::A2 FW::relations
+chance <i>(n.f.)</i><br>/ʃɑ̃s/	机会；运气<br><i>chance; luck</i><br><br>Donne-moi une deuxième chance.<br>再给我一次机会。	FW::A2 FW::relations
+anniversaire <i>(n.m.)</i><br>/a.ni.vɛʁ.sɛʁ/	生日；周年纪念<br><i>birthday; anniversary</i><br><br>Joyeux anniversaire !<br>生日快乐！	FW::A2 FW::relations
+fumée <i>(n.f.)</i><br>/fy.me/	烟<br><i>smoke</i><br><br>Il y a de la fumée dans la cuisine !<br>厨房里冒烟了！	FW::A2 FW::relations
+sincérité <i>(n.f.)</i><br>/sɛ̃.se.ʁi.te/	真诚<br><i>sincerity</i><br><br>J'apprécie ta sincérité.<br>我欣赏你的真诚。	FW::A2 FW::relations
+lancer <i>(v.)</i><br>/lɑ̃.se/	扔；发起<br><i>to throw; to launch</i><br><br>Il lance la balle à son chien.<br>他把球扔给他的狗。	FW::A2 FW::relations
+coussin <i>(n.m.)</i><br>/ku.sɛ̃/	靠垫<br><i>cushion</i><br><br>Il y a trop de coussins sur ce canapé.<br>这沙发上靠垫太多了。	FW::A2 FW::relations
+en cachette <i>(loc. adv.)</i><br>/ɑ̃ ka.ʃɛt/	偷偷地<br><i>secretly</i><br><br>Il fume en cachette.<br>他偷偷抽烟。	FW::A2 FW::relations
+rougir <i>(v.)</i><br>/ʁu.ʒiʁ/	脸红<br><i>to blush</i><br><br>Elle rougit quand il la regarde.<br>他一看她，她就脸红。	FW::A2 FW::relations
+balcon <i>(n.m.)</i><br>/bal.kɔ̃/	阳台<br><i>balcony</i><br><br>On prend le café sur le balcon ?<br>我们去阳台上喝咖啡？	FW::A2 FW::relations
+tout à l'heure <i>(loc. adv.)</i><br>/tu.ta.lœʁ/	刚才；待会儿<br><i>a moment ago; in a moment</i><br><br>Je l'ai vu tout à l'heure.<br>我刚才看见他了。	FW::A2 FW::relations
+s'allumer <i>(v. pron.)</i><br>/sa.ly.me/	亮起来；点燃<br><i>to light up</i><br><br>L'écran s'allume tout seul.<br>屏幕自己亮了。	FW::A2 FW::relations
+croire <i>(v.)</i><br>/kʁwaʁ/	相信；认为<br><i>to believe; to think</i><br><br>Je te crois.<br>我相信你。	FW::A2 FW::relations
+rambarde <i>(n.f.)</i><br>/ʁɑ̃.baʁd/	栏杆<br><i>railing</i><br><br>Ne te penche pas sur la rambarde !<br>别趴在栏杆上！	FW::A2 FW::relations
+stage <i>(n.m.)</i><br>/staʒ/	实习<br><i>internship</i><br><br>Je cherche un stage de six mois.<br>我在找一个六个月的实习。	FW::A2 FW::travail
+responsable <i>(n.m./f. / adj.)</i><br>/ʁɛs.pɔ̃.sabl/	负责人；负责的<br><i>manager; responsible</i><br><br>Je voudrais parler au responsable.<br>我想找负责人谈谈。	FW::A2 FW::travail
+salle <i>(n.f.)</i><br>/sal/	厅；室<br><i>room, hall</i><br><br>La réunion est dans la salle 3.<br>会议在3号室。	FW::A2 FW::travail
+marcher <i>(v.)</i><br>/maʁ.ʃe/	走路；（机器）运转；行得通<br><i>to walk; to work</i><br><br>Mon téléphone ne marche plus.<br>我的手机坏了。	FW::A2 FW::travail
+connecter <i>(v.)</i><br>/kɔ.nɛk.te/	连接<br><i>to connect</i><br><br>Je n'arrive pas à me connecter au wifi.<br>我连不上无线网。	FW::A2 FW::travail
+décision <i>(n.f.)</i><br>/de.si.zjɔ̃/	决定<br><i>decision</i><br><br>Il faut prendre une décision.<br>必须做个决定。	FW::A2 FW::travail
+proposition <i>(n.f.)</i><br>/pʁɔ.po.zi.sjɔ̃/	建议；提议<br><i>proposal, suggestion</i><br><br>J'ai une proposition à te faire.<br>我有个提议。	FW::A2 FW::travail
+discuter <i>(v.)</i><br>/dis.ky.te/	讨论；聊天<br><i>to discuss; to chat</i><br><br>On a discuté pendant des heures.<br>我们聊了好几个小时。	FW::A2 FW::travail
+écolo <i>(adj. / n.)</i><br>/e.ko.lo/	环保的；环保人士（口语）<br><i>eco, green</i><br><br>Elle est très écolo.<br>她非常环保。	FW::A2 FW::travail
+vote <i>(n.m.)</i><br>/vɔt/	投票<br><i>vote</i><br><br>Le vote a lieu dimanche.<br>投票在星期天举行。	FW::A2 FW::travail
+parcours <i>(n.m.)</i><br>/paʁ.kuʁ/	经历；路线<br><i>background, career path</i><br><br>Elle a un parcours très original.<br>她的经历非常独特。	FW::A2 FW::travail FW::immigration
+spécialisé <i>(adj.)</i><br>/spe.sja.li.ze/	专门的<br><i>specialized</i><br><br>Je suis spécialisé en marketing.<br>我专攻市场营销。	FW::A2 FW::travail FW::immigration
+campagne <i>(n.f.)</i><br>/kɑ̃.paɲ/	宣传活动；乡下<br><i>campaign; countryside</i><br><br>Une campagne de publicité.<br>一场广告宣传活动。	FW::A2 FW::travail FW::immigration
+plaire <i>(v.)</i><br>/plɛʁ/	讨人喜欢<br><i>to please</i><br><br>Ce film m'a beaucoup plu.<br>我很喜欢这部电影。	FW::A2 FW::travail FW::immigration
+défaut <i>(n.m.)</i><br>/de.fo/	缺点<br><i>flaw, weakness</i><br><br>Tout le monde a des défauts.<br>人人都有缺点。	FW::A2 FW::travail FW::immigration
+curieux <i>(adj.)</i><br>/ky.ʁjø/	好奇的；奇怪的<br><i>curious</i><br><br>Je suis curieux de nature.<br>我天生好奇。	FW::A2 FW::travail FW::immigration
+organisé <i>(adj.)</i><br>/ɔʁ.ɡa.ni.ze/	有条理的<br><i>organized</i><br><br>Elle est très organisée.<br>她做事很有条理。	FW::A2 FW::travail FW::immigration
+défi <i>(n.m.)</i><br>/de.fi/	挑战<br><i>challenge</i><br><br>C'est un grand défi pour moi.<br>这对我来说是个巨大的挑战。	FW::A2 FW::travail FW::immigration
+critiquer <i>(v.)</i><br>/kʁi.ti.ke/	批评<br><i>to criticize</i><br><br>Il critique toujours tout.<br>他总是什么都批评。	FW::A2 FW::travail FW::immigration
+prétentions salariales <i>(n.f.pl.)</i><br>/pʁe.tɑ̃.sjɔ̃ sa.la.ʁjal/	期望薪资<br><i>salary expectations</i><br><br>Indiquez vos prétentions salariales.<br>请注明您的期望薪资。	FW::A2 FW::travail FW::immigration
+fourchette <i>(n.f.)</i><br>/fuʁ.ʃɛt/	叉子；（数值）区间<br><i>fork; range</i><br><br>Une fourchette de prix.<br>一个价格区间。	FW::A2 FW::travail FW::immigration
+typique <i>(adj.)</i><br>/ti.pik/	典型的<br><i>typical</i><br><br>Une journée typique commence à 9 heures.<br>典型的一天从九点开始。	FW::A2 FW::travail FW::immigration
+compte <i>(n.m.)</i><br>/kɔ̃t/	账户；计算<br><i>account</i><br><br>J'ai ouvert un compte en ligne.<br>我开了一个网上账户。	FW::A2 FW::argent FW::immigration
+conseiller <i>(n.m.)</i><br>/kɔ̃.se.je/	顾问；客户经理<br><i>adviser</i><br><br>Ma conseillère bancaire est très gentille.<br>我的银行客户经理人很好。	FW::A2 FW::argent FW::immigration
+épargne <i>(n.f.)</i><br>/e.paʁɲ/	储蓄<br><i>savings</i><br><br>Il met 10 % de son salaire en épargne.<br>他把工资的10%存起来。	FW::A2 FW::argent FW::immigration
+passeport <i>(n.m.)</i><br>/pas.pɔʁ/	护照<br><i>passport</i><br><br>N'oublie pas ton passeport !<br>别忘了带护照！	FW::A2 FW::argent FW::immigration
+permis de travail <i>(n.m.)</i><br>/pɛʁ.mi də tʁa.vaj/	工作许可<br><i>work permit</i><br><br>Mon permis de travail expire en mars.<br>我的工作许可三月到期。	FW::A2 FW::argent FW::immigration
+carte de crédit <i>(n.f.)</i><br>/kaʁt də kʁe.di/	信用卡<br><i>credit card</i><br><br>Vous acceptez les cartes de crédit ?<br>你们收信用卡吗？	FW::A2 FW::argent FW::immigration
+historique <i>(n.m. / adj.)</i><br>/is.tɔ.ʁik/	记录；历史的<br><i>history (record); historic</i><br><br>Efface ton historique !<br>把你的浏览记录删掉！	FW::A2 FW::argent FW::immigration
+prêt <i>(n.m.)</i><br>/pʁɛ/	贷款；借出<br><i>loan</i><br><br>Ils ont fait un prêt pour la maison.<br>他们为买房贷了款。	FW::A2 FW::argent FW::immigration
+justificatif <i>(n.m.)</i><br>/ʒys.ti.fi.ka.tif/	证明材料<br><i>proof, supporting document</i><br><br>Il manque un justificatif de domicile.<br>缺一份住址证明。	FW::A2 FW::argent FW::immigration
+domicile <i>(n.m.)</i><br>/dɔ.mi.sil/	住所<br><i>home, residence</i><br><br>Livraison à domicile gratuite.<br>免费送货上门。	FW::A2 FW::argent FW::immigration
+séduire <i>(v.)</i><br>/se.dɥiʁ/	诱惑；吸引<br><i>to seduce, to charm</i><br><br>Il essaie de la séduire.<br>他想打动她。	FW::A2 FW::relations FW::médias
+clin d'œil <i>(n.m.)</i><br>/klɛ̃ dœj/	眨眼<br><i>wink</i><br><br>Il me fait un clin d'œil.<br>他朝我眨眨眼。	FW::A2 FW::relations FW::médias
+approbation <i>(n.f.)</i><br>/a.pʁɔ.ba.sjɔ̃/	认可；赞同<br><i>approval</i><br><br>Il cherche toujours l'approbation de son père.<br>他总在寻求父亲的认可。	FW::A2 FW::relations FW::médias
+insulter <i>(v.)</i><br>/ɛ̃.syl.te/	侮辱<br><i>to insult</i><br><br>Il m'a insulté devant tout le monde.<br>他当着所有人的面侮辱我。	FW::A2 FW::relations FW::médias
+impolitesse <i>(n.f.)</i><br>/ɛ̃.pɔ.li.tɛs/	没礼貌<br><i>rudeness</i><br><br>Quelle impolitesse !<br>真没礼貌！	FW::A2 FW::relations FW::médias
+coincé <i>(adj.)</i><br>/kwɛ̃.se/	被卡住的；拘谨的<br><i>stuck; uptight</i><br><br>Je suis coincé dans les bouchons.<br>我被堵在路上了。	FW::A2 FW::relations FW::médias
+ascenseur <i>(n.m.)</i><br>/a.sɑ̃.sœʁ/	电梯<br><i>lift, elevator</i><br><br>L'ascenseur est en panne.<br>电梯坏了。	FW::A2 FW::relations FW::médias
+en ce moment <i>(loc. adv.)</i><br>/ɑ̃ sə mɔ.mɑ̃/	目前；这段时间<br><i>at the moment</i><br><br>En ce moment, je travaille beaucoup.<br>我最近工作很多。	FW::A2 FW::relations FW::médias
+moniteur <i>(n.m.)</i><br>/mɔ.ni.tœʁ/	教练（驾校、运动）<br><i>instructor</i><br><br>Mon moniteur de ski est très patient.<br>我的滑雪教练很有耐心。	FW::A2 FW::relations FW::médias
+auto-école <i>(n.f.)</i><br>/o.to.e.kɔl/	驾校<br><i>driving school</i><br><br>Je prends des cours dans une auto-école.<br>我在驾校上课。	FW::A2 FW::relations FW::médias
+règle <i>(n.f.)</i><br>/ʁɛɡl/	规则；尺子<br><i>rule; ruler</i><br><br>Ce sont les règles du jeu.<br>这就是游戏规则。	FW::A2 FW::relations FW::médias
+pleuvoir à verse <i>(loc. v.)</i><br>/plø.vwaʁ a vɛʁs/	下倾盆大雨<br><i>to pour (with rain)</i><br><br>Il pleut à verse, prends un parapluie !<br>雨下得很大，带把伞！	FW::A2 FW::culture
+pique-nique <i>(n.m.)</i><br>/pik.nik/	野餐<br><i>picnic</i><br><br>On fait un pique-nique au parc ?<br>我们去公园野餐吧？	FW::A2 FW::culture
+mouiller <i>(v.)</i><br>/mu.je/	弄湿<br><i>to wet</i><br><br>L'eau, ça mouille.<br>水是湿的（废话）。	FW::A2 FW::culture
+champion <i>(n.m.)</i><br>/ʃɑ̃.pjɔ̃/	冠军<br><i>champion</i><br><br>C'est la championne du monde.<br>她是世界冠军。	FW::A2 FW::culture
+annoncer <i>(v.)</i><br>/a.nɔ̃.se/	宣布<br><i>to announce</i><br><br>Ils ont annoncé leur mariage.<br>他们宣布了婚讯。	FW::A2 FW::culture
+ton <i>(n.m.)</i><br>/tɔ̃/	语气；音调<br><i>tone</i><br><br>Ne me parle pas sur ce ton !<br>别用这种语气跟我说话！	FW::A2 FW::culture
+second degré <i>(n.m.)</i><br>/sə.ɡɔ̃ də.ɡʁe/	言外之意；反话<br><i>irony, tongue-in-cheek</i><br><br>Il ne comprend pas le second degré.<br>他听不懂反话。	FW::A2 FW::culture
+malin <i>(adj.)</i><br>/ma.lɛ̃/	聪明的；狡猾的<br><i>clever, smart</i><br><br>Il est malin, ce petit !<br>这小家伙真机灵！	FW::A2 FW::culture
+évident <i>(adj.)</i><br>/e.vi.dɑ̃/	明显的<br><i>obvious</i><br><br>C'est évident !<br>这很明显！	FW::A2 FW::culture
+littéral <i>(adj.)</i><br>/li.te.ʁal/	字面的<br><i>literal</i><br><br>Au sens littéral…<br>就字面意思而言……	FW::A2 FW::culture
+discours <i>(n.m.)</i><br>/dis.kuʁ/	演讲；言论<br><i>speech</i><br><br>Le président fait un discours ce soir.<br>总统今晚发表演讲。	FW::A2 FW::travail FW::psychologie
+remise des diplômes <i>(n.f.)</i><br>/ʁə.miz de di.plom/	毕业典礼<br><i>graduation ceremony</i><br><br>Mes parents viennent à la remise des diplômes.<br>我父母会来参加毕业典礼。	FW::A2 FW::travail FW::psychologie
+coupable <i>(adj. / n.)</i><br>/ku.pabl/	有罪的；内疚的<br><i>guilty</i><br><br>Je me sens coupable.<br>我感到内疚。	FW::A2 FW::travail FW::psychologie
+informaticien <i>(n.m.)</i><br>/ɛ̃.fɔʁ.ma.ti.sjɛ̃/	计算机专家；程序员<br><i>computer scientist, IT specialist</i><br><br>Mon frère est informaticien.<br>我哥哥是搞计算机的。	FW::A2 FW::travail FW::psychologie
+trésor <i>(n.m.)</i><br>/tʁe.zɔʁ/	宝藏；宝贝<br><i>treasure</i><br><br>Mon trésor ! (à un enfant)<br>我的宝贝！	FW::A2 FW::travail FW::psychologie
+caché <i>(adj.)</i><br>/ka.ʃe/	隐藏的<br><i>hidden</i><br><br>Il y a un message caché.<br>里面有个隐藏的信息。	FW::A2 FW::travail FW::psychologie
+abandonner <i>(v.)</i><br>/a.bɑ̃.dɔ.ne/	放弃；抛弃<br><i>to give up; to abandon</i><br><br>N'abandonne pas maintenant !<br>现在别放弃！	FW::A2 FW::travail FW::psychologie
+développer <i>(v.)</i><br>/de.vlɔ.pe/	发展；培养<br><i>to develop</i><br><br>Il faut développer ses compétences.<br>要培养自己的能力。	FW::A2 FW::travail FW::psychologie
+échec <i>(n.m.)</i><br>/e.ʃɛk/	失败<br><i>failure</i><br><br>Un échec n'est pas la fin.<br>一次失败不是终点。	FW::A2 FW::travail FW::psychologie
+financer <i>(v.)</i><br>/fi.nɑ̃.se/	资助；供养<br><i>to finance, to fund</i><br><br>Il finance ses études en travaillant le soir.<br>他晚上打工供自己读书。	FW::A2 FW::travail FW::psychologie
+tâche <i>(n.f.)</i><br>/tɑʃ/	任务；工作<br><i>task</i><br><br>J'ai trop de tâches aujourd'hui.<br>我今天任务太多了。	FW::A2 FW::psychologie
+montagne <i>(n.f.)</i><br>/mɔ̃.taɲ/	山<br><i>mountain</i><br><br>On part à la montagne en février.<br>我们二月去山里。	FW::A2 FW::psychologie
+tout de suite <i>(loc. adv.)</i><br>/tut.sɥit/	立刻<br><i>right away</i><br><br>J'arrive tout de suite !<br>我马上来！	FW::A2 FW::psychologie
+habitude <i>(n.f.)</i><br>/a.bi.tyd/	习惯<br><i>habit</i><br><br>C'est une mauvaise habitude.<br>这是个坏习惯。	FW::A2 FW::psychologie
+réduire <i>(v.)</i><br>/ʁe.dɥiʁ/	减少；缩小<br><i>to reduce</i><br><br>Il faut réduire le budget.<br>必须削减预算。	FW::A2 FW::psychologie
+version <i>(n.f.)</i><br>/vɛʁ.sjɔ̃/	版本<br><i>version</i><br><br>Le film est en version originale.<br>电影是原版的。	FW::A2 FW::psychologie
+ridiculement <i>(adv.)</i><br>/ʁi.di.ky.lə.mɑ̃/	可笑地<br><i>ridiculously</i><br><br>C'est ridiculement cher.<br>贵得离谱。	FW::A2 FW::psychologie
+but <i>(n.m.)</i><br>/by(t)/	目的；进球<br><i>goal, aim</i><br><br>Quel est le but de ce projet ?<br>这个项目的目的是什么？	FW::A2 FW::psychologie
+modèle <i>(n.m.)</i><br>/mɔ.dɛl/	模型；榜样；款式<br><i>model</i><br><br>Ce téléphone est le dernier modèle.<br>这款手机是最新型号。	FW::A2 FW::technologie FW::science FW::travail
+langage <i>(n.m.)</i><br>/lɑ̃.ɡaʒ/	语言（能力）；言语<br><i>language (faculty), speech</i><br><br>Le langage du corps.<br>肢体语言。	FW::A2 FW::technologie FW::science FW::travail
+deviner <i>(v.)</i><br>/də.vi.ne/	猜<br><i>to guess</i><br><br>Devine qui j'ai vu !<br>猜猜我看见谁了！	FW::A2 FW::technologie FW::science FW::travail
+suivant <i>(adj.)</i><br>/sɥi.vɑ̃/	下一个的；以下的<br><i>next, following</i><br><br>Au suivant !<br>下一位！	FW::A2 FW::technologie FW::science FW::travail
+calculer <i>(v.)</i><br>/kal.ky.le/	计算<br><i>to calculate</i><br><br>Calcule le total.<br>算一下总数。	FW::A2 FW::technologie FW::science FW::travail
+programme <i>(n.m.)</i><br>/pʁɔ.ɡʁam/	程序；节目单；计划<br><i>program; schedule</i><br><br>Quel est le programme de ce soir ?<br>今晚有什么安排？	FW::A2 FW::technologie FW::science FW::travail
+assurance <i>(n.f.)</i><br>/a.sy.ʁɑ̃s/	自信；保险<br><i>confidence; insurance</i><br><br>Il parle avec beaucoup d'assurance.<br>他说话非常自信。	FW::A2 FW::technologie FW::science FW::travail
+hallucination <i>(n.f.)</i><br>/a.ly.si.na.sjɔ̃/	幻觉<br><i>hallucination</i><br><br>J'ai des hallucinations ou c'est Karim à la télé ?<br>我出现幻觉了，还是电视上那个真是卡里姆？	FW::A2 FW::technologie FW::science FW::travail
+fiable <i>(adj.)</i><br>/fjabl/	可靠的<br><i>reliable</i><br><br>Cette source n'est pas fiable.<br>这个信息来源不可靠。	FW::A2 FW::technologie FW::science FW::travail
+vérifier <i>(v.)</i><br>/ve.ʁi.fje/	核实；检查<br><i>to check, to verify</i><br><br>Vérifie l'adresse avant de partir.<br>出发前核对一下地址。	FW::A2 FW::technologie FW::science FW::travail
+esclave <i>(n.m./f.)</i><br>/ɛs.klav/	奴隶<br><i>slave</i><br><br>Il est esclave de son téléphone.<br>他是手机的奴隶。	FW::A2 FW::philosophie FW::travail
+cruel <i>(adj.)</i><br>/kʁy.ɛl/	残忍的<br><i>cruel</i><br><br>C'est une décision cruelle.<br>这是一个残酷的决定。	FW::A2 FW::philosophie FW::travail
+tordre <i>(v.)</i><br>/tɔʁdʁ/	扭；拧<br><i>to twist</i><br><br>Je me suis tordu la cheville.<br>我扭到脚踝了。	FW::A2 FW::philosophie FW::travail
+jambe <i>(n.f.)</i><br>/ʒɑ̃b/	腿<br><i>leg</i><br><br>Il s'est cassé la jambe au ski.<br>他滑雪时摔断了腿。	FW::A2 FW::philosophie FW::travail
+libérer <i>(v.)</i><br>/li.be.ʁe/	释放<br><i>to free, to release</i><br><br>Les otages ont été libérés.<br>人质被释放了。	FW::A2 FW::philosophie FW::travail
+dépendre de <i>(v.)</i><br>/de.pɑ̃dʁ də/	取决于；依赖<br><i>to depend on</i><br><br>Ça dépend de toi.<br>这取决于你。	FW::A2 FW::philosophie FW::travail
+jugement <i>(n.m.)</i><br>/ʒyʒ.mɑ̃/	判断；看法；判决<br><i>judgement</i><br><br>Ne porte pas de jugement trop vite.<br>别太快下判断。	FW::A2 FW::philosophie FW::travail
+météo <i>(n.f.)</i><br>/me.te.o/	天气预报；天气<br><i>weather (forecast)</i><br><br>Tu as regardé la météo ?<br>你看天气预报了吗？	FW::A2 FW::philosophie FW::travail
+malheur <i>(n.m.)</i><br>/ma.lœʁ/	不幸<br><i>misfortune</i><br><br>Il a eu beaucoup de malheurs.<br>他遭遇了很多不幸。	FW::A2 FW::philosophie FW::travail
+troubler <i>(v.)</i><br>/tʁu.ble/	扰乱；使不安<br><i>to disturb, to trouble</i><br><br>Sa question m'a troublé.<br>他的问题让我心神不宁。	FW::A2 FW::philosophie FW::travail
+frapper <i>(v.)</i><br>/fʁa.pe/	打；敲<br><i>to hit; to knock</i><br><br>On frappe à la porte.<br>有人在敲门。	FW::A2 FW::travail FW::culture
+supplier <i>(v.)</i><br>/sy.pli.je/	恳求<br><i>to beg</i><br><br>Je t'en supplie, aide-moi !<br>求求你，帮帮我！	FW::A2 FW::travail FW::culture
+humeur <i>(n.f.)</i><br>/y.mœʁ/	心情<br><i>mood</i><br><br>Il est de mauvaise humeur.<br>他心情不好。	FW::A2 FW::travail FW::culture
+boîte mail <i>(n.f.)</i><br>/bwat mɛl/	邮箱<br><i>inbox</i><br><br>Ma boîte mail est pleine.<br>我的邮箱满了。	FW::A2 FW::travail FW::culture
+pigeon <i>(n.m.)</i><br>/pi.ʒɔ̃/	鸽子；冤大头<br><i>pigeon; sucker</i><br><br>Je me suis fait pigeonner !<br>我被坑了！	FW::A2 FW::travail FW::culture
+épreuve <i>(n.f.)</i><br>/e.pʁœv/	考验；考试科目<br><i>ordeal; test (exam)</i><br><br>L'épreuve orale dure douze minutes.<br>口试持续十二分钟。	FW::A2 FW::travail FW::culture
+jour férié <i>(n.m.)</i><br>/ʒuʁ fe.ʁje/	法定节假日<br><i>public holiday</i><br><br>Le 14 juillet est un jour férié.<br>7月14日是法定假日。	FW::A2 FW::travail
+disposition <i>(n.f.)</i><br>/dis.po.zi.sjɔ̃/	支配；安排<br><i>disposal; arrangement</i><br><br>Je suis à votre disposition.<br>我听候您的安排。	FW::A2 FW::travail
+échange <i>(n.m.)</i><br>/e.ʃɑ̃ʒ/	交流；交换<br><i>exchange, conversation</i><br><br>Merci pour cet échange.<br>谢谢这次交流。	FW::A2 FW::travail

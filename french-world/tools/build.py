@@ -457,7 +457,9 @@ class Renderer:
             word = word.lstrip("~")
             key = norm(word) + "|" + pos.split()[0] if pos else norm(word)
             vid = f"v{len(self.ctx.vocab) + 1}"
-            prev = self.vocab_seen.get(norm(word))
+            pclass = re.split(r"[.\s/]", pos.strip())[0] if pos else ""
+            vkey = norm(word) + "|" + pclass
+            prev = self.vocab_seen.get(vkey)
             if prev and not review:
                 self.dupes.append((word, prev["where"], f"{p.issue.num if p.issue else 0}:{p.title}", loc))
             entry = dict(id=vid, word=word, pos=pos, ipa=ipa, zh=zh, en=en, ex=ex, exzh=exzh, col=col,
@@ -465,7 +467,7 @@ class Renderer:
                          where=f"N°{p.issue.num if p.issue else 0} {p.title}",
                          topics=p.meta.get("topics", []))
             if not review:
-                self.vocab_seen.setdefault(norm(word), entry)
+                self.vocab_seen.setdefault(vkey, entry)
                 cnt += 1
             self.ctx.vocab.append(entry)
             ipa_h = f'<span class="ipa">/{html.escape(ipa)}/</span>' if ipa else ""
