@@ -1,0 +1,164 @@
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | Raconter une histoire qui accroche | 讲一个抓人的故事 | A2
+@deck Les meilleurs conteurs n'ont pas les meilleures histoires. Ils ont les meilleurs petits mots. || 最会讲故事的人，未必有最好的故事。但他们有最好的小词。
+@meta characters=Karim, Lucas; themes=récit, oral, humour; topics=culture
+[Karim] Tu ne vas jamais croire ce qui m'est arrivé hier. || 你绝对不会相信我昨天遇到了什么。
+[Lucas] Vas-y, raconte. || 快说说。
+[Karim] Alors, j'étais dans le métro, tranquille, ligne 4… || 话说，我在地铁上，安安静静的，4号线……
+[Karim] Et là, d'un coup, une dame se lève et commence à chanter. Fort. De l'opéra. || 然后，突然，一位女士站起来开始唱歌。很大声。唱的还是歌剧。
+[Lucas] Non ! || 不会吧！
+[Karim] Si ! Attends, c'est pas fini. À la station suivante, un monsieur a sorti un violon. Et il l'a accompagnée. || 真的！等等，还没完。到了下一站，一位先生掏出一把小提琴。给她伴奏。
+[Lucas] N'importe quoi ! || 胡扯！
+[Karim] Je te jure ! Et à la fin, tout le wagon a applaudi. Même le contrôleur. || 我发誓！最后整节车厢都鼓掌了。连查票员都鼓了。
+[Lucas] Et toi ? || 那你呢？
+[Karim] Bref, je suis arrivé en retard au travail. Mais du coup, j'ai une nouvelle blague pour ce soir. || 总之，我上班迟到了。不过这样一来，我今晚的节目又多了一个新段子。
+
+@expr
+Tu ne vas jamais croire ce qui m'est arrivé. | 你绝对想不到我遇到了什么。 | familier | L'ouverture parfaite : elle crée le suspense. | Tu ne vas jamais croire qui j'ai vu au supermarché ! || 你绝对想不到我在超市碰见了谁！
+Vas-y, raconte ! | 快讲讲！ | familier | Pour encourager l'autre à continuer. | — J'ai une nouvelle ! — Vas-y, raconte ! || ——我有个消息！——快说说！
+Et là… | 然后就在这时…… | familier | Le moment où tout change dans le récit. On baisse un peu la voix. | Et là, j'ai vu mon ex. || 就在这时，我看见了我的前任。
+Attends, c'est pas fini ! | 等等，还没完呢！ | familier | Pour relancer quand l'autre réagit trop tôt. | Attends, c'est pas fini : il est revenu ! || 等等，还没完：他又回来了！
+N'importe quoi ! | 胡说八道！瞎扯！ | familier | Incrédulité, souvent amusée. Aussi : *Il dit n'importe quoi* = 他胡说。 | Un chat qui parle ? N'importe quoi ! || 会说话的猫？瞎扯！
+Bref… | 总之…… | familier | Pour résumer et aller à la fin. Les Français l'utilisent souvent… après avoir parlé très longtemps. | Bref, on a raté le train. || 总之，我们错过了火车。
+Du coup | 于是；结果 | familier | « Donc », à l'oral. Les jeunes l'utilisent partout. À l'écrit soigné, préférez *donc* ou *par conséquent*. | Il pleuvait, du coup on est restés à la maison. || 下雨了，所以我们就待在家里。
+Tu m'étonnes ! | 那还用说！一点也不奇怪！ | familier | Malgré les mots, ça veut dire : « Ce n'est pas surprenant du tout ! » | — Il est fatigué. — Tu m'étonnes, il a dormi trois heures ! || ——他很累。——那还用说，他才睡了三个小时！
+@end
+
+@vocab
+conteur | n.m. | kɔ̃.tœʁ | 讲故事的人 | storyteller | C'est un excellent conteur. | 他非常会讲故事。 | | conteuse (f.) · un conte · raconter |
+accrocher | v. | a.kʁɔ.ʃe | 挂；吸引 | to hang; to hook | Ce début de film m'accroche tout de suite. | 这部电影的开头一下子就吸引了我。 | accrocher un tableau · s'accrocher (= persévérer) | un crochet | *Accroche-toi !* = 坚持住！
+tranquille | adj. | tʁɑ̃.kil | 安静的；平静的 | quiet, calm | Laisse-moi tranquille ! | 别烦我！ | un quartier tranquille · tranquille ! (fam. = pas de stress) | la tranquillité · tranquillement | *Laisse-moi tranquille* = 让我静一静。
+violon | n.m. | vjɔ.lɔ̃ | 小提琴 | violin | Elle joue du violon depuis l'enfance. | 她从小拉小提琴。 | jouer du violon | un violoniste | 乐器用 *jouer **de***：*jouer du piano*；运动用 *jouer **à***：*jouer au foot*。
+accompagner | v. | a.kɔ̃.pa.ɲe | 陪同；伴奏 | to accompany | Je t'accompagne à la gare. | 我送你去车站。 | accompagner qqn · accompagné de… | l'accompagnement |
+wagon | n.m. | va.ɡɔ̃ | 车厢 | (train) carriage | Le wagon-restaurant est au milieu du train. | 餐车在列车中部。 | | | 发音 /va.ɡɔ̃/，w 读 v。
+applaudir | v. | a.plo.diʁ | 鼓掌 | to applaud | Le public applaudit pendant cinq minutes. | 观众鼓掌五分钟。 | | les applaudissements |
+contrôleur | n.m. | kɔ̃.tʁo.lœʁ | 查票员；检查员 | ticket inspector | Le contrôleur demande les billets. | 查票员在查票。 | | contrôleuse (f.) · contrôler · un contrôle |
+@end
+
+%% ───────── IDÉES QUI DÉRANGENT ─────────
+@piece idees | Vos souvenirs vous mentent | 你的记忆在对你撒谎 | A2
+@deck Vous êtes sûr de ce que vous avez vu ? Une psychologue a montré qu'on peut implanter un faux souvenir… avec un seul mot. || 你确定你看到的是真的吗？一位心理学家证明：只用一个词，就能植入一段虚假的记忆。
+@meta themes=mémoire, faux souvenirs, témoignage; topics=psychologie, justice
+En 1974, la psychologue américaine Elizabeth Loftus a montré une vidéo d'accident de voiture à des étudiants. || 1974年，美国心理学家伊丽莎白·洛夫特斯给学生们看了一段车祸视频。
+Puis elle a posé une question. Mais pas la même question à tout le monde. || 然后她提了一个问题。但不是每个人听到的问题都一样。
+À certains, elle a demandé : « À quelle vitesse allaient les voitures quand elles se sont touchées ? » || 她问一些人：“两车相碰时，车速是多少？”
+À d'autres : « À quelle vitesse allaient les voitures quand elles se sont écrasées l'une contre l'autre ? » || 她问另一些人：“两车猛撞在一起时，车速是多少？”
+Avec le mot « écrasées », les étudiants ont donné des vitesses plus élevées. || 听到“猛撞”这个词的学生，估计的车速更高。
+Et une semaine plus tard, beaucoup plus d'étudiants de ce groupe se « souvenaient » de verre cassé. || 一周后，这一组里有多得多的学生“记得”看到了碎玻璃。
+Mais dans la vidéo, il n'y avait pas de verre cassé. || 可是视频里，根本没有碎玻璃。
+
+Notre mémoire n'est pas une caméra. C'est plutôt un conteur. || 我们的记忆不是摄像机。它更像一个讲故事的人。
+Chaque fois qu'on se souvient, on reconstruit le souvenir. Et on le modifie un peu. || 每一次回忆，我们都在重建记忆。并且稍微改动它一点。
+Votre premier jour d'école, votre premier baiser, votre dispute la plus grave : vous les avez racontés cent fois. || 你上学的第一天，你的初吻，你最严重的一次争吵：你已经讲了上百遍。
+Cent fois, vous les avez changés un peu. || 每讲一遍，你都把它们改动了一点点。
+
+@note idea | Alors, il ne faut plus croire personne ?
+Non. Mais une confiance **absolue** dans un souvenir — surtout ancien et émotionnel — est dangereuse. Des témoins sincères se trompent ; des couples se disputent pour des souvenirs différents… et les deux sont honnêtes. Et Armand, dans le train ? Lucienne portait-elle vraiment une robe rouge ? Peut-être. Peut-être pas. Ça ne change rien à l'amour.
+
+不是。但对一段记忆——尤其是古老而充满感情的记忆——深信不疑，是危险的。真诚的证人会出错；情侣会为不同的记忆争吵……而双方都很诚实。那么火车上的阿尔芒呢？吕西安娜真的穿着红裙子吗？也许是，也许不是。这丝毫不影响那份爱。
+@end
+
+@vocab
+souvenir | n.m. | suv.niʁ | 回忆；纪念品 | memory; souvenir | J'ai de bons souvenirs de Lyon. | 我对里昂有很美好的回忆。 | un souvenir d'enfance · en souvenir de | se souvenir | 一词两义：回忆 / 旅游纪念品。
+accident | n.m. | ak.si.dɑ̃ | 事故 | accident | Il a eu un accident de vélo. | 他骑车出了事故。 | un accident de voiture · par accident | accidentel |
+vitesse | n.f. | vi.tɛs | 速度 | speed | Attention à la vitesse ! | 注意车速！ | à toute vitesse · un excès de vitesse | vite |
+s'écraser | v. pron. | se.kʁa.ze | 撞毁；坠毁 | to crash | L'avion s'est écrasé dans la mer. | 飞机坠入海中。 | | écraser (= 压碎) | 口语 *Écrase !* = 闭嘴！（粗鲁）
+élevé | adj. | el.ve | 高的（数值） | high | Les prix sont très élevés. | 价格很高。 | un niveau élevé · bien élevé (= poli) | élevée (f.) · élever | *un enfant bien élevé* = 有教养的孩子。
+verre | n.m. | vɛʁ | 玻璃；杯子 | glass | Un verre d'eau, s'il vous plaît. | 请给我一杯水。 | un verre de vin · du verre cassé | | 同音词：*verre*（杯）, *vert*（绿）, *vers*（向；诗句）, *ver*（虫）。
+reconstruire | v. | ʁə.kɔ̃s.tʁɥiʁ | 重建 | to rebuild | Après le divorce, elle a reconstruit sa vie. | 离婚后，她重建了自己的生活。 | | la reconstruction · construire |
+modifier | v. | mɔ.di.fje | 修改 | to modify | Je dois modifier mon mot de passe. | 我得改一下密码。 | | une modification |
+dispute | n.f. | dis.pyt | 争吵 | argument, quarrel | Ils ont eu une grosse dispute. | 他们大吵了一架。 | | se disputer | 动词：*se disputer avec qqn* = 和某人吵架。
+témoin oculaire | n.m. | te.mwɛ̃ ɔ.ky.lɛʁ | 目击证人 | eyewitness | La police cherche des témoins oculaires. | 警方在寻找目击证人。 | | oculaire (= de l'œil) |
+@end
+
+%% ───────── POÉSIE ─────────
+@piece poesie | Il pleure dans mon cœur | 泪落在我心里 | A2
+@deck Paul Verlaine, 1874. Le poème le plus célèbre sur la tristesse sans raison. Il est dans le domaine public : le voici en entier. || 保罗·魏尔伦，1874年。关于“无缘无故的忧伤”最著名的一首诗。它已进入公有领域，这里是全文。
+@meta characters=Paul Verlaine; themes=pluie, mélancolie; topics=culture, littérature
+@poem Il pleure dans mon cœur | Paul Verlaine, Romances sans paroles (1874)
+*Il pleut doucement sur la ville.* (Arthur Rimbaud) || 雨轻轻落在城中。（兰波）
+
+Il pleure dans mon cœur || 泪水落在我心里
+Comme il pleut sur la ville ; || 就像雨水落在城中；
+Quelle est cette langueur || 这是怎样一种倦怠
+Qui pénètre mon cœur ? || 渗进了我的心？
+
+Ô bruit doux de la pluie || 哦，雨声多么轻柔，
+Par terre et sur les toits ! || 落在地上，落在屋顶！
+Pour un cœur qui s'ennuie, || 对一颗烦闷的心来说，
+Ô le chant de la pluie ! || 哦，这雨的歌声！
+
+Il pleure sans raison || 它无缘无故地哭泣，
+Dans ce cœur qui s'écœure. || 在这颗厌倦了自己的心里。
+Quoi ! nulle trahison ?… || 什么！没有任何背叛？……
+Ce deuil est sans raison. || 这哀伤竟毫无缘由。
+
+C'est bien la pire peine || 这才是最深的痛苦：
+De ne savoir pourquoi || 不知道为什么，
+Sans amour et sans haine || 没有爱，也没有恨，
+Mon cœur a tant de peine ! || 我的心却如此悲伤！
+@end
+
+@note culture | Le génie d'un petit mot
+1. **« Il pleure »** : normalement, on dit *il pleut* (il = personne, c'est la météo). Verlaine invente **« il pleure »** sur le même modèle : la tristesse tombe sur lui comme la pluie, sans sujet, sans raison.
+2. **« s'écœure »** : *s'écœurer* = se dégoûter. Mais on entend aussi **cœur** dedans : le cœur se dégoûte de lui-même.
+3. **La musique** : *pleure / cœur / langueur / cœur*. Verlaine disait : « De la musique avant toute chose. » Lisez-le à voix haute.
+
+“Il pleure”是魏尔伦仿照“il pleut（下雨）”自创的无人称说法：忧伤像雨一样落下，没有主语，也没有原因。
+@end
+
+@vocab
+langueur | n.f. | lɑ̃.ɡœʁ | 倦怠；忧郁的慵懒 | languor, listlessness | Une douce langueur d'été. | 夏日里一种温柔的慵懒。 | | langoureux · languir | 文学用词。
+pénétrer | v. | pe.ne.tʁe | 进入；渗透 | to penetrate, to enter | La lumière pénètre dans la pièce. | 光线照进了房间。 | | la pénétration | 书面语。
+toit | n.m. | twa | 屋顶 | roof | Il y a un chat sur le toit. | 屋顶上有一只猫。 | sous le même toit · les toits de Paris | |
+chant | n.m. | ʃɑ̃ | 歌声；歌唱 | song, singing | Le chant des oiseaux me réveille. | 鸟鸣声把我叫醒。 | un cours de chant | chanter · une chanson |
+raison | n.f. | ʁɛ.zɔ̃ | 理由；道理 | reason | Tu as raison ! | 你说得对！ | avoir raison · sans raison · pour cette raison | raisonnable | *avoir raison* = 有道理；*avoir tort* = 没道理。
+trahison | n.f. | tʁa.i.zɔ̃ | 背叛 | betrayal | Pour elle, c'est une trahison. | 对她来说，这是一种背叛。 | | trahir · un traître |
+deuil | n.m. | dœj | 哀悼；丧事 | mourning, grief | Elle est en deuil de son père. | 她在为父亲服丧。 | faire son deuil de qqch (= accepter la perte) | endeuillé | *faire son deuil de…* = 接受失去，放下。
+peine | n.f. | pɛn | 痛苦；悲伤；刑罚 | sorrow; penalty | Ça me fait de la peine. | 这让我很难过。 | ce n'est pas la peine (= inutile) · à peine (= presque pas) | pénible | *Ce n'est pas la peine* = 没必要；*à peine* = 几乎不。
+haine | n.f. | ɛn | 仇恨 | hatred | La haine ne résout rien. | 仇恨解决不了任何问题。 | | haïr · haineux | h 是嘘音：*la haine*。
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Le verlan : parler à l'envers | 反语：倒过来说话 | A2
+@deck Le petit frère d'Inès parle une langue secrète. Ce n'est pas une autre langue : c'est le français… à l'envers. || 伊内丝的弟弟说着一种秘密语言。那不是外语：那是倒过来的法语。
+@meta characters=Yanis, Inès; themes=argot, jeunesse, verlan; topics=culture
+[Yanis] Wesh, Inès ! T'as vu la story de Karim ? Il est avec une meuf de ouf. || 嘿，伊内丝！你看到卡里姆的快拍了吗？他跟一个超正的妞在一起。
+[Inès] Une quoi ? || 一个什么？
+[Yanis] Une meuf. Une femme, quoi. Elle est grave stylée. || 一个妞。就是女人嘛。她超有型的。
+[Yanis] Par contre, son pote Lucas… il est un peu chelou, non ? || 不过，他那个哥们卢卡斯……有点怪怪的，是吧？
+[Inès] Lucas n'est pas chelou. Il est… discret. || 卢卡斯不怪。他只是……比较低调。
+[Yanis] Il a laissé son numéro dans un livre, wesh. C'est relou ou c'est romantique, je sais pas. || 他把号码夹在一本书里，喂。这是烦人还是浪漫，我也搞不懂。
+[Inès] Les deux. Et parle normalement, tu me rends vénère. || 两者都是。还有，好好说话，你快把我惹毛了。
+
+@expr
+une meuf | 女人；女朋友 | familier | Verlan de *femme* (fa-meu → meu-fa → meuf). Très courant chez les jeunes. Peut sembler irrespectueux selon le ton. | C'est ma meuf. || 这是我女朋友。
+un keum | 男人；男朋友 | familier | Verlan de *mec*. Moins courant que *meuf*. *Mec* lui-même est familier. | C'est qui, ce keum ? || 那男的是谁？
+ouf | 疯狂的；超厉害的 | familier | Verlan de *fou*. *C'est ouf !* = c'est incroyable. *De ouf* = énorme, génial. | Le concert était ouf ! || 演唱会太疯狂了！
+chelou | 古怪的；可疑的 | familier | Verlan de *louche* (suspect). | Il est chelou, ton voisin. || 你那邻居怪怪的。
+relou | 烦人的 | familier | Verlan de *lourd* (pénible, insistant). Très utile pour décrire un dragueur qui insiste. | Arrête, t'es relou ! || 别闹了，你好烦！
+vénère | 恼火的 | familier | Verlan de *énervé*. | Je suis trop vénère ! || 我气死了！
+zarbi | 奇怪的 | familier | Verlan de *bizarre*. Un peu daté. | C'est zarbi, cette histoire. || 这事真怪。
+Laisse béton ! | 算了吧！ | familier | Verlan de *laisse tomber*. Célèbre grâce à une chanson de Renaud (1977). Aujourd'hui, un peu vintage. | Laisse béton, c'est pas grave. || 算了，没什么大不了的。
+Wesh ! | 嘿！喂！ | familier | Salut très familier des jeunes, d'origine arabe maghrébine. Sert aussi de ponctuation. | Wesh, ça va ? || 嘿，还好吗？
+grave | 超级；非常 | familier | Adverbe d'intensité chez les jeunes : *grave stylé* = très stylé. | Il est grave sympa. || 他人超好。
+@end
+
+@note slang | Comment marche le verlan ?
+On coupe le mot en syllabes, on inverse, on simplifie : *fou → ou-f → **ouf*** ; *lourd → our-l → **relou*** ; *femme → fa-me → **meuf***. Parfois, on remet le verlan en verlan : *arabe → **beur** → **rebeu***. Comprendre le verlan, c'est comprendre les séries, le rap et les ados. L'utiliser à trente ans avec un accent… c'est risqué. Et au bureau : jamais.
+
+反语（verlan）就是把音节倒过来说。听懂它，你就能听懂法国电视剧、说唱和青少年。三十岁带着口音去说……有点冒险。在办公室：绝对不要。
+@end
+
+@vocab
+à l'envers | loc. adv. | a lɑ̃.vɛʁ | 反过来；颠倒 | upside down; inside out; backwards | Ton pull est à l'envers ! | 你的毛衣穿反了！ | | l'envers (n.m.) · ≠ à l'endroit | *Verlan* 这个词本身就是 *l'envers* 倒过来。
+pote | n.m./f. | pɔt | 哥们；朋友 | mate, buddy | C'est mon meilleur pote. | 他是我最好的哥们。 | entre potes | | Familier ; ≈ *copain*.
+discret | adj. | dis.kʁɛ | 低调的；谨慎的 | discreet | Elle est très discrète sur sa vie privée. | 她对自己的私生活非常低调。 | rester discret | discrète (f.) · la discrétion |
+stylé | adj. | sti.le | 有型的；酷的 | stylish, cool | Ta veste est trop stylée ! | 你的外套太酷了！ | | stylée (f.) · le style | Familier, jeunes.
+@end
+
+@badge Le passé, enfin || 终于会说过去 || J'ai raconté mon week-end au passé composé à voix haute.
+@badge Pas de préservatif || 别说错词 || Je connais cinq faux amis et je ne les utilise plus.
+@badge Débatteur || 辩手 || J'ai défendu les deux camps du débat pendant une minute chacun.
+@badge Verlaine || 魏尔伦 || J'ai lu « Il pleure dans mon cœur » à voix haute, en entier.
+@badge Verlan || 反语达人 || Je comprends « c'est ouf », « il est relou » et « je suis vénère ».
