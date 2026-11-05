@@ -1,0 +1,202 @@
+%% ───────── LE PLATEAU 4 ─────────
+@piece plateau | Le futurologue | 未来学家 | B1
+@deck « Ce soir avec Karim », épisode 4. L'invité prédit l'avenir… au conditionnel. Karim a fait des recherches sur ses anciennes prédictions. || 《今晚和卡里姆》第四期。嘉宾预测未来……用的是条件式。卡里姆查了查他过去的预言。
+@meta characters=Karim, le professeur Vidal; setting=plateau de télévision; themes=futur, prédictions, humour, conditionnel; topics=technologie, médias, société
+[Karim] Mon invité de ce soir connaît le futur. C'est son métier. Bonsoir, professeur Vidal, futurologue ! || 今晚的嘉宾知道未来。这是他的职业。晚上好，维达尔教授，未来学家！
+[Vidal] Bonsoir, Karim. Merci de m'avoir invité. || 晚上好，卡里姆。谢谢你邀请我。
+[Karim] Alors, professeur, à quoi ressemblerait la vie en 2050 ? || 那么，教授，2050年的生活会是什么样？
+[Vidal] En 2050, nous ne travaillerions plus que trois jours par semaine. Les robots feraient le reste. || 到2050年，我们每周只需工作三天。剩下的由机器人来做。
+[Karim] Magnifique. Et le week-end ? || 太好了。那周末呢？
+[Vidal] Le week-end durerait quatre jours. Nous voyagerions en voiture volante. || 周末会有四天。我们会坐飞行汽车旅行。
+[Karim] Des voitures volantes ! Vous savez, professeur, j'ai lu vos livres. || 飞行汽车！您知道吗，教授，我读过您的书。
+[Vidal] Ah ? Merci. || 哦？谢谢。
+[Karim] Dans votre livre de 1999, vous écriviez qu'en 2020, nous travaillerions trois jours par semaine et que nous voyagerions en voiture volante. || 在您1999年的书里，您写道，到2020年，我们每周只工作三天，而且会坐飞行汽车旅行。
+Le public rit. || 观众大笑。
+[Vidal] C'est-à-dire que… le futur a pris un peu de retard. || 这个嘛……未来稍微晚点了。
+[Karim] Comme la SNCF. || 就像法国国铁一样。
+[Vidal] Mais cette fois, c'est différent. L'intelligence artificielle changerait tout. || 但这一次不一样了。人工智能将改变一切。
+[Karim] Vous disiez la même chose d'internet en 1999. Et de la télévision, peut-être, en 1950 ? || 您在1999年也是这么说互联网的。1950年说的大概是电视？
+[Vidal] Je n'étais pas né en 1950. || 1950年我还没出生。
+[Karim] Vous l'auriez dit, professeur. Je vous connais. || 您要是出生了也会这么说的，教授。我了解您。
+[Karim] Dernière question : et vous, dans trente ans, vous feriez quoi ? || 最后一个问题：那您呢，三十年后您会做什么？
+[Vidal] Je serais toujours futurologue. C'est le seul métier où on ne vérifie jamais vos résultats. || 我还会是未来学家。这是唯一一个从来没人核对你结果的职业。
+[Karim] Sauf moi. || 除了我。
+
+@note funny | L'humour du conditionnel
+Le conditionnel est le temps de l'**incertain** : le futurologue l'utilise pour prédire sans s'engager. Karim, lui, utilise l'**imparfait** et des **dates précises** pour rappeler que les prédictions passées étaient fausses. Et la dernière pique (*Vous l'auriez dit*) est au **conditionnel passé** : ce que quelqu'un aurait fait dans une situation qui n'a pas eu lieu.
+
+条件式是“不确定”的时态：未来学家用它来做预测而不必负责。卡里姆则用未完成过去时和具体日期，提醒大家过去的预言都错了。最后那句“您要是出生了也会这么说的”用的是条件式过去时。
+@end
+
+@vocab
+futurologue | n.m./f. | fy.ty.ʁɔ.lɔɡ | 未来学家 | futurologist | | | | le futur |
+prédire | v. | pʁe.diʁ | 预言 | to predict | Personne ne peut prédire l'avenir. | 没人能预知未来。 | | p.p. prédit · une prédiction | 注意：*vous prédisez*（不是 *prédites*）。
+robot | n.m. | ʁɔ.bo | 机器人 | robot | Un robot aspirateur. | 扫地机器人。 | | la robotique |
+volant | adj. / n.m. | vɔ.lɑ̃ | 飞行的；方向盘 | flying; steering wheel | Tiens bien le volant ! | 握紧方向盘！ | une voiture volante · être au volant | volante (f.) · voler |
+c'est-à-dire | loc. | sɛ.ta.diʁ | 也就是说；这个嘛…… | that is to say; well… | Il est parti, c'est-à-dire qu'il a démissionné. | 他走了，也就是说他辞职了。 | | | 口语中也用来拖延、找借口：*C'est-à-dire que…*
+s'engager | v. pron. | sɑ̃.ɡa.ʒe | 承诺；投入 | to commit | Il ne veut pas s'engager. | 他不想做出承诺。 | s'engager dans une relation | l'engagement | 感情用语：*Il a peur de s'engager* = 他害怕承诺。
+pique | n.f. | pik | 讥讽；挖苦话 | dig, jibe | Il m'a lancé une pique. | 他挖苦了我一句。 | lancer une pique | piquer |
+@end
+
+%% ───────── LE DÉBAT ─────────
+@piece debat | L'IA va-t-elle voler nos emplois ? | 人工智能会抢走我们的工作吗？ | B1
+@deck Lucas construit des IA. Wei dessine des logos qu'une IA peut produire en trois secondes. Ils ne sont pas d'accord. || 卢卡斯在打造人工智能。张伟设计的标志，人工智能三秒钟就能生成。他们意见不一。
+@meta characters=Lucas, Wei; themes=intelligence artificielle, travail, avenir; topics=technologie, travail, économie
+@h « Oui, et il faut s'y préparer » : Wei, graphiste || “会的，必须为此做好准备”：张伟，平面设计师
+Il y a deux ans, un client me payait trois jours pour créer un logo. Aujourd'hui, il me demande pourquoi je ne le fais pas en trois heures, « avec l'IA ». || 两年前，一个客户会付我三天的钱来设计一个标志。现在，他问我为什么不“用人工智能”三小时搞定。
+On nous dit que l'IA va seulement « aider ». Pourtant, quand une machine fait le travail de dix personnes, on ne garde pas dix personnes. || 有人说人工智能只是“辅助”。然而，当一台机器能干十个人的活时，谁也不会留着这十个人。
+Les traducteurs, les illustrateurs, les rédacteurs : beaucoup voient déjà leurs revenus baisser. || 翻译、插画师、文案：很多人已经看到自己的收入在下降。
+Je ne dis pas qu'il faut arrêter la technologie. Je dis qu'il ne faut pas être naïf. || 我不是说要叫停技术。我是说不能太天真。
+Si les gouvernements ne font rien, les gains iront à quelques entreprises, et les pertes à tout le monde. || 如果政府什么都不做，收益会流向少数几家公司，而损失则由所有人承担。
+
+@h « Non, elle va changer nos métiers » : Lucas, ingénieur || “不会，它会改变我们的职业”：卢卡斯，工程师
+Je comprends la peur de Wei. Mais l'histoire montre autre chose. || 我理解张伟的担心。但历史告诉我们的是另一回事。
+Quand les tableurs sont arrivés, on a dit que les comptables allaient disparaître. Ils sont toujours là. Leur travail a changé. || 电子表格出现时，人们说会计会消失。他们现在还在。只是他们的工作变了。
+D'ailleurs, l'IA fait beaucoup d'erreurs. Elle a besoin de personnes qui savent juger, choisir, corriger. || 再说，人工智能会犯很多错误。它需要懂得判断、选择、纠错的人。
+Ce qui disparaît, ce sont des tâches, pas forcément des métiers. || 消失的是任务，不一定是职业。
+Il n'empêche que Wei a raison sur un point : la transition sera douloureuse pour certains. Il faudra former, accompagner, protéger. || 尽管如此，张伟有一点是对的：对一些人来说，转型会很痛苦。我们需要培训、陪伴和保护。
+
+@note source | Ce que disent les études
+Les économistes ne sont pas d'accord entre eux. Certaines études estiment qu'une grande partie des emplois sera **exposée** à l'IA générative ; « exposé » ne veut pas dire « supprimé ». L'effet réel dépendra des entreprises, des lois et de la formation. Méfiez-vous des titres de presse trop sûrs d'eux, dans un sens comme dans l'autre.
+
+经济学家们自己也意见不一。一些研究估计，很大一部分工作将“受到”生成式人工智能的影响，但“受影响”不等于“被取代”。实际影响取决于企业、法律和培训。对那些过于笃定的新闻标题——无论哪个方向——都要保持警惕。
+@end
+
+@vocab
+pourtant | adv. | puʁ.tɑ̃ | 然而；可是 | yet, however | Il est riche, et pourtant il n'est pas heureux. | 他很有钱，可他并不快乐。 | | | B1 核心连接词：表示与预期相反。
+illustrateur | n.m. | i.lys.tʁa.tœʁ | 插画师 | illustrator | | | | illustratrice (f.) · illustrer · une illustration |
+revenu | n.m. | ʁəv.ny | 收入 | income | Le revenu moyen a augmenté. | 平均收入提高了。 | les revenus · le revenu universel | revenir | TCF 高频：*l'impôt sur le revenu* = 个人所得税。
+naïf | adj. | na.if | 天真的 | naive | Ne sois pas naïf. | 别太天真了。 | | naïve (f.) · la naïveté |
+gain | n.m. | ɡɛ̃ | 收益；获得 | gain, profit | Un gain de temps. | 节省时间。 | | gagner · ≠ une perte |
+perte | n.f. | pɛʁt | 损失 | loss | C'est une perte de temps. | 这是浪费时间。 | | perdre |
+tableur | n.m. | ta.blœʁ | 电子表格软件 | spreadsheet | J'utilise un tableur pour mon budget. | 我用电子表格做预算。 | | un tableau |
+comptable | n.m./f. | kɔ̃.tabl | 会计 | accountant | Notre comptable est en vacances. | 我们的会计在休假。 | | la comptabilité · compter |
+transition | n.f. | tʁɑ̃.zi.sjɔ̃ | 过渡；转型 | transition | La transition écologique. | 生态转型。 | | |
+douloureux | adj. | du.lu.ʁø | 痛苦的 | painful | Une rupture douloureuse. | 一次痛苦的分手。 | | douloureuse (f.) · la douleur |
+former | v. | fɔʁ.me | 培训；形成 | to train; to form | L'entreprise forme ses employés. | 公司培训员工。 | | la formation |
+exposé | adj. | ɛks.po.ze | 暴露于；受……影响 | exposed | Ce métier est exposé à l'automatisation. | 这个职业容易受到自动化的影响。 | | exposée (f.) · exposer · une exposition |
+@end
+
+@expr
+Pourtant | 然而 | neutre | Contraste avec ce qu'on attendait. | Il pleut. Pourtant, la météo annonçait du soleil. || 下雨了。可天气预报说是晴天。
+Il ne faut pas être naïf. | 不能太天真。 | neutre | Pour introduire un avertissement réaliste. | Il ne faut pas être naïf : ce n'est pas gratuit. || 别天真了：这可不是免费的。
+Dans un sens comme dans l'autre | 无论哪个方向 | neutre | Pour montrer qu'on reste équilibré. | Il ne faut pas exagérer, dans un sens comme dans l'autre. || 无论哪个方向，都不要夸大。
+@end
+
+%% ───────── AMOUR ─────────
+@piece amour | L'amour à distance : six heures de décalage | 异地恋：六个小时的时差 | B1
+@deck Quand il est 22 heures à Paris, il est 16 heures à Montréal. Comment s'aimer avec un océan au milieu ? Ce que disent les couples qui ont essayé. || 巴黎晚上十点时，蒙特利尔是下午四点。中间隔着一片大洋，该怎么相爱？试过的情侣们这样说。
+@meta themes=distance, couple, communication, confiance; topics=relations
+Une relation à distance, ce n'est pas une relation « en pause ». C'est une relation différente. || 异地恋不是一段“暂停”的感情。它是一段不一样的感情。
+Les couples qui y arrivent disent souvent la même chose : il faut une date. || 能坚持下来的情侣常常说同样的话：必须要有一个日期。
+Une date de retrouvailles, une date de fin de la distance. Sans date, l'attente devient un tunnel sans lumière. || 一个重逢的日期，一个结束异地的日期。没有日期，等待就会变成一条没有光的隧道。
+Ensuite, il faut des rituels. Un appel le dimanche, un film regardé « ensemble », chacun devant son écran. || 其次，需要一些仪式。每个星期天打一个电话，各自对着屏幕“一起”看一部电影。
+Mais attention au piège : se parler toute la journée par messages peut fatiguer. La qualité compte plus que la quantité. || 但要小心陷阱：整天发消息聊天会让人疲惫。质量比数量更重要。
+Il faut aussi accepter de ne pas tout partager. L'autre a une vie là-bas, avec des amis que vous ne connaissez pas. || 还要接受不能分享一切。对方在那边有自己的生活，有你不认识的朋友。
+La distance teste une seule chose, au fond : la confiance. || 说到底，距离只考验一件事：信任。
+Et Marie, qui découvre la jalousie en voyant Lucas avec sa propre sœur, se demande si elle survivrait à six mille kilomètres. || 而玛丽，一个看见卢卡斯和他亲妹妹在一起都会吃醋的人，不禁怀疑自己能否撑过六千公里的距离。
+
+@versions Dire « tu me manques » de loin : cinq façons
+NEUTRE || J'ai hâte d'être en juin. || 好想快点到六月。 || On parle de la date : on regarde vers l'avant. 谈论日期：向前看。
+FAMILIER || T'es où, là ? Envoie-moi une photo de ta rue. || 你现在在哪儿？给我拍张你那条街的照片。 || Partager le quotidien, sans grands mots. 分享日常，不说大话。
+JOUEUR || Ton côté du lit commence à se croire chez lui. || 你那半边床开始以为它是主人了。 || L'humour pour dire l'absence. 用幽默说出思念。
+ROMANTIQUE || Ici, il est minuit. Je regarde la lune en me disant que tu la verras dans six heures. || 这里是午夜。我看着月亮，想着六个小时后你也会看到它。 || Le décalage horaire devient poétique. 把时差变成诗意。
+HONNÊTE || Ce soir, la distance est dure. J'avais juste besoin de te le dire. || 今晚，距离好难熬。我只是需要告诉你。 || Dire la difficulté, sans reproche. 说出困难，不带责备。
+@end
+
+@vocab
+retrouvailles | n.f.pl. | ʁə.tʁu.vaj | 重逢 | reunion | Les retrouvailles à l'aéroport. | 在机场重逢。 | | se retrouver |
+tunnel | n.m. | ty.nɛl | 隧道 | tunnel | La lumière au bout du tunnel. | 隧道尽头的光。 | | |
+quantité | n.f. | kɑ̃.ti.te | 数量 | quantity | En grande quantité. | 大量地。 | | |
+au fond | loc. adv. | o fɔ̃ | 说到底；其实 | basically, deep down | Au fond, il est gentil. | 其实他人很好。 | au fond de… (= 在……深处) | le fond |
+survivre | v. | syʁ.vivʁ | 幸存；挺过 | to survive | Il a survécu à l'accident. | 他在事故中幸存下来。 | survivre à qqch | p.p. survécu · la survie · un survivant |
+lune | n.f. | lyn | 月亮 | moon | La lune est pleine ce soir. | 今晚是满月。 | la pleine lune · la lune de miel (= 蜜月) | lunaire | *être dans la lune* = 心不在焉。
+@end
+
+@rappel Les doubles pronoms | 双宾语代词的顺序 | B1 | 16
+Ordre : **me / te / se / nous / vous** → **le / la / les** → **lui / leur** → **y** → **en**. *Il me le dit. Je le lui ai dit. Je vous en donne.*
+= Tu **me l'**as caché trois semaines. — Je **le lui** dirai demain. || 你瞒了我三个星期。——我明天会告诉他的。
+@end
+
+%% ───────── PSYCHOLOGIE ─────────
+@piece psycho | « J'ai déjà investi cinq ans » : le piège des coûts irrécupérables | “我已经投入了五年”：沉没成本陷阱 | B1
+@deck Vous restez dans un film nul parce que vous avez payé le billet. Vous restez dans une relation malheureuse parce que « ça fait cinq ans ». Même erreur. || 你坐在一部烂片前不走，因为票已经买了。你留在一段不幸福的感情里，因为“已经五年了”。同样的错误。
+@meta themes=biais cognitifs, décision, relations; topics=psychologie, argent
+Imaginez. Vous avez acheté un billet de concert à quatre-vingts euros. Le soir du concert, vous êtes malade et il neige. || 想象一下。你花八十欧买了一张音乐会的票。演出当晚，你生病了，外面还下着雪。
+Vous y allez quand même. « J'ai payé, je ne vais pas gâcher quatre-vingts euros. » || 你还是去了。“我都付钱了，不能浪费这八十欧。”
+Mais l'argent est déjà perdu, que vous y alliez ou non. La seule question est : est-ce que ce soir sera meilleur au concert ou dans votre lit ? || 可钱已经花出去了，无论你去不去。唯一的问题是：今晚是在音乐会上更好，还是在床上更好？
+En 1985, deux psychologues, Hal Arkes et Catherine Blumer, ont posé une question à des étudiants. || 1985年，两位心理学家哈尔·阿克斯和凯瑟琳·布卢默向学生们提了一个问题。
+Vous avez réservé un week-end de ski à cent dollars, puis un autre, plus agréable, à cinquante dollars. Par erreur, c'est le même week-end. Lequel choisissez-vous ? || 你预订了一个一百美元的滑雪周末，后来又订了一个更好玩、只要五十美元的。不小心，两个是同一个周末。你选哪个？
+La majorité a choisi le plus cher… alors qu'ils savaient que l'autre serait plus agréable. || 大多数人选了更贵的那个……尽管他们知道另一个会更开心。
+C'est le biais des coûts irrécupérables : on continue parce qu'on a déjà investi, pas parce que c'est la meilleure option. || 这就是沉没成本偏误：我们之所以继续，是因为已经投入了，而不是因为这是最好的选择。
+
+Ce biais coûte cher dans la vie. Des années dans un métier qu'on n'aime plus. Des projets qui ne marchent pas. Des couples qui ne rendent plus personne heureux. || 这种偏误在生活中代价高昂。在一份已经不再喜欢的工作里耗上几年。抓着行不通的项目不放。维持着一段已经不能让任何人快乐的感情。
+Le bon réflexe est une question au conditionnel : « Si je repartais de zéro aujourd'hui, est-ce que je choisirais encore ça ? » || 正确的反应是问自己一个条件式的问题：“如果今天从零开始，我还会选择这个吗？”
+Si la réponse est oui : continuez, avec plus d'énergie. Si c'est non : le passé n'est pas une raison. || 如果答案是会：继续，并投入更多精力。如果答案是不会：过去不是理由。
+
+@vocab
+investir | v. | ɛ̃.vɛs.tiʁ | 投资；投入 | to invest | Il a investi toutes ses économies. | 他投入了所有积蓄。 | investir du temps | un investissement · un investisseur |
+irrécupérable | adj. | i.ʁe.ky.pe.ʁabl | 无法挽回的 | unrecoverable | Les coûts irrécupérables. | 沉没成本。 | | récupérer |
+quand même | loc. adv. | kɑ̃ mɛm | 还是；毕竟 | anyway, still | Il pleut, mais je sors quand même. | 下雨了，但我还是要出门。 | | | 口语高频：*Quand même !* = 真是的！太过分了吧！
+gâcher | v. | ɡɑ.ʃe | 浪费；糟蹋 | to waste; to spoil | Tu gâches ton talent. | 你在浪费你的天赋。 | gâcher la soirée | le gâchis |
+majorité | n.f. | ma.ʒɔ.ʁi.te | 大多数 | majority | La majorité des gens est d'accord. | 大多数人都同意。 | | majoritaire · ≠ la minorité |
+biais | n.m. | bjɛ | 偏误；斜角 | bias | Un biais cognitif. | 认知偏误。 | par le biais de (= 通过) | | *par le biais de* = 借助、通过。
+réflexe | n.m. | ʁe.flɛks | 反射；本能反应 | reflex | Il a eu le bon réflexe. | 他的第一反应很对。 | | |
+repartir de zéro | loc. v. | ʁə.paʁ.tiʁ də ze.ʁo | 从零开始 | to start from scratch | Après le divorce, elle est repartie de zéro. | 离婚后，她从零开始。 | | |
+@end
+
+%% ───────── PHILOSOPHIE ─────────
+@piece philo | Le voile d'ignorance | 无知之幕 | B1
+@deck Imaginez que vous deviez inventer une société… sans savoir si vous y naîtriez riche ou pauvre, homme ou femme, en bonne santé ou malade. Que choisiriez-vous ? || 想象一下，你要设计一个社会……却不知道自己会生在其中是富是穷，是男是女，是健康还是有病。你会怎么选？
+@meta characters=John Rawls; themes=justice, société, inégalités, expérience de pensée; topics=philosophie, société
+En 1971, le philosophe américain John Rawls a proposé une expérience de pensée devenue célèbre. || 1971年，美国哲学家约翰·罗尔斯提出了一个后来闻名于世的思想实验。
+Imaginez que vous deviez écrire les règles d'une nouvelle société. Les impôts, l'école, la santé, le travail. || 想象一下，你要为一个新社会制定规则。税收、学校、医疗、工作。
+Mais il y a une condition : vous êtes derrière un « voile d'ignorance ». || 但有一个条件：你站在一道“无知之幕”的后面。
+Vous ne savez pas qui vous serez dans cette société. Vous pourriez être riche ou pauvre. Né ici ou immigré. En bonne santé ou handicapé. || 你不知道自己在这个社会里会是谁。你可能富有，也可能贫穷。可能生在本地，也可能是移民。可能健康，也可能残疾。
+Quelles règles choisiriez-vous ? || 你会选择什么样的规则？
+Selon Rawls, une personne raisonnable ne prendrait pas le risque d'une société très injuste. Car elle pourrait se retrouver tout en bas. || 罗尔斯认为，一个理性的人不会冒险选择一个非常不公的社会。因为他自己可能会落到最底层。
+Elle choisirait d'abord les mêmes libertés pour tous. || 他首先会选择人人享有同样的自由。
+Ensuite, elle accepterait des inégalités seulement si elles amélioraient aussi la situation des plus défavorisés. || 其次，他只会接受那些同时能改善最弱势群体处境的不平等。
+On peut ne pas être d'accord avec Rawls. Mais son idée est un outil puissant. || 你可以不同意罗尔斯。但他的想法是一个有力的工具。
+La prochaine fois que vous défendez une règle, faites le test : la défendriez-vous si vous étiez de l'autre côté ? || 下次当你为某条规则辩护时，做个测试：如果你站在另一边，你还会为它辩护吗？
+
+@vocab
+expérience de pensée | n.f. | ɛks.pe.ʁjɑ̃s də pɑ̃s | 思想实验 | thought experiment | | | | |
+ignorance | n.f. | i.ɲɔ.ʁɑ̃s | 无知 | ignorance | L'ignorance n'est pas une excuse. | 无知不是借口。 | | ignorer · ignorant |
+impôt | n.m. | ɛ̃.po | 税 | tax | Je paie mes impôts en mai. | 我五月交税。 | l'impôt sur le revenu · les impôts | imposable | 见 N°10 报税。
+handicapé | adj. / n. | ɑ̃.di.ka.pe | 残疾的 | disabled | L'accès est adapté aux personnes handicapées. | 通道适合残障人士使用。 | une personne en situation de handicap | le handicap | 更礼貌的说法：*une personne en situation de handicap*。
+injuste | adj. | ɛ̃.ʒyst | 不公正的 | unfair | C'est injuste ! | 这不公平！ | | l'injustice · ≠ juste |
+inégalité | n.f. | i.ne.ɡa.li.te | 不平等 | inequality | Les inégalités augmentent. | 不平等在加剧。 | | inégal · ≠ l'égalité |
+améliorer | v. | a.me.ljɔ.ʁe | 改善 | to improve | Il faut améliorer les conditions de travail. | 必须改善工作条件。 | s'améliorer | l'amélioration · meilleur |
+défavorisé | adj. | de.fa.vɔ.ʁi.ze | 弱势的；贫困的 | disadvantaged | Les quartiers défavorisés. | 贫困街区。 | | défavorisée (f.) · ≠ favorisé |
+outil | n.m. | u.ti | 工具 | tool | Une boîte à outils. | 一个工具箱。 | | l'outillage | 发音 /u.ti/，l 不发音。
+@end
+
+%% ───────── IDÉES QUI DÉRANGENT ─────────
+@piece idees | L'argent fait-il le bonheur ? Oui. Et non. | 金钱能带来幸福吗？能。也不能。 | B1
+@deck Pendant dix ans, une étude a dit : au-delà d'un certain salaire, le bonheur ne monte plus. Puis d'autres chercheurs ont dit le contraire. Puis ils se sont réunis. || 十年间，一项研究认为：收入超过一定水平后，幸福感不再上升。后来其他研究者提出了相反的看法。再后来，他们坐到了一起。
+@meta themes=argent, bonheur, science, nuance; topics=argent, psychologie, société
+« L'argent ne fait pas le bonheur », dit le proverbe. Les psychologues ont voulu vérifier. || 俗话说：“金钱买不来幸福。”心理学家们想验证一下。
+En 2010, Daniel Kahneman, prix Nobel d'économie, et Angus Deaton ont publié une étude très célèbre. || 2010年，诺贝尔经济学奖得主丹尼尔·卡尼曼和安格斯·迪顿发表了一项非常著名的研究。
+Selon eux, aux États-Unis, le bien-être émotionnel augmentait avec le revenu… jusqu'à environ 75 000 dollars par an. Au-delà, il ne montait presque plus. || 他们认为，在美国，情绪幸福感随着收入增长而上升……直到年收入约七万五千美元。超过这个数，就几乎不再上升了。
+L'idée a fait le tour du monde : au-delà d'un certain niveau, gagner plus ne rend pas plus heureux. || 这个观点传遍了全世界：超过一定水平后，挣得更多并不会让人更快乐。
+Mais en 2021, un jeune chercheur, Matthew Killingsworth, a trouvé autre chose : avec d'autres méthodes, le bonheur continuait à monter, même pour les hauts revenus. || 但在2021年，一位年轻研究者马修·基林斯沃思得出了不同的结论：用其他方法测量，幸福感一直在上升，即使对高收入者也是如此。
+Au lieu de se disputer, les chercheurs ont fait quelque chose de rare : ils ont travaillé ensemble. || 这些研究者没有互相争吵，而是做了一件少见的事：他们一起合作。
+Leur conclusion commune, en 2023 : pour la plupart des gens, plus d'argent va avec un peu plus de bonheur. || 他们在2023年得出的共同结论是：对大多数人来说，钱越多，幸福也会多一点。
+Mais pour les personnes les plus malheureuses, le bonheur arrête de monter au-delà d'un certain revenu. L'argent règle certains problèmes… pas tous. || 但对于最不快乐的那部分人，收入超过一定水平后，幸福感就不再增加。钱能解决一些问题……但不是所有问题。
+Donc, l'argent fait-il le bonheur ? Il aide. Surtout quand il manque. || 那么，金钱能带来幸福吗？它有帮助。尤其是在缺钱的时候。
+Mais il ne répare pas une solitude, un deuil ou un travail qui n'a pas de sens. || 但它修补不了孤独、丧亲之痛，或者一份没有意义的工作。
+
+@note source | Les sources
+Daniel Kahneman et Angus Deaton, *PNAS*, 2010. Matthew A. Killingsworth, *PNAS*, 2021. Matthew A. Killingsworth, Daniel Kahneman et Barbara Mellers, « Income and emotional well-being: A conflict resolved », *PNAS*, 2023.
+@end
+
+@vocab
+proverbe | n.m. | pʁɔ.vɛʁb | 谚语 | proverb | Comme dit le proverbe… | 正如俗话所说…… | | proverbial |
+bien-être | n.m. | bjɛ̃.nɛtʁ | 幸福感；舒适 | well-being | Le bien-être au travail. | 职场幸福感。 | | |
+augmenter | v. | ɔɡ.mɑ̃.te | 增加 | to increase | Les loyers augmentent chaque année. | 房租每年都在涨。 | | une augmentation |
+au lieu de | loc. prép. | o ljø də | 代替；而不是 | instead of | Au lieu de te plaindre, agis ! | 别抱怨了，行动吧！ | | le lieu |
+commun | adj. | kɔ.mœ̃ | 共同的；普通的 | common, shared | Nous avons des amis communs. | 我们有共同的朋友。 | en commun · le bon sens commun | commune (f.) |
+régler | v. | ʁe.ɡle | 解决；调整；付款 | to settle; to adjust; to pay | On va régler ce problème. | 我们会解决这个问题。 | régler l'addition · régler un conflit | le règlement | *régler par carte* = 刷卡付款。
+réparer | v. | ʁe.pa.ʁe | 修理；弥补 | to repair, to fix | Il faut réparer la fuite. | 得修一下漏水。 | réparer une erreur | la réparation |
+@end

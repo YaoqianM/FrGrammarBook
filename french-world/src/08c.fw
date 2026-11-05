@@ -1,0 +1,126 @@
+%% ───────── SCIENCE ─────────
+@piece science | Et si on vivait sur Mars ? | 如果我们住在火星上？ | B1
+@deck Des milliardaires promettent des villes sur Mars. Faisons le test : à quoi ressemblerait votre premier jour là-bas ? || 一些亿万富翁许诺要在火星上建城市。我们来试一试：你在那里的第一天会是什么样子？
+@meta themes=espace, Mars, conditions de vie; topics=science, environnement, technologie
+Imaginons que vous partiez pour Mars. Le voyage durerait entre six et neuf mois, dans un vaisseau pas plus grand qu'un appartement. || 假设你要去火星。旅程将持续六到九个月，飞船不比一套公寓大。
+Et vous ne pourriez pas changer d'avis : les fenêtres de lancement entre la Terre et Mars n'arrivent qu'environ tous les vingt-six mois. || 而且你不能反悔：地球和火星之间的发射窗口，大约每二十六个月才出现一次。
+À votre arrivée, il ferait froid : environ moins soixante degrés en moyenne. || 到达时，会很冷：平均气温约零下六十度。
+L'air serait irrespirable : l'atmosphère de Mars est composée à environ quatre-vingt-quinze pour cent de dioxyde de carbone. || 空气无法呼吸：火星大气约百分之九十五是二氧化碳。
+Elle est aussi beaucoup plus fine : sans combinaison, votre sang se mettrait à bouillir. || 它也稀薄得多：不穿宇航服，你的血液就会沸腾。
+Vous pèseriez beaucoup moins : la gravité sur Mars représente environ trente-huit pour cent de celle de la Terre. || 你的体重会轻很多：火星上的重力约为地球的百分之三十八。
+Une journée martienne durerait à peu près vingt-quatre heures et quarante minutes. Ce serait la seule chose familière. || 火星上的一天大约是二十四小时四十分钟。这会是唯一熟悉的东西。
+Sans la protection d'une atmosphère épaisse, les radiations seraient un danger permanent. Il faudrait sans doute vivre sous terre. || 没有厚厚的大气层保护，辐射会成为一种持续的危险。很可能必须住在地下。
+Alors, pourquoi aller sur Mars ? Pour la science, pour l'aventure, pour avoir un « plan B » si la Terre allait mal. || 那么，为什么要去火星？为了科学，为了冒险，为了在地球出问题时有一个“B计划”。
+Mais beaucoup de scientifiques répondent : la planète la plus facile à habiter, c'est encore la nôtre. Prenons-en soin. || 但许多科学家回答说：最容易居住的星球，仍然是我们自己的。好好爱护它吧。
+
+@vocab
+vaisseau | n.m. | vɛ.so | 飞船；船舰；血管 | vessel; spaceship | Un vaisseau spatial. | 一艘宇宙飞船。 | un vaisseau sanguin (= 血管) | des vaisseaux |
+lancement | n.m. | lɑ̃s.mɑ̃ | 发射；发布 | launch | Le lancement de la fusée. | 火箭发射。 | le lancement d'un produit | lancer |
+irrespirable | adj. | i.ʁɛs.pi.ʁabl | 无法呼吸的；令人窒息的 | unbreathable; stifling | L'ambiance est irrespirable. | 气氛令人窒息。 | | respirer |
+dioxyde de carbone | n.m. | di.ɔk.sid də kaʁ.bɔn | 二氧化碳 | carbon dioxide | | | le CO₂ | |
+combinaison | n.f. | kɔ̃.bi.nɛ.zɔ̃ | 连体服；组合 | suit; combination | Une combinaison de ski. | 一套连体滑雪服。 | | combiner |
+bouillir | v. | bu.jiʁ | 沸腾 | to boil | L'eau bout à cent degrés. | 水在一百度沸腾。 | | il bout · l'ébullition | 口语 *Je bous !* = 我气炸了！
+gravité | n.f. | ɡʁa.vi.te | 重力；严重性 | gravity; seriousness | La gravité de la situation. | 形势的严重性。 | | grave |
+familier | adj. | fa.mi.lje | 熟悉的；口语的 | familiar; informal | Ce visage m'est familier. | 这张脸我很眼熟。 | un mot familier | familière (f.) | 本书的语域标签 *familier* = 口语。
+épais | adj. | e.pɛ | 厚的 | thick | Un brouillard épais. | 浓雾。 | | épaisse (f.) · l'épaisseur |
+permanent | adj. | pɛʁ.ma.nɑ̃ | 永久的；持续的 | permanent | Un poste permanent. | 一个长期职位。 | | permanente (f.) · en permanence |
+planète | n.f. | pla.nɛt | 行星 | planet | Sauver la planète. | 拯救地球。 | | planétaire |
+@end
+
+@rappel L'impératif avec un pronom | 带代词的命令式 | B1 | 20
+À l'impératif **affirmatif**, le pronom va **après** le verbe, avec un tiret : *prenons-**en** soin, dis-**le**-moi, donne-**le**-lui*. **me / te** deviennent **moi / toi**. À l'impératif **négatif**, ordre normal : *ne **le** dis pas*.
+= Prenons-**en** soin. — Dis-**le-moi**. — Ne **me** le cache plus. || 好好爱护它吧。——告诉我。——别再瞒着我了。
+@end
+
+%% ───────── POÉSIE ─────────
+@piece poesie | L'Invitation au voyage | 邀游 | B1
+@deck Charles Baudelaire, 1857. Un homme imagine un pays où il vivrait avec la femme qu'il aime. Le poème le plus doux des *Fleurs du mal*. Domaine public. || 夏尔·波德莱尔，1857年。一个男人想象着他与所爱之人共同生活的国度。《恶之花》中最温柔的一首诗。已进入公有领域。
+@meta characters=Charles Baudelaire; themes=voyage, amour, rêve; topics=littérature, culture
+@poem L'Invitation au voyage (première strophe et refrain) | Charles Baudelaire, Les Fleurs du mal (1857)
+Mon enfant, ma sœur, || 我的孩子，我的姐妹，
+Songe à la douceur || 想一想那甜蜜：
+D'aller là-bas vivre ensemble ! || 去那边一起生活！
+Aimer à loisir, || 尽情地爱，
+Aimer et mourir || 爱着，直到死去，
+Au pays qui te ressemble ! || 在那与你相似的国度！
+Les soleils mouillés || 那些湿润的太阳，
+De ces ciels brouillés || 在那些朦胧的天空里，
+Pour mon esprit ont les charmes || 对我的心灵有着
+Si mystérieux || 多么神秘的魅力，
+De tes traîtres yeux, || 就像你那诡谲的双眼，
+Brillant à travers leurs larmes. || 透过泪水闪闪发光。
+
+Là, tout n'est qu'ordre et beauté, || 那里，只有秩序与美，
+Luxe, calme et volupté. || 奢华、宁静与欢愉。
+@end
+
+@note culture | Lire Baudelaire
+1. **« Mon enfant, ma sœur »** : Baudelaire mélange l'amour, la tendresse et la complicité. La femme aimée est aussi une compagne d'âme.
+2. **Le conditionnel caché** : le poème ne décrit pas un vrai pays. C'est un pays **imaginaire**, un « et si… ». Le mot *songe* (= imagine, rêve) l'annonce.
+3. **« Luxe, calme et volupté »** : ce refrain est devenu une expression française. Le peintre Henri Matisse en a fait le titre d'un célèbre tableau (1904).
+4. **Le rythme** : des vers de cinq et sept syllabes, qui se balancent comme un bateau.
+
+“我的孩子，我的姐妹”：爱情、柔情与默契融为一体。这首诗描绘的不是真实的国度，而是一个想象的“如果”。副歌“奢华、宁静与欢愉”已成为法语名句，马蒂斯曾以此为一幅名画命名。
+@end
+
+@vocab
+songer | v. | sɔ̃.ʒe | 想；梦想（书面） | to think of; to dream | Il songe à partir. | 他在考虑离开。 | songer à qqch | un songe (= 梦) | 书面语。日常说 *penser à*。
+douceur | n.f. | du.sœʁ | 温柔；甜美 | sweetness, gentleness | Avec douceur. | 温柔地。 | | doux |
+à loisir | loc. adv. | a lwa.ziʁ | 尽情地；从容地 | at leisure | On peut se promener à loisir. | 可以尽情地散步。 | | le loisir |
+brouillé | adj. | bʁu.je | 模糊的；闹翻的 | blurred; on bad terms | Ils sont brouillés depuis un an. | 他们闹翻一年了。 | des œufs brouillés | brouillée (f.) · le brouillard | *des œufs brouillés* = 炒鸡蛋。
+charme | n.m. | ʃaʁm | 魅力 | charm | Elle a beaucoup de charme. | 她很有魅力。 | | charmant |
+mystérieux | adj. | mis.te.ʁjø | 神秘的 | mysterious | Un homme mystérieux. | 一个神秘的男人。 | | mystérieuse (f.) · le mystère |
+traître | adj. / n. | tʁɛtʁ | 背叛的；叛徒 | treacherous; traitor | | | | traîtresse (f.) · la trahison |
+larme | n.f. | laʁm | 眼泪 | tear | Elle a les larmes aux yeux. | 她眼里含着泪。 | fondre en larmes | larmoyant |
+volupté | n.f. | vɔ.lyp.te | 欢愉；感官享受 | sensual pleasure | | | | voluptueux |
+@end
+
+%% ───────── BELLES PHRASES ─────────
+@piece phrases | « Et si on… ? » : proposer, imaginer, séduire | “要不我们……？”：提议、想象、打动人心 | B1
+@deck Le conditionnel est l'arme secrète des propositions irrésistibles. Six manières de dire « faisons quelque chose ensemble ». || 条件式是让提议令人无法拒绝的秘密武器。六种说“我们一起做点什么吧”的方式。
+@meta themes=proposition, imagination, séduction; topics=relations, travail
+@versions Proposer quelque chose : six façons
+NEUTRE || Et si on allait au cinéma ce soir ? || 要不我们今晚去看电影？ || *Et si* + imparfait : la proposition la plus naturelle. 最自然的提议句式。
+FAMILIER || Ça te dirait, un resto vendredi ? || 星期五去餐馆，你觉得怎么样？ || Court, léger, facile à refuser. 简短轻松，对方也容易拒绝。
+JOUEUR || Imagine : toi, moi, une plage déserte, et aucun réseau. || 想象一下：你，我，一片无人的海滩，还没有手机信号。 || On fait rêver avant de proposer. 先让对方憧憬，再提出建议。
+ROMANTIQUE || J'aimerais te montrer un endroit que personne ne connaît. || 我想带你去一个没人知道的地方。 || Le conditionnel + le mystère. 条件式加上一点神秘感。
+PROFESSIONNEL || Que diriez-vous d'un rendez-vous jeudi pour en discuter ? || 星期四约个时间谈谈，您看如何？ || Formel, élégant, parfait par mail. 正式而优雅，适合邮件。
+AUDACIEUX || Et si on arrêtait de se poser des questions, et qu'on prenait un billet pour Montréal ? || 要不我们别再想那么多了，直接买张去蒙特利尔的票？ || Pour les grandes décisions. Avec un sourire et le cœur qui bat. 适合重大决定。带着微笑，心怦怦跳。
+@end
+
+@vocab
+irrésistible | adj. | i.ʁe.zis.tibl | 无法抗拒的 | irresistible | Ce gâteau est irrésistible. | 这个蛋糕让人无法抗拒。 | | résister |
+désert | adj. / n.m. | de.zɛʁ | 无人的；沙漠 | deserted; desert | Une plage déserte. | 一片无人的海滩。 | | déserte (f.) | 注意拼写：*désert* ≠ *dessert*（甜点）。
+endroit | n.m. | ɑ̃.dʁwa | 地方 | place, spot | C'est un endroit magnifique. | 这是个很美的地方。 | | | 注意：*à l'endroit* = 正面朝外（衣服）。
+audacieux | adj. | o.da.sjø | 大胆的 | bold, daring | Une idée audacieuse. | 一个大胆的想法。 | | audacieuse (f.) · l'audace |
+@end
+
+%% ───────── EXPRESSIONS ─────────
+@piece expr | Avec des si… : les expressions de l'imaginaire | 要是……：关于想象的表达 | B1
+@deck « Avec des si, on mettrait Paris en bouteille. » Une collection d'expressions pour rêver, douter… et revenir sur terre. || “要是‘要是’管用，巴黎都能装进瓶子里。”一组用来做梦、怀疑……再回到现实的表达。
+@meta themes=hypothèse, proverbes; topics=culture
+[Marie] Si j'avais su, je n'aurais jamais pris ce bus. || 早知道，我就不坐那趟公交了。
+[Inès] Avec des si, on mettrait Paris en bouteille. || 要是“早知道”有用，巴黎都能装进瓶子里了。
+[Marie] Si ça se trouve, il va partir sans moi. || 说不定，他会丢下我自己走。
+[Inès] Et si jamais il part, tu fais quoi ? || 那万一他真走了，你怎么办？
+[Marie] Je ne sais pas. Je fais comme si de rien n'était ? || 我不知道。假装什么都没发生？
+[Inès] Toi ? Jamais de la vie. || 你？想都别想。
+
+@expr
+Avec des si, on mettrait Paris en bouteille. | 要是“如果”管用，巴黎都能装进瓶子里 | familier | Proverbe : inutile de refaire le passé avec des hypothèses. | — Si j'avais acheté cet appart en 2010… — Avec des si, on mettrait Paris en bouteille. || ——要是我2010年买了那套房……——要是“如果”管用，巴黎都能装进瓶子里。
+Si ça se trouve… | 说不定…… | familier | Pour une possibilité, souvent inquiétante ou surprenante. | Si ça se trouve, il ne viendra pas. || 说不定他不会来了。
+Et si jamais… ? | 万一……呢？ | familier | *Si jamais* = au cas où, si par hasard. | Prends un parapluie, si jamais il pleut. || 带把伞，万一下雨呢。
+Comme si de rien n'était | 若无其事 | neutre | Faire semblant que rien ne s'est passé. | Il est revenu comme si de rien n'était. || 他若无其事地回来了。
+Si tu le dis… | 你说是就是吧…… | familier | Ironique : je ne te crois pas vraiment. | — Je n'ai rien mangé ! — Si tu le dis… || ——我什么都没吃！——你说是就是吧……
+Si jeunesse savait, si vieillesse pouvait. | 年轻人若有见识，老年人若有力气 | soutenu | Proverbe : les jeunes manquent d'expérience, les vieux de force. | |
+Au cas où | 以防万一 | neutre | *Au cas où* + conditionnel : *au cas où tu aurais faim*. | Je te laisse mon numéro, au cas où. || 我把号码留给你，以防万一。
+On ne sait jamais. | 谁知道呢；以防万一 | neutre | Pour justifier une précaution. | Prends ta veste, on ne sait jamais. || 带上外套，谁知道呢。
+Tant qu'à faire… | 既然要做，不如…… | familier | Puisqu'on fait cette chose, autant la faire bien. | Tant qu'à partir, partons loin ! || 既然要走，不如走远点！
+Si j'avais su… | 早知道…… | neutre | Le regret le plus classique (plus-que-parfait). | Si j'avais su, je serais venu plus tôt. || 早知道，我就早点来了。
+@end
+
+@badge Le jeu du conditionnel || 条件式游戏 || J'ai parlé deux minutes seulement au conditionnel (« Si j'habitais à Montréal… »).
+@badge Négociateur || 谈判高手 || J'ai répété les quatre étapes de Marie pour demander quelque chose.
+@badge Voile d'ignorance || 无知之幕 || J'ai testé une de mes opinions « de l'autre côté ».
+@badge Luxe, calme et volupté || 奢华、宁静与欢愉 || J'ai appris le refrain de Baudelaire par cœur.
+@badge Plan B || B计划 || J'ai regardé les sites officiels d'immigration du Canada ou du Québec.
