@@ -1,27 +1,37 @@
 # Repetition & vocabulary-tracking report · 重复与词汇追踪报告
 
-- New vocabulary entries: **388** (review cards: 0)
+- New vocabulary entries: **798** (review cards: 0)
 - Duplicate headwords introduced as *new* twice: **0**
-- Words that reappear later in the reading texts (approximate form matching): **110 / 388 (28 %)**; three times or more: 45
+- Words that reappear later in the reading texts (approximate form matching): **401 / 798 (50 %)**; three times or more: 221
 - Duplicate piece titles: 0 
-- Identical Spanish sentences (>25 chars) appearing twice or more: 0
+- Identical Spanish sentences (>25 chars) appearing twice or more: 1
+  - Disculpe… Creo que se le cayó el celular.
 
 ## Characters
 
-- María: 8 pieces (Obertura, N.º 1, N.º 2, N.º 3)
-- Wei: 6 pieces (N.º 1, N.º 2, N.º 3)
-- Lucas: 5 pieces (Obertura, N.º 1, N.º 2, N.º 3)
-- Inés: 4 pieces (N.º 1, N.º 2, N.º 3)
-- Rafa: 4 pieces (N.º 1, N.º 2, N.º 3)
-- el mesero: 2 pieces (Obertura, N.º 1)
-- la señora Robles: 1 pieces (N.º 1)
+- María: 24 pieces (Obertura, N.º 1, N.º 2, N.º 3, N.º 4, N.º 5, N.º 6, N.º 7, N.º 8, N.º 9, N.º 10, N.º 11, N.º 12)
+- Wei: 22 pieces (N.º 1, N.º 2, N.º 3, N.º 4, N.º 5, N.º 6, N.º 8, N.º 9, N.º 10, N.º 11, N.º 12, N.º 13)
+- Lucas: 20 pieces (Obertura, N.º 1, N.º 2, N.º 3, N.º 4, N.º 5, N.º 6, N.º 7, N.º 8, N.º 9, N.º 10, N.º 11, N.º 12, N.º 13)
+- Rafa: 15 pieces (N.º 1, N.º 2, N.º 3, N.º 4, N.º 5, N.º 6, N.º 7, N.º 8, N.º 9, N.º 10, N.º 11, N.º 12)
+- Inés: 13 pieces (N.º 1, N.º 2, N.º 3, N.º 4, N.º 5, N.º 7, N.º 9, N.º 11, N.º 12)
+- Camila: 7 pieces (N.º 4, N.º 6, N.º 7, N.º 10, N.º 12)
+- la señora Robles: 5 pieces (N.º 1, N.º 8, N.º 9, N.º 10, N.º 11)
+- el mesero: 3 pieces (Obertura, N.º 1, N.º 9)
+- abuela Juana: 3 pieces (N.º 3, N.º 6)
+- Sofía: 3 pieces (N.º 5, N.º 9)
+- Montaigne: 2 pieces (N.º 1, N.º 6)
+- Teo (ausente): 2 pieces (N.º 4, N.º 5)
+- Antonio Machado: 2 pieces (N.º 4, N.º 7)
+- Toño: 2 pieces (N.º 4, N.º 9)
+- Tomás: 2 pieces (N.º 6, N.º 11)
+- Jean-Paul Sartre: 2 pieces (N.º 7, N.º 9)
+- Simone de Beauvoir: 2 pieces (N.º 7, N.º 9)
 - la mesera: 1 pieces (N.º 1)
 - un señor: 1 pieces (N.º 1)
 - la mujer: 1 pieces (N.º 1)
 - Lucía: 1 pieces (N.º 1)
 - don Tomás: 1 pieces (N.º 1)
 - Churro (el gato): 1 pieces (N.º 1)
-- Montaigne: 1 pieces (N.º 1)
 - La Boétie: 1 pieces (N.º 1)
 - Nadia: 1 pieces (N.º 2)
 - Hugo: 1 pieces (N.º 2)
@@ -39,56 +49,118 @@
 - Clara: 1 pieces (N.º 3)
 - Epicuro: 1 pieces (N.º 3)
 - Alba (IA): 1 pieces (N.º 3)
-- abuela Juana: 1 pieces (N.º 3)
+- Lucas (ausente): 1 pieces (N.º 4)
+- Ximena: 1 pieces (N.º 4)
+- Armando: 1 pieces (N.º 4)
+- Lucía (ausente): 1 pieces (N.º 4)
+- el agente: 1 pieces (N.º 4)
+- la propietaria: 1 pieces (N.º 4)
+- Leo: 1 pieces (N.º 4)
+- Sara: 1 pieces (N.º 4)
+- Mateo: 1 pieces (N.º 4)
+- Sócrates: 1 pieces (N.º 4)
+- León: 1 pieces (N.º 5)
+- la licenciada Gómez: 1 pieces (N.º 5)
+- el equipo: 1 pieces (N.º 5)
+- la asesora: 1 pieces (N.º 5)
+- Brandon: 1 pieces (N.º 5)
+- Epicteto: 1 pieces (N.º 5)
+- Ignacio (ausente): 1 pieces (N.º 6)
+- Paola: 1 pieces (N.º 6)
+- Pedro Durán: 1 pieces (N.º 6)
+- la doctora: 1 pieces (N.º 6)
+- Florencia: 1 pieces (N.º 7)
+- el señor Kessler: 1 pieces (N.º 7)
+- Diego: 1 pieces (N.º 7)
+- la funcionaria: 1 pieces (N.º 7)
+- Simón Fischer: 1 pieces (N.º 7)
+- Daniela: 1 pieces (N.º 8)
+- Adrián: 1 pieces (N.º 8)
+- el profesor Vidal: 1 pieces (N.º 8)
+- John Rawls: 1 pieces (N.º 8)
+- Gustavo Adolfo Bécquer: 1 pieces (N.º 8)
+- Lina: 1 pieces (N.º 9)
+- la madre: 1 pieces (N.º 9)
+- el médico: 1 pieces (N.º 9)
+- la doctora Bravo: 1 pieces (N.º 9)
+- la maestra Díaz: 1 pieces (N.º 9)
+- Marco: 1 pieces (N.º 9)
+- Los Amigos: 1 pieces (N.º 9)
+- Sor Juana Inés de la Cruz: 1 pieces (N.º 9)
+- Teo (mencionado): 1 pieces (N.º 10)
+- Gerardo: 1 pieces (N.º 10)
+- Ofelia: 1 pieces (N.º 10)
+- Blaise Pascal: 1 pieces (N.º 10)
+- Bastián: 1 pieces (N.º 10)
+- Garcilaso de la Vega: 1 pieces (N.º 10)
+- Cleo: 1 pieces (N.º 10)
+- Antonio: 1 pieces (N.º 11)
+- Lía: 1 pieces (N.º 11)
+- Voltaire: 1 pieces (N.º 11)
+- Jean Calas: 1 pieces (N.º 11)
+- Evelyn Beatrice Hall: 1 pieces (N.º 11)
+- el licenciado Del Moral: 1 pieces (N.º 11)
+- Federico García Lorca: 1 pieces (N.º 11)
+- la camarera: 1 pieces (N.º 12)
+- Nora: 1 pieces (N.º 12)
+- Malik: 1 pieces (N.º 12)
+- Albert Camus: 1 pieces (N.º 12)
+- Sísifo: 1 pieces (N.º 12)
+- don Memo: 1 pieces (N.º 12)
+- Pablo Neruda: 1 pieces (N.º 12)
+- Elena Morín: 1 pieces (N.º 13)
+- Pablo (mencionado): 1 pieces (N.º 13)
+- Miguel de Cervantes: 1 pieces (N.º 13)
+- don Quijote: 1 pieces (N.º 13)
 
 ## Settings & themes
 
-- Settings: Ciudad de México (9), café (3), departamento (2), bar (2), Madrid (2), metro (2), agencia (2), foro de televisión (2), Condesa (1), Lavapiés (1), Burdeos (1), siglo XVI (1), Guadalajara (1), mercado de Coyoacán (1), Puebla (1), consultorio médico (1), escuela (1), Atenas (1)
-- Themes: humor (5), amistad (5), soledad (3), ciudad (3), amor (3), encuentro (2), choque cultural (2), saludos (2), registro (2), emociones (2), diferencias culturales (2), migración (2), idioma (2), oral (2), invitación (2), entrevista de trabajo (1), confianza en uno mismo (1), trabajo (1), duda (1), cortesía (1), juegos de palabras (1), humor absurdo (1), presentaciones (1), ligar (1), señales (1), vecinos (1), imitación (1), valor (1), acción (1), miedo al error (1), cerebro (1), aprendizaje (1), llegada (1), conversación (1), mensajes (1), tuteo (1), azar (1), bondad (1), el tiempo que pasa (1), orientación (1), transporte (1), edad (1), sabiduría (1), respuestas rápidas (1), cumplidos (1), seducción (1), tiempo (1), dinero (1), sentido de la vida (1), luz (1), física (1), lazos (1), anonimato (1), retraso (1), primera cita (1), primer beso (1), ex (1), apps de citas (1), mentira (1), honestidad (1), presentación (1), examen oral (1), salud (1), teléfono (1), escuela (1), rechazo (1), sentimientos (1), felicidad (1), deseo (1), inteligencia artificial (1), espera (1), groserías (1)
+- Settings: Ciudad de México (25), Madrid (9), foro de televisión (8), café (6), departamento (6), agencia Taller Norte (4), metro (3), agencia (3), París (3), bar (2), Atenas (2), oficina (2), Veracruz (2), Francia (2), Condesa (1), Lavapiés (1), Burdeos (1), siglo XVI (1), Guadalajara (1), mercado de Coyoacán (1), Puebla (1), consultorio médico (1), escuela (1), autobús (1), Oaxaca (1), farmacia (1), departamento de Rafa (1), Santa Fe (1), banco (1), Roma (1), Nicópolis (1), consultorio (1), videollamada Ciudad de México–Madrid (1), Europa (1), 1580 (1), diciembre (1), restaurante (1), Buenos Aires (1), San Telmo (1), DGT (1), Argentina (1), departamento de Lucas (1), Mexicali (1), hospital (1), 1949 (1), España (1), cine de barrio (1), siglo XVII (1), colonia Roma (1), 1970-1971 (1), boda (1), Valle de Bravo (1), siglo XVIII (1), Malasaña (1), startup (1), Argelia (1), 1942 (1), La Mancha (1)
+- Themes: humor (16), amor (11), migración (10), memoria (9), trabajo (8), amistad (8), tiempo (8), comunicación (7), elección (7), examen (7), felicidad (5), inteligencia artificial (5), trámites (5), respeto (5), pareja (5), libertad (5), idioma (4), oral (4), ciudad (4), nostalgia (4), expresiones idiomáticas (4), arrepentimiento (4), sociedad (4), cortesía (3), registro (3), soledad (3), emociones (3), seducción (3), sentido de la vida (3), ex (3), mentira (3), salud (3), confianza (3), celos (3), viaje (3), argumentación (3), justicia (3), ruptura (3), madurez (3), retórica (3), lectura (3), encuentro (2), choque cultural (2), juegos de palabras (2), saludos (2), vecinos (2), diferencias culturales (2), acción (2), mensajes (2), invitación (2), azar (2), sabiduría (2), dinero (2), primera cita (2), honestidad (2), presentación (2), escuela (2), rechazo (2), espera (2), amor perdido (2), vivienda (2), malentendidos (2), tecnología (2), entrevista (2), relato (2), infancia (2), cultura de empresa (2), manipulación (2), ironía (2), estoicismo (2), control (2), familia (2), huida (2), secreto (2), conflicto (2), música (2), neurociencia (2), prioridades (2), productividad (2), matices (2), carrera (2), futuro (2), distancia (2), imaginación (2), escrito formal (2), subjuntivo (2), pantallas (2), conflictos (2), hipocresía (2), duelo (2), disculpas (2), sentido (2), atención (2), sinceridad (2), escritura (2), modelos (2), entrevista de trabajo (1), confianza en uno mismo (1), duda (1), humor absurdo (1), presentaciones (1), ligar (1), señales (1), imitación (1), valor (1), miedo al error (1), cerebro (1), aprendizaje (1), llegada (1), conversación (1), tuteo (1), bondad (1), el tiempo que pasa (1), orientación (1), transporte (1), edad (1), respuestas rápidas (1), cumplidos (1), luz (1), física (1), lazos (1), anonimato (1), retraso (1), primer beso (1), apps de citas (1), examen oral (1), teléfono (1), sentimientos (1), deseo (1), groserías (1), infidelidad (1), cartas (1), falsos amigos (1), debate (1), primera impresión (1), efecto halo (1), preguntas (1), ignorancia (1), sueño (1), recuerdos falsos (1), testigos (1), lluvia (1), jerga (1), juventud (1), fiesta (1), sátira (1), juntas (1), búsqueda de empleo (1), banco (1), sarcasmo (1), pasión (1), competencia (1), hábitos (1), procrastinación (1), motivación (1), lenguaje (1), libertad interior (1), límites (1), comunicación profesional (1), rutina (1), correo profesional (1), perdón (1), primera noche (1), sueños (1), síntomas (1), español de España (1), campo (1), estilo de vida (1), ghosting (1), recuerdos (1), exilio (1), curiosidad (1), bosque (1), hongos (1), controversia científica (1), cambio (1), mar (1), regreso (1), malentendido (1), sordera (1), empatía (1), licencia (1), conducción (1), cultura mexicana (1), vida privada (1), inseguridad (1), satisfacción (1), maximizadores (1), mala fe (1), existencialismo (1), enojo (1), injusticia (1), dopamina (1), mortalidad (1), camino (1), opinión (1), cuerpo (1), destino (1), negociación (1), sueldo (1), asertividad (1), predicciones (1), condicional (1), sesgos cognitivos (1), decisión (1), relaciones (1), desigualdad (1), experimento mental (1), ciencia (1), espacio (1), Marte (1), condiciones de vida (1), poesía (1), ilusión (1), propuesta (1), hipótesis (1), refranes (1), sacrificio (1), retroalimentación (1), queja (1), interculturalidad (1), sobrentendidos (1), adolescentes (1), desamor (1), resiliencia (1), necesidades (1), feminismo (1), discapacidad (1), dolor social (1), mujeres (1), crítica (1), malas noticias (1), tacto (1), expresiones fijas (1), invierno (1), fin de una época (1), impuestos (1), ahorro (1), tiempo libre (1), jubilación (1), historia social (1), inacción (1), distracción (1), aburrimiento (1), condición humana (1), percepción del tiempo (1), novedad (1), motivaciones (1), carpe diem (1), belleza (1), tiempo que pasa (1), mirada (1), trabajo invisible (1), presente (1), autonomía (1), hablar en público (1), timidez (1), hermanos (1), autenticidad (1), estructura (1), comercio (1), arte (1), moral (1), cultura de la cancelación (1), persuasión (1), influencia (1), ética (1), tolerancia (1), libertad de expresión (1), citas falsas (1), hablar sin decir nada (1), política (1), carta (1), declaración (1), lingüística (1), cognición (1), relatividad lingüística (1), misterio (1), color (1), vida social (1), elocuencia (1), palabra (1), reencuentro (1), círculo (1), lucidez (1), integración (1), contactos (1), voluntariado (1), renta básica (1), IA (1), justicia social (1), muerte (1), adaptación (1), gratitud (1), experiencias (1), absurdo (1), rebeldía (1), medición (1), estadística (1), observación (1), despedida (1), agradecimiento (1), discurso (1), registros (1), variación (1), español de México y de España (1), traducción (1), intraducible (1), lentitud (1), velocidad (1), creación (1), derechos de autor (1), literatura (1), lengua (1), identidad (1), ley (1), México (1), locura (1), conectores (1), registro culto (1), DELE (1), SIELE (1), estrategia (1), escucha (1), organización (1)
 
 ## Most revisited words
 
-- celular (A1, Obertura Un encuentro inesperado): 11 later occurrences in 4 pieces
-- soler (A1, N.º 1 «¿Vienes seguido por aquí?»): 11 later occurrences in 6 pieces
-- bufanda (A1, Obertura Un encuentro inesperado): 8 later occurrences in 3 pieces
-- salir (A1, Obertura Un encuentro inesperado): 6 later occurrences in 5 pieces
-- sol (A1, Obertura Un encuentro inesperado): 6 later occurrences in 4 pieces
-- llevar (A1, Obertura Un encuentro inesperado): 6 later occurrences in 4 pieces
-- nadar (A1, N.º 1 Cinco chistes para empezar): 6 later occurrences in 6 pieces
-- nada (A1, N.º 1 Cinco chistes para empezar): 6 later occurrences in 6 pieces
-- nuevo (A1, N.º 1 Saludar con estilo): 6 later occurrences in 6 pieces
-- conocer (A1, N.º 1 Saludar con estilo): 6 later occurrences in 5 pieces
-- nadie (A1, N.º 1 Saludar con estilo): 6 later occurrences in 6 pieces
-- invitar (A1, N.º 1 «¿Vienes seguido por aquí?»): 6 later occurrences in 4 pieces
-- mañana (A1, N.º 1 Primera mañana): 6 later occurrences in 5 pieces
-- mejilla (A1, N.º 1 Saludar con estilo): 5 later occurrences in 3 pieces
-- casarse (A1, N.º 2 Los mensajes): 5 later occurrences in 3 pieces
-- verdad (A1, N.º 2 Doña Rosa, 91 años, influencer): 5 later occurrences in 3 pieces
-- empezar (A1, N.º 1 El libro olvidado): 4 later occurrences in 4 pieces
-- dejar (A1, N.º 1 El libro olvidado): 4 later occurrences in 3 pieces
-- raro (A1, N.º 1 El libro olvidado): 4 later occurrences in 3 pieces
-- saludar (A1, N.º 1 En el café: guía de supervivencia): 4 later occurrences in 3 pieces
-- caro (A1, N.º 1 En el café: guía de supervivencia): 4 later occurrences in 3 pieces
-- pelo (A1, N.º 1 «¿Vienes seguido por aquí?»): 4 later occurrences in 1 pieces
-- perfecto (A1, N.º 1 Nadie está listo nunca): 4 later occurrences in 3 pieces
-- crear (A1, N.º 1 Tu cerebro tiene hambre): 4 later occurrences in 3 pieces
-- vivir (A1, N.º 2 Una ciudad es su gente): 4 later occurrences in 3 pieces
-- mole (A1, N.º 2 Los mensajes): 4 later occurrences in 1 pieces
-- tardar (A1, N.º 2 Los mensajes): 4 later occurrences in 2 pieces
-- otro (A1, N.º 2 Línea 2, ocho y cuarto): 4 later occurrences in 4 pieces
-- esperar (B1, Obertura Un encuentro inesperado): 3 later occurrences in 3 pieces
-- frase (A1, N.º 1 Todas las primeras veces): 3 later occurrences in 2 pieces
-- cita (A1, N.º 1 Todas las primeras veces): 3 later occurrences in 3 pieces
-- chiste (A1, N.º 1 Todas las primeras veces): 3 later occurrences in 1 pieces
-- noticia (A1, N.º 1 El libro olvidado): 3 later occurrences in 2 pieces
-- barra (A1, N.º 1 En el café: guía de supervivencia): 3 later occurrences in 2 pieces
-- barro (A1, N.º 1 En el café: guía de supervivencia): 3 later occurrences in 2 pieces
-- cuenta (A1, N.º 1 En el café: guía de supervivencia): 3 later occurrences in 3 pieces
-- volver (A1, N.º 1 El gato del vecino): 3 later occurrences in 3 pieces
-- silencio (A1, N.º 1 El gato del vecino): 3 later occurrences in 2 pieces
-- aprender (A1, N.º 1 El poder de una sonrisa): 3 later occurrences in 2 pieces
-- desconocido (A1, N.º 1 El poder de una sonrisa): 3 later occurrences in 3 pieces
+- otro (A1, N.º 2 Línea 2, ocho y cuarto): 83 later occurrences in 60 pieces
+- soler (A1, N.º 1 «¿Vienes seguido por aquí?»): 66 later occurrences in 52 pieces
+- nadar (A1, N.º 1 Cinco chistes para empezar): 63 later occurrences in 40 pieces
+- nada (A1, N.º 1 Cinco chistes para empezar): 63 later occurrences in 40 pieces
+- solo (A1, N.º 2 Solo entre veinte millones de personas): 60 later occurrences in 48 pieces
+- saber (A1, N.º 1 Primera mañana): 58 later occurrences in 39 pieces
+- dejar (A1, N.º 1 El libro olvidado): 45 later occurrences in 38 pieces
+- vivir (A1, N.º 2 Una ciudad es su gente): 43 later occurrences in 35 pieces
+- parecer (A1, N.º 1 El poder de una sonrisa): 41 later occurrences in 32 pieces
+- mañana (A1, N.º 1 Primera mañana): 39 later occurrences in 32 pieces
+- celular (A1, Obertura Un encuentro inesperado): 38 later occurrences in 23 pieces
+- casarse (A1, N.º 2 Los mensajes): 36 later occurrences in 25 pieces
+- salir (A1, Obertura Un encuentro inesperado): 33 later occurrences in 22 pieces
+- conocer (A1, N.º 1 Saludar con estilo): 33 later occurrences in 25 pieces
+- frase (A1, N.º 1 Todas las primeras veces): 32 later occurrences in 26 pieces
+- mejor (A1, N.º 3 Foto de perfil): 32 later occurrences in 22 pieces
+- nadie (A1, N.º 1 Saludar con estilo): 31 later occurrences in 26 pieces
+- volver (A1, N.º 1 El gato del vecino): 29 later occurrences in 26 pieces
+- verdad (A1, N.º 2 Doña Rosa, 91 años, influencer): 29 later occurrences in 25 pieces
+- sobre (A2, N.º 6 La carta en la pared): 28 later occurrences in 25 pieces
+- miedo (A1, N.º 1 ¿Qué es un amigo?): 25 later occurrences in 17 pieces
+- tardar (A1, N.º 2 Los mensajes): 25 later occurrences in 20 pieces
+- público (A1, N.º 2 Doña Rosa, 91 años, influencer): 24 later occurrences in 14 pieces
+- empezar (A1, N.º 1 El libro olvidado): 23 later occurrences in 19 pieces
+- cuenta (A1, N.º 1 En el café: guía de supervivencia): 23 later occurrences in 20 pieces
+- aprender (A1, N.º 1 El poder de una sonrisa): 23 later occurrences in 18 pieces
+- sentirse (A1, N.º 2 Solo entre veinte millones de personas): 23 later occurrences in 19 pieces
+- sentir (A1, N.º 3 Lo que sentimos): 23 later occurrences in 19 pieces
+- llevar (A1, Obertura Un encuentro inesperado): 22 later occurrences in 19 pieces
+- esperar (B1, Obertura Un encuentro inesperado): 22 later occurrences in 18 pieces
+- nuevo (A1, N.º 1 Saludar con estilo): 22 later occurrences in 17 pieces
+- crear (A1, N.º 1 Tu cerebro tiene hambre): 22 later occurrences in 21 pieces
+- respuesta (A1, N.º 3 Pepito, el peor alumno del país): 22 later occurrences in 18 pieces
+- bajarse (A1, N.º 2 Tomar el metro sin perderse): 21 later occurrences in 15 pieces
+- sol (A1, Obertura Un encuentro inesperado): 20 later occurrences in 16 pieces
+- silencio (A1, N.º 1 El gato del vecino): 20 later occurrences in 16 pieces
+- idioma (A1, N.º 1 Primera mañana): 20 later occurrences in 15 pieces
+- mano (A1, N.º 3 Pepito, el peor alumno del país): 20 later occurrences in 14 pieces
+- cita (A1, N.º 1 Todas las primeras veces): 19 later occurrences in 14 pieces
+- gustar (A1, N.º 3 Lo que sentimos): 19 later occurrences in 14 pieces
 
 ## Words not yet revisited (candidates for reuse in later issues)
 
-colonia, hacer frío, chamarra, nervioso, oler, sentarse, todavía, concha, fijarse en, resbalarse, dudar, agacharse, recoger, caérsele algo a alguien, reírse, librería de viejo, trabarse, echar un vistazo, darse cuenta, hacerse tarde, de un trago, guardar, pluma, estar a mano, tener prisa, bastante, de memoria, reclutador, necesariamente, admitir, tener ganas de, tener confianza en uno mismo, voltear, entender, lectura, redacción, sonar, cerrar, compañero de departamento, enfermero, festejar, doler, vacío, medianoche, marcar, repetir, taza, canela, costar, propina, incluido, ¡Provecho!, campeón, buceo, pez, en medio, distraído, rodilla, roto, fiesta, ligar, seguido, servir, mandil, mirada, estudiante, ascensor, rascar, nevar, acomodarse, sofá, collar, dar de comer, mentir, jamón, trocito, en brazos, zapatillas, triste, lo siento, manzanilla, sonreír, copiar, seguro, feliz, coqueto, listo, hacer falta, error, intentar, sobre todo, siglo, castillo, famoso, muerte, útil, explicación, porque sí, cerebro, pesar, energía, millón, reforzar, sueño, movimiento, de aquí, edificio, convertirse en, despertarse, buró, pensar, felicidades, fantasma, hablarse de tú, pantalla, bloquear, lo mío, compartir, camión, pila, llover, parada, urgente, cargar, licencia de manejo, carro, voz, en algún lugar, estación, línea, bajarse, subirse, pasillo, seguir, letrero, transbordo, salida, hora pico, vagón, barato, afuera, coger, acercar, extender, tapatío, labio, país, abrazo, palmada, estar de acuerdo, chocar, nariz, conducir, programa, foro, horrible, seguidor, postre, casado, arrepentirse, duro, cumplido, regalo, incomodar, saco, quedar bien, contar, interesante, lindo, factura, dinero, ganar, para siempre, pedir prestado, multimillonario, a cambio de, relacionado, suficiente, fila, pegado, habitante, sentirse, conocido, pronto, coro, clase, esfuerzo, cielo, luz, contener, atravesar, encontrarse con, rebotar, atardecer, sensible, zorro, domesticar, publicar, traducir, significar, el uno para el otro, lo esencial, invisible, zapato, puerta, abrirse, respirar, sentir, falso, temprano, fresa, desaparecer, de golpe, recomendar, dulce, bajito, banca, serio, quitar, moverse, besarse, saber a, apagar, app, feo, espejo, levantar la vista, soltar una carcajada, ojeras, roncar, filtro, nacionalidad, suroeste, diseñador, creativo, especialidad, picante, proyecto, tiempo libre, recordar, acordarse de, consultorio, garganta, fiebre, paciente, deletrear, tarde, traer, identificación, indispensable, alumno, maestro, correr, manzana, mano, respuesta, soltero, novio, antojarse, insistir, caer bien, emoción, manejar, decepcionado, celoso, vergüenza, agotado, felicidad, poder, riqueza, sueldo, computadora, toser, calentamiento global, sentimiento, grosería, plato, peor
+hacer frío, oler, fijarse en, caérsele algo a alguien, reírse, librería de viejo, trabarse, echar un vistazo, darse cuenta, hacerse tarde, de un trago, pluma, estar a mano, tener prisa, tener ganas de, tener confianza en uno mismo, sonar, compañero de departamento, festejar, doler, canela, propina, ¡Provecho!, buceo, en medio, distraído, rodilla, mandil, rascar, acomodarse, collar, dar de comer, jamón, trocito, en brazos, zapatillas, manzanilla, copiar, coqueto, hacer falta, porque sí, reforzar, de aquí, despertarse, buró, felicidades, fantasma, hablarse de tú, bloquear, pila, parada, licencia de manejo, en algún lugar, letrero, transbordo, hora pico, coger, extender, tapatío, labio, abrazo, palmada, seguidor, quedar bien, lindo, pedir prestado, multimillonario, a cambio de, coro, encontrarse con, rebotar, atardecer, sensible, zorro, domesticar, el uno para el otro, lo esencial, invisible, fresa, banca, saber a, espejo, soltar una carcajada, ojeras, roncar, filtro, suroeste, creativo, especialidad, picante, acordarse de, deletrear, indispensable, manzana, antojarse, caer bien, decepcionado, calentamiento global, guardia, poner el cuerno, audífonos, corbata, marcha, andén, ropero, recibo de nómina, aval, fianza, preservativo, excitado, embarazada, dar pena, impresión, sabio, justicia, veneno, ordenar, limpieza, testigo, oportunidad, a escondidas, aventar, despedirse, agendar, votar, trayectoria, reto, cuenta de débito, préstamo, a plazos, historial, guiñar, ¡Guácala!, atorado, fracaso, de inmediato, adivinar, confiable, depender de, pleito, marinero, perdonar, empapado, papel tapiz, capa, latoso, volar, justificante, guay, finde, hueva, pasársela bien, chispa, nostalgia, soldado, bosque, hongo, raíz, alma, ilusión, semáforo, latir, tenedor, tapones, canjear, carné, rotonda, tope, impuntual, basarse en, amenaza, mermelada, paradoja, mala fe, charola, condenado, rabia, adicción, disminuir, ansiedad, angustia, senda, estela, pudrirse, buscador, abogado, despacho, ascenso, hipoteca, disparejo, consulado, empadronarse, cita previa, residencia, aumento, presupuesto, predecir, volador, contador, almohada, invertir, costo hundido, sesgo, velo, desigualdad, desfavorecido, nave, hervir, gravedad, pupila, aliviado, billete, asentir, tumor, tratamiento, retroalimentación, agregar, rehacer, filtración, inquilino, recámara, humedad, a la mayor brevedad, engañar, porción, terapeuta, atrapar, cara a cara, desintoxicarse, curación, rencor, pacto, escándalo, expectativa, muñeca, entrenador, discapacidad, borracho, juez, rechazo, antepasado, sanar, necio, convento, advertir, burlarse de, proyeccionista, reposición, impermeable, inmobiliaria, declaración de la renta, Hacienda, residente fiscal, gestor, ahorro, desplomarse, flojo, dispuesto, jubilación, pensión, año sabático, albañil, a corto plazo, testimonio, coincidir, desgracia, diversión, liebre, desviar, esnob, ensueño, rendirse, envejecer, gruñón, rutina, comprimir, entreabierto, aprecio, azucena, marchitar, mudanza, jabón, charco, trabajadora del hogar, tender, jacaranda, alianza, alcanzar, papitas, tinta, platicador, reparto, prender, estética, refrán, doble sentido, obra maestra, pertenecer, prestigio, callar a alguien, de incógnito, reciprocidad, escasez, coherente, intolerancia, incansable, naufragio, terremoto, subsecretario, balance, cantinflear, evasivo, anticuado, fruncir el ceño, nuca, manía, moldear, hormiga, rama, cintura, baranda, cortesía, hipocresía, cómplice, prever, ladrillo, ¿Qué te pongo?, calefacción, callos, certeza, lanzamiento, derramarse, voluntariado, recién llegado, por las malas, renta básica, red de seguridad, desempleado, vulnerable, susurrar, siniestro, desperdiciar, Día de Muertos, cinta de correr, gratitud, cima, rebeldía, clasificar, escalón, reservado, temporada, oficio, jinete, dar la espalda, gastado, brindar, vaquita, preciarse de, partitura, solemne, acoger, nota al pie, cabe + inf., predicar, repartidor, ceguera, editorial, ahora bien, borroso, ensamblar, censo, lengua indígena, discriminación, tribunal, por arte de magia, hidalgo, caballero andante, perder el juicio, a fuerza de, apto, caducar, puntuación, convocatoria, hueco, administrar, pavimento, a cargo de, gratuidad, decretar, contestador, vía, molestia, dirigirse a, conciliar, desconexión, víspera, en blanco

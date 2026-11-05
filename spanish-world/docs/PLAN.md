@@ -103,3 +103,11 @@ list: trabajo, vivienda, migración, salud, dinero, economía, sociedad, medio a
 transporte, justicia, administración, medios, cultura, relaciones, psicología, consumo, ciencia.
 The exam section is `@issue DELE | DELE | …`. Part-of-speech labels: `s. m.`, `s. f.`, `v.`, `v. prnl.`, `adj.`,
 `adv.`, `loc.`, `interj.`, `prep.`, `conj.`, `pron.`.
+
+## 8. Production status
+
+- **Done:** front matter, Obertura, N.º 1–13, DELE · SIELE section, full back matter. 564 pages, 189 pieces,
+  2,153 aligned rows, 798 vocabulary entries, 190 expressions, 53 grammar reminders, 0 duplicate headwords.
+- N.º 1–3 have full vocabulary cards; from N.º 4 on (written under a tighter budget) cards are shorter (3–7 per piece).
+- Source files: `00-front`, `01a/01b`, `02a/02b`, `03a/03b`, `04`–`13` (one file per issue), `14-dele`.
+- `tools/locate.py` falls back on the PDF's named destinations when a marker is not found in the extracted text.

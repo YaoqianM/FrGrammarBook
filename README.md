@@ -8,6 +8,10 @@ A ~220-page French grammar book in **French, English and Chinese** (法·英·�
 
 A dark-mode French ⇄ Chinese reading magazine for iPad, with a serial love story, stories, humour, talk-show parodies, debates, philosophy, practical life in Paris and Montréal, and 1,700+ vocabulary cards. The complete magazine (A1 → B2 + C1 bonus + TCF section, ≈ 710 pages): **[`french-world/The_French_World.pdf`](french-world/The_French_World.pdf)** · details in [`french-world/README.md`](french-world/README.md).
 
+## 📰 *The Spanish World* — the same magazine for Spanish (A1 → B2)
+
+Spanish ⇄ Chinese edition: Mexican Spanish with notes for Spain, a serial from Ciudad de México to Madrid, Mexican and Spanish slang, public-domain Spanish poetry and a DELE B2 / SIELE section (564 pages): **[`spanish-world/The_Spanish_World.pdf`](spanish-world/The_Spanish_World.pdf)** · details in [`spanish-world/README.md`](spanish-world/README.md).
+
 ## Contents
 
 - **Part 1 · Foundations (A1–A2):** être/avoir, nouns, articles, adjectives, present tense, negation, questions, possessives, prepositions

@@ -1,0 +1,241 @@
+@issue DELE | DELE | DELE B2 y SIELE: guía práctica | DELE 与 SIELE 实战指南 | Formato, calificaciones, prácticas corregidas y modelos para las cuatro pruebas. || 考试形式、分数、带答案的练习，以及四项考试的范文。
+@cast Candidata=考生, La periodista=记者, La doctora Lavoie=拉沃伊医生
+
+@piece tcf | El DELE B2 y el SIELE en una página | 一页看懂 DELE B2 与 SIELE | B2
+@deck Dos exámenes del Instituto Cervantes, dos filosofías. Lo que hay que saber antes de inscribirse. || 塞万提斯学院的两种考试，两种理念。报名前须知。
+@meta themes=DELE, SIELE, examen; topics=educación, migración
+El **DELE** (Diplomas de Español como Lengua Extranjera) es el diploma oficial del Instituto Cervantes, en nombre del Ministerio de Educación de España. || DELE（对外西班牙语水平证书）是塞万提斯学院代表西班牙教育部颁发的官方证书。
+Cada nivel es un examen distinto: te presentas al B2, y el resultado es **apto** o **no apto**. El diploma no caduca. || 每个级别是一场单独的考试：你报考 B2，结果只有“通过”或“未通过”。证书永久有效。
+El **SIELE** es un examen por computadora, creado por el Instituto Cervantes con universidades de México, España y Argentina. No se aprueba o se suspende: te da una puntuación y un nivel, del A1 al C1. || SIELE 是机考，由塞万提斯学院与墨西哥、西班牙和阿根廷的大学共同创立。它不分通过与否：给你一个分数和一个级别，从 A1 到 C1。
+@md
+**DELE B2 · 四项考试**
+
+| Prueba · 科目 | Tareas · 任务 | Duración · 时长 |
+|---|---|---|
+| Comprensión de lectura · 阅读 | 4 tareas, 36 ítems · 4个任务，36题 | 70 min |
+| Comprensión auditiva · 听力 | 5 tareas, 30 ítems · 5个任务，30题 | 40 min |
+| Expresión e interacción escritas · 写作 | 2 tareas · 2个任务 | 80 min |
+| Expresión e interacción orales · 口语 | 3 tareas · 3个任务 | 20 min (+ 20 min de preparación · 准备) |
+
+**Calificación · 计分：** 100 puntos en dos grupos · 两组共100分
+
+| Grupo · 组别 | Pruebas · 科目 | Mínimo · 最低分 |
+|---|---|---|
+| Grupo 1 | Lectura + Expresión escrita · 阅读 + 写作 | 30 / 50 |
+| Grupo 2 | Auditiva + Expresión oral · 听力 + 口语 | 30 / 50 |
+
+**SIELE Global · 四项机考：** cada prueba de 0 a 250 puntos, total 1000 · 每项0–250分，总分1000；certificado válido cinco años · 证书有效期五年。
+@end
+Para aprobar el DELE B2, necesitas al menos treinta puntos en cada grupo. Un grupo muy bueno no compensa el otro. || 要通过 DELE B2，每组至少需要30分。一组很好，不能弥补另一组。
+En el DELE no hay puntos negativos: nunca dejes una pregunta sin contestar. || DELE 不倒扣分：千万别留空题。
+¿Cuál elegir? Para la nacionalidad española, un trabajo o una universidad que pide un diploma permanente, el DELE. Para una certificación rápida y flexible, el SIELE. || 选哪个？如果是为了西班牙国籍、要求永久证书的工作或大学，选 DELE。如果想要快速灵活的认证，选 SIELE。
+
+@note warn | Verifica siempre las fuentes oficiales
+Los formatos, las fechas de examen y las tablas de calificación pueden cambiar. Antes de inscribirte, consulta la web oficial de los exámenes del **Instituto Cervantes** (DELE) y la del **SIELE**. Para la nacionalidad española, los ciudadanos de países no hispanohablantes necesitan además el **DELE A2** y la prueba **CCSE**: verifica los requisitos actuales.
+
+考试形式、日期和评分表都可能变化。报名前请查看塞万提斯学院（DELE）和 SIELE 的官方网站。申请西班牙国籍时，非西语国家公民还需通过 DELE A2 和 CCSE 考试：请核实最新要求。
+@end
+
+@vocab
+apto | adj. | ˈap.to | 合格的；（考试）通过 | pass (exam); fit | Saqué «apto» en el DELE. | 我 DELE 考试通过了。 | apto / no apto | la aptitud |
+caducar | v. | ka.du.ˈkaɾ | 过期；失效 | to expire | El diploma no caduca. | 这个证书不会过期。 | | la caducidad | 食品上的 *fecha de caducidad* = 保质期。
+puntuación | s. f. | pun.twa.ˈsjon | 分数；标点 | score; punctuation | | | | puntuar |
+convocatoria | s. f. | kom.bo.ka.ˈto.ɾja | （考试的）一期；招募 | exam session; call | Me inscribí en la convocatoria de mayo. | 我报了五月那期。 | | convocar |
+@end
+
+@piece tcf | Comprensión de lectura: seis reflejos | 阅读理解：六个条件反射 | B2
+@deck Setenta minutos, treinta y seis preguntas, textos cada vez más densos. El método cuenta tanto como el nivel. || 七十分钟，三十六道题，文章越来越难。方法和水平同样重要。
+@meta themes=estrategia, lectura, examen; topics=educación
+Primer reflejo: lee la pregunta antes que el texto. Vas a saber qué buscas. || 第一个反射：先读题，再读文章。你会知道自己在找什么。
+Segundo reflejo: identifica el tipo de documento. Un anuncio, un correo, un artículo, un ensayo no se leen igual. || 第二个反射：识别文件类型。广告、邮件、文章、随笔，读法各不相同。
+Tercer reflejo: desconfía de las respuestas que repiten exactamente las palabras del texto. La buena respuesta muchas veces es una reformulación. || 第三个反射：警惕那些原封不动重复文中词语的选项。正确答案往往是换了说法的。
+Cuarto reflejo: localiza los conectores. «Sin embargo», «en cambio», «si bien… » muchas veces anuncian la idea principal del autor. || 第四个反射：找出连接词。“然而”“相反”“虽然……”常常预示着作者的主要观点。
+Quinto reflejo: administra tu tiempo. Hay una tarea con huecos en un texto largo: déjala para cuando ya hayas contestado las preguntas más directas. || 第五个反射：管理好时间。有一项任务是在长文中填空：等你答完较直接的题目再回来做。
+Sexto reflejo: para las preguntas sobre opinión o tono, busca adjetivos, adverbios y el condicional. Revelan lo que el autor piensa de verdad. || 第六个反射：遇到关于观点或语气的题目，找形容词、副词和条件式。它们揭示了作者的真实想法。
+
+@vocab
+hueco | s. m. | ˈwe.ko | 空格；空洞 | gap | Completa los huecos del texto. | 填写文中的空格。 | | | DELE 阅读题型：*rellenar huecos*（填空）。
+administrar | v. | ad.mi.nis.ˈtɾaɾ | 管理 | to manage | | | | la administración |
+@end
+
+@piece tcf | Práctica: comprensión de lectura | 阅读理解练习 | B2
+@deck Cuatro documentos, del más sencillo al más difícil. Tapa la columna china y cronométrate: veinte minutos. || 四份文件，由易到难。遮住中文栏，计时：二十分钟。
+@meta themes=examen, lectura; topics=vivienda, administración, cultura, sociedad
+@h Documento A · Anuncio || 文件A · 广告
+Se alquila piso luminoso en Chamberí, tercera planta con ascensor, cerca del metro Iglesia. || 出租：钱伯里区明亮公寓，三楼，有电梯，近 Iglesia 地铁站。
+Dos habitaciones, salón y cocina equipada. 1300 euros al mes, comunidad incluida; luz y agua aparte. || 两室一厅，厨房设备齐全。月租1300欧，含物业费；水电另付。
+Disponible a partir del 1 de septiembre. Contrato de un año. No se admiten mascotas. || 9月1日起可入住。合同一年。不接受宠物。
+Visitas los sábados, de 10 a 12 h. Información: 600 555 172. || 看房时间：周六10点至12点。咨询电话：600 555 172。
+@h Documento B · Aviso municipal || 文件B · 市政通知
+Aviso a los vecinos de la calle Ponzano: del 6 al 24 de mayo se realizarán obras de reparación del pavimento. || 致蓬萨诺街居民：5月6日至24日将进行路面维修工程。
+Durante ese periodo, estará prohibido estacionar en ambos lados de la calle, de 7 a 17 h. || 在此期间，每天7点至17点，街道两侧禁止停车。
+Los vehículos mal estacionados serán retirados por la grúa, a cargo de sus propietarios. || 违规停放的车辆将被拖走，费用由车主承担。
+La recogida de basura se hará, de forma excepcional, los miércoles en lugar de los martes. || 垃圾收集临时改为每周三，而不是周二。
+Para cualquier duda, llame al 010. || 如有疑问，请拨打010。
+@h Documento C · Opinión || 文件C · 观点
+¿Hay que hacer gratuitos los museos? La pregunta vuelve cada año, y cada año divide. || 博物馆应该免费吗？这个问题每年都会被提出，每年都引发分歧。
+Los partidarios de la gratuidad total recuerdan que la cultura es un derecho, y que el precio de una entrada desanima a las familias humildes. || 主张完全免费的人提醒说，文化是一种权利，门票价格会让低收入家庭望而却步。
+Sin embargo, las experiencias realizadas aquí y allá muestran un resultado más matizado: aumentan las visitas, pero son sobre todo los visitantes habituales quienes vienen más a menudo. || 然而，各地的实践显示出更复杂的结果：参观人数增加了，但主要是常客来得更频繁了。
+Dicho de otro modo, la gratuidad por sí sola no basta para atraer a quienes nunca han cruzado la puerta de un museo. || 换句话说，光是免费并不足以吸引那些从未踏进博物馆的人。
+En cambio, cuando va acompañada de acciones concretas —visitas para las escuelas, horarios nocturnos, mediadores en los barrios—, cambia de verdad el público. || 相反，当免费伴随着具体举措——学校参观、夜间开放、深入社区的讲解员——观众群体才真正发生变化。
+Así que, en lugar de elegir entre todo gratis y todo de pago, nuestros museos harían bien en dirigir su generosidad. || 因此，与其在全免费和全收费之间二选一，我们的博物馆不如把慷慨用在刀刃上。
+@h Documento D · Ensayo || 文件D · 随笔
+La riqueza de un país se mide por su producto interior bruto; se olvida con demasiada frecuencia un recurso que no aparece en ninguna estadística: la confianza. || 一个国家的财富用国内生产总值来衡量；人们却常常忘记一种不出现在任何统计中的资源：信任。
+Allí donde la palabra dada vale, los contratos son más cortos, los juicios más escasos, los intercambios más rápidos. || 在一诺千金的地方，合同更短，官司更少，交易更快。
+Allí donde falta, cada uno se protege, verifica, desconfía, y esa prudencia generalizada tiene un costo que nadie paga directamente, pero que todo el mundo soporta. || 在缺乏信任的地方，人人自保、核查、提防，这种普遍的谨慎有一种代价，没人直接支付，但人人都在承担。
+La confianza no se decreta: se construye despacio y se destruye en un instante. || 信任无法靠命令建立：它慢慢建立，却在一瞬间被摧毁。
+
+@q Preguntas (una sola respuesta correcta)
+1. ¿Cuándo se puede visitar el piso? *A.* todos los días *B.* el sábado en la mañana *C.* el sábado en la tarde *D.* con cita entre semana
+2. ¿Qué afirmación es verdadera? *A.* La luz está incluida. *B.* Se puede tener un gato. *C.* El piso está cerca de una estación de metro. *D.* Está libre en enero.
+3. ¿Qué tienen que hacer los vecinos de la calle Ponzano? *A.* Mover el coche durante el día. *B.* Pagar parte de las obras. *C.* Llamar al 010 antes del 6 de mayo. *D.* Sacar la basura el martes.
+4. ¿Qué le pasará a un coche mal estacionado? *A.* Una simple multa. *B.* La grúa se lo llevará, a cargo del dueño. *C.* Un aviso por escrito. *D.* Nada, durante la primera semana.
+5. ¿Cuál es la postura del autor? *A.* Está en contra de toda gratuidad. *B.* Está a favor de la gratuidad total. *C.* Prefiere una gratuidad acompañada de acciones concretas. *D.* No da su opinión.
+6. Según el texto, la gratuidad total… *A.* atrae sobre todo a públicos nuevos. *B.* hace venir más a menudo a los visitantes habituales. *C.* hace bajar las visitas. *D.* le cuesta demasiado al Estado.
+7. En el texto, «En cambio» introduce… *A.* una consecuencia. *B.* un ejemplo. *C.* una oposición. *D.* una conclusión.
+8. ¿Por qué habla el autor de un recurso que «no aparece en ninguna estadística»? *A.* Porque la confianza no existe de verdad. *B.* Porque ninguna estadística mide su valor. *C.* Porque los economistas la esconden. *D.* Porque solo existe en los países ricos.
+9. ¿Qué significa «la confianza no se decreta»? *A.* No se puede imponer con una decisión. *B.* No se puede hablar de ella. *C.* La ley la prohíbe. *D.* Se mide fácilmente.
+@end
+@a
+1 B · 2 C · 3 A · 4 B · 5 C · 6 B · 7 C · 8 B · 9 A.
+@end
+
+@vocab
+pavimento | s. m. | pa.bi.ˈmen.to | 路面 | road surface | | | | |
+a cargo de | loc. prep. | a ˈkaɾ.ɡo de | 由……负担 | at the expense of; in charge of | | | | |
+gratuidad | s. f. | ɡɾa.twi.ˈdad | 免费 | being free of charge | | | | gratuito |
+decretar | v. | de.kɾe.ˈtaɾ | 下令；颁布 | to decree | | | | el decreto |
+@end
+
+@piece tcf | Comprensión auditiva: tres situaciones tipo | 听力：三种典型场景 | B2
+@deck Esta revista no tiene audio. Pero las situaciones del examen se repiten: un mensaje, un anuncio, una entrevista. Lee estas transcripciones como si las oyeras, y luego haz que tu iPad las lea en voz alta. || 本杂志没有音频。但考试的场景总是重复出现：一条留言、一则广播、一段采访。像听一样去读这些文字稿，然后让你的 iPad 把它们朗读出来。
+@meta themes=examen, escucha; topics=salud, transporte, ciencia
+@h Situación 1 · Mensaje en el contestador (A2) || 场景1 · 电话留言（A2）
+Buenos días, le llamamos de la clínica dental Los Álamos. El mensaje es para la señora Zhang. || 您好，这里是白杨牙科诊所。这条留言是给张女士的。
+Su cita del jueves a las dos de la tarde tiene que cambiarse: el doctor Moreno no va a estar. || 您周四下午两点的预约需要更改：莫雷诺医生不在。
+Le proponemos el viernes a las nueve y media. Si no le viene bien, llámenos antes del miércoles a mediodía. || 我们建议改到周五九点半。如果您不方便，请在周三中午前回电。
+@h Situación 2 · Anuncio en la estación (B1) || 场景2 · 车站广播（B1）
+Atención, por favor. El tren con destino a Valencia, con salida prevista a las dieciséis y diez, saldrá con un retraso de unos veinte minutos, debido a un problema técnico. || 请注意。原定十六点十分开往瓦伦西亚的列车，因技术故障将晚点约二十分钟。
+Se ruega a los viajeros que se dirijan a la vía cuatro. Disculpen las molestias. || 请旅客前往四号站台。给您带来不便，敬请谅解。
+@h Situación 3 · Fragmento de un programa de radio (B2) || 场景3 · 电台节目片段（B2）
+[La periodista] Doctora Lavoie, usted estudia el sueño de los adolescentes. ¿De verdad las pantallas tienen la culpa? || 拉沃伊医生，您研究青少年的睡眠。屏幕真的是罪魁祸首吗？
+[La doctora Lavoie] No son las únicas. Durante mucho tiempo se acusó a la luz azul, pero su efecto directo es bastante modesto. || 不只是屏幕。长期以来人们指责蓝光，但它的直接影响相当有限。
+[La doctora Lavoie] El verdadero problema es lo que las pantallas sustituyen: el tiempo en el que uno se aburre, se calma y se duerme de forma natural. || 真正的问题在于屏幕取代了什么：人感到无聊、平静下来、自然入睡的那段时间。
+[La doctora Lavoie] Prohibir el celular no sirve de mucho si no se propone nada a cambio. Lo que recomiendo a las familias es un ritual de noche, sin pantallas, para todos. Papás incluidos. || 如果不提供替代，禁止手机作用不大。我建议家庭建立一个没有屏幕的晚间仪式，所有人都参加。包括父母。
+
+@q Preguntas
+1. ¿Por qué llama la clínica? *A.* Para cancelar la cita definitivamente. *B.* Para cambiar el día y la hora de la cita. *C.* Para pedir un pago. *D.* Para confirmar la cita del jueves.
+2. ¿Qué tiene que hacer la señora Zhang si el nuevo horario no le viene bien? *A.* Ir el jueves de todas maneras. *B.* Mandar un correo. *C.* Llamar antes del miércoles a mediodía. *D.* Esperar otra llamada.
+3. ¿Cuál es el problema del tren? *A.* Está cancelado. *B.* Va a salir hacia las 16:30. *C.* Sale de otra estación. *D.* Va a llegar a Valencia a las 16:10.
+4. Según la doctora Lavoie, ¿cuál es el principal problema de las pantallas? *A.* La luz azul. *B.* El precio de los aparatos. *C.* Sustituyen momentos que ayudan a dormirse. *D.* Hacen agresivos a los adolescentes.
+5. ¿Qué recomienda? *A.* Prohibir el celular a los adolescentes. *B.* Un momento sin pantallas en la noche para toda la familia. *C.* Lentes contra la luz azul. *D.* Pastillas para dormir.
+@end
+@a
+1 B · 2 C · 3 B · 4 C · 5 B.
+@end
+
+@vocab
+contestador | s. m. | kon.tes.ta.ˈdoɾ | 答录机；语音信箱 | answering machine | | | | contestar |
+vía | s. f. | ˈbi.a | 站台；轨道；途径 | track, platform; way | | | | |
+molestia | s. f. | mo.ˈles.tja | 不便；麻烦 | inconvenience | Disculpen las molestias. | 给您带来不便，敬请谅解。 | | molestar |
+@end
+
+@piece tcf | Expresión escrita: dos tareas, dos modelos | 写作：两个任务，两篇范文 | B2
+@deck Ochenta minutos para dos textos de 150 a 180 palabras. Para cada tarea: la consigna, un modelo de nivel B2 y lo que mira el examinador. || 八十分钟写两篇150到180词的文章。每个任务都有：题目要求、一篇 B2 水平的范文，以及考官关注的要点。
+@meta themes=escritura, examen, modelos; topics=vivienda, trabajo, sociedad
+@h Tarea 1 · Una carta formal (150 a 180 palabras) || 任务1 · 一封正式信件（150–180词）
+Consigna: escuchaste en la radio que tu ayuntamiento va a cerrar la biblioteca de tu barrio. Escribe una carta al alcalde para expresar tu desacuerdo y proponer alternativas. || 题目：你在广播里听说市政府要关闭你所在街区的图书馆。给市长写一封信，表达反对并提出替代方案。
+Estimado señor alcalde: || 尊敬的市长先生：
+Me dirijo a usted como vecina del barrio de Tetuán para expresarle mi preocupación por el anunciado cierre de nuestra biblioteca municipal. || 我作为特图安区的居民致信于您，对已宣布的关闭本区市立图书馆一事表示关切。
+Según la información difundida en la radio, el motivo sería el elevado coste de mantenimiento. Comprendo las dificultades presupuestarias; sin embargo, considero que esta decisión tendría consecuencias graves. || 据广播报道，原因是维护成本过高。我理解预算上的困难；然而，我认为这一决定会带来严重后果。
+En primer lugar, la biblioteca es el único espacio gratuito del barrio donde los estudiantes pueden trabajar en silencio. Además, ofrece cursos de español a los recién llegados, como yo. || 首先，图书馆是本区唯一一个学生可以安静学习的免费场所。此外，它为像我这样的新移民提供西语课程。
+Por ello, me permito proponerle algunas alternativas: reducir el horario en lugar de cerrar, buscar el apoyo de empresas locales o abrir el espacio a asociaciones del barrio. || 因此，请允许我提出几个替代方案：缩短开放时间而不是关闭，寻求本地企业的支持，或者将场地向街区协会开放。
+Quedo a la espera de su respuesta. Atentamente, || 期待您的回复。此致
+Lina Chen || 陈莉娜
+@h Tarea 2 · Un artículo de opinión (150 a 180 palabras) || 任务2 · 一篇评论文章（150–180词）
+Consigna: una revista pide a sus lectores un artículo sobre el teletrabajo. Presenta sus ventajas e inconvenientes y da tu opinión. || 题目：一本杂志请读者写一篇关于远程办公的文章。介绍它的利弊并给出你的观点。
+Teletrabajo: ¿libertad o aislamiento? || 远程办公：自由还是孤立？
+Desde la pandemia, millones de personas trabajan desde casa al menos una parte de la semana. ¿Se trata de un avance o de una trampa? || 疫情以来，数百万人每周至少有一部分时间在家工作。这是一种进步，还是一个陷阱？
+Por un lado, el teletrabajo permite ahorrar horas de transporte y conciliar mejor la vida familiar y profesional. || 一方面，远程办公可以节省通勤时间，更好地兼顾家庭和工作。
+Por otro lado, puede generar aislamiento y dificultar la separación entre el trabajo y la vida privada, sobre todo cuando el jefe escribe a las once de la noche. || 另一方面，它可能带来孤立感，让工作与私生活难以分开，尤其是当老板晚上十一点还发消息的时候。
+A mi juicio, el teletrabajo es positivo siempre y cuando sea parcial. El trabajo no se reduce a tareas: también es un lugar de encuentro y de aprendizaje, especialmente para los jóvenes. || 在我看来，只要是部分远程，远程办公就是积极的。工作不只是任务：它也是相遇和学习的场所，对年轻人尤其如此。
+Por consiguiente, dos o tres días por semana me parecen un buen equilibrio, con una condición: que las empresas respeten el derecho a la desconexión. || 因此，我认为每周两到三天是不错的平衡，但有一个条件：企业要尊重下班后不被打扰的权利。
+
+@note tip | Lo que mira el examinador
+1. **Cumplimiento de la tarea**: ¿contestaste a todo lo que pide la consigna? 2. **Organización**: introducción, desarrollo, conclusión; conectores variados (*en primer lugar, sin embargo, por consiguiente*). 3. **Registro**: carta formal con *usted*, fórmulas de saludo y despedida. 4. **Gramática y vocabulario**: subjuntivo, condicional, nominalizaciones; palabras precisas. 5. **Extensión**: respeta el número de palabras. Escribir mucho más no da puntos: puede quitarlos.
+
+考官关注：是否完成了题目的所有要求；结构是否清晰、连接词是否多样；语域是否得当（正式信件用 *usted* 和固定的开头结尾）；语法和词汇（虚拟式、条件式、名词化、用词准确）；字数是否符合要求——写太多不加分，反而可能扣分。
+@end
+
+@vocab
+dirigirse a | v. prnl. | di.ɾi.ˈxiɾ.se a | 致函；前往 | to address; to head for | Me dirijo a usted para… | 我致函于您，是为了…… | | | 正式信件的经典开头。
+conciliar | v. | kon.si.ˈljaɾ | 兼顾；调和 | to reconcile, to balance | conciliar trabajo y familia | 兼顾工作和家庭 | | la conciliación |
+desconexión | s. f. | des.ko.nek.ˈsjon | 断开；（下班后）不被打扰 | disconnection | el derecho a la desconexión | 离线权 | | desconectarse | 西班牙2018年的法律明确规定了劳动者的“数字离线权”。
+@end
+
+@piece tcf | Expresión oral: veinte minutos para convencer | 口语：用二十分钟说服考官 | B2
+@deck Veinte minutos de preparación, veinte minutos frente a dos examinadores, tres tareas. Para cada una: lo que te piden, una respuesta modelo y las frases que te salvan si te bloqueas. || 二十分钟准备，二十分钟面对两位考官，三个任务。每个任务都有：考试要求、一个范例回答，以及卡壳时能救你的句子。
+@meta themes=oral, examen, modelos; topics=vivienda, sociedad, educación
+@h Tarea 1 · Valorar propuestas (6 a 7 minutos) || 任务1 · 评价提案（6–7分钟）
+Te dan un problema y varias propuestas para resolverlo. Tienes que comentarlas, decir cuáles te parecen mejores y por qué, y luego conversar con el examinador. || 考官给你一个问题和几个解决方案。你要逐一评论，说出你认为哪些更好、为什么，然后和考官交流。
+Problema: los jóvenes no encuentran vivienda a un precio razonable en las grandes ciudades. || 问题：大城市的年轻人找不到价格合理的住房。
+[Candidata] De todas las propuestas, la que me parece más eficaz es la de construir más vivienda pública de alquiler, porque ataca directamente el problema de la oferta. || 在所有提案中，我认为最有效的是建造更多公共出租房，因为它直接解决了供应问题。
+[Candidata] En cambio, no estoy de acuerdo con la idea de dar ayudas directas a los jóvenes. Si no hay más pisos, me temo que los propietarios simplemente subirían los precios. || 相反，我不同意直接补贴年轻人的想法。如果房子没有增加，恐怕房东只会涨价。
+[Candidata] La propuesta de limitar los pisos turísticos me parece interesante, siempre y cuando se controle bien. || 限制旅游短租房的提案我觉得很有意思，只要监管到位。
+@h Tarea 2 · Describir una situación a partir de una foto (5 a 6 minutos) || 任务2 · 根据照片描述情景（5–6分钟）
+Eliges una foto y tienes que imaginar la situación: quiénes son las personas, qué pasa, qué ha pasado antes, qué va a pasar después. || 你选一张照片，想象当时的情景：人物是谁、发生了什么、之前发生了什么、之后会怎样。
+Foto: dos personas en una cafetería; a una de ellas se le ha caído el celular. || 照片：咖啡馆里的两个人；其中一个人的手机掉了。
+[Candidata] En la foto veo a dos personas en una cafetería, probablemente por la mañana, porque hay mucha luz y tazas de café. || 照片里我看到咖啡馆里的两个人，可能是早上，因为光线很好，桌上有咖啡杯。
+[Candidata] Me imagino que no se conocen. Parece que al hombre se le ha caído el celular y que la mujer lo está recogiendo. || 我猜他们互不相识。看起来那个男人的手机掉了，女人正在帮他捡。
+[Candidata] Supongo que ella tiene prisa, porque lleva una carpeta en la mano. Quizás va a una entrevista de trabajo. || 我猜她很赶时间，因为她手里拿着一个文件夹。也许她要去面试。
+[Candidata] Si yo tuviera que imaginar el final, diría que van a empezar a platicar… y que esta historia podría durar mucho más que un café. || 如果要我想象结局，我会说他们会聊起来……而这个故事可能会比一杯咖啡长久得多。
+@h Tarea 3 · Comentar una encuesta (3 a 4 minutos) || 任务3 · 评论调查数据（3–4分钟）
+Te dan los resultados de una encuesta. Primero das tu propia respuesta, luego la comparas con los datos y comentas lo que te sorprende. || 考官给你一份调查结果。先说出你自己的答案，然后与数据比较，并评论让你意外的地方。
+Encuesta: «¿Qué es lo más importante para aprender un idioma?» — vivir en el país (42 %), tomar clases (25 %), leer y ver series (21 %), usar aplicaciones (12 %). || 调查：“学一门语言最重要的是什么？”——在当地生活（42%）、上课（25%）、阅读和看剧（21%）、用应用程序（12%）。
+[Candidata] Yo habría elegido «leer y ver series», porque es lo que más me ha ayudado a mí. || 我会选“阅读和看剧”，因为这对我帮助最大。
+[Candidata] Me llama la atención que casi la mitad de la gente piense que hay que vivir en el país. Es lógico, pero no todo el mundo puede hacerlo. || 让我注意到的是，近一半的人认为必须在当地生活。这很合理，但不是每个人都能做到。
+[Candidata] También me sorprende que las aplicaciones tengan tan poco porcentaje. Creo que son útiles para empezar, pero no bastan para hablar de verdad. || 我还很意外应用程序的比例这么低。我觉得它们入门有用，但不足以让人真正开口说话。
+
+@expr
+Si no le he entendido mal… | 如果我没理解错的话…… | formal | Para ganar tiempo y verificar la pregunta. | Si no le he entendido mal, me pregunta si estoy a favor. || 如果我没理解错的话，您是问我是否赞成。
+¿Podría repetir la pregunta, por favor? | 您能重复一下问题吗？ | formal | Totalmente aceptado en el examen. | Perdone, ¿podría repetir la pregunta, por favor? || 抱歉，您能重复一下问题吗？
+Es una buena pregunta. Déjeme pensar… | 好问题。让我想想…… | neutro | Para pensar sin quedarse callado. | Es una buena pregunta. Déjeme pensar un momento. || 好问题。让我想一想。
+Lo que quiero decir es que… | 我想说的是…… | neutro | Para reformular cuando te equivocas. | Lo que quiero decir es que depende del contexto. || 我想说的是，这取决于具体情况。
+Me llama la atención que… | 让我注意到的是…… | neutro | Muy útil en la tarea 3. Va con subjuntivo. | Me llama la atención que tan pocos usen aplicaciones. || 让我注意到的是，用应用程序的人这么少。
+@end
+
+@piece tcf | El día del examen: lista de control | 考试当天：检查清单 | B2
+@deck La noche antes, no aprendas nada nuevo. Prepara tu bolsa, duerme y relee esta página. || 考前一晚，别学新东西。收拾好包，好好睡觉，再读一遍这一页。
+@meta themes=examen, organización; topics=educación
+@md
+**La víspera · 前一天**
+
+- ☐ Documento de identidad (el mismo de la inscripción) · 身份证件（与报名时一致）
+- ☐ Convocatoria impresa o en el celular: hora y dirección · 考试通知（打印或存手机）：时间和地址
+- ☐ Bolígrafo de tinta negra o azul (para el DELE) · 黑色或蓝色圆珠笔（DELE 用）
+- ☐ Reloj sin conexión: muchas veces no se permite el celular en la sala · 不联网的手表：考场常常不允许带手机
+- ☐ Agua y algo de comer: el examen escrito dura casi cuatro horas · 水和零食：笔试持续近四个小时
+- ☐ Dormir al menos siete horas · 至少睡七个小时
+
+**Durante el examen · 考试中**
+
+- Lee primero las preguntas, luego los textos · 先读题，后读文章
+- No dejes ninguna respuesta en blanco · 别留空题
+- En la expresión escrita, cuenta tus palabras · 写作时数一数字数
+- En la oral, si no entiendes, pide que repitan: no pierdes puntos · 口语时听不懂就请考官重复：不会扣分
+- Respira. Sonríe. Ya llegaste muy lejos · 深呼吸。微笑。你已经走了很远
+@end
+Una última cosa: el examen mide tu español de un día. No mide todo lo que aprendiste, ni la persona que te volviste leyendo estas páginas. || 最后一点：考试衡量的只是你某一天的西语。它衡量不了你学到的一切，也衡量不了你读这些文章时成长为的那个人。
+Pase lo que pase, ya tienes algo que ningún diploma puede darte: puedes leer, reír, amar y pensar en español. || 无论结果如何，你已经拥有了任何证书都给不了的东西：你能用西班牙语阅读、欢笑、恋爱和思考。
+¡Mucha suerte! || 祝你好运！
+
+@vocab
+víspera | s. f. | ˈbis.pe.ɾa | 前一天；前夕 | eve, day before | | | la víspera del examen | |
+en blanco | loc. adv. | em ˈblaŋ.ko | 空白地 | blank | dejar en blanco · quedarse en blanco | 留空；脑子一片空白 | | | *Me quedé en blanco* = 我脑子一片空白。
+@end
+
+@badge Apto || 通过 || Conozco las dos condiciones para aprobar el DELE B2 (30 + 30).
+@badge Lector estratega || 阅读策略家 || Hice la práctica de lectura en menos de veinte minutos.
+@badge Dos tareas || 两个任务 || Escribí las dos tareas de expresión escrita respetando el número de palabras.
+@badge Foto y encuesta || 照片与调查 || Hablé seis minutos sobre una foto, grabándome.
+@badge Listo || 准备就绪 || Tengo mi inscripción, mi identificación… y esta revista releída.
